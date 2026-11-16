@@ -1,0 +1,36 @@
+{
+ "printed_page": 25,
+ "pdf_page": 13,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Không có tiêu đề",
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp không gian trưng bày với các cột đứng có ánh sáng màu đỏ và xanh, không có chú thích cụ thể trên ảnh.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p025_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3217,
+  "output": 67
+ },
+ "seconds": 4.0
+}

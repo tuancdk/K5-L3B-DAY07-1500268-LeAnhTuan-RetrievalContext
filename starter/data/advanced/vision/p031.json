@@ -1,0 +1,74 @@
+{
+ "printed_page": 31,
+ "pdf_page": 16,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Bà Hoàng Thị Thu Hiền - Thành viên HĐQT",
+   "bbox": [
+    600,
+    50,
+    980,
+    320
+   ],
+   "description": "Ảnh chân dung bà Hoàng Thị Thu Hiền, Thành viên không điều hành HĐQT MB, năm sinh 1976, không sở hữu cổ phần, hiện là Phó trưởng phòng Kế hoạch đầu tư Công ty TNHH MTV Tổng công ty Tân Cảng Sài Gòn, có nhiều năm kinh nghiệm trong lĩnh vực tài chính, kế toán, đầu tư, ngân hàng.",
+   "data": [],
+   "bbox_pdf_pt": [
+    952.4,
+    42.1,
+    1178.6,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p031_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ông Vũ Xuân Nam - Thành viên HĐQT",
+   "bbox": [
+    50,
+    320,
+    430,
+    600
+   ],
+   "description": "Ảnh chân dung ông Vũ Xuân Nam, Thành viên không điều hành HĐQT MB, năm sinh 1987, không sở hữu cổ phần, hiện là Trưởng phòng đầu tư Tổng công ty Trực thăng Việt Nam, có 14 năm kinh nghiệm quản lý trong lĩnh vực đầu tư, vận tải/hàng không, dầu khí, cơ khí, bay thương mại/du lịch.",
+   "data": [],
+   "bbox_pdf_pt": [
+    625.0,
+    269.4,
+    851.2,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p031_v1.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ông Hoàng Văn Sâm - Thành viên Độc lập HĐQT",
+   "bbox": [
+    600,
+    600,
+    980,
+    900
+   ],
+   "description": "Ảnh chân dung ông Hoàng Văn Sâm, Thành viên không điều hành, Thành viên Độc lập HĐQT MB, năm sinh 1960, không sở hữu cổ phần, không nắm giữ chức danh quản lý tại đơn vị khác, Tiến sĩ Tài chính - tiền tệ, có 33 năm kinh nghiệm trong quản lý, giám sát tài chính, tài chính ngân sách, quản lý nhà nước.",
+   "data": [],
+   "bbox_pdf_pt": [
+    952.4,
+    505.1,
+    1178.6,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p031_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 4011,
+  "output": 371
+ },
+ "seconds": 3.7
+}

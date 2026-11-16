@@ -1,0 +1,64 @@
+{
+ "printed_page": 273,
+ "pdf_page": 137,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Tòa nhà trụ sở MB về đêm",
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp tòa nhà trụ sở ngân hàng MB vào ban đêm với ánh sáng rực rỡ, có logo MB phát sáng trên đỉnh tòa nhà.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p273_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "TOP 10 Báo cáo thường niên tốt nhất ngành tài chính 2025 và TOP 3 doanh nghiệp niêm yết có vốn hóa lớn được yêu thích nhất tại IR Awards 2025",
+   "bbox": [
+    50,
+    100,
+    450,
+    400
+   ],
+   "description": "Thông tin về giải thưởng TOP 10 báo cáo thường niên tốt nhất ngành tài chính năm 2025 và TOP 3 doanh nghiệp niêm yết có vốn hóa lớn (Large Cap) được nhà đầu tư yêu thích nhất tại IR Awards 2025.",
+   "data": [
+    {
+     "label": "TOP 10",
+     "value": "Báo cáo thường niên tốt nhất ngành tài chính Cuộc bình chọn Doanh nghiệp niêm yết 2025"
+    },
+    {
+     "label": "TOP 3",
+     "value": "Doanh nghiệp niêm yết có vốn hóa lớn (Large Cap) được nhà đầu tư yêu thích nhất tại IR Awards 2025"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    863.1,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p273_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3306,
+  "output": 269
+ },
+ "seconds": 5.9
+}

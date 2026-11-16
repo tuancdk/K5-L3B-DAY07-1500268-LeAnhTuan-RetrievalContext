@@ -1,0 +1,36 @@
+{
+ "printed_page": 204,
+ "pdf_page": 103,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "HiGreen Trường Sa: Hành trình xanh vì biển đảo",
+   "bbox": [
+    0,
+    400,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp nhóm người tham gia chương trình HiGreen Trường Sa, cầm biểu ngữ và cờ MB, tại sự kiện chạy bộ vì Trường Sa xanh ngày 1/10/2024.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    336.8,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p204_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3504,
+  "output": 89
+ },
+ "seconds": 3.0
+}

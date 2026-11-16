@@ -1,0 +1,65 @@
+{
+ "printed_page": 36,
+ "pdf_page": 19,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Kết quả chiến lược nổi bật",
+   "bbox": [
+    50,
+    100,
+    950,
+    700
+   ],
+   "description": "Các chỉ số nổi bật về kết quả thực hiện chiến lược năm 2025 của MB, gồm các chỉ số chính như thu hút khách hàng mới, tổng tài sản hợp nhất, lợi nhuận riêng ngân hàng trước thuế, doanh thu kênh số, tỷ lệ nợ xấu, quy mô huy động vốn và tín dụng, vị thế Top 3 hệ thống ngân hàng.",
+   "data": [
+    {
+     "label": "Thu hút mới khách hàng",
+     "value": "5 TRIỆU"
+    },
+    {
+     "label": "Tổng tài sản hợp nhất đạt",
+     "value": "1,6 TRIỆU Tỷ đồng"
+    },
+    {
+     "label": "Lợi nhuận riêng ngân hàng trước thuế đạt",
+     "value": "33.889 Tỷ đồng"
+    },
+    {
+     "label": "Doanh thu kênh số",
+     "value": "50,2% tổng Doanh thu toàn ngân hàng"
+    },
+    {
+     "label": "Tỷ lệ nợ xấu hợp nhất",
+     "value": "~1,3% và riêng ngân hàng ~1%"
+    },
+    {
+     "label": "Quy mô Huy động vốn và Tín dụng cán mốc",
+     "value": "1 TRIỆU Tỷ"
+    },
+    {
+     "label": "Duy trì vị thế Top 3 hệ thống các Ngân hàng",
+     "value": "43% trong năm 2025"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    84.2,
+    565.5,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p036_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4317,
+  "output": 283
+ },
+ "seconds": 3.9
+}

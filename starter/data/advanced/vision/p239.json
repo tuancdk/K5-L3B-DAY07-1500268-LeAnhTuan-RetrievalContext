@@ -1,0 +1,84 @@
+{
+ "printed_page": 239,
+ "pdf_page": 120,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "BỨT PHÁ VƯƠN XA",
+   "bbox": [
+    0,
+    0,
+    1000,
+    460
+   ],
+   "description": "Ảnh chụp nhóm 5 người đứng trước phông nền công nghệ với chữ lớn 'BỨT PHÁ VƯƠN XA'.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    1190.6,
+    387.3
+   ],
+   "crop": "starter/data/advanced/crops/p239_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Lịch họp và kết quả hoạt động BKS và CQ KTNB năm 2025",
+   "bbox": [
+    0,
+    460,
+    1000,
+    1000
+   ],
+   "description": "Bảng liệt kê 7 cuộc họp theo quý năm 2025, nội dung chính các cuộc họp liên quan đến báo cáo kết quả hoạt động BKS, CQ KTNB, kế hoạch quý và năm, giám sát cấp cao, chuyển đổi số trong hoạt động KTNB. Kết quả tất cả các cuộc họp đều là 'Biên bản họp được thông qua'.",
+   "data": [
+    {
+     "label": "1 - Quý I/2025",
+     "value": "Họp thông qua báo cáo kết quả hoạt động BKS năm 2024, đánh giá kết quả thực hiện của Thành viên BKS năm 2024, kế hoạch 2025 và nhiệm vụ quý 1/2025; kết quả hoạt động của CQ KTNB năm 2024, kế hoạch năm 2025; tổ chức hoạt động Bộ phận giúp việc BKS; giám sát cấp cao đối với người đại diện MB là Trưởng BKS/ KSV/ Chủ tịch UBKT tại các CTTV quý 4/2024, kế hoạch quý 1/2025. Biên bản họp được thông qua"
+    },
+    {
+     "label": "2 - Quý I/2025",
+     "value": "Họp thông qua kế hoạch về chuyển đổi số trong hoạt động KTNB (Xây dựng hệ thống core KTNB) và BKS. Biên bản họp được thông qua"
+    },
+    {
+     "label": "3 - Quý II/2025",
+     "value": "Họp thông qua báo cáo kết quả hoạt động BKS quý 1/2025 và nhiệm vụ quý 2/2025; kết quả hoạt động của CQ KTNB quý 1/2025, kế hoạch quý 2/2025; giám sát cấp cao đối với người đại diện MB là Trưởng BKS/ KSV/ Chủ tịch UBKT tại các CTTV quý 1/2025, kế hoạch quý 2/2025. Biên bản họp được thông qua"
+    },
+    {
+     "label": "4 - Quý II/2025",
+     "value": "Họp thông qua báo cáo kết quả hoạt động CQ KTNB 06 tháng đầu năm 2025, kế hoạch quý 3/2025. Biên bản họp được thông qua"
+    },
+    {
+     "label": "5 - Quý III/2025",
+     "value": "Họp thông qua báo cáo kết quả hoạt động BKS quý 2/2025 và nhiệm vụ quý 3/2025; giám sát cấp cao đối với người đại diện MB là Trưởng BKS/ KSV/ Chủ tịch UBKT tại các CTTV quý 2/2025, kế hoạch quý 3/2025. Biên bản họp được thông qua"
+    },
+    {
+     "label": "6 - Quý IV/2025",
+     "value": "Họp thông qua báo cáo kết quả hoạt động BKS quý 3/2025 và nhiệm vụ quý 4/2025; giám sát cấp cao đối với Trưởng BKS/ KSV/ Chủ tịch UBKT các CTTV quý 3/2025, kế hoạch quý 4/2025. Biên bản họp được thông qua"
+    },
+    {
+     "label": "7 - Quý IV/2025",
+     "value": "Họp thông qua kết quả hoạt động của CQ KTNB quý 3/2025, kế hoạch quý 4/2025. Biên bản họp được thông qua"
+    }
+   ],
+   "bbox_pdf_pt": [
+    595.3,
+    387.3,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p239_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3839,
+  "output": 810
+ },
+ "seconds": 12.8
+}

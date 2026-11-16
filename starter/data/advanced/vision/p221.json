@@ -1,0 +1,181 @@
+{
+ "printed_page": 221,
+ "pdf_page": 111,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Danh sách Nghị quyết/Quyết định thành lập Chi nhánh và Phòng giao dịch ngày 22/8/2025",
+   "bbox": [
+    50,
+    100,
+    950,
+    900
+   ],
+   "description": "Bảng liệt kê các Nghị quyết/Quyết định của Hội đồng Quản trị ngày 22/8/2025 về việc thành lập các Chi nhánh và Phòng giao dịch mới của Ngân hàng MB. Các mục gồm STT, Số Nghị quyết/Quyết định, Ngày, Nội dung và Ghi chú. Nội dung chủ yếu là việc thành lập Chi nhánh Đông Bình Thạnh, Thắng Lợi, Cách Mạng Tháng Tám và các Phòng giao dịch tại nhiều địa phương khác nhau, tất cả đều thực hiện thủ tục báo cáo cơ quan quản lý nhà nước (CQQLNN).",
+   "data": [
+    {
+     "label": "32",
+     "value": "45/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Đông Bình Thạnh (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "33",
+     "value": "46/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Thắng Lợi (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "34",
+     "value": "47/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Cách Mạng Tháng Tám (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "35",
+     "value": "48/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Phòng giao dịch An Khê - Chi nhánh Gia Lai (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "36",
+     "value": "49/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Phòng giao dịch Ninh Hòa - Chi nhánh Khánh Hòa (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "37",
+     "value": "50/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Phòng giao dịch Nam Đồng Nai - Chi nhánh Đồng Nai (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "38",
+     "value": "51/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Phòng giao dịch Đô Lương - Chi nhánh Nghệ An (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "39",
+     "value": "52/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Phòng giao dịch Kim Bảng - Chi nhánh Hà Nam (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "40",
+     "value": "53/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Phòng giao dịch Cửu Long - Chi nhánh Thắng Lợi (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "41",
+     "value": "54/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Phòng giao dịch Bình Tây - Chi nhánh Thắng Lợi (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "42",
+     "value": "55/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Phòng giao dịch Tân Quý - Chi nhánh Đồng Khởi (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "43",
+     "value": "56/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Phòng giao dịch Vĩnh Hội - Chi nhánh Đồng Khởi (thực hiện thủ tục báo cáo CQQLNN)"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p221_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3877,
+  "output": 998
+ },
+ "seconds": 7.3
+}

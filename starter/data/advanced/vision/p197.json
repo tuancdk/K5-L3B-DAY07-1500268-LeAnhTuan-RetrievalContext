@@ -1,0 +1,36 @@
+{
+ "printed_page": 197,
+ "pdf_page": 99,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "",
+   "bbox": [
+    0,
+    500,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp nhóm nhân viên MB mặc áo đồng phục màu xanh, đang tham gia hoạt động thể thao hoặc tập thể dục, thể hiện sự gắn kết và tinh thần khỏe mạnh trong môi trường làm việc.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    420.9,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p197_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3558,
+  "output": 74
+ },
+ "seconds": 2.5
+}

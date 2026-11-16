@@ -1,0 +1,65 @@
+{
+ "printed_page": 253,
+ "pdf_page": 127,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Cơ cấu thành viên Hội đồng Quản trị MB nhiệm kỳ 2024-2029",
+   "bbox": [
+    50,
+    100,
+    350,
+    900
+   ],
+   "description": "Sơ đồ thể hiện các thành viên Hội đồng Quản trị MB nhiệm kỳ 2024-2029 gồm 11 thành viên: 01 Chủ tịch, 03 Phó Chủ tịch, 06 Thành viên HĐQT và 01 Thành viên độc lập. Sơ đồ gồm các vòng tròn nối với nhau, mỗi vòng tròn ghi 'Thành viên Hội đồng Quản trị'.",
+   "data": [
+    {
+     "label": "Tổng số thành viên",
+     "value": "11"
+    },
+    {
+     "label": "Chủ tịch",
+     "value": "01"
+    },
+    {
+     "label": "Phó Chủ tịch",
+     "value": "03"
+    },
+    {
+     "label": "Thành viên HĐQT",
+     "value": "06"
+    },
+    {
+     "label": "Thành viên độc lập",
+     "value": "01"
+    },
+    {
+     "label": "Tỷ lệ nữ",
+     "value": "4/11 ~ 36,4%"
+    },
+    {
+     "label": "Tỷ lệ chuyên trách",
+     "value": "7/11 ~ 63,6%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    803.6,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p253_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3715,
+  "output": 232
+ },
+ "seconds": 2.5
+}

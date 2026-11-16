@@ -1,0 +1,81 @@
+{
+ "printed_page": 262,
+ "pdf_page": 132,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Bảng đánh giá mức độ đáp ứng các tiêu chí quản trị công ty tại MB",
+   "bbox": [
+    50,
+    50,
+    950,
+    900
+   ],
+   "description": "Bảng liệt kê các mã số tiêu chí quản trị công ty, mức độ đáp ứng tại MB (V hoặc X), và ghi chú/dẫn chứng cụ thể cho từng tiêu chí. Các tiêu chí bao gồm chính sách thù lao, công bố giao dịch bên liên kết, giao dịch cổ phiếu của người nội bộ, kiểm toán độc lập và báo cáo kiểm toán, phương tiện truyền thông, và nộp/phát hành báo cáo tài chính hàng năm.",
+   "data": [
+    {
+     "label": "C.3.3",
+     "value": "V"
+    },
+    {
+     "label": "C.3.4",
+     "value": "V"
+    },
+    {
+     "label": "C.4.1",
+     "value": "V"
+    },
+    {
+     "label": "C.4.2",
+     "value": "V"
+    },
+    {
+     "label": "C.5.1",
+     "value": "V"
+    },
+    {
+     "label": "C.6.1",
+     "value": "X"
+    },
+    {
+     "label": "C.6.2",
+     "value": "X"
+    },
+    {
+     "label": "C.7.1",
+     "value": "V"
+    },
+    {
+     "label": "C.7.2",
+     "value": "V"
+    },
+    {
+     "label": "C.7.3",
+     "value": "V"
+    },
+    {
+     "label": "C.7.4",
+     "value": "V"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p262_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4192,
+  "output": 276
+ },
+ "seconds": 2.9
+}

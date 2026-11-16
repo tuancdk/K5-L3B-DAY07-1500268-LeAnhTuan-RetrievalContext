@@ -1,0 +1,77 @@
+{
+ "printed_page": 190,
+ "pdf_page": 96,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "line_chart",
+   "title": "",
+   "bbox": [
+    50,
+    20,
+    950,
+    300
+   ],
+   "description": "Biểu đồ đường thể hiện số lượng nhân sự theo năm từ 2021 đến 2025. Trục hoành là năm (2021, 2022, 2023, 2024, 2025). Trục tung là số lượng nhân sự (không ghi đơn vị). Các điểm dữ liệu lần lượt là: 2021 - 9.600; 2022 - 9.986; 2023 - 10.481; 2024 - 12.155; 2025 - 13.047.",
+   "data": [
+    {
+     "label": "2021",
+     "value": "9.600"
+    },
+    {
+     "label": "2022",
+     "value": "9.986"
+    },
+    {
+     "label": "2023",
+     "value": "10.481"
+    },
+    {
+     "label": "2024",
+     "value": "12.155"
+    },
+    {
+     "label": "2025",
+     "value": "13.047"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    16.8,
+    565.5,
+    252.6
+   ],
+   "crop": "starter/data/advanced/crops/p190_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "",
+   "bbox": [
+    0,
+    300,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp hai người mặc vest xanh đang xem tài liệu màu xanh dương, không có chú thích sự kiện hay giải thưởng.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    252.6,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p190_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3452,
+  "output": 252
+ },
+ "seconds": 4.9
+}

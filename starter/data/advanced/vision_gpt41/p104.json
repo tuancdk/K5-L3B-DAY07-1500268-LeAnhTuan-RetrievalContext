@@ -1,0 +1,74 @@
+{
+ "printed_page": 104,
+ "pdf_page": 53,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "line_chart",
+   "title": "Vị thế MB trên thị trường - Giá cổ phiếu trong năm 2025",
+   "bbox": [
+    40,
+    370,
+    980,
+    950
+   ],
+   "description": "Biểu đồ đường thể hiện diễn biến giá cổ phiếu của các ngân hàng (CTG, BID, VCB, MBB, ACB, STB, TCB, VPB, HDB) trên sàn HSX từ năm 2017 đến 2022. Trục hoành là các năm 2017, 2018, 2019, 2020, 2021, 2022. Mỗi đường biểu diễn một mã cổ phiếu, không có đơn vị cụ thể trên trục tung. Chú giải màu sắc tương ứng với từng mã cổ phiếu. Các nhãn phần trăm thể hiện mức tăng trưởng giá cổ phiếu giai đoạn 2017-2025 đặt cạnh tên từng mã: CTG 416,46%, BID 431,86%, VCB 300,86%, MBB 910,13%, ACB 566,24%, STB 668,79%, TCB 103,13%, VPB 266,57%, HDB 251,27%.",
+   "data": [
+    {
+     "label": "CTG",
+     "value": "416,46%"
+    },
+    {
+     "label": "BID",
+     "value": "431,86%"
+    },
+    {
+     "label": "VCB",
+     "value": "300,86%"
+    },
+    {
+     "label": "MBB",
+     "value": "910,13%"
+    },
+    {
+     "label": "ACB",
+     "value": "566,24%"
+    },
+    {
+     "label": "STB",
+     "value": "668,79%"
+    },
+    {
+     "label": "TCB",
+     "value": "103,13%"
+    },
+    {
+     "label": "VPB",
+     "value": "266,57%"
+    },
+    {
+     "label": "HDB",
+     "value": "251,27%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    311.5,
+    583.4,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p104_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 2289,
+  "output": 373
+ },
+ "seconds": 3.8
+}

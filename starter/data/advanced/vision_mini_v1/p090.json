@@ -1,0 +1,129 @@
+{
+ "printed_page": 90,
+ "pdf_page": 46,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Huy động (nghìn tỷ đồng)",
+   "bbox": [
+    550,
+    400,
+    900,
+    900
+   ],
+   "description": "Biểu đồ cột thể hiện cơ cấu huy động vốn của MB theo các nhóm: Chứng chỉ tiền gửi, KHDH (Khách hàng doanh nghiệp), KHCN (Khách hàng cá nhân) trong các năm 2023, 2024, 2025. Trục tung là giá trị huy động tính bằng nghìn tỷ đồng. Năm 2023 tổng huy động là 671 nghìn tỷ, trong đó KHCN chiếm 49%, KHDH 36%, Chứng chỉ tiền gửi 15%. Năm 2024 tổng huy động là 806 nghìn tỷ, KHCN 52%, KHDH 36%, Chứng chỉ tiền gửi 11%. Năm 2025 tổng huy động là 1.062 nghìn tỷ, KHCN 49%, KHDH 38%, Chứng chỉ tiền gửi 13%. Tốc độ tăng trưởng CAGR 3 năm là +26%.",
+   "data": [
+    {
+     "label": "2023 - KHCN",
+     "value": "49%"
+    },
+    {
+     "label": "2023 - KHDH",
+     "value": "36%"
+    },
+    {
+     "label": "2023 - Chứng chỉ tiền gửi",
+     "value": "15%"
+    },
+    {
+     "label": "2023 - Tổng huy động",
+     "value": "671"
+    },
+    {
+     "label": "2024 - KHCN",
+     "value": "52%"
+    },
+    {
+     "label": "2024 - KHDH",
+     "value": "36%"
+    },
+    {
+     "label": "2024 - Chứng chỉ tiền gửi",
+     "value": "11%"
+    },
+    {
+     "label": "2024 - Tổng huy động",
+     "value": "806"
+    },
+    {
+     "label": "2025 - KHCN",
+     "value": "49%"
+    },
+    {
+     "label": "2025 - KHDH",
+     "value": "38%"
+    },
+    {
+     "label": "2025 - Chứng chỉ tiền gửi",
+     "value": "13%"
+    },
+    {
+     "label": "2025 - Tổng huy động",
+     "value": "1.062"
+    }
+   ],
+   "bbox_pdf_pt": [
+    327.4,
+    336.8,
+    535.7,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p090_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Huy động CASA (nghìn tỷ đồng) và tỷ lệ CASA (%)",
+   "bbox": [
+    50,
+    600,
+    400,
+    900
+   ],
+   "description": "Biểu đồ cột kết hợp đường thể hiện số dư CASA (tiền gửi không kỳ hạn) theo nghìn tỷ đồng và tỷ lệ CASA (%) trên tổng tiền gửi khách hàng của MB trong các năm 2023, 2024, 2025. Trục tung trái là số dư CASA (nghìn tỷ), trục tung phải là tỷ lệ CASA (%). Năm 2023 số dư CASA là 228 nghìn tỷ, tỷ lệ CASA 40%. Năm 2024 số dư CASA là 281 nghìn tỷ, tỷ lệ CASA 39%. Năm 2025 số dư CASA là 348 nghìn tỷ, tỷ lệ CASA 38%. Tốc độ tăng trưởng CAGR 3 năm của số dư CASA là +23%.",
+   "data": [
+    {
+     "label": "2023 - CASA (%)",
+     "value": "40%"
+    },
+    {
+     "label": "2023 - CASA (nghìn tỷ)",
+     "value": "228"
+    },
+    {
+     "label": "2024 - CASA (%)",
+     "value": "39%"
+    },
+    {
+     "label": "2024 - CASA (nghìn tỷ)",
+     "value": "281"
+    },
+    {
+     "label": "2025 - CASA (%)",
+     "value": "38%"
+    },
+    {
+     "label": "2025 - CASA (nghìn tỷ)",
+     "value": "348"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    505.1,
+    238.1,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p090_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3792,
+  "output": 702
+ },
+ "seconds": 5.5
+}

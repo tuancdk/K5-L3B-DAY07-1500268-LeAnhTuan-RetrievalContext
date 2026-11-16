@@ -1,0 +1,106 @@
+{
+ "printed_page": 93,
+ "pdf_page": 47,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "line_chart",
+   "title": "Tỷ lệ chi phí hoạt động trên tổng thu nhập hoạt động (CIR)",
+   "bbox": [
+    520,
+    120,
+    980,
+    360
+   ],
+   "description": "Biểu đồ đường thể hiện tỷ lệ CIR (%) của ngân hàng riêng lẻ và hợp nhất qua các năm 2023, 2024, 2025. Trục hoành là năm (2023, 2024, 2025). Trục tung là tỷ lệ CIR (%). Có 2 đường: màu tím nhạt cho Riêng lẻ, màu xanh đậm cho Hợp nhất. Nguồn dữ liệu: BCTC hợp nhất.",
+   "data": [
+    {
+     "label": "2023 Riêng lẻ",
+     "value": "29,2"
+    },
+    {
+     "label": "2023 Hợp nhất",
+     "value": "31,5"
+    },
+    {
+     "label": "2024 Riêng lẻ",
+     "value": "27,8"
+    },
+    {
+     "label": "2024 Hợp nhất",
+     "value": "30,7"
+    },
+    {
+     "label": "2025 Riêng lẻ",
+     "value": "26,0"
+    },
+    {
+     "label": "2025 Hợp nhất",
+     "value": "29,1"
+    }
+   ],
+   "bbox_pdf_pt": [
+    904.8,
+    101.0,
+    1178.6,
+    303.1
+   ],
+   "crop": "starter/data/advanced/crops/p093_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Vốn chủ sở hữu (nghìn tỷ đồng)",
+   "bbox": [
+    520,
+    400,
+    980,
+    700
+   ],
+   "description": "Biểu đồ cột thể hiện vốn điều lệ và vốn chủ sở hữu của ngân hàng qua các năm 2023, 2024, 2025. Trục hoành là năm (2023, 2024, 2025). Trục tung là giá trị vốn (nghìn tỷ đồng). Có 2 loại cột: màu tím nhạt cho Vốn điều lệ, màu xanh đậm cho Vốn chủ sở hữu. Có chú thích +21% tăng trưởng. Nguồn dữ liệu: BCTC hợp nhất.",
+   "data": [
+    {
+     "label": "2023 Vốn điều lệ",
+     "value": "52"
+    },
+    {
+     "label": "2023 Vốn chủ sở hữu",
+     "value": "97"
+    },
+    {
+     "label": "2024 Vốn điều lệ",
+     "value": "53"
+    },
+    {
+     "label": "2024 Vốn chủ sở hữu",
+     "value": "117"
+    },
+    {
+     "label": "2025 Vốn điều lệ",
+     "value": "81"
+    },
+    {
+     "label": "2025 Vốn chủ sở hữu",
+     "value": "142"
+    }
+   ],
+   "bbox_pdf_pt": [
+    904.8,
+    336.8,
+    1178.6,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p093_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4005,
+  "output": 463
+ },
+ "seconds": 4.8
+}

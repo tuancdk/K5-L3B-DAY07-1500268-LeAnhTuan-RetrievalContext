@@ -1,0 +1,89 @@
+{
+ "printed_page": 26,
+ "pdf_page": 14,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Mô hình quản trị và tổ chức kinh doanh - Sơ đồ bộ máy quản lý của Ngân hàng",
+   "bbox": [
+    100,
+    350,
+    900,
+    900
+   ],
+   "description": "Sơ đồ mô hình quản trị của Ngân hàng MB gồm các thành phần: Đại hội đồng cổ đông, Hội đồng quản trị, Ban Kiểm soát, Cơ quan Kiểm toán nội bộ, Tổng Giám đốc, Công ty thành viên, Văn phòng HĐQT, Khối đầu tư. Các ủy ban trực thuộc Tổng Giám đốc gồm: Ủy ban Quản trị Cấp cao, Ủy ban Nhân sự, Ủy ban Quản lý Rủi ro, Ủy ban Công nghệ và chuyển đổi số, Hội đồng điều phối Tập đoàn GCC. Có chú thích phân biệt báo cáo trực tiếp và báo cáo gián tiếp giữa các bộ phận.",
+   "data": [
+    {
+     "label": "Đại hội đồng cổ đông",
+     "value": ""
+    },
+    {
+     "label": "Hội đồng quản trị",
+     "value": ""
+    },
+    {
+     "label": "Ban kiểm soát",
+     "value": ""
+    },
+    {
+     "label": "Cơ quan kiểm toán nội bộ",
+     "value": ""
+    },
+    {
+     "label": "Tổng Giám đốc",
+     "value": ""
+    },
+    {
+     "label": "Công ty thành viên",
+     "value": ""
+    },
+    {
+     "label": "Văn phòng HĐQT",
+     "value": ""
+    },
+    {
+     "label": "Khối đầu tư",
+     "value": ""
+    },
+    {
+     "label": "Ủy ban Quản trị Cấp cao",
+     "value": "1"
+    },
+    {
+     "label": "Ủy ban Nhân sự",
+     "value": "2"
+    },
+    {
+     "label": "Ủy ban Quản lý Rủi ro",
+     "value": "3"
+    },
+    {
+     "label": "Ủy ban Công nghệ và chuyển đổi số",
+     "value": "4"
+    },
+    {
+     "label": "Hội đồng điều phối Tập đoàn GCC",
+     "value": "5"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    294.7,
+    535.7,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p026_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3731,
+  "output": 378
+ },
+ "seconds": 4.3
+}

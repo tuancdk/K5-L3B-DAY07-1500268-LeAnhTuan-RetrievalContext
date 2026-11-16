@@ -1,0 +1,130 @@
+{
+ "printed_page": 77,
+ "pdf_page": 39,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Phân loại theo độ tuổi",
+   "bbox": [
+    40,
+    70,
+    510,
+    260
+   ],
+   "description": "Biểu đồ thanh ngang thể hiện số lượng nhân sự MB theo 3 nhóm tuổi (Dưới 35 tuổi, Từ 35 đến dưới 55 tuổi, Từ 55 tuổi trở lên) cho 2 năm 2024 và 2025. Đơn vị tính: người. Có các nhãn phần trăm tăng trưởng so với 2024 đặt bên phải từng nhóm tuổi: 6% cho nhóm dưới 35 tuổi, 11% cho nhóm từ 35 đến dưới 55 tuổi, 76% cho nhóm từ 55 tuổi trở lên.",
+   "data": [
+    {
+     "label": "Dưới 35 tuổi 2024",
+     "value": "8.671"
+    },
+    {
+     "label": "Dưới 35 tuổi 2025",
+     "value": "9.182"
+    },
+    {
+     "label": "Từ 35 đến dưới 55 tuổi 2024",
+     "value": "3.463"
+    },
+    {
+     "label": "Từ 35 đến dưới 55 tuổi 2025",
+     "value": "3.828"
+    },
+    {
+     "label": "Từ 55 tuổi trở lên 2024",
+     "value": "21"
+    },
+    {
+     "label": "Từ 55 tuổi trở lên 2025",
+     "value": "37"
+    },
+    {
+     "label": "Dưới 35 tuổi tăng so với 2024",
+     "value": "6%"
+    },
+    {
+     "label": "Từ 35 đến dưới 55 tuổi tăng so với 2024",
+     "value": "11%"
+    },
+    {
+     "label": "Từ 55 tuổi trở lên tăng so với 2024",
+     "value": "76%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    58.9,
+    898.9,
+    218.9
+   ],
+   "crop": "starter/data/advanced/crops/p077_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "THU NHẬP BÌNH QUÂN THÁNG CỦA CBNV",
+   "bbox": [
+    540,
+    270,
+    730,
+    370
+   ],
+   "description": "Ô số liệu nổi bật thể hiện thu nhập bình quân tháng của CBNV MB năm 2025, đơn vị triệu/người/tháng. Có nhãn tăng trưởng 5,3% so với 2024 đặt dưới con số chính.",
+   "data": [
+    {
+     "label": "Thu nhập bình quân tháng của CBNV",
+     "value": "39,4 triệu/người/tháng"
+    },
+    {
+     "label": "Tăng so với 2024",
+     "value": "5,3%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    916.7,
+    227.3,
+    1029.8,
+    311.5
+   ],
+   "crop": "starter/data/advanced/crops/p077_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "SỐ GIỜ ĐÀO TẠO TRUNG BÌNH MỖI NĂM",
+   "bbox": [
+    740,
+    270,
+    1000,
+    370
+   ],
+   "description": "Ô số liệu nổi bật thể hiện số giờ đào tạo trung bình mỗi năm của CBNV MB năm 2025, đơn vị giờ. Có nhãn tăng trưởng 38% so với 2024 đặt dưới con số chính.",
+   "data": [
+    {
+     "label": "Số giờ đào tạo trung bình mỗi năm",
+     "value": "70,73 giờ"
+    },
+    {
+     "label": "Tăng so với 2024",
+     "value": "38%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    1035.8,
+    227.3,
+    1190.6,
+    311.5
+   ],
+   "crop": "starter/data/advanced/crops/p077_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 2922,
+  "output": 597
+ },
+ "seconds": 10.1
+}

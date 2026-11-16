@@ -1,0 +1,69 @@
+{
+ "printed_page": 132,
+ "pdf_page": 67,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "8 định hướng chiến lược của Ban Điều hành MB",
+   "bbox": [
+    500,
+    400,
+    900,
+    700
+   ],
+   "description": "Mô hình gồm 8 khối định hướng chiến lược của Ban Điều hành MB, mỗi khối có số thứ tự và nội dung cụ thể: 01 - Là một tổ chức tạo giá trị cho khách hàng; 02 - Là tổ chức có năng lực công nghệ vượt trội; 03 - Là tổ chức ra quyết định dựa trên khách hàng và dữ liệu; 04 - Là tổ chức đầu tư cho kinh doanh và nền tảng; 05 - Là tổ chức dám thử nghiệm có kiểm soát; 06 - Là tổ chức có phương pháp làm việc khoa học; 07 - Là tổ chức học hỏi và hạnh phúc; 08 - Là tổ chức phát triển bền vững và 8 phương pháp làm việc trọng yếu.",
+   "data": [
+    {
+     "label": "01",
+     "value": "Là một tổ chức tạo giá trị cho khách hàng"
+    },
+    {
+     "label": "02",
+     "value": "Là tổ chức có năng lực công nghệ vượt trội"
+    },
+    {
+     "label": "03",
+     "value": "Là tổ chức ra quyết định dựa trên khách hàng và dữ liệu"
+    },
+    {
+     "label": "04",
+     "value": "Là tổ chức đầu tư cho kinh doanh và nền tảng"
+    },
+    {
+     "label": "05",
+     "value": "Là tổ chức dám thử nghiệm có kiểm soát"
+    },
+    {
+     "label": "06",
+     "value": "Là tổ chức có phương pháp làm việc khoa học"
+    },
+    {
+     "label": "07",
+     "value": "Là tổ chức học hỏi và hạnh phúc"
+    },
+    {
+     "label": "08",
+     "value": "Là tổ chức phát triển bền vững và 8 phương pháp làm việc trọng yếu"
+    }
+   ],
+   "bbox_pdf_pt": [
+    297.6,
+    336.8,
+    535.7,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p132_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4012,
+  "output": 360
+ },
+ "seconds": 3.7
+}

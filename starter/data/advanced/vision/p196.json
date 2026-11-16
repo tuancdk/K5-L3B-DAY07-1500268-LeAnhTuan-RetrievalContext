@@ -1,0 +1,101 @@
+{
+ "printed_page": 196,
+ "pdf_page": 99,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Số lượng chương trình đào tạo",
+   "bbox": [
+    500,
+    350,
+    650,
+    450
+   ],
+   "description": "Số lượng chương trình đào tạo năm 2025 với con số 657 chương trình, tăng 9,32% so với năm 2024.",
+   "data": [
+    {
+     "label": "Số lượng chương trình đào tạo",
+     "value": "657 chương trình"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "9,32%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    297.6,
+    294.7,
+    386.9,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p196_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Số lượt đào tạo 2025",
+   "bbox": [
+    700,
+    350,
+    900,
+    450
+   ],
+   "description": "Số lượt đào tạo năm 2025 đạt 190.872 học viên, tăng 33,35% so với năm 2024.",
+   "data": [
+    {
+     "label": "Số lượt đào tạo 2025",
+     "value": "190.872 học viên"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "33,35%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    416.7,
+    294.7,
+    535.7,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p196_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Số giờ đào tạo bình quân năm 2025",
+   "bbox": [
+    500,
+    460,
+    700,
+    560
+   ],
+   "description": "Số giờ đào tạo bình quân năm 2025 là 82,91 giờ, tăng 17,22% so với năm 2024.",
+   "data": [
+    {
+     "label": "Số giờ đào tạo bình quân năm 2025",
+     "value": "82,91 giờ"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "17,22%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    297.6,
+    387.3,
+    416.7,
+    471.5
+   ],
+   "crop": "starter/data/advanced/crops/p196_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 4213,
+  "output": 309
+ },
+ "seconds": 3.3
+}

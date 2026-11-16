@@ -1,0 +1,53 @@
+{
+ "printed_page": 236,
+ "pdf_page": 119,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Định hướng hoạt động của các Ủy ban trong năm 2026",
+   "bbox": [
+    50,
+    200,
+    950,
+    900
+   ],
+   "description": "Sơ đồ mô tả định hướng hoạt động của các Ủy ban trong năm 2026 gồm 4 Ủy ban: Ủy ban quản trị cấp cao, Ủy ban Quản lý rủi ro, Ủy ban Nhân sự, Ủy ban Công nghệ & Chuyển đổi số. Mỗi Ủy ban có các nhiệm vụ cụ thể liên quan đến tham mưu, tư vấn, giám sát và phát triển nguồn lực, công nghệ, quản lý rủi ro và quản trị tập đoàn.",
+   "data": [
+    {
+     "label": "Ủy ban quản trị cấp cao",
+     "value": "Tham mưu và tư vấn chuyên sâu cho HĐQT và Chủ tịch HĐQT; hỗ trợ xử lý nội dung quản trị trọng yếu và giám sát hoạt động quản lý cấp cao."
+    },
+    {
+     "label": "Ủy ban Quản lý rủi ro",
+     "value": "Nâng cao vai trò tham mưu HĐQT về hệ thống QLRR và Quản lý tuân thủ; giám sát hệ thống kiểm soát nội bộ, phòng ngừa rủi ro, duy trì hoạt động kinh doanh an toàn."
+    },
+    {
+     "label": "Ủy ban Nhân sự",
+     "value": "Định hướng mô hình tổ chức, cơ cấu nguồn lực; tham mưu quy hoạch cán bộ, đánh giá nhân sự, luân chuyển/bổ nhiệm; phát triển nguồn lực cấp cao; truyền thông chiến lược và văn hóa MB."
+    },
+    {
+     "label": "Ủy ban Công nghệ & Chuyển đổi số",
+     "value": "Tham mưu chỉ đạo, giám sát dự án chuyển đổi số; định hướng đầu tư công nghệ trọng điểm; tối ưu khai thác công nghệ; xây dựng cơ chế, chính sách CNTT; nâng cao năng lực đội ngũ CNTT."
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    168.4,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p236_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4022,
+  "output": 418
+ },
+ "seconds": 4.9
+}

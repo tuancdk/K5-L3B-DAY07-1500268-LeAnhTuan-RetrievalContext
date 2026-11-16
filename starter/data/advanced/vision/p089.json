@@ -1,0 +1,86 @@
+{
+ "printed_page": 89,
+ "pdf_page": 45,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tín dụng (nghìn tỷ đồng) và tỷ lệ nợ xấu (%)",
+   "bbox": [
+    600,
+    600,
+    900,
+    900
+   ],
+   "description": "Biểu đồ cột kết hợp đường thể hiện dư nợ tín dụng và tỷ lệ nợ xấu của MB trong các năm 2023, 2024, 2025. Trục tung trái là dư nợ tín dụng (nghìn tỷ đồng), trục tung phải là tỷ lệ nợ xấu (%). Dư nợ tín dụng được chia thành hai phần: KHCN (khách hàng cá nhân) và KHDN (khách hàng doanh nghiệp). Năm 2023: tổng tín dụng 611 nghìn tỷ đồng, KHDN chiếm 55%, KHCN chiếm 45%, tỷ lệ nợ xấu 1,6%. Năm 2024: tổng tín dụng 811 nghìn tỷ đồng, KHDN chiếm 54%, KHCN chiếm 46%, tỷ lệ nợ xấu 1,6%. Năm 2025: tổng tín dụng 1.110 nghìn tỷ đồng, KHDN chiếm 55%, KHCN chiếm 45%, tỷ lệ nợ xấu giảm còn 1,3%. Có chú thích +35% trên mũi tên tăng trưởng từ 2023 đến 2025.",
+   "data": [
+    {
+     "label": "2023 - KHCN",
+     "value": "45%"
+    },
+    {
+     "label": "2023 - KHDN",
+     "value": "55%"
+    },
+    {
+     "label": "2023 - Tổng tín dụng",
+     "value": "611"
+    },
+    {
+     "label": "2023 - Tỷ lệ nợ xấu",
+     "value": "1,6%"
+    },
+    {
+     "label": "2024 - KHCN",
+     "value": "46%"
+    },
+    {
+     "label": "2024 - KHDN",
+     "value": "54%"
+    },
+    {
+     "label": "2024 - Tổng tín dụng",
+     "value": "811"
+    },
+    {
+     "label": "2024 - Tỷ lệ nợ xấu",
+     "value": "1,6%"
+    },
+    {
+     "label": "2025 - KHCN",
+     "value": "45%"
+    },
+    {
+     "label": "2025 - KHDN",
+     "value": "55%"
+    },
+    {
+     "label": "2025 - Tổng tín dụng",
+     "value": "1.110"
+    },
+    {
+     "label": "2025 - Tỷ lệ nợ xấu",
+     "value": "1,3%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    952.4,
+    505.1,
+    1131.0,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p089_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4143,
+  "output": 490
+ },
+ "seconds": 4.7
+}

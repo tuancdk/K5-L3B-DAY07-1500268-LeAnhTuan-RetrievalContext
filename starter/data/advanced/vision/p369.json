@@ -1,0 +1,117 @@
+{
+ "printed_page": 369,
+ "pdf_page": 185,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Tỷ giá một số loại ngoại tệ so với VND vào thời điểm cuối kỳ kế toán năm",
+   "bbox": [
+    50,
+    150,
+    950,
+    550
+   ],
+   "description": "Bảng tỷ giá các loại ngoại tệ so với VND vào ngày 31/12/2025 và 31/12/2024. Các loại ngoại tệ gồm USD, EUR, GBP, JPY, CHF, AUD, CAD, SGD, THB, SEK. Đơn vị tính là VND cho mỗi đơn vị ngoại tệ. So sánh tỷ giá giữa hai năm cho thấy xu hướng tăng tỷ giá của các ngoại tệ so với VND.",
+   "data": [
+    {
+     "label": "USD 31/12/2025",
+     "value": "26.290,00"
+    },
+    {
+     "label": "USD 31/12/2024",
+     "value": "25.450,00"
+    },
+    {
+     "label": "EUR 31/12/2025",
+     "value": "30.945,00"
+    },
+    {
+     "label": "EUR 31/12/2024",
+     "value": "26.715,00"
+    },
+    {
+     "label": "GBP 31/12/2025",
+     "value": "35.443,00"
+    },
+    {
+     "label": "GBP 31/12/2024",
+     "value": "32.025,00"
+    },
+    {
+     "label": "JPY 31/12/2025",
+     "value": "168,88"
+    },
+    {
+     "label": "JPY 31/12/2024",
+     "value": "163,92"
+    },
+    {
+     "label": "CHF 31/12/2025",
+     "value": "33.195,00"
+    },
+    {
+     "label": "CHF 31/12/2024",
+     "value": "28.340,50"
+    },
+    {
+     "label": "AUD 31/12/2025",
+     "value": "17.641,00"
+    },
+    {
+     "label": "AUD 31/12/2024",
+     "value": "15.915,50"
+    },
+    {
+     "label": "CAD 31/12/2025",
+     "value": "19.250,50"
+    },
+    {
+     "label": "CAD 31/12/2024",
+     "value": "17.841,50"
+    },
+    {
+     "label": "SGD 31/12/2025",
+     "value": "20.505,50"
+    },
+    {
+     "label": "SGD 31/12/2024",
+     "value": "18.808,00"
+    },
+    {
+     "label": "THB 31/12/2025",
+     "value": "841,86"
+    },
+    {
+     "label": "THB 31/12/2024",
+     "value": "752,87"
+    },
+    {
+     "label": "SEK 31/12/2025",
+     "value": "2.879,53"
+    },
+    {
+     "label": "SEK 31/12/2024",
+     "value": "2.324,87"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    126.3,
+    1160.8,
+    463.0
+   ],
+   "crop": "starter/data/advanced/crops/p369_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3601,
+  "output": 528
+ },
+ "seconds": 4.7
+}

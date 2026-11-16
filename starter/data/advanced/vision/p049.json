@@ -1,0 +1,65 @@
+{
+ "printed_page": 49,
+ "pdf_page": 25,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Hệ thống mô hình đang áp dụng tại MB",
+   "bbox": [
+    100,
+    150,
+    900,
+    650
+   ],
+   "description": "Sơ đồ gồm 6 ô mô hình chính bao phủ toàn bộ vòng đời khách hàng và các hoạt động trọng yếu của Ngân hàng MB: Các mô hình chấm điểm và xếp hạng tín dụng (Application Score, Behaviour Score, Collection Score); Các mô hình PD, LGD, EAD phục vụ tính toán tổn thất tín dụng dự kiến theo IFRS9; Mô hình cảnh báo sớm rủi ro (Early Warning Signal); Mô hình định giá, tối ưu danh mục và quản trị hiệu quả vốn; Mô hình phát hiện gian lận và phòng chống rủi ro hoạt động; Các mô hình phân tích hành vi và tối ưu hóa trải nghiệm khách hàng. Dưới cùng là 2 ô nền tảng ngân hàng số: App MBBank và BIZ MBBank.",
+   "data": [
+    {
+     "label": "Các mô hình chấm điểm và xếp hạng tín dụng",
+     "value": "Application Score, Behaviour Score, Collection Score"
+    },
+    {
+     "label": "Các mô hình PD, LGD, EAD",
+     "value": "Phục vụ tính toán tổn thất tín dụng dự kiến theo IFRS9"
+    },
+    {
+     "label": "Mô hình cảnh báo sớm rủi ro",
+     "value": "Early Warning Signal"
+    },
+    {
+     "label": "Mô hình định giá, tối ưu danh mục và quản trị hiệu quả vốn",
+     "value": ""
+    },
+    {
+     "label": "Mô hình phát hiện gian lận và phòng chống rủi ro hoạt động",
+     "value": ""
+    },
+    {
+     "label": "Các mô hình phân tích hành vi và tối ưu hóa trải nghiệm khách hàng",
+     "value": ""
+    },
+    {
+     "label": "Nền tảng ngân hàng số",
+     "value": "App MBBank, BIZ MBBank"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    126.3,
+    1131.0,
+    547.2
+   ],
+   "crop": "starter/data/advanced/crops/p049_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4136,
+  "output": 382
+ },
+ "seconds": 3.8
+}

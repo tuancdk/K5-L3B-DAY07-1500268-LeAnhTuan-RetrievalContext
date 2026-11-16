@@ -1,0 +1,49 @@
+{
+ "printed_page": 238,
+ "pdf_page": 120,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Các chương trình phát triển năng lực của HĐQT",
+   "bbox": [
+    40,
+    80,
+    960,
+    280
+   ],
+   "description": "Bảng liệt kê các chương trình đào tạo nâng cao năng lực của Hội đồng Quản trị (HĐQT) với các cột: STT, Tên chương trình, Thành phần tham gia, Số lượng nhân sự tham gia, Nội dung chương trình. Có 3 chương trình được liệt kê với số lượng nhân sự tham gia lần lượt là 23, 32, 23. Thành phần tham gia đều là Thành viên HĐQT, Ban điều hành, Ban kiểm soát.",
+   "data": [
+    {
+     "label": "Chương trình Đào tạo Nâng cao năng lực quản trị doanh nghiệp",
+     "value": "23"
+    },
+    {
+     "label": "Hội thảo Triển vọng và nhận định kinh tế năm 2026",
+     "value": "32"
+    },
+    {
+     "label": "Tư duy lại lãnh đạo trong kỷ nguyên mới",
+     "value": "23"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    67.4,
+    571.5,
+    235.7
+   ],
+   "crop": "starter/data/advanced/crops/p238_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4001,
+  "output": 210
+ },
+ "seconds": 5.5
+}

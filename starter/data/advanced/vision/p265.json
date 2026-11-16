@@ -1,0 +1,105 @@
+{
+ "printed_page": 265,
+ "pdf_page": 133,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Bảng đánh giá mức độ đáp ứng các tiêu chí quản trị công ty tại MB",
+   "bbox": [
+    50,
+    50,
+    950,
+    900
+   ],
+   "description": "Bảng liệt kê các tiêu chí quản trị công ty theo mã số, tiêu chí, mức độ đáp ứng tại MB (V hoặc X), và ghi chú/dẫn chứng chi tiết cho từng tiêu chí. Các tiêu chí thuộc các nhóm: Ủy ban Thù lao, Ủy ban Kiểm toán, Quy trình hội đồng quản trị. Mức độ đáp ứng được thể hiện rõ ràng, có chú thích cụ thể về hoạt động, công bố, thành phần, tần suất họp, và các quy định liên quan.",
+   "data": [
+    {
+     "label": "D.2.13 Công ty có Ủy ban Thù lao không?",
+     "value": "V"
+    },
+    {
+     "label": "D.2.14 Ủy ban Thù lao có bao gồm đa số là thành viên/ủy viên HĐQT độc lập?",
+     "value": "X"
+    },
+    {
+     "label": "D.2.15 Chủ tịch của Ủy ban Thù lao có phải là thành viên/ủy viên HĐQT độc lập?",
+     "value": "X"
+    },
+    {
+     "label": "D.2.16 Công ty có công bố quy chế hoạt động/cơ cấu quản trị/điều lệ của Ủy ban Thù lao?",
+     "value": "V"
+    },
+    {
+     "label": "D.2.17 Sự tham gia của thành viên trong các cuộc họp của Ủy ban Thù lao có được công bố công khai, nếu có, Ủy ban Thù lao có họp tối thiểu hai lần trong năm?",
+     "value": "V"
+    },
+    {
+     "label": "D.2.18 Công ty có Ủy ban Kiểm toán không?",
+     "value": "V"
+    },
+    {
+     "label": "D.2.19 Ủy ban Kiểm toán có bao gồm toàn bộ thành viên/ủy viên HĐQT không điều hành với đa số thành viên/ủy viên HĐQT độc lập?",
+     "value": "V"
+    },
+    {
+     "label": "D.2.20 Chủ tịch của Ủy ban Kiểm toán có phải là thành viên HĐQT độc lập?",
+     "value": "V"
+    },
+    {
+     "label": "D.2.21 Công ty có công bố quy chế hoạt động/cơ cấu quản trị/điều lệ của Ủy ban Kiểm toán?",
+     "value": "V"
+    },
+    {
+     "label": "D.2.22 Tối thiểu một thành viên/ủy viên HĐQT độc lập của Ủy ban Kiểm toán có chuyên môn về kế toán không?",
+     "value": "V"
+    },
+    {
+     "label": "D.2.23 Sự tham gia của thành viên trong các cuộc họp của Ủy ban Kiểm toán có được công bố công khai, nếu có, Ủy ban Kiểm toán có họp tối thiểu bốn lần trong năm?",
+     "value": "V"
+    },
+    {
+     "label": "D.2.24 Ủy ban Kiểm toán có trách nhiệm chính trong việc đưa ra khuyến nghị về bổ nhiệm, và miễn nhiệm kiểm toán độc lập?",
+     "value": "V"
+    },
+    {
+     "label": "D.3.1 Họp HĐQT có được lập kế hoạch trước khi bắt đầu năm tài chính?",
+     "value": "V"
+    },
+    {
+     "label": "D.3.2 Thành viên/Ủy viên HĐQT có họp tối thiểu sáu lần trong năm?",
+     "value": "V"
+    },
+    {
+     "label": "D.3.3 Mỗi thành viên/Ủy viên HĐQT có tham dự tối thiểu 75% số cuộc họp HĐQT trong năm?",
+     "value": "V"
+    },
+    {
+     "label": "D.3.4 Công ty có yêu cầu về số đại biểu tham dự tối thiểu phải đạt 2/3 số thành viên HĐQT đối với các cuộc họp cần ra quyết định của HĐQT?",
+     "value": "V"
+    },
+    {
+     "label": "D.3.5 Thành viên/Ủy viên HĐQT không điều hành của công ty có họp riêng tối thiểu một lần trong năm mà không có mặt các thành viên điều hành?",
+     "value": "X"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    42.1,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p265_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4446,
+  "output": 857
+ },
+ "seconds": 6.1
+}

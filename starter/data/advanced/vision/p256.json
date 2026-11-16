@@ -1,0 +1,77 @@
+{
+ "printed_page": 256,
+ "pdf_page": 129,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Thẻ điểm Quản trị Công ty theo thông lệ tốt (ACGS)",
+   "bbox": [
+    30,
+    50,
+    970,
+    950
+   ],
+   "description": "Bảng đánh giá việc thực hành Quản trị công ty theo các tiêu chuẩn và thông lệ tốt, gồm các mã số tiêu chí, mức độ đáp ứng tại MB (V: Tuân thủ, X: Tuân thủ 1 phần hoặc có thể cải thiện tốt hơn), và ghi chú/dẫn chứng chi tiết cho từng tiêu chí thuộc nhóm A: Quyền và đối xử công bằng với cổ đông, trong đó có các tiêu chí A.1 và A.2 với các mục nhỏ từ A.1.1 đến A.2.9.",
+   "data": [
+    {
+     "label": "A.1.1",
+     "value": "X"
+    },
+    {
+     "label": "A.2.1",
+     "value": "V"
+    },
+    {
+     "label": "A.2.2",
+     "value": "V"
+    },
+    {
+     "label": "A.2.3",
+     "value": "V"
+    },
+    {
+     "label": "A.2.4",
+     "value": "V"
+    },
+    {
+     "label": "A.2.5",
+     "value": "V"
+    },
+    {
+     "label": "A.2.6",
+     "value": "V"
+    },
+    {
+     "label": "A.2.7",
+     "value": "V"
+    },
+    {
+     "label": "A.2.8",
+     "value": "V"
+    },
+    {
+     "label": "A.2.9",
+     "value": "X"
+    }
+   ],
+   "bbox_pdf_pt": [
+    17.9,
+    42.1,
+    577.4,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p256_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4374,
+  "output": 280
+ },
+ "seconds": 3.0
+}

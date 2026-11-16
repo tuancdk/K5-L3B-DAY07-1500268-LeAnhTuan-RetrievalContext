@@ -1,0 +1,64 @@
+{
+ "printed_page": 195,
+ "pdf_page": 98,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa chương trình MB Fast Track",
+   "bbox": [
+    0,
+    0,
+    1000,
+    450
+   ],
+   "description": "Ảnh chụp ba bạn trẻ đứng trước logo MB, thể hiện sự tham gia của các ứng viên trong chương trình MB Fast Track.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    1190.6,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p195_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Chương trình MB Fast Track - Vào Nghề Siêu Tốc",
+   "bbox": [
+    50,
+    460,
+    950,
+    980
+   ],
+   "description": "Hai ô số liệu nổi bật thể hiện sức hút và kết quả chương trình MB Fast Track năm 2025. Ô bên trái: chương trình thu hút hơn 4.000 hồ sơ trên toàn quốc. Ô bên phải: hơn 2.000 'Vì Sao' nhiệt huyết và khát vọng tiến bộ ghi tên vào vòng Chung kết năm 2025.",
+   "data": [
+    {
+     "label": "Số hồ sơ thu hút",
+     "value": "4.000 hồ sơ trên toàn quốc"
+    },
+    {
+     "label": "Số 'Vì Sao' vào vòng Chung kết",
+     "value": "2.000 'Vì Sao' Nhiệt huyết và Khát vọng tiến bộ"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    387.3,
+    1160.8,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p195_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3596,
+  "output": 239
+ },
+ "seconds": 3.2
+}

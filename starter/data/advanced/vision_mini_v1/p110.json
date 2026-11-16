@@ -1,0 +1,121 @@
+{
+ "printed_page": 110,
+ "pdf_page": 56,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tỷ suất tài sản sinh lời (YEA)",
+   "bbox": [
+    100,
+    350,
+    900,
+    650
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện tỷ suất tài sản sinh lời (YEA %) và svck (%) của các ngân hàng năm 2025. Trục tung trái là YEA (%) từ khoảng 4,8 đến 9,6, trục tung phải là svck (%) từ -7 đến 0. Các ngân hàng so sánh gồm VPB, STB, MBB, TCB, ACB, CTG, BID, VCB. MBB có YEA 6,7% và svck -3%.",
+   "data": [
+    {
+     "label": "VPB",
+     "value": "9,6"
+    },
+    {
+     "label": "STB",
+     "value": "7,1"
+    },
+    {
+     "label": "MBB",
+     "value": "6,7"
+    },
+    {
+     "label": "TCB",
+     "value": "6,7"
+    },
+    {
+     "label": "ACB",
+     "value": "6,4"
+    },
+    {
+     "label": "CTG",
+     "value": "5,7"
+    },
+    {
+     "label": "BID",
+     "value": "5,2"
+    },
+    {
+     "label": "VCB",
+     "value": "4,8"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    294.7,
+    535.7,
+    547.2
+   ],
+   "crop": "starter/data/advanced/crops/p110_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Chi phí vốn (COF)",
+   "bbox": [
+    100,
+    700,
+    900,
+    1000
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện chi phí vốn (COF %) và svck (%) của các ngân hàng năm 2025. Trục tung trái là COF (%) từ 2,3 đến 4,8, trục tung phải là svck (%) từ 0 đến 15. Các ngân hàng so sánh gồm VCB, MBB, CTG, BID, TCB, ACB, STB, VPB. MBB có COF 3,2% và svck 0%.",
+   "data": [
+    {
+     "label": "VCB",
+     "value": "2,3"
+    },
+    {
+     "label": "MBB",
+     "value": "3,2"
+    },
+    {
+     "label": "CTG",
+     "value": "3,3"
+    },
+    {
+     "label": "BID",
+     "value": "3,3"
+    },
+    {
+     "label": "TCB",
+     "value": "3,3"
+    },
+    {
+     "label": "ACB",
+     "value": "3,8"
+    },
+    {
+     "label": "STB",
+     "value": "4,1"
+    },
+    {
+     "label": "VPB",
+     "value": "4,8"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    589.3,
+    535.7,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p110_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3712,
+  "output": 478
+ },
+ "seconds": 4.0
+}

@@ -1,0 +1,122 @@
+{
+ "printed_page": 113,
+ "pdf_page": 57,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tỷ lệ nợ xấu (NPL)",
+   "bbox": [
+    100,
+    300,
+    900,
+    700
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện tỷ lệ nợ xấu (NPL %) và svck (%) của các ngân hàng năm 2025. Trục tung trái là NPL (%) với các cột màu xanh dương nhạt, trục tung phải là svck (%) với đường màu xanh dương đậm. Các ngân hàng trên trục hoành gồm VCB, ACB, TCB, CTG, MBB, BID, VPB, STB. Giá trị NPL lần lượt là 0,6; 1,0; 1,1; 1,1; 1,3; 1,5; 3,3; 6,4. Giá trị svck (%) lần lượt là -40; -35; -5; -10; -20; -4; -21; 167. Nguồn dữ liệu: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "VCB",
+     "value": "NPL 0,6%; svck -40%"
+    },
+    {
+     "label": "ACB",
+     "value": "NPL 1,0%; svck -35%"
+    },
+    {
+     "label": "TCB",
+     "value": "NPL 1,1%; svck -5%"
+    },
+    {
+     "label": "CTG",
+     "value": "NPL 1,1%; svck -10%"
+    },
+    {
+     "label": "MBB",
+     "value": "NPL 1,3%; svck -20%"
+    },
+    {
+     "label": "BID",
+     "value": "NPL 1,5%; svck -4%"
+    },
+    {
+     "label": "VPB",
+     "value": "NPL 3,3%; svck -21%"
+    },
+    {
+     "label": "STB",
+     "value": "NPL 6,4%; svck 167%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    252.6,
+    1131.0,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p113_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Tỷ lệ bao phủ nợ xấu (LLR)",
+   "bbox": [
+    100,
+    720,
+    900,
+    1000
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện tỷ lệ bao phủ nợ xấu (LLR %) và svck (%) của các ngân hàng năm 2025. Trục tung trái là LLR (%) với các cột màu xanh dương nhạt, trục tung phải là svck (%) với đường màu xanh dương đậm. Các ngân hàng trên trục hoành gồm VCB, CTG, TCB, ACB, BID, MBB, VPB, STB. Giá trị LLR lần lượt là 259; 159; 128; 114; 100; 94; 55; 50. Giá trị svck (%) lần lượt là 16; -9; 12; 47; -24; -1; -27. Nguồn dữ liệu: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "VCB",
+     "value": "LLR 259%; svck 16%"
+    },
+    {
+     "label": "CTG",
+     "value": "LLR 159%; svck -9%"
+    },
+    {
+     "label": "TCB",
+     "value": "LLR 128%; svck 12%"
+    },
+    {
+     "label": "ACB",
+     "value": "LLR 114%; svck 47%"
+    },
+    {
+     "label": "BID",
+     "value": "LLR 100%; svck -24%"
+    },
+    {
+     "label": "MBB",
+     "value": "LLR 94%; svck -1%"
+    },
+    {
+     "label": "VPB",
+     "value": "LLR 55%; svck -27%"
+    },
+    {
+     "label": "STB",
+     "value": "LLR 50%; svck không đọc được"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    606.2,
+    1131.0,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p113_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3967,
+  "output": 759
+ },
+ "seconds": 5.8
+}

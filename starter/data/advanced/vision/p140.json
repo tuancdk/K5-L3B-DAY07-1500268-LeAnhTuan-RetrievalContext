@@ -1,0 +1,68 @@
+{
+ "printed_page": 140,
+ "pdf_page": 71,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "03 định hướng chiến lược của Ngân hàng",
+   "bbox": [
+    150,
+    280,
+    850,
+    420
+   ],
+   "description": "Ba vòng tròn chứa ba định hướng chiến lược của Ngân hàng: 1) Thúc đẩy tăng trưởng bền vững: tích hợp các yếu tố Môi trường (E) – Xã hội (S)– Quản trị (G) vào hoạt động kinh doanh và quản trị rủi ro; 2) Dẫn dắt chuyển đổi số và khai thác sức mạnh dữ liệu và trí tuệ nhân tạo, nhằm nâng cao chất lượng dịch vụ và năng lực ra quyết định; 3) Tăng cường khả năng chống chịu của hệ thống tài chính, hỗ trợ doanh nghiệp và khách hàng thích ứng với môi trường kinh tế toàn cầu ngày càng biến động.",
+   "data": [
+    {
+     "label": "Thúc đẩy tăng trưởng bền vững",
+     "value": "tích hợp các yếu tố Môi trường (E) – Xã hội (S)– Quản trị (G) vào hoạt động kinh doanh và quản trị rủi ro"
+    },
+    {
+     "label": "Dẫn dắt chuyển đổi số",
+     "value": "khai thác sức mạnh dữ liệu và trí tuệ nhân tạo, nhằm nâng cao chất lượng dịch vụ và năng lực ra quyết định"
+    },
+    {
+     "label": "Tăng cường khả năng chống chịu",
+     "value": "hệ thống tài chính, hỗ trợ doanh nghiệp và khách hàng thích ứng với môi trường kinh tế toàn cầu ngày càng biến động"
+    }
+   ],
+   "bbox_pdf_pt": [
+    89.3,
+    235.7,
+    506.0,
+    353.6
+   ],
+   "crop": "starter/data/advanced/crops/p140_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh phong cảnh tuabin gió",
+   "bbox": [
+    0,
+    600,
+    1000,
+    1000
+   ],
+   "description": "Ảnh phong cảnh chụp các tuabin gió trên biển và đất liền, biểu tượng cho năng lượng xanh và phát triển bền vững, không có chú thích sự kiện hay thông tin cụ thể.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    505.1,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p140_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3809,
+  "output": 398
+ },
+ "seconds": 4.6
+}

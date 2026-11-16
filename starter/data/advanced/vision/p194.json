@@ -1,0 +1,64 @@
+{
+ "printed_page": 194,
+ "pdf_page": 98,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Chung kết MB",
+   "bbox": [
+    0,
+    0,
+    1000,
+    700
+   ],
+   "description": "Ảnh chụp ba người đàn ông đứng cạnh nhau, người bên trái mặc áo xanh MB, người giữa mặc áo sọc trắng xanh, người bên phải mặc áo sơ mi xanh nhạt, tất cả đều giơ tay biểu tượng đồng ý.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    595.3,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p194_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Kết quả lượt xem trên các nền tảng mạng xã hội",
+   "bbox": [
+    20,
+    700,
+    400,
+    1000
+   ],
+   "description": "Số liệu lượt xem trên các nền tảng mạng xã hội cho Show 1 và Show 2. Show 1 đạt 628.479 lượt xem, Show 2 đạt 499.892 lượt xem. Đơn vị lượt xem, thời gian gần 2 tuần phát sóng Show 1 và hơn 1 tuần phát sóng Show 2.",
+   "data": [
+    {
+     "label": "Show 1",
+     "value": "628.479"
+    },
+    {
+     "label": "Show 2",
+     "value": "499.892"
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    589.3,
+    238.1,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p194_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3519,
+  "output": 221
+ },
+ "seconds": 3.2
+}

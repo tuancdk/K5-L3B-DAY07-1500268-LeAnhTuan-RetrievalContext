@@ -1,0 +1,105 @@
+{
+ "printed_page": 245,
+ "pdf_page": 123,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Danh sách cổ đông nội bộ và người liên quan tại MB năm 2025",
+   "bbox": [
+    50,
+    100,
+    950,
+    900
+   ],
+   "description": "Bảng liệt kê cổ đông nội bộ và người liên quan với các thông tin: STT, Họ và tên, Chức vụ tại MB/Quan hệ với người nội bộ, Số lượng cổ phiếu đầu kỳ (31/12/2024), Tỷ lệ/VĐL (%), Số lượng cổ phiếu cuối kỳ (31/12/2025), Tỷ lệ/VĐL (%), Lý do tăng/giảm cổ phiếu (mua, bán, chuyển đổi, trả cổ tức, thưởng, ...). Dữ liệu thể hiện số lượng cổ phiếu và tỷ lệ vốn điều lệ của từng cá nhân/tổ chức, cùng lý do thay đổi cổ phiếu chủ yếu là nhận cổ tức bằng cổ phiếu.",
+   "data": [
+    {
+     "label": "Nguyễn Thị Hải Lý",
+     "value": "145.815 cổ phiếu đầu kỳ, 0,00%; 221.346 cổ phiếu cuối kỳ, 0,00%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel)",
+     "value": "780.137.989 cổ phiếu đầu kỳ, 14,70%; 1.184.249.466 cổ phiếu cuối kỳ, 14,70%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Công ty TNHH nhà nước một thành viên Thương Mại và xuất nhập khẩu VIETTEL (Viettel-Commerce)",
+     "value": "228.200.095 cổ phiếu đầu kỳ, 4,30%; 346.407.743 cổ phiếu cuối kỳ, 4,30%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Vũ Thành Trung",
+     "value": "1.078.203 cổ phiếu đầu kỳ, 0,02%; 1.636.711 cổ phiếu cuối kỳ, 0,02%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Vũ Văn Quế",
+     "value": "23.473 cổ phiếu đầu kỳ, 0,00%; 35.630 cổ phiếu cuối kỳ, 0,00%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Phạm Như Ánh",
+     "value": "3.834.738 cổ phiếu đầu kỳ, 0,07%; 5.821.131 cổ phiếu cuối kỳ, 0,07%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Lê Thị Hồng Phấn",
+     "value": "1.431.754 cổ phiếu đầu kỳ, 0,03%; 2.173.401 cổ phiếu cuối kỳ, 0,03%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Phạm Như Vân",
+     "value": "10 cổ phiếu đầu kỳ, 0,00%; 14 cổ phiếu cuối kỳ, 0,00%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Ngô Thị Kim Loan",
+     "value": "1.380 cổ phiếu đầu kỳ, 0,00%; 1.587 cổ phiếu cuối kỳ, 0,00%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Nguyễn Thị Thanh Hiền",
+     "value": "0 cổ phiếu đầu kỳ, 0,00%; 33.260 cổ phiếu cuối kỳ, 0,00%; Nhận cổ tức bằng cổ phiếu và Giao dịch cổ phiếu"
+    },
+    {
+     "label": "Lê Thị Quỳnh",
+     "value": "160 cổ phiếu đầu kỳ, 0,00%; 242 cổ phiếu cuối kỳ, 0,00%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Lê Viết Hải",
+     "value": "1.490.647 cổ phiếu đầu kỳ, 0,03%; 2.262.802 cổ phiếu cuối kỳ, 0,03%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Vũ Hoàng Yến",
+     "value": "1 cổ phiếu đầu kỳ, 0,00%; 1 cổ phiếu cuối kỳ, 0,00%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Lê Công Sòa",
+     "value": "47.976 cổ phiếu đầu kỳ, 0,00%; 72.827 cổ phiếu cuối kỳ, 0,00%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Hoàng Lan Hương",
+     "value": "10 cổ phiếu đầu kỳ, 0,00%; 14 cổ phiếu cuối kỳ, 0,00%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Lê Thị Hải Yến",
+     "value": "3.079 cổ phiếu đầu kỳ, 0,00%; 4.672 cổ phiếu cuối kỳ, 0,00%; Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Trần Văn Đức",
+     "value": "70.479 cổ phiếu đầu kỳ, 0,00%; 81.642 cổ phiếu cuối kỳ, 0,00%; Nhận cổ tức bằng cổ phiếu và Giao dịch cổ phiếu"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p245_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4202,
+  "output": 1088
+ },
+ "seconds": 9.2
+}

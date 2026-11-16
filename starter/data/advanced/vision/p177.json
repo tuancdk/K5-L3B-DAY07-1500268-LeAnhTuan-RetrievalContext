@@ -1,0 +1,113 @@
+{
+ "printed_page": 177,
+ "pdf_page": 89,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Phạm vi kiểm kê phát thải khí nhà kính chính",
+   "bbox": [
+    50,
+    320,
+    400,
+    400
+   ],
+   "description": "Hai phạm vi kiểm kê phát thải khí nhà kính chính gồm: 01 - phát thải trực tiếp từ hoạt động ngân hàng; 02 - phát thải gián tiếp từ việc sử dụng năng lượng mua ngoài.",
+   "data": [
+    {
+     "label": "01",
+     "value": "phát thải trực tiếp từ hoạt động ngân hàng"
+    },
+    {
+     "label": "02",
+     "value": "phát thải gián tiếp từ việc sử dụng năng lượng mua ngoài"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    269.4,
+    833.4,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p177_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Kết quả kiểm kê phát thải khí nhà kính",
+   "bbox": [
+    50,
+    410,
+    950,
+    520
+   ],
+   "description": "Bảng kết quả kiểm kê phát thải khí nhà kính tại Hội sở 18 Lê Văn Lương và Toàn hàng (Hội sở, Chi nhánh, Phòng giao dịch) năm 2024 và 2025, gồm các chỉ tiêu phát thải trực tiếp (Phạm vi 1), phát thải gián tiếp (Phạm vi 2) và tổng phát thải trực tiếp và gián tiếp. Có số liệu năm 2024, năm 2025, % tăng/giảm và số liệu toàn hàng năm 2024.",
+   "data": [
+    {
+     "label": "Tổng phát thải khí nhà kính trực tiếp - Phạm vi 1 năm 2024 Hội sở",
+     "value": "11,3"
+    },
+    {
+     "label": "Tổng phát thải khí nhà kính trực tiếp - Phạm vi 1 năm 2025 Hội sở",
+     "value": "5,5"
+    },
+    {
+     "label": "Tổng phát thải khí nhà kính trực tiếp - Phạm vi 1 % Tăng/(Giảm) Hội sở",
+     "value": "(51,3%)"
+    },
+    {
+     "label": "Tổng phát thải khí nhà kính trực tiếp - Phạm vi 1 Toàn hàng năm 2024",
+     "value": "6.154"
+    },
+    {
+     "label": "Tổng phát thải khí nhà kính gián tiếp - Phạm vi 2 năm 2024 Hội sở",
+     "value": "3.261,8"
+    },
+    {
+     "label": "Tổng phát thải khí nhà kính gián tiếp - Phạm vi 2 năm 2025 Hội sở",
+     "value": "3.153,8"
+    },
+    {
+     "label": "Tổng phát thải khí nhà kính gián tiếp - Phạm vi 2 % Tăng/(Giảm) Hội sở",
+     "value": "(3,3%)"
+    },
+    {
+     "label": "Tổng phát thải khí nhà kính gián tiếp - Phạm vi 2 Toàn hàng năm 2024",
+     "value": "20.265"
+    },
+    {
+     "label": "Tổng phát thải khí nhà kính trực tiếp và gián tiếp năm 2024 Hội sở",
+     "value": "3.273,1"
+    },
+    {
+     "label": "Tổng phát thải khí nhà kính trực tiếp và gián tiếp năm 2025 Hội sở",
+     "value": "3.159,3"
+    },
+    {
+     "label": "Tổng phát thải khí nhà kính trực tiếp và gián tiếp % Tăng/(Giảm) Hội sở",
+     "value": "(3,5%)"
+    },
+    {
+     "label": "Tổng phát thải khí nhà kính trực tiếp và gián tiếp Toàn hàng năm 2024",
+     "value": "26.419"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    345.2,
+    1160.8,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p177_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4254,
+  "output": 676
+ },
+ "seconds": 5.2
+}

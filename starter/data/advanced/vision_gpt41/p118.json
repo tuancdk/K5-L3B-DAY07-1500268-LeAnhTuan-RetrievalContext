@@ -1,0 +1,62 @@
+{
+ "printed_page": 118,
+ "pdf_page": 60,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Tăng trưởng LNTT tập đoàn giai đoạn 2022 - 2026",
+   "bbox": [
+    540,
+    770,
+    1000,
+    1000
+   ],
+   "description": "Biểu đồ cột thể hiện tăng trưởng LNTT tập đoàn qua các năm 2022, 2023, 2024, 2025 và kế hoạch 2026. Trục ngang là các năm: 2022, 2023, 2024, 2025, Kế hoạch 2026. Trục dọc không ghi đơn vị cụ thể. Trên các cột có ghi giá trị tuyệt đối. Có đường chéo nối các đỉnh cột với nhãn 'CAGR 14,8%' đặt phía trên các cột 2022-2026.",
+   "data": [
+    {
+     "label": "2022",
+     "value": "22.729"
+    },
+    {
+     "label": "2023",
+     "value": "26.306"
+    },
+    {
+     "label": "2024",
+     "value": "28.829"
+    },
+    {
+     "label": "2025",
+     "value": "34.268"
+    },
+    {
+     "label": "Kế hoạch 2026",
+     "value": "39.500"
+    },
+    {
+     "label": "CAGR 14,8%",
+     "value": "(đặt phía trên đường nối các cột từ 2022 đến 2026)"
+    }
+   ],
+   "bbox_pdf_pt": [
+    321.4,
+    648.3,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p118_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 2448,
+  "output": 267
+ },
+ "seconds": 3.5
+}

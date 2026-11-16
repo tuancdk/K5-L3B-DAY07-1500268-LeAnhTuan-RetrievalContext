@@ -1,0 +1,88 @@
+{
+ "printed_page": 167,
+ "pdf_page": 84,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "SĐT đường dây nóng liên hệ",
+   "bbox": [
+    50,
+    600,
+    950,
+    750
+   ],
+   "description": "Danh sách các kênh Call và kênh khác Call để liên hệ với MB, bao gồm số điện thoại và các phương thức liên lạc khác qua App và mạng xã hội.",
+   "data": [
+    {
+     "label": "KH Mass",
+     "value": "1900 545426/024 3767 4050"
+    },
+    {
+     "label": "KH Priority/Private",
+     "value": "024 2204 8899"
+    },
+    {
+     "label": "KH SME",
+     "value": "1900 9045/024 6297 6868"
+    },
+    {
+     "label": "App to call",
+     "value": "Kết nối qua Internet từ App MBBank"
+    },
+    {
+     "label": "Email",
+     "value": "Mass, Priority/Private, SME"
+    },
+    {
+     "label": "Facebook/Fan page/Group KH thân thiết",
+     "value": ""
+    },
+    {
+     "label": "Chợ ứng dụng/Shopee",
+     "value": ""
+    },
+    {
+     "label": "eMBee Helper",
+     "value": "Chat với TVV qua App MBBank"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    505.1,
+    1160.8,
+    631.4
+   ],
+   "crop": "starter/data/advanced/crops/p167_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh giao dịch viên MB làm việc với khách hàng",
+   "bbox": [
+    0,
+    750,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp giao dịch viên nữ của MB đang tư vấn cho khách hàng nam tại quầy giao dịch, thể hiện môi trường làm việc chuyên nghiệp và thân thiện.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    631.4,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p167_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4024,
+  "output": 291
+ },
+ "seconds": 3.3
+}

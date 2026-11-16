@@ -1,0 +1,98 @@
+{
+ "printed_page": 77,
+ "pdf_page": 39,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Phân loại theo độ tuổi",
+   "bbox": [
+    50,
+    80,
+    950,
+    350
+   ],
+   "description": "Biểu đồ thanh ngang so sánh số lượng nhân sự theo 3 nhóm tuổi năm 2024 và 2025, đơn vị tính: người. Có 3 nhóm tuổi: Dưới 35 tuổi, Từ 35 đến dưới 55 tuổi, Từ 55 tuổi trở lên. Mỗi nhóm có 2 thanh: năm 2024 màu tím nhạt, năm 2025 màu xanh đậm. Có chú thích tăng trưởng % so với 2024 bên phải mỗi nhóm tuổi.",
+   "data": [
+    {
+     "label": "Dưới 35 tuổi 2024",
+     "value": "8.671"
+    },
+    {
+     "label": "Dưới 35 tuổi 2025",
+     "value": "9.182"
+    },
+    {
+     "label": "Từ 35 đến dưới 55 tuổi 2024",
+     "value": "3.463"
+    },
+    {
+     "label": "Từ 35 đến dưới 55 tuổi 2025",
+     "value": "3.828"
+    },
+    {
+     "label": "Từ 55 tuổi trở lên 2024",
+     "value": "21"
+    },
+    {
+     "label": "Từ 55 tuổi trở lên 2025",
+     "value": "37"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    67.4,
+    1160.8,
+    294.7
+   ],
+   "crop": "starter/data/advanced/crops/p077_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Thu nhập bình quân tháng của CBNV và Số giờ đào tạo trung bình mỗi năm",
+   "bbox": [
+    50,
+    360,
+    950,
+    460
+   ],
+   "description": "Hai chỉ số chính: Thu nhập bình quân tháng của CBNV và Số giờ đào tạo trung bình mỗi năm. Thu nhập bình quân tháng là 39,4 triệu đồng/người/tháng, tăng 5,3% so với 2024. Số giờ đào tạo trung bình mỗi năm là 70,73 giờ, tăng 38% so với 2024.",
+   "data": [
+    {
+     "label": "Thu nhập bình quân tháng 2025",
+     "value": "39,4 triệu/người/tháng"
+    },
+    {
+     "label": "Tăng so với 2024",
+     "value": "5,3%"
+    },
+    {
+     "label": "Số giờ đào tạo trung bình mỗi năm 2025",
+     "value": "70,73 giờ"
+    },
+    {
+     "label": "Tăng so với 2024",
+     "value": "38%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    303.1,
+    1160.8,
+    387.3
+   ],
+   "crop": "starter/data/advanced/crops/p077_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4460,
+  "output": 454
+ },
+ "seconds": 6.9
+}

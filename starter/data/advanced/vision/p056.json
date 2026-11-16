@@ -1,0 +1,109 @@
+{
+ "printed_page": 56,
+ "pdf_page": 29,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Kết quả hoạt động nổi bật trong năm 2025",
+   "bbox": [
+    30,
+    120,
+    970,
+    520
+   ],
+   "description": "Các chỉ tiêu kinh doanh nổi bật của MB năm 2025 với tổng tài sản vượt đạt 1.615.764 nghìn tỷ đồng, tăng trưởng 43,1% so với năm trước; tổng dư nợ cho vay tăng 36,8% lên 1.110 nghìn tỷ đồng; tỷ lệ nợ xấu duy trì ở mức thấp 1,3%, thấp hơn mặt bằng chung toàn ngành.",
+   "data": [
+    {
+     "label": "Tổng tài sản vượt đạt",
+     "value": "1.615 NGHÌN Tỷ đồng"
+    },
+    {
+     "label": "Tương ứng mức tăng trưởng",
+     "value": "43,1% so với năm trước"
+    },
+    {
+     "label": "Tổng dư nợ cho vay tăng",
+     "value": "36,8%"
+    },
+    {
+     "label": "Đẩy quy mô tín dụng toàn hệ thống lên",
+     "value": "1.110 NGHÌN Tỷ đồng"
+    },
+    {
+     "label": "Kiểm soát tốt chất lượng tài sản và duy trì tỷ lệ nợ xấu ở mức thấp",
+     "value": "1,3% thấp hơn mặt bằng chung toàn ngành"
+    }
+   ],
+   "bbox_pdf_pt": [
+    17.9,
+    101.0,
+    577.4,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p056_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Mở rộng tệp khách hàng và nâng cao trải nghiệm người dùng",
+   "bbox": [
+    30,
+    530,
+    970,
+    670
+   ],
+   "description": "Số lượng khách hàng MB tăng từ 5 triệu trong 25 năm đầu tiên lên hơn 35 triệu vào năm 2025, đồng thời nâng cấp hệ sinh thái dịch vụ số cho doanh nghiệp trên BIZ MBBank để tối ưu trải nghiệm khách hàng tổ chức và doanh nghiệp.",
+   "data": [
+    {
+     "label": "Số khách hàng năm 2025",
+     "value": "35 TRIỆU"
+    }
+   ],
+   "bbox_pdf_pt": [
+    17.9,
+    446.2,
+    577.4,
+    564.1
+   ],
+   "crop": "starter/data/advanced/crops/p056_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Nâng cao năng lực công nghệ thông tin & Chuyển đổi số",
+   "bbox": [
+    30,
+    680,
+    970,
+    830
+   ],
+   "description": "Tỷ lệ giao dịch số đạt khoảng 99%, tương đương các ngân hàng hàng đầu khu vực châu Á. MB dẫn đầu hệ thống ngân hàng Việt Nam về quy mô giao dịch số trong 3 năm liên tiếp. Ứng dụng App MBBank ghi nhận khoảng 10 triệu giao dịch/ngày. MB tiếp tục đi đầu trong triển khai xác thực sinh trắc học cho giao dịch tài chính.",
+   "data": [
+    {
+     "label": "Tỷ lệ giao dịch số đạt khoảng",
+     "value": "99%"
+    },
+    {
+     "label": "Ứng dụng App MBBank ghi nhận",
+     "value": "10 TRIỆU giao dịch/ngày"
+    }
+   ],
+   "bbox_pdf_pt": [
+    17.9,
+    572.5,
+    577.4,
+    698.8
+   ],
+   "crop": "starter/data/advanced/crops/p056_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 4016,
+  "output": 536
+ },
+ "seconds": 4.4
+}

@@ -1,0 +1,309 @@
+{
+ "printed_page": 249,
+ "pdf_page": 125,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Danh sách cổ đông nội bộ và người liên quan tại MB năm 2025",
+   "bbox": [
+    20,
+    50,
+    980,
+    950
+   ],
+   "description": "Bảng liệt kê các cổ đông nội bộ và người liên quan tại MB, gồm các cột: STT, Họ và tên, Chức vụ tại MB/Quan hệ với người nội bộ, Số lượng cổ phiếu đầu kỳ (31/12/2024), Tỷ lệ/VĐL (%), Số lượng cổ phiếu cuối kỳ (31/12/2025), Tỷ lệ/VĐL (%), Lý do tăng/giảm (mua, bán, chuyển đổi, trả cổ tức, thưởng, …). Dữ liệu thể hiện số lượng cổ phiếu và tỷ lệ vốn điều lệ của từng cá nhân đầu và cuối kỳ, cùng lý do thay đổi cổ phiếu như nhận cổ tức bằng cổ phiếu hoặc giao dịch cổ phiếu.",
+   "data": [
+    {
+     "label": "Lê Phương Thảo - Số lượng cổ phiếu đầu kỳ",
+     "value": "38"
+    },
+    {
+     "label": "Lê Phương Thảo - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Lê Phương Thảo - Số lượng cổ phiếu cuối kỳ",
+     "value": "56"
+    },
+    {
+     "label": "Lê Phương Thảo - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Trần Thị Bảo Quế - Số lượng cổ phiếu đầu kỳ",
+     "value": "2.327.843"
+    },
+    {
+     "label": "Trần Thị Bảo Quế - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,04%"
+    },
+    {
+     "label": "Trần Thị Bảo Quế - Số lượng cổ phiếu cuối kỳ",
+     "value": "3.576.185"
+    },
+    {
+     "label": "Trần Thị Bảo Quế - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,04%"
+    },
+    {
+     "label": "Doãn Thị Thịnh - Số lượng cổ phiếu đầu kỳ",
+     "value": "419.848"
+    },
+    {
+     "label": "Doãn Thị Thịnh - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,01%"
+    },
+    {
+     "label": "Doãn Thị Thịnh - Số lượng cổ phiếu cuối kỳ",
+     "value": "637.329"
+    },
+    {
+     "label": "Doãn Thị Thịnh - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,01%"
+    },
+    {
+     "label": "Trần Đức Việt - Số lượng cổ phiếu đầu kỳ",
+     "value": "85.116"
+    },
+    {
+     "label": "Trần Đức Việt - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Trần Đức Việt - Số lượng cổ phiếu cuối kỳ",
+     "value": "129.205"
+    },
+    {
+     "label": "Trần Đức Việt - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Nguyễn Thị Thủy - Số lượng cổ phiếu đầu kỳ",
+     "value": "753.902"
+    },
+    {
+     "label": "Nguyễn Thị Thủy - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,01%"
+    },
+    {
+     "label": "Nguyễn Thị Thủy - Số lượng cổ phiếu cuối kỳ",
+     "value": "760.002"
+    },
+    {
+     "label": "Nguyễn Thị Thủy - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,01%"
+    },
+    {
+     "label": "Trần Trọng Hương - Số lượng cổ phiếu đầu kỳ",
+     "value": "0"
+    },
+    {
+     "label": "Trần Trọng Hương - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Trần Trọng Hương - Số lượng cổ phiếu cuối kỳ",
+     "value": "240.000"
+    },
+    {
+     "label": "Trần Trọng Hương - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Trần Ngọc Minh - Số lượng cổ phiếu đầu kỳ",
+     "value": "50.000"
+    },
+    {
+     "label": "Trần Ngọc Minh - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Trần Ngọc Minh - Số lượng cổ phiếu cuối kỳ",
+     "value": "0"
+    },
+    {
+     "label": "Trần Ngọc Minh - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Nguyễn Thị Hà - Số lượng cổ phiếu đầu kỳ",
+     "value": "49"
+    },
+    {
+     "label": "Nguyễn Thị Hà - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Nguyễn Thị Hà - Số lượng cổ phiếu cuối kỳ",
+     "value": "73"
+    },
+    {
+     "label": "Nguyễn Thị Hà - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Đặng Thúy Dung - Số lượng cổ phiếu đầu kỳ",
+     "value": "307.135"
+    },
+    {
+     "label": "Đặng Thúy Dung - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,01%"
+    },
+    {
+     "label": "Đặng Thúy Dung - Số lượng cổ phiếu cuối kỳ",
+     "value": "466.230"
+    },
+    {
+     "label": "Đặng Thúy Dung - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,01%"
+    },
+    {
+     "label": "Vũ Thị Tuất - Số lượng cổ phiếu đầu kỳ",
+     "value": "230.959"
+    },
+    {
+     "label": "Vũ Thị Tuất - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Vũ Thị Tuất - Số lượng cổ phiếu cuối kỳ",
+     "value": "350.594"
+    },
+    {
+     "label": "Vũ Thị Tuất - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Đặng Thị Thủy - Số lượng cổ phiếu đầu kỳ",
+     "value": "156.316"
+    },
+    {
+     "label": "Đặng Thị Thủy - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Đặng Thị Thủy - Số lượng cổ phiếu cuối kỳ",
+     "value": "237.285"
+    },
+    {
+     "label": "Đặng Thị Thủy - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Đinh Thành Lê - Số lượng cổ phiếu đầu kỳ",
+     "value": "0"
+    },
+    {
+     "label": "Đinh Thành Lê - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Đinh Thành Lê - Số lượng cổ phiếu cuối kỳ",
+     "value": "1.000"
+    },
+    {
+     "label": "Đinh Thành Lê - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Phạm Văn Giang - Số lượng cổ phiếu đầu kỳ",
+     "value": "693.686"
+    },
+    {
+     "label": "Phạm Văn Giang - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,01%"
+    },
+    {
+     "label": "Phạm Văn Giang - Số lượng cổ phiếu cuối kỳ",
+     "value": "1.053.014"
+    },
+    {
+     "label": "Phạm Văn Giang - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,01%"
+    },
+    {
+     "label": "Nguyễn Thị Thanh Nga - Số lượng cổ phiếu đầu kỳ",
+     "value": "2.166.230"
+    },
+    {
+     "label": "Nguyễn Thị Thanh Nga - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,04%"
+    },
+    {
+     "label": "Nguyễn Thị Thanh Nga - Số lượng cổ phiếu cuối kỳ",
+     "value": "3.288.336"
+    },
+    {
+     "label": "Nguyễn Thị Thanh Nga - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,04%"
+    },
+    {
+     "label": "Nguyễn Ngọc Thành - Số lượng cổ phiếu đầu kỳ",
+     "value": "85.874"
+    },
+    {
+     "label": "Nguyễn Ngọc Thành - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Nguyễn Ngọc Thành - Số lượng cổ phiếu cuối kỳ",
+     "value": "130.356"
+    },
+    {
+     "label": "Nguyễn Ngọc Thành - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Lê Thu Trang - Số lượng cổ phiếu đầu kỳ",
+     "value": "37"
+    },
+    {
+     "label": "Lê Thu Trang - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Lê Thu Trang - Số lượng cổ phiếu cuối kỳ",
+     "value": "55"
+    },
+    {
+     "label": "Lê Thu Trang - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Trần Thùy Triều - Số lượng cổ phiếu đầu kỳ",
+     "value": "1.994"
+    },
+    {
+     "label": "Trần Thùy Triều - Tỷ lệ/VĐL đầu kỳ",
+     "value": "0,00%"
+    },
+    {
+     "label": "Trần Thùy Triều - Số lượng cổ phiếu cuối kỳ",
+     "value": "3.026"
+    },
+    {
+     "label": "Trần Thùy Triều - Tỷ lệ/VĐL cuối kỳ",
+     "value": "0,00%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    607.2,
+    42.1,
+    1178.6,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p249_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4146,
+  "output": 1847
+ },
+ "seconds": 12.9
+}

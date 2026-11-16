@@ -1,0 +1,129 @@
+{
+ "printed_page": 45,
+ "pdf_page": 23,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Rủi ro lãi suất trên sổ ngân hàng",
+   "bbox": [
+    40,
+    120,
+    320,
+    380
+   ],
+   "description": "Sơ đồ mô tả các loại rủi ro lãi suất trên sổ ngân hàng gồm: Rủi ro chênh lệch (Gap risk), Rủi ro cơ sở (Basis risk), Rủi ro quyền chọn (Option risk). Mỗi loại rủi ro có mô tả chi tiết về nguyên nhân phát sinh và đặc điểm riêng.",
+   "data": [
+    {
+     "label": "Rủi ro chênh lệch (Gap risk)",
+     "value": "Phát sinh từ sự không khớp về thời điểm định giá lại lãi suất hoặc không khớp về kỳ hạn giữa tài sản và nợ phải trả (bao gồm cả các khoản mục ngoại bảng) trên sổ ngân hàng"
+    },
+    {
+     "label": "Rủi ro cơ sở (Basis risk)",
+     "value": "Phát sinh từ sự khác nhau giữa lãi suất được sử dụng để định giá lại tài sản và nợ phải trả (bao gồm cả các khoản mục ngoại bảng) có cùng kỳ hạn"
+    },
+    {
+     "label": "Rủi ro quyền chọn (Option risk)",
+     "value": "Phát sinh từ việc thực hiện quyền chọn tự động hoặc quyền lựa chọn hành vi gắn với tài sản và nợ phải trả (bao gồm cả khoản mục ngoại bảng) trên sổ ngân hàng làm thay đổi giá trị và thời điểm phát sinh dòng tiền, bao gồm: Rủi ro quyền chọn tự động (Automatic option risk) phát sinh khi lãi suất thay đổi dẫn đến việc chắc chắn thực hiện quyền chọn theo quy định tại hợp đồng; Rủi ro quyền lựa chọn hành vi (Behavioral option risk) phát sinh khi lãi suất thay đổi có thể làm thay đổi hành vi của khách hàng."
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    101.0,
+    785.8,
+    319.9
+   ],
+   "crop": "starter/data/advanced/crops/p045_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Khung quản lý rủi ro lãi suất trên sổ ngân hàng MB",
+   "bbox": [
+    40,
+    400,
+    960,
+    620
+   ],
+   "description": "Mô tả khung quản lý rủi ro lãi suất trên sổ ngân hàng của MB gồm cơ cấu tổ chức theo nguyên tắc ba tuyến bảo vệ, hệ thống quy định nội bộ, mô hình, hạn mức; quy trình quản trị với các phương pháp luận đo lường và theo dõi rủi ro lãi suất cơ sở; tuân thủ Basel II và hướng đến Basel III; cập nhật chính sách, quy trình, phương pháp luận đo lường rủi ro, theo dõi hạn mức rủi ro lãi suất như trạng thái chênh lệch kỳ định lại lãi suất (repricing gap profile), thay đổi thu nhập lãi thuần (Change in net income - ∆NII), thay đổi giá trị kinh tế vốn chủ sở hữu (Change in economic value of equity - ∆EVE), ứng dụng mô hình hành vi khách hàng xác định tiền gửi ổn định (core deposit).",
+   "data": [
+    {
+     "label": "Nguyên tắc quản lý",
+     "value": "Ba tuyến bảo vệ, hệ thống quy định nội bộ, mô hình, hạn mức"
+    },
+    {
+     "label": "Phương pháp luận",
+     "value": "Đo lường và theo dõi rủi ro lãi suất cơ sở"
+    },
+    {
+     "label": "Tuân thủ",
+     "value": "Basel II, hướng đến Basel III, quy định Ngân hàng Nhà nước"
+    },
+    {
+     "label": "Chỉ tiêu theo dõi",
+     "value": "Repricing gap profile, Change in net income (∆NII), Change in economic value of equity (∆EVE)"
+    },
+    {
+     "label": "Ứng dụng",
+     "value": "Mô hình hành vi khách hàng xác định tiền gửi ổn định (core deposit)"
+    },
+    {
+     "label": "Mục tiêu",
+     "value": "Cân bằng tối ưu lợi nhuận và giảm thiểu rủi ro"
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    336.8,
+    1166.7,
+    522.0
+   ],
+   "crop": "starter/data/advanced/crops/p045_v1.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Rủi ro tập trung trong giao dịch tự doanh",
+   "bbox": [
+    40,
+    630,
+    960,
+    760
+   ],
+   "description": "Mô tả rủi ro tập trung là rủi ro do ngân hàng có hoạt động kinh doanh tập trung vào một khách hàng, đối tác, sản phẩm, giao dịch, ngành, lĩnh vực kinh tế, loại tiền tệ có tác động đáng kể đến thu nhập và trạng thái rủi ro theo quy định nội bộ. Rủi ro tập trung bao gồm rủi ro tập trung đối với hoạt động cấp tín dụng và giao dịch tự doanh. MB xây dựng chiến lược quản lý và hạn mức tập trung giao dịch tự doanh theo đối tác, sản phẩm, loại tiền tệ, xây dựng tiêu chí xác định danh mục giao dịch tự doanh để đảm bảo đa dạng và tương tác.",
+   "data": [
+    {
+     "label": "Định nghĩa rủi ro tập trung",
+     "value": "Tập trung vào khách hàng, đối tác, sản phẩm, giao dịch, ngành, lĩnh vực kinh tế, loại tiền tệ ảnh hưởng đáng kể đến thu nhập và trạng thái rủi ro"
+    },
+    {
+     "label": "Phân loại",
+     "value": "Rủi ro tập trung cấp tín dụng và rủi ro tập trung giao dịch tự doanh"
+    },
+    {
+     "label": "Chiến lược quản lý",
+     "value": "Hạn mức tập trung giao dịch tự doanh theo đối tác, sản phẩm, loại tiền tệ"
+    },
+    {
+     "label": "Tiêu chí",
+     "value": "Xác định danh mục giao dịch tự doanh đảm bảo đa dạng và tương tác"
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    530.4,
+    1166.7,
+    639.8
+   ],
+   "crop": "starter/data/advanced/crops/p045_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 4203,
+  "output": 1121
+ },
+ "seconds": 9.6
+}

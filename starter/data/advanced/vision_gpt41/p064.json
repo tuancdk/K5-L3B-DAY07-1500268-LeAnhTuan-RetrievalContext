@@ -1,0 +1,137 @@
+{
+ "printed_page": 64,
+ "pdf_page": 33,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Cho vay phân khúc KHCN",
+   "bbox": [
+    54,
+    426,
+    355,
+    573
+   ],
+   "description": "Biểu đồ cột thể hiện giá trị cho vay phân khúc khách hàng cá nhân (KHCN) qua các năm 2023, 2024, 2025. Trục tung là giá trị (nghìn tỷ đồng), trục hoành là các năm. Có nhãn phụ '+27%' đặt trên cột năm 2025.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "277.720"
+    },
+    {
+     "label": "2024",
+     "value": "336.936"
+    },
+    {
+     "label": "2025",
+     "value": "444.841"
+    },
+    {
+     "label": "+27% (trên cột 2025)",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    32.1,
+    358.6,
+    211.3,
+    482.4
+   ],
+   "crop": "starter/data/advanced/crops/p064_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Tiền gửi phân khúc KHCN",
+   "bbox": [
+    54,
+    574,
+    355,
+    721
+   ],
+   "description": "Biểu đồ cột thể hiện giá trị tiền gửi phân khúc khách hàng cá nhân (KHCN) qua các năm 2023, 2024, 2025. Trục tung là giá trị (nghìn tỷ đồng), trục hoành là các năm. Có nhãn phụ '+26%' đặt trên cột năm 2025.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "328.719"
+    },
+    {
+     "label": "2024",
+     "value": "420.521"
+    },
+    {
+     "label": "2025",
+     "value": "518.971"
+    },
+    {
+     "label": "+26% (trên cột 2025)",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    32.1,
+    483.2,
+    211.3,
+    607.0
+   ],
+   "crop": "starter/data/advanced/crops/p064_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "",
+   "bbox": [
+    54,
+    722,
+    355,
+    800
+   ],
+   "description": "Hai ô số liệu nổi bật: 'Khối Khách hàng cá nhân đã chào đón 5 TRIỆU khách hàng' và 'Quy mô huy động vốn 23% so với năm 2024'.",
+   "data": [
+    {
+     "label": "Khối Khách hàng cá nhân đã chào đón",
+     "value": "5 TRIỆU khách hàng"
+    },
+    {
+     "label": "Quy mô huy động vốn",
+     "value": "23% so với năm 2024"
+    }
+   ],
+   "bbox_pdf_pt": [
+    32.1,
+    607.8,
+    211.3,
+    673.5
+   ],
+   "crop": "starter/data/advanced/crops/p064_v2.png"
+  },
+  {
+   "kind": "photo",
+   "title": "",
+   "bbox": [
+    360,
+    0,
+    1000,
+    570
+   ],
+   "description": "Ảnh chụp không gian giao dịch tại quầy của MB với 5 nhân viên đứng sau quầy, mặc đồng phục, phía sau là tường xanh và logo MB. Không có chú thích sự kiện, giải thưởng hoặc tên người.",
+   "data": [],
+   "bbox_pdf_pt": [
+    214.3,
+    0.0,
+    595.3,
+    479.9
+   ],
+   "crop": "starter/data/advanced/crops/p064_v3.png"
+  }
+ ],
+ "usage": {
+  "input": 2518,
+  "output": 511
+ },
+ "seconds": 10.0
+}

@@ -1,0 +1,121 @@
+{
+ "printed_page": 112,
+ "pdf_page": 57,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Hiệu quả hoạt động trên tài sản (ROA)",
+   "bbox": [
+    100,
+    400,
+    900,
+    700
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện ROA (%) và svck (%) của các ngân hàng năm 2025. Trục tung trái là ROA (%) từ 0 đến 2,4%, trục tung phải là svck (%) từ -50 đến 21. Các ngân hàng gồm TCB, VPB, MBB, ACB, VCB, CTG, BID, STB. ROA cao nhất là TCB 2,4%, thấp nhất STB 0,7%. MBB đạt ROA 2,0%. svck (%) tương ứng có giá trị từ -50% đến 21%.",
+   "data": [
+    {
+     "label": "TCB",
+     "value": "ROA 2,4%; svck 0%"
+    },
+    {
+     "label": "VPB",
+     "value": "ROA 2,2%; svck 21%"
+    },
+    {
+     "label": "MBB",
+     "value": "ROA 2,0%; svck -10%"
+    },
+    {
+     "label": "ACB",
+     "value": "ROA 1,7%; svck -22%"
+    },
+    {
+     "label": "VCB",
+     "value": "ROA 1,6%; svck -10%"
+    },
+    {
+     "label": "CTG",
+     "value": "ROA 1,4%; svck 17%"
+    },
+    {
+     "label": "BID",
+     "value": "ROA 1,0%; svck -1%"
+    },
+    {
+     "label": "STB",
+     "value": "ROA 0,7%; svck -50%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    336.8,
+    535.7,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p112_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Hiệu quả hoạt động trên vốn chủ sở hữu (ROE)",
+   "bbox": [
+    100,
+    750,
+    900,
+    1000
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện ROE (%) và svck (%) của các ngân hàng năm 2025. Trục tung trái là ROE (%) từ 10,3 đến 21,2%, trục tung phải là svck (%) từ -48 đến 34. Các ngân hàng gồm CTG, MBB, BID, ACB, VCB, TCB, VPB, STB. ROE cao nhất là CTG 21,2%, MBB đứng thứ 2 với 21,1%. svck (%) tương ứng có giá trị từ -48% đến 34%.",
+   "data": [
+    {
+     "label": "CTG",
+     "value": "ROE 21,2%; svck 14,9%"
+    },
+    {
+     "label": "MBB",
+     "value": "ROE 21,1%; svck -2%"
+    },
+    {
+     "label": "BID",
+     "value": "ROE 19,1%; svck 0%"
+    },
+    {
+     "label": "ACB",
+     "value": "ROE 17,6%; svck -19%"
+    },
+    {
+     "label": "VCB",
+     "value": "ROE 16,6%; svck -11%"
+    },
+    {
+     "label": "TCB",
+     "value": "ROE 15,9%; svck 2%"
+    },
+    {
+     "label": "VPB",
+     "value": "ROE 14,9%; svck 34%"
+    },
+    {
+     "label": "STB",
+     "value": "ROE 10,3%; svck -48%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    631.4,
+    535.7,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p112_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3697,
+  "output": 667
+ },
+ "seconds": 5.3
+}

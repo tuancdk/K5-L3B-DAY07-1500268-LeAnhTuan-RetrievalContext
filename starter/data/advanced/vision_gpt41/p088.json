@@ -1,0 +1,186 @@
+{
+ "printed_page": 88,
+ "pdf_page": 45,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tổng Tài sản (nghìn tỷ đồng)",
+   "bbox": [
+    60,
+    370,
+    470,
+    670
+   ],
+   "description": "Biểu đồ cột kết hợp thể hiện tổng tài sản của MB qua các năm 2023, 2024, 2025. Trục tung là giá trị tổng tài sản (nghìn tỷ đồng), trục hoành là các năm. Các cột được chia thành 4 phần theo cơ cấu: Cho vay khách hàng, Trái phiếu doanh nghiệp, Trái phiếu chính phủ, Khác. Có nhãn tỷ trọng (%) trên từng phần của cột. Nhãn '+31%' đặt phía trên cột 2024. Các giá trị tổng tài sản được ghi trên đỉnh cột.",
+   "data": [
+    {
+     "label": "2023 - Tổng tài sản",
+     "value": "945"
+    },
+    {
+     "label": "2023 - Cho vay khách hàng",
+     "value": "63%"
+    },
+    {
+     "label": "2023 - Trái phiếu doanh nghiệp",
+     "value": "6%"
+    },
+    {
+     "label": "2023 - Trái phiếu chính phủ",
+     "value": "4%"
+    },
+    {
+     "label": "2023 - Khác",
+     "value": "28%"
+    },
+    {
+     "label": "2024 - Tổng tài sản",
+     "value": "1.129"
+    },
+    {
+     "label": "2024 - Cho vay khách hàng",
+     "value": "68%"
+    },
+    {
+     "label": "2024 - Trái phiếu doanh nghiệp",
+     "value": "6%"
+    },
+    {
+     "label": "2024 - Trái phiếu chính phủ",
+     "value": "2%"
+    },
+    {
+     "label": "2024 - Khác",
+     "value": "23%"
+    },
+    {
+     "label": "2025 - Tổng tài sản",
+     "value": "1.616"
+    },
+    {
+     "label": "2025 - Cho vay khách hàng",
+     "value": "66%"
+    },
+    {
+     "label": "2025 - Trái phiếu doanh nghiệp",
+     "value": "4%"
+    },
+    {
+     "label": "2025 - Trái phiếu chính phủ",
+     "value": "2%"
+    },
+    {
+     "label": "2025 - Khác",
+     "value": "28%"
+    },
+    {
+     "label": "+31%",
+     "value": "đặt phía trên cột 2024"
+    }
+   ],
+   "bbox_pdf_pt": [
+    35.7,
+    311.5,
+    279.8,
+    564.1
+   ],
+   "crop": "starter/data/advanced/crops/p088_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Nguồn vốn (nghìn tỷ đồng)",
+   "bbox": [
+    60,
+    760,
+    470,
+    1060
+   ],
+   "description": "Biểu đồ cột kết hợp thể hiện nguồn vốn của MB qua các năm 2023, 2024, 2025. Trục tung là giá trị nguồn vốn (nghìn tỷ đồng), trục hoành là các năm. Các cột được chia thành 4 phần theo cơ cấu: Huy động khách hàng, Giấy tờ có giá, Huy động từ các tổ chức, Khác. Có nhãn tỷ trọng (%) trên từng phần của cột. Nhãn '+32%' đặt phía trên cột 2024. Các giá trị tổng nguồn vốn được ghi trên đỉnh cột.",
+   "data": [
+    {
+     "label": "2023 - Nguồn vốn",
+     "value": "848"
+    },
+    {
+     "label": "2023 - Huy động khách hàng",
+     "value": "71%"
+    },
+    {
+     "label": "2023 - Giấy tờ có giá",
+     "value": "6%"
+    },
+    {
+     "label": "2023 - Huy động từ các tổ chức",
+     "value": "13%"
+    },
+    {
+     "label": "2023 - Khác",
+     "value": "11%"
+    },
+    {
+     "label": "2024 - Nguồn vốn",
+     "value": "1.012"
+    },
+    {
+     "label": "2024 - Huy động khách hàng",
+     "value": "67%"
+    },
+    {
+     "label": "2024 - Giấy tờ có giá",
+     "value": "6%"
+    },
+    {
+     "label": "2024 - Huy động từ các tổ chức",
+     "value": "15%"
+    },
+    {
+     "label": "2024 - Khác",
+     "value": "12%"
+    },
+    {
+     "label": "2025 - Nguồn vốn",
+     "value": "1.474"
+    },
+    {
+     "label": "2025 - Huy động khách hàng",
+     "value": "62%"
+    },
+    {
+     "label": "2025 - Giấy tờ có giá",
+     "value": "8%"
+    },
+    {
+     "label": "2025 - Huy động từ các tổ chức",
+     "value": "17%"
+    },
+    {
+     "label": "2025 - Khác",
+     "value": "13%"
+    },
+    {
+     "label": "+32%",
+     "value": "đặt phía trên cột 2024"
+    }
+   ],
+   "bbox_pdf_pt": [
+    35.7,
+    639.8,
+    279.8,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p088_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2515,
+  "output": 837
+ },
+ "seconds": 7.6
+}

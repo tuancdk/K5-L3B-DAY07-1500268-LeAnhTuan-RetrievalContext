@@ -1,0 +1,109 @@
+{
+ "printed_page": 50,
+ "pdf_page": 26,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Các rủi ro mô hình trọng yếu và biện pháp giảm thiểu",
+   "bbox": [
+    20,
+    50,
+    980,
+    400
+   ],
+   "description": "Sơ đồ thể hiện 5 loại rủi ro mô hình trọng yếu và biện pháp giảm thiểu tương ứng. Mỗi rủi ro được mô tả trong ô màu hồng với dấu X đỏ, bên dưới là ô màu xanh ghi biện pháp giảm thiểu tương ứng.",
+   "data": [
+    {
+     "label": "Rủi ro dữ liệu đầu vào",
+     "value": "Sai lệch, thiếu đầy đủ hoặc không đại diện có thể làm suy giảm hiệu quả mô hình thanh tra – điều tra nội bộ, tuân thủ – pháp chế"
+    },
+    {
+     "label": "Biện pháp",
+     "value": "Tăng cường kiểm soát chất lượng dữ liệu, chuẩn hóa quy trình thu thập và làm sạch dữ liệu, giám sát biến động dữ liệu định kỳ"
+    },
+    {
+     "label": "Rủi ro giả định và phương pháp luận",
+     "value": "Giả định không còn phù hợp với điều kiện thị trường có thể ảnh hưởng đến độ chính xác của mô hình"
+    },
+    {
+     "label": "Biện pháp",
+     "value": "Rà soát định kỳ, thực hiện phân tích độ nhạy, so sánh với mô hình thay thế và benchmark độc lập"
+    },
+    {
+     "label": "Rủi ro biến động môi trường kinh tế và quy định",
+     "value": "Thay đổi vĩ mô hoặc yêu cầu pháp lý có thể làm thay đổi hành vi danh mục"
+    },
+    {
+     "label": "Biện pháp",
+     "value": "Thực hiện stress testing, cập nhật tham số theo diễn biến thị trường, điều chỉnh mô hình kịp thời"
+    },
+    {
+     "label": "Rủi ro vận hành trong sử dụng mô hình",
+     "value": "Việc áp dụng mô hình không đúng phạm vi hoặc override thiếu kiểm soát có thể làm gia tăng rủi ro"
+    },
+    {
+     "label": "Biện pháp",
+     "value": "Phân quyền rõ ràng, theo dõi tỷ lệ override, đào tạo người sử dụng và giám sát việc tuân thủ"
+    },
+    {
+     "label": "Rủi ro liên quan đến ứng dụng AI và phân tích nâng cao",
+     "value": "Các mô hình phức tạp đòi hỏi mức độ minh bạch và giải trình cao hơn"
+    },
+    {
+     "label": "Biện pháp",
+     "value": "Tăng cường khả năng giải thích mô hình, chuẩn hóa tài liệu kỹ thuật, kiểm định độc lập và đánh giá công bằng thuật toán khi cần thiết"
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    42.1,
+    583.4,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p050_v0.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Khung quản lý rủi ro mô hình, Kiểm định và giám sát mô hình, Quản trị dữ liệu và công nghệ hỗ trợ",
+   "bbox": [
+    20,
+    420,
+    980,
+    980
+   ],
+   "description": "Sơ đồ 3 vòng tròn chồng lên nhau thể hiện 3 nhóm biện pháp quản lý rủi ro mô hình của MB. Mỗi vòng tròn có mô tả chi tiết bên cạnh.",
+   "data": [
+    {
+     "label": "Khung quản lý rủi ro mô hình",
+     "value": "Ngân hàng thiết lập khung quản trị rủi ro mô hình thống nhất trên toàn hệ thống, bao gồm: Chính sách và quy trình quản lý rủi ro mô hình được ban hành và cập nhật định kỳ; Phân tách rõ ràng chức năng phát triển, sử dụng và kiểm định độc lập theo nguyên tắc ba tuyến phòng thủ; Cơ chế phê duyệt mô hình và phân loại mức độ trọng yếu để áp dụng mức độ kiểm soát tương ứng"
+    },
+    {
+     "label": "Kiểm định và giám sát mô hình",
+     "value": "Thực hiện kiểm định độc lập trước khi triển khai; Giám sát hiệu năng định kỳ thông qua các chỉ tiêu back-testing, stress-testing và phân tích ổn định; Tái hiệu chỉnh hoặc tái phát triển mô hình khi phát hiện suy giảm hiệu quả"
+    },
+    {
+     "label": "Quản trị dữ liệu và công nghệ hỗ trợ",
+     "value": "MB tiếp tục nâng cao năng lực quản trị dữ liệu, chuẩn hóa chất lượng dữ liệu đầu vào và ứng dụng công nghệ trong theo dõi hiệu năng mô hình. Các hệ thống hỗ trợ quản lý phiên bản, lưu vết thay đổi và tự động hóa báo cáo giúp tăng cường tính minh bạch và khả năng kiểm soát."
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    353.6,
+    583.4,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p050_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4048,
+  "output": 878
+ },
+ "seconds": 7.1
+}

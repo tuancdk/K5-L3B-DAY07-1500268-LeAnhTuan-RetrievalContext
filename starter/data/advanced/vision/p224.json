@@ -1,0 +1,85 @@
+{
+ "printed_page": 224,
+ "pdf_page": 113,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Bảng Nghị quyết/Quyết định của HĐQT năm 2025",
+   "bbox": [
+    40,
+    70,
+    960,
+    460
+   ],
+   "description": "Bảng liệt kê các nghị quyết/quyết định của Hội đồng Quản trị MB năm 2025 gồm số nghị quyết, ngày ban hành, nội dung và ghi chú. Có 5 nghị quyết từ số 78 đến 82, với các nội dung như gia hạn hoạt động ngoại hối, đề nghị NHNN cấp giấy phép sản xuất vàng miếng, tăng quy mô vay vốn nước ngoài, bổ sung phạm vi hợp đồng với MB Capital, điều chỉnh PA CGBB.",
+   "data": [
+    {
+     "label": "65 - 78/NQ-MB-HĐQT - 23/10/2025",
+     "value": "Về việc thông qua việc gia hạn “chấp thuận có thời hạn các hoạt động ngoại hối khác của Ngân hàng Thương mại cổ phần Quân đội”"
+    },
+    {
+     "label": "66 - 79/NQ-MB-HĐQT - 05/11/2025",
+     "value": "Về việc thông qua việc đề nghị NHNN cấp giấy phép sản xuất vàng miếng; cấp hạn mức và giấy phép xuất khẩu vàng miếng, nhập khẩu vàng miếng, nhập khẩu vàng nguyên liệu (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "67 - 80/NQ-MB-HĐQT - 07/11/2025",
+     "value": "Thông qua tăng quy mô vay vốn nước ngoài trung hạn đối với phương án đã được HĐQT phê duyệt tại Nghị quyết số 14/NQ-MB-HĐQT ngày 11/03/2025 (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "68 - 81/NQ-MB-HĐQT - 26/12/2025",
+     "value": "Thông qua bổ sung phạm vi, nội dung của Hợp đồng, giao dịch giữa MB và Công ty CP Quản lý quỹ đầu tư MB (MB Capital) trong hoạt động nguồn vốn và kinh doanh tiền tệ. MB thực hiện công bố thông tin: Văn bản số 1246/MB-HĐQT ngày 26/12/2025 về việc bổ sung phạm vi, nội dung hợp đồng, giao dịch giữa MB và MB Capital."
+    },
+    {
+     "label": "69 - 82/NQ-MB-HĐQT - 30/12/2025",
+     "value": "Về việc điều chỉnh, sửa đổi, bổ sung PA CGBB (thực hiện thủ tục báo cáo CQQLNN)"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    58.9,
+    571.5,
+    387.3
+   ],
+   "crop": "starter/data/advanced/crops/p224_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Kết quả thực hiện nhiệm vụ của HĐQT trong năm 2025 và phương thức đánh giá hoạt động",
+   "bbox": [
+    40,
+    470,
+    960,
+    980
+   ],
+   "description": "Đoạn văn mô tả kết quả thực hiện nhiệm vụ của Hội đồng Quản trị MB năm 2025, nhấn mạnh việc thực thi đầy đủ quyền hạn và nhiệm vụ theo quy định pháp luật, Điều lệ MB, Quy chế quản trị nội bộ. Công tác triển khai thường xuyên, bám sát định hướng chiến lược đã được Đại hội đồng Cổ đông thông qua, góp phần nâng cao hiệu quả quản trị và chất lượng hoạt động toàn hệ thống. Việc theo dõi, đánh giá hiệu quả hoạt động của HĐQT và từng thành viên được thực hiện định kỳ theo quy chế MB, hồ sơ tài liệu được lưu trữ đầy đủ, minh bạch. Phương thức đánh giá gồm tự đánh giá của từng thành viên HĐQT, Ban Kiểm soát, Ban Điều hành và người quản lý theo thẩm quyền, cùng các phương thức đánh giá bổ sung theo quy định của MB trong từng thời kỳ.",
+   "data": [
+    {
+     "label": "Phương thức đánh giá 1",
+     "value": "Tự đánh giá của từng thành viên HĐQT, Ban Kiểm soát (BKS), Ban Điều hành (BĐH) và người quản lý theo thẩm quyền."
+    },
+    {
+     "label": "Phương thức đánh giá 2",
+     "value": "Các phương thức đánh giá bổ sung theo quy định của MB trong từng thời kỳ."
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    395.7,
+    571.5,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p224_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3983,
+  "output": 866
+ },
+ "seconds": 7.2
+}

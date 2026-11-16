@@ -1,0 +1,61 @@
+{
+ "printed_page": 274,
+ "pdf_page": 138,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Hoạt động Quan hệ nhà đầu tư (IR) bắt buộc và chủ động",
+   "bbox": [
+    20,
+    150,
+    980,
+    900
+   ],
+   "description": "Sơ đồ mô tả các hoạt động IR bắt buộc và chủ động của MB trong năm 2025. IR bắt buộc gồm công bố 214 văn bản theo quy định, không vi phạm, công bố bằng tiếng Việt và tiếng Anh. IR chủ động gồm cải tiến nội dung, kênh truyền thông, tổ chức sự kiện trong và ngoài nước, cải tiến website, báo cáo cập nhật, phối hợp công ty chứng khoán, gặp gỡ nhà đầu tư qua nhiều hình thức. Kế hoạch tương lai gồm 3 mục: 01 Tăng cường chủ động, minh bạch trong công bố thông tin; 02 Tiếp tục tăng cường độ tin cậy của dữ liệu; 03 Tăng cường các kênh, tài liệu trao đổi thông tin với nhà đầu tư, cải tiến báo cáo thường niên.",
+   "data": [
+    {
+     "label": "Số văn bản công bố bắt buộc năm 2025",
+     "value": "214"
+    },
+    {
+     "label": "Số lần tổ chức Hội nghị Nhà đầu tư định kỳ",
+     "value": "2 (6 tháng/lần)"
+    },
+    {
+     "label": "Các sự kiện tham gia trong nước và quốc tế",
+     "value": "Vietnam Access Day 2025, Emerging Vietnam 2025, UBS Investor Event, ASEAN Corporate Day"
+    },
+    {
+     "label": "Các công ty chứng khoán phối hợp",
+     "value": "Vietcapital, SSI, HSC, VnDirect, MBS, UBS, MayBank KimEng"
+    },
+    {
+     "label": "Các nền tảng gặp gỡ nhà đầu tư",
+     "value": "Email, điện thoại, Teams, Zoom"
+    },
+    {
+     "label": "3 mục tiêu nâng cấp hoạt động IR",
+     "value": "01 Tăng cường minh bạch; 02 Tăng độ tin cậy dữ liệu; 03 Tăng kênh và tài liệu trao đổi thông tin"
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    126.3,
+    583.4,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p274_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4219,
+  "output": 413
+ },
+ "seconds": 3.4
+}

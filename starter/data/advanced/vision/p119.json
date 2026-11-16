@@ -1,0 +1,65 @@
+{
+ "printed_page": 119,
+ "pdf_page": 60,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Một số giải pháp chủ đạo triển khai hoạt động kinh doanh trong năm 2026",
+   "bbox": [
+    50,
+    100,
+    950,
+    900
+   ],
+   "description": "Sơ đồ liệt kê 7 giải pháp chủ đạo triển khai hoạt động kinh doanh năm 2026 của MB, mỗi giải pháp được đánh số từ 01 đến 07, trình bày theo thứ tự từ trên xuống dưới, bên trái có đường cong nối các điểm số. Nội dung từng giải pháp gồm: 01 - Hiệp lực Tập đoàn khai thác hệ sinh thái và tệp khách hàng MB; 02 - Triển khai quyết liệt các sáng kiến chiến lược 2022-2026 với mục tiêu TOP 1 về khách hàng và TOP 3 về hiệu quả; 03 - Số hóa toàn diện công ty thành viên, đẩy mạnh chuyển đổi số và nâng cao năng suất lao động; 04 - Tăng trưởng tín dụng theo định hướng chiến lược, kiểm soát chất lượng tín dụng và trích lập dự phòng đầy đủ; 05 - Đa dạng nguồn huy động vốn đảm bảo thanh khoản và tối ưu chi phí vốn; 06 - Quy hoạch hệ thống mạng lưới đa kênh, ưu tiên mở mới điểm giao dịch hiện đại và SmartBank; 07 - Củng cố văn hóa tổ chức, nâng cao năng lực đội ngũ và tăng năng suất lao động 20%.",
+   "data": [
+    {
+     "label": "01",
+     "value": "Hiệp lực Tập đoàn - khai thác toàn diện và hiệu quả hệ sinh thái, tệp khách hàng MB, nâng cao năng lực cạnh tranh."
+    },
+    {
+     "label": "02",
+     "value": "Triển khai quyết liệt, thực chất các Sáng kiến chiến lược 2022-2026, bám sát phương châm “Tăng tốc – Vững chắc – Hiệu quả”, kiên định mục tiêu MB là Ngân hàng TOP 1 về Khách hàng, giao dịch; TOP 3 về hiệu quả các NHTM."
+    },
+    {
+     "label": "03",
+     "value": "Số hóa toàn diện công ty thành viên, đẩy mạnh chuyển đổi số vào sản phẩm dịch vụ, khách hàng và năng suất lao động. Quản lý chi phí, tối ưu hiệu quả hoạt động, mở rộng khách hàng, mô hình kinh doanh mới và tăng chất lượng nguồn lực."
+    },
+    {
+     "label": "04",
+     "value": "Tăng trưởng tín dụng theo định hướng chiến lược và năng lực tăng trưởng thực tế, trọng tâm chuyển dịch bán lẻ và MicroSME. Kiểm soát chất lượng tín dụng thông qua các mô hình cảnh báo sớm; tập trung thu hồi và xử lý nợ xấu, nợ quá hạn, nợ ngoại bảng; trích lập dự phòng đầy đủ."
+    },
+    {
+     "label": "05",
+     "value": "Đa dạng nguồn huy động vốn đảm bảo thanh khoản và các giới hạn an toàn. Tối ưu chi phí vốn và cơ cấu huy động vốn có kỳ hạn hiệu quả đáp ứng nhu cầu tăng trưởng tín dụng."
+    },
+    {
+     "label": "06",
+     "value": "Quy hoạch hệ thống mạng lưới theo hướng đa kênh, thuận tiện, linh hoạt và hiệu quả, bám sát mục tiêu chiến lược. Ưu tiên mở mới điểm giao dịch hiện đại và SmartBank tại các địa bàn trọng điểm, tiềm năng."
+    },
+    {
+     "label": "07",
+     "value": "Củng cố Văn hóa Tổ chức, triển khai MB1688 sâu rộng, phát huy đoàn kết nội bộ. Chú trọng nâng cao năng lực đội ngũ thông qua luân chuyển học tập trải nghiệm. Quản trị hiệu quả nhân sự tương đương TOP đầu hệ thống, năng suất lao động phấn đấu tăng 20%."
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p119_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3715,
+  "output": 778
+ },
+ "seconds": 10.3
+}

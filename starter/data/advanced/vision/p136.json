@@ -1,0 +1,41 @@
+{
+ "printed_page": 136,
+ "pdf_page": 69,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Trang bìa Báo Cáo Thường Niên 2025",
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp ngoài trời có cầu đường sắt phía trên, phía dưới là khu vui chơi trẻ em với các mô hình gỗ màu vàng cam và sân chơi màu xanh dương, xanh lá và trắng. Góc trên bên trái có chữ 'Báo Cáo Thường Niên 2025'.",
+   "data": [
+    {
+     "label": "Năm",
+     "value": "2025"
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p136_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3178,
+  "output": 123
+ },
+ "seconds": 7.8
+}

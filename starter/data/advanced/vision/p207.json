@@ -1,0 +1,55 @@
+{
+ "printed_page": 207,
+ "pdf_page": 104,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Sáng kiến “Cây Yêu Nước”",
+   "bbox": [
+    50,
+    400,
+    950,
+    900
+   ],
+   "description": "Ảnh chụp cảnh một người đang đưa cốc nước có logo MB cho người khác tại điểm giao dịch MB có biểu ngữ 'Cây Yêu Nước'.",
+   "data": [],
+   "bbox_pdf_pt": [
+    625.0,
+    336.8,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p207_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Sáng kiến “Cây Yêu Nước”",
+   "bbox": [
+    50,
+    910,
+    950,
+    1200
+   ],
+   "description": "Ảnh chụp một người đàn ông đứng bên máy nước uống trực tiếp có logo MB và biểu ngữ 'Cây Yêu Nước', phía sau là poster chiến dịch gây quỹ 'Triệu cột mốc xanh' với hình ảnh chiến sĩ hải quân và các thông tin liên quan.",
+   "data": [],
+   "bbox_pdf_pt": [
+    625.0,
+    766.1,
+    1160.8,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p207_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3411,
+  "output": 174
+ },
+ "seconds": 2.9
+}

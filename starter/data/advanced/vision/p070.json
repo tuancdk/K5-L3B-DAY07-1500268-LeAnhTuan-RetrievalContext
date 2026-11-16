@@ -1,0 +1,55 @@
+{
+ "printed_page": 70,
+ "pdf_page": 36,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ông PHẠM NHƯ ÁNH - Tổng Giám đốc",
+   "bbox": [
+    40,
+    120,
+    320,
+    520
+   ],
+   "description": "Ảnh chân dung ông Phạm Như Ánh mặc vest xanh, đứng nghiêng, cười nhẹ.",
+   "data": [],
+   "bbox_pdf_pt": [
+    23.8,
+    101.0,
+    190.5,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p070_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Bà PHẠM THỊ TRUNG HÀ - Phó Tổng Giám đốc",
+   "bbox": [
+    520,
+    520,
+    900,
+    980
+   ],
+   "description": "Ảnh chân dung bà Phạm Thị Trung Hà mặc vest xanh, đứng thẳng, cười nhẹ.",
+   "data": [],
+   "bbox_pdf_pt": [
+    309.5,
+    437.8,
+    535.7,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p070_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3886,
+  "output": 130
+ },
+ "seconds": 2.0
+}

@@ -1,0 +1,121 @@
+{
+ "printed_page": 29,
+ "pdf_page": 15,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ông PHẠM NHƯ ÁNH - Thành viên HĐQT kiêm Tổng Giám đốc",
+   "bbox": [
+    0,
+    0,
+    480,
+    480
+   ],
+   "description": "Ảnh chân dung ông Phạm Như Ánh, Thành viên HĐQT kiêm Tổng Giám đốc MB, sinh năm 1980, tỷ lệ cổ phần 0,072%, số lượng cổ phần 5.821.131, không nắm giữ chức danh quản lý tại các đơn vị khác, ngày bổ nhiệm 15/06/2024. Ông có gần 21 năm làm việc tại MB, từng giữ nhiều vị trí quản lý chủ chốt, là nhân tố chủ chốt thúc đẩy dự án Smart RM, được bổ nhiệm Tổng giám đốc từ 18/05/2023 và được Đại hội đồng cổ đông tín nhiệm nhiệm kỳ 2024-2029.",
+   "data": [
+    {
+     "label": "Năm sinh",
+     "value": "1980"
+    },
+    {
+     "label": "Tỷ lệ cổ phần",
+     "value": "0,072%"
+    },
+    {
+     "label": "Số lượng cổ phần",
+     "value": "5.821.131"
+    },
+    {
+     "label": "Chức danh quản lý đang nắm giữ tại các tổ chức/doanh nghiệp khác",
+     "value": "Không nắm giữ chức danh quản lý tại các đơn vị khác"
+    },
+    {
+     "label": "Ngày bổ nhiệm",
+     "value": "15/06/2024"
+    }
+   ],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    881.0,
+    404.1
+   ],
+   "crop": "starter/data/advanced/crops/p029_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Bà NGUYỄN THỊ HẢI LÝ - Phó Chủ tịch HĐQT",
+   "bbox": [
+    480,
+    480,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chân dung bà Nguyễn Thị Hải Lý, Phó Chủ tịch HĐQT MB, sinh năm 1974, tỷ lệ cổ phần 0,003%, số lượng cổ phần 221.346, chức danh quản lý đang nắm giữ Chủ nhiệm Chính trị - Tập đoàn Công nghiệp Viễn thông và Quân đội (Viettel), ngày bổ nhiệm 15/06/2024. Bà có hơn 27 năm kinh nghiệm tại Viettel ở nhiều vị trí quản lý chủ chốt, được Đại hội đồng cổ đông MB tín nhiệm bầu vị trí Phó Chủ tịch HĐQT MB với kỳ vọng thúc đẩy hợp tác kinh doanh và phát triển công nghệ thông tin.",
+   "data": [
+    {
+     "label": "Năm sinh",
+     "value": "1974"
+    },
+    {
+     "label": "Tỷ lệ cổ phần",
+     "value": "0,003%"
+    },
+    {
+     "label": "Số lượng cổ phần",
+     "value": "221.346"
+    },
+    {
+     "label": "Chức danh quản lý đang nắm giữ tại các tổ chức/doanh nghiệp khác",
+     "value": "Chủ nhiệm Chính trị – Tập đoàn Công nghiệp Viễn thông và Quân đội (Viettel)"
+    },
+    {
+     "label": "Ngày bổ nhiệm",
+     "value": "15/06/2024"
+    }
+   ],
+   "bbox_pdf_pt": [
+    881.0,
+    404.1,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p029_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Các thay đổi trong Hội đồng Quản trị",
+   "bbox": [
+    0,
+    900,
+    1000,
+    1000
+   ],
+   "description": "Thông báo bà Vũ Thái Huyền thôi giữ chức vụ thành viên HĐQT MB từ ngày 27/03/2026.",
+   "data": [
+    {
+     "label": "Bà Vũ Thái Huyền",
+     "value": "thôi giữ chức vụ thành viên HĐQT MB từ ngày 27/03/2026"
+    }
+   ],
+   "bbox_pdf_pt": [
+    595.3,
+    757.7,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p029_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 3987,
+  "output": 692
+ },
+ "seconds": 5.7
+}

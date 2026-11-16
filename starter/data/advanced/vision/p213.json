@@ -1,0 +1,41 @@
+{
+ "printed_page": 213,
+ "pdf_page": 107,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Quản trị Công ty",
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chân dung một người đàn ông mặc vest xanh, đứng trước tòa nhà có logo MB lớn màu đỏ và xanh dương. Bên trái ảnh là khung nền xanh dương với logo MB và tiêu đề 'Quản trị Công ty' cùng mục lục các phần trong chương 6 của báo cáo thường niên năm 2025.",
+   "data": [
+    {
+     "label": "Mục lục chương 6",
+     "value": "214 Tổng quan về hoạt động quản trị doanh nghiệp trong năm 2025; 215 Hội đồng quản trị; 237 Ban Kiểm soát; 244 Các giao dịch, thù lao và các khoản lợi ích; 252 Đánh giá việc thực hiện các quy định về quản trị công ty"
+    }
+   ],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p213_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3250,
+  "output": 184
+ },
+ "seconds": 3.5
+}

@@ -1,0 +1,92 @@
+{
+ "printed_page": 176,
+ "pdf_page": 89,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Triển khai mở rộng độ bao phủ CN, PGD, ATM, POS trên toàn quốc",
+   "bbox": [
+    30,
+    120,
+    600,
+    320
+   ],
+   "description": "Bảng số liệu thể hiện số lượng chi nhánh/phòng giao dịch, ATM/CRM và POS của MB trong năm 2024 và 2025 cùng với tỷ lệ tăng/giảm phần trăm.",
+   "data": [
+    {
+     "label": "Số lượng chi nhánh/PGD Năm 2024",
+     "value": "319"
+    },
+    {
+     "label": "Số lượng chi nhánh/PGD Năm 2025",
+     "value": "327"
+    },
+    {
+     "label": "Số lượng chi nhánh/PGD % Tăng/(Giảm)",
+     "value": "2,5%"
+    },
+    {
+     "label": "Số lượng ATM/CRM Năm 2024",
+     "value": "1.055"
+    },
+    {
+     "label": "Số lượng ATM/CRM Năm 2025",
+     "value": "1.134"
+    },
+    {
+     "label": "Số lượng ATM/CRM % Tăng/(Giảm)",
+     "value": "7,5%"
+    },
+    {
+     "label": "POS Năm 2024",
+     "value": "6.352"
+    },
+    {
+     "label": "POS Năm 2025",
+     "value": "8.956"
+    },
+    {
+     "label": "POS % Tăng/(Giảm)",
+     "value": "41%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    17.9,
+    101.0,
+    357.2,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p176_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Hình ảnh điểm giao dịch Auto Bank ATM MB",
+   "bbox": [
+    0,
+    350,
+    1000,
+    700
+   ],
+   "description": "Ảnh chụp điểm giao dịch Auto Bank ATM của MB vào ban đêm với ánh sáng xanh đặc trưng, thể hiện hệ thống ATM hiện đại của ngân hàng.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    294.7,
+    595.3,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p176_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3577,
+  "output": 341
+ },
+ "seconds": 3.6
+}

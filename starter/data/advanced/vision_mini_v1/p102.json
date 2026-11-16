@@ -1,0 +1,113 @@
+{
+ "printed_page": 102,
+ "pdf_page": 52,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Mức độ biến động tỷ giá USD/VND (%)",
+   "bbox": [
+    100,
+    350,
+    450,
+    600
+   ],
+   "description": "Biểu đồ cột thể hiện mức độ biến động tỷ giá USD/VND theo từng năm từ 2020 đến dự báo 2026F. Trục hoành là các năm 2020, 2021, 2022, 2023, 2024, 2025, 2026F. Trục tung là mức độ biến động tỷ giá tính theo phần trăm (%). Giá trị lần lượt là: 2020: 0,9%; 2021: 0,4%; 2022: 1,2%; 2023: 4,2%; 2024: 4,4%; 2025: 3,2%; 2026F: 3,4%. Nguồn dữ liệu: GSO và CQ KTT MB dự báo.",
+   "data": [
+    {
+     "label": "2020",
+     "value": "0,9"
+    },
+    {
+     "label": "2021",
+     "value": "0,4"
+    },
+    {
+     "label": "2022",
+     "value": "1,2"
+    },
+    {
+     "label": "2023",
+     "value": "4,2"
+    },
+    {
+     "label": "2024",
+     "value": "4,4"
+    },
+    {
+     "label": "2025",
+     "value": "3,2"
+    },
+    {
+     "label": "2026F",
+     "value": "3,4"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    294.7,
+    267.9,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p102_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Tín dụng toàn nền kinh tế",
+   "bbox": [
+    100,
+    650,
+    450,
+    950
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện tín dụng toàn nền kinh tế và tăng trưởng tín dụng theo từng năm từ 2020 đến dự báo 2026F. Trục hoành là các năm 2020, 2021, 2022, 2023, 2024, 2025, 2026F. Trục tung trái là tín dụng tính bằng triệu tỷ đồng, trục tung phải là tăng trưởng tín dụng tính theo phần trăm (%). Cột xanh đậm biểu thị tín dụng (triệu tỷ): 2020: 12; 2021: 14; 2022: 14; 2023: 14; 2024: 15; 2025: 19; 2026F: 15. Đường màu xanh nhạt biểu thị tăng trưởng (%): 2020: 9,2%; 2021: 10,4%; 2022: 11,9%; 2023: 13,6% (có chú thích +15%); 2024: 15,6%; 2025: 18,6%; 2026F: 21,4%. Nguồn dữ liệu: GSO và CQ KTT MB dự báo.",
+   "data": [
+    {
+     "label": "2020",
+     "value": "12 triệu tỷ, 9,2%"
+    },
+    {
+     "label": "2021",
+     "value": "14 triệu tỷ, 10,4%"
+    },
+    {
+     "label": "2022",
+     "value": "14 triệu tỷ, 11,9%"
+    },
+    {
+     "label": "2023",
+     "value": "14 triệu tỷ, 13,6%"
+    },
+    {
+     "label": "2024",
+     "value": "15 triệu tỷ, 15,6%"
+    },
+    {
+     "label": "2025",
+     "value": "19 triệu tỷ, 18,6%"
+    },
+    {
+     "label": "2026F",
+     "value": "15 triệu tỷ, 21,4%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    547.2,
+    267.9,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p102_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3988,
+  "output": 708
+ },
+ "seconds": 5.4
+}

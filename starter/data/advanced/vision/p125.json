@@ -1,0 +1,36 @@
+{
+ "printed_page": 125,
+ "pdf_page": 63,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Sự kiện kỷ niệm 31 năm thành lập MB",
+   "bbox": [
+    500,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp sự kiện kỷ niệm 31 năm thành lập MB với sân khấu lớn, màn hình LED hiển thị logo MB và dòng chữ MB 3194, có đông đảo người tham dự và hiệu ứng ánh sáng, pháo hoa.",
+   "data": [],
+   "bbox_pdf_pt": [
+    892.9,
+    0.0,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p125_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3227,
+  "output": 98
+ },
+ "seconds": 3.6
+}

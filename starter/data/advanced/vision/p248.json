@@ -1,0 +1,105 @@
+{
+ "printed_page": 248,
+ "pdf_page": 125,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Danh sách cổ đông nội bộ và người liên quan tại MB năm 2024-2025",
+   "bbox": [
+    50,
+    50,
+    950,
+    950
+   ],
+   "description": "Bảng liệt kê cổ đông nội bộ và người liên quan tại MB, gồm các cột: STT, Họ và tên, Chức vụ tại MB/Quan hệ với người nội bộ, Số lượng cổ phiếu đầu kỳ (31/12/2024), Tỷ lệ/VĐL (%), Số lượng cổ phiếu cuối kỳ (31/12/2025), Tỷ lệ/VĐL (%), Lý do tăng/giảm cổ phiếu (mua, bán, chuyển đổi, trả cổ tức, thưởng, ...). Dữ liệu thể hiện số lượng cổ phiếu và tỷ lệ vốn điều lệ của từng cá nhân hoặc tổ chức trong hai thời điểm cuối năm 2024 và 2025, cùng lý do thay đổi cổ phiếu chủ yếu là nhận cổ tức bằng cổ phiếu, một số có giao dịch cổ phiếu hoặc thu hồi cổ phiếu.",
+   "data": [
+    {
+     "label": "Trần Minh Đạt",
+     "value": "3.800.868 cổ phiếu (0,07%) đầu kỳ, 5.769.717 cổ phiếu (0,07%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Lê Quốc Minh",
+     "value": "2.137.071 cổ phiếu (0,04%) đầu kỳ, 3.244.072 cổ phiếu (0,04%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Lê Quốc Bình",
+     "value": "6.749 cổ phiếu (0,00%) đầu kỳ, 10.244 cổ phiếu (0,00%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Vũ Thu Thủy",
+     "value": "690 cổ phiếu (0,00%) đầu kỳ, 1.046 cổ phiếu (0,00%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Lê Quốc Dũng",
+     "value": "81.684 cổ phiếu (0,00%) đầu kỳ, 123.995 cổ phiếu (0,00%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Hà Trọng Khiêm",
+     "value": "758.527 cổ phiếu (0,01%) đầu kỳ, 1.151.443 cổ phiếu (0,01%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Nguyễn Quỳnh Mai",
+     "value": "996.670 cổ phiếu (0,02%) đầu kỳ, 1.512.944 cổ phiếu (0,02%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Hà Trọng Khoa",
+     "value": "32.818 cổ phiếu (0,00%) đầu kỳ, 49.816 cổ phiếu (0,00%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Nguyễn Như Quỳnh",
+     "value": "118.026 cổ phiếu (0,00%) đầu kỳ, 179.162 cổ phiếu (0,00%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Nguyễn Xuân Học",
+     "value": "911.520 cổ phiếu (0,02%) đầu kỳ, 1.383.687 cổ phiếu (0,02%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Nguyễn Thị Ngọc",
+     "value": "1.504.471 cổ phiếu (0,03%) đầu kỳ, 2.283.786 cổ phiếu (0,03%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Nguyễn Hữu Doanh",
+     "value": "80.723 cổ phiếu (0,00%) đầu kỳ, 122.536 cổ phiếu (0,00%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Đỗ Thị Ngọc Bảo",
+     "value": "206.410 cổ phiếu (0,00%) đầu kỳ, 313.329 cổ phiếu (0,00%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Nguyễn Hữu Bảo Khánh",
+     "value": "7.350 cổ phiếu (0,00%) đầu kỳ, 2 cổ phiếu (0,00%) cuối kỳ, nhận cổ tức bằng cổ phiếu và giao dịch cổ phiếu"
+    },
+    {
+     "label": "Công đoàn cơ sở Ngân hàng TMCP Quân đội",
+     "value": "2.683.719 cổ phiếu (0,05%) đầu kỳ, 4.355.178 cổ phiếu (0,05%) cuối kỳ, nhận cổ tức bằng cổ phiếu và thu hồi cổ phiếu của CBNV nghỉ việc trước hạn theo quy định"
+    },
+    {
+     "label": "Vũ Hồng Phú",
+     "value": "627.702 cổ phiếu (0,01%) đầu kỳ, 952.849 cổ phiếu (0,01%) cuối kỳ, nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Lê Hồng Thanh",
+     "value": "500 cổ phiếu (0,00%) đầu kỳ, 193 cổ phiếu (0,00%) cuối kỳ, nhận cổ tức bằng cổ phiếu và giao dịch cổ phiếu"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    565.5,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p248_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4179,
+  "output": 1100
+ },
+ "seconds": 8.0
+}

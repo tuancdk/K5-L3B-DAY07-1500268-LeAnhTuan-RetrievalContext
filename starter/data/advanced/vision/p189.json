@@ -1,0 +1,85 @@
+{
+ "printed_page": 189,
+ "pdf_page": 95,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Thu nhập bình quân của cán bộ nhân viên đạt",
+   "bbox": [
+    40,
+    300,
+    200,
+    450
+   ],
+   "description": "Hiển thị thu nhập bình quân của cán bộ nhân viên năm 2025 là 39,4 triệu đồng/người/tháng, tăng 5,3% so với năm 2024 (37,4 triệu đồng/người/tháng).",
+   "data": [
+    {
+     "label": "Năm 2025",
+     "value": "39,4 triệu đồng/người/tháng"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "5,3%"
+    },
+    {
+     "label": "Năm 2024",
+     "value": "37,4 triệu đồng/người/tháng"
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    252.6,
+    714.3,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p189_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Kết quả thực hiện trong năm 2025",
+   "bbox": [
+    40,
+    700,
+    600,
+    850
+   ],
+   "description": "Các kết quả thực hiện về chính sách lao động năm 2025 gồm: không phát sinh khiếu nại liên quan đến bất bình đẳng giới; không có khiếu nại về phân biệt đối xử; không lao động cưỡng bức, không lao động trẻ em (bao gồm lao động chưa thành niên); không xảy ra tai nạn hoặc sự cố lao động nghiêm trọng.",
+   "data": [
+    {
+     "label": "Không phát sinh khiếu nại liên quan đến bất bình đẳng giới",
+     "value": "Đúng"
+    },
+    {
+     "label": "Không có khiếu nại về phân biệt đối xử",
+     "value": "Đúng"
+    },
+    {
+     "label": "Không lao động cưỡng bức, không lao động trẻ em (bao gồm lao động chưa thành niên)",
+     "value": "Đúng"
+    },
+    {
+     "label": "Không xảy ra tai nạn hoặc sự cố lao động nghiêm trọng",
+     "value": "Đúng"
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    589.3,
+    952.4,
+    715.6
+   ],
+   "crop": "starter/data/advanced/crops/p189_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4133,
+  "output": 362
+ },
+ "seconds": 3.1
+}

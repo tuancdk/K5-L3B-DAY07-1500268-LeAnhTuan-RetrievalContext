@@ -1,0 +1,109 @@
+{
+ "printed_page": 17,
+ "pdf_page": 9,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Chiến lược phát triển bền vững ghi nhận thành tựu nổi bật ở ba khía cạnh",
+   "bbox": [
+    50,
+    120,
+    950,
+    280
+   ],
+   "description": "Ba khía cạnh chiến lược phát triển bền vững của MB gồm Môi trường, Xã hội và Quản trị. Môi trường: Tăng tốc chuyển đổi xanh, tối ưu tài nguyên và đẩy mạnh sản phẩm/dịch vụ hỗ trợ giảm phát thải. Xã hội: Dẫn đầu về tài chính toàn diện, bảo vệ khách hàng, nâng cao phúc lợi cho người lao động và thúc đẩy các sáng kiến cộng đồng. Quản trị: Triển khai mô hình quản trị hiện đại, minh bạch và tuân thủ theo chuẩn quốc tế.",
+   "data": [
+    {
+     "label": "Môi trường",
+     "value": "Tăng tốc chuyển đổi xanh, tối ưu tài nguyên và đẩy mạnh sản phẩm/dịch vụ hỗ trợ giảm phát thải"
+    },
+    {
+     "label": "Xã hội",
+     "value": "Dẫn đầu về tài chính toàn diện, bảo vệ khách hàng, nâng cao phúc lợi cho người lao động và thúc đẩy các sáng kiến cộng đồng"
+    },
+    {
+     "label": "Quản trị",
+     "value": "Triển khai mô hình quản trị hiện đại, minh bạch và tuân thủ theo chuẩn quốc tế"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    101.0,
+    1160.8,
+    235.7
+   ],
+   "crop": "starter/data/advanced/crops/p017_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "10 dấu ấn công nghệ, chuyển đổi số 2025",
+   "bbox": [
+    50,
+    300,
+    950,
+    960
+   ],
+   "description": "Các chỉ số và thành tựu nổi bật về công nghệ và chuyển đổi số của MB năm 2025, gồm tỷ lệ bảo vệ khách hàng, số lượng request/ngày, doanh số huy động/ngày, số ví kích hoạt, rút ngắn thời gian phát triển sản phẩm thẻ, số nhân sự IT và dữ liệu, agentbanking, và tiết kiệm thời gian chi phí với lập trình truyền thống.",
+   "data": [
+    {
+     "label": "Tỷ lệ bảo vệ khách hàng",
+     "value": "95%"
+    },
+    {
+     "label": "Request/ngày | 99,5% thành công",
+     "value": "37 TRIỆU"
+    },
+    {
+     "label": "Doanh số huy động/ngày và 1,6 triệu ví được kích hoạt",
+     "value": "1.400 TỶ ĐỒNG"
+    },
+    {
+     "label": "Đầu tư hạ tầng công nghệ từ 2015-2025",
+     "value": "16.800 TỶ ĐỒNG"
+    },
+    {
+     "label": "Rút ngắn thời gian phát hiện sự cố hệ thống",
+     "value": "30%"
+    },
+    {
+     "label": "Rút ngắn thời gian phát triển sản phẩm Thẻ",
+     "value": "50% - 80%"
+    },
+    {
+     "label": "Agentbanking",
+     "value": "1.800"
+    },
+    {
+     "label": "Nhân sự IT và dữ liệu/Số",
+     "value": "11,9%"
+    },
+    {
+     "label": "App MBBank chạy active – active (lớp ứng dụng) toàn thời gian",
+     "value": "không có giá trị số cụ thể"
+    },
+    {
+     "label": "Tiết kiệm thời gian và chi phí với lập trình truyền thống",
+     "value": "60%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    252.6,
+    1160.8,
+    808.2
+   ],
+   "crop": "starter/data/advanced/crops/p017_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4056,
+  "output": 632
+ },
+ "seconds": 6.9
+}

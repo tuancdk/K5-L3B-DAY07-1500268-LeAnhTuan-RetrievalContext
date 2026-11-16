@@ -1,0 +1,141 @@
+{
+ "printed_page": 86,
+ "pdf_page": 44,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Các chỉ tiêu tài chính chủ yếu của MB trong năm 2025",
+   "bbox": [
+    20,
+    50,
+    980,
+    950
+   ],
+   "description": "Bảng tổng hợp các chỉ tiêu tài chính chính của MB năm 2024 và 2025, kèm tỷ lệ tăng giảm phần trăm. Các chỉ tiêu được chia thành 5 nhóm: 1. Quy mô tài sản và nguồn vốn, 2. Kết quả hoạt động kinh doanh, 3. Hiệu quả kinh doanh, 4. Các chỉ tiêu thanh khoản, 5. Cổ phiếu. Đơn vị tính là tỷ VND hoặc phần trăm. Có các chỉ tiêu như Vốn điều lệ, Vốn chủ sở hữu, Tổng tài sản, Tỷ lệ an toàn vốn (CAR), Huy động vốn, Tổng dư nợ tín dụng, Nợ quá hạn, Nợ xấu, Tỷ lệ bao phủ nợ xấu, Doanh thu, Thu nhập lãi thuần, Tỷ lệ thu nhập lãi thuần (NIM), Chi phí vốn (COF), Tỷ lệ chi phí hoạt động trên tổng thu nhập (CIR), Chi phí dự phòng/Doanh thu, ROA, ROE, Tỷ lệ dự trữ thanh khoản, LDR, Tỷ lệ vốn ngắn hạn cho vay trung dài hạn, EPS, P/E, BVPS, P/B.",
+   "data": [
+    {
+     "label": "Vốn điều lệ",
+     "value": "53.063 (2024), 80.550 (2025), 51,8%"
+    },
+    {
+     "label": "Vốn chủ sở hữu",
+     "value": "117.060 (2024), 142.023 (2025), 21,3%"
+    },
+    {
+     "label": "Tổng Tài sản",
+     "value": "1.128.801 (2024), 1.615.764 (2025), 43,1%"
+    },
+    {
+     "label": "Tỷ lệ an toàn vốn (CAR)",
+     "value": "11,8% (2024), 11,0% (2025), (6,3%)"
+    },
+    {
+     "label": "Huy động vốn (bao gồm CCTG)",
+     "value": "805.647 (2024), 1.062.198 (2025), 31,8%"
+    },
+    {
+     "label": "Tổng dư nợ tín dụng (Gồm Dư nợ & TPDN & Mua nợ)",
+     "value": "811.142 (2024), 1.109.895 (2025), 36,8%"
+    },
+    {
+     "label": "Nợ quá hạn",
+     "value": "24.782 (2024), 24.238 (2025), (2,2%)"
+    },
+    {
+     "label": "Nợ xấu",
+     "value": "12.585 (2024), 14.027 (2025), 11,5%"
+    },
+    {
+     "label": "Tỷ lệ bao phủ nợ xấu",
+     "value": "92,2% (2024), 93,7% (2025), 1,6%"
+    },
+    {
+     "label": "Tỷ lệ nợ quá hạn / Tổng dư nợ",
+     "value": "3,2% (2024), 2,2% (2025), (30%) Tích cực"
+    },
+    {
+     "label": "Tỷ lệ nợ xấu / Tổng dư nợ",
+     "value": "1,6% (2024), 1,3% (2025), (20%) Tích cực"
+    },
+    {
+     "label": "Doanh thu",
+     "value": "55.413 (2024), 67.693 (2025), 22,2%"
+    },
+    {
+     "label": "Thu nhập lãi thuần",
+     "value": "41.152 (2024), 51.610 (2025), 25,4%"
+    },
+    {
+     "label": "Tỷ lệ thu nhập lãi thuần (NIM)",
+     "value": "4,2% (2024), 3,9% (2025), (7,1%)"
+    },
+    {
+     "label": "Chi phí vốn (COF)",
+     "value": "3,2% (2024), 3,2% (2025), 0%"
+    },
+    {
+     "label": "Tỷ lệ chi phí hoạt động trên tổng thu nhập hoạt động (CIR)",
+     "value": "30,7% (2024), 29,1% (2025), (5,3%)"
+    },
+    {
+     "label": "Chi phí dự phòng/Doanh thu",
+     "value": "17,3% (2024), 20,3% (2025), 17,5%"
+    },
+    {
+     "label": "Tỷ lệ lợi nhuận trên tổng tài sản (ROA)",
+     "value": "2,2% (2024), 2,0% (2025), (9,9%)"
+    },
+    {
+     "label": "Tỷ lệ lợi nhuận trên vốn chủ sở hữu (ROE)",
+     "value": "21,5% (2024), 21,1% (2025), (1,6%)"
+    },
+    {
+     "label": "Tỷ lệ dự trữ thanh khoản",
+     "value": "13,5% (2024), 15,5% (2025), 14,8%"
+    },
+    {
+     "label": "Tỷ lệ tổng dư nợ cho vay trên nguồn vốn huy động (LDR)",
+     "value": "81,1% (2024), 80% (2025), (1,3%)"
+    },
+    {
+     "label": "Tỷ lệ vốn ngắn hạn cho vay trung dài hạn",
+     "value": "26,9% (2024), 25,7% (2025), (4,4%)"
+    },
+    {
+     "label": "Lãi cơ bản trên cổ phiếu (EPS)",
+     "value": "2.589 (2024), 3.325 (2025), 28,4%"
+    },
+    {
+     "label": "Hệ số giá trên lợi nhuận (P/E)",
+     "value": "5,8 (2024), 7,6 (2025), 31%"
+    },
+    {
+     "label": "Giá trị sổ sách của một cổ phiếu (BVPS)",
+     "value": "22.060 (2024), 16.900 (2025), (23,3%)"
+    },
+    {
+     "label": "Hệ số giá/giá trị sổ sách (P/B)",
+     "value": "1,1 (2024), 1,5 (2025), 36,3%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    42.1,
+    583.4,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p086_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3951,
+  "output": 1283
+ },
+ "seconds": 9.1
+}

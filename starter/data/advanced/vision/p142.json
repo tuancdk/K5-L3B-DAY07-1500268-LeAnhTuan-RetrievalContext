@@ -1,0 +1,93 @@
+{
+ "printed_page": 142,
+ "pdf_page": 72,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Dấu ấn phát triển bền vững năm 2025",
+   "bbox": [
+    0,
+    100,
+    1000,
+    400
+   ],
+   "description": "Ảnh minh họa với chữ nổi 3D 'VNSI 10' biểu thị Top 10 doanh nghiệp niêm yết có VNSI cao nhất theo đánh giá của Sở Giao dịch chứng khoán TP.HCM (HOSE).",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    84.2,
+    595.3,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p142_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Best Bank for ESG Vietnam 2025",
+   "bbox": [
+    0,
+    400,
+    500,
+    700
+   ],
+   "description": "Ảnh chụp giải thưởng 'Best Bank for ESG Vietnam 2025' do Global Banking & Finance Review (GBAF) trao tặng.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    336.8,
+    297.6,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p142_v1.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Nền tảng Thiện nguyện chiến thắng tại World Summit Awards năm 2025 - WSA25 Winner",
+   "bbox": [
+    500,
+    400,
+    1000,
+    700
+   ],
+   "description": "Ảnh minh họa nền tảng thiện nguyện chiến thắng tại World Summit Awards năm 2025, hạng mục Government & Citizen Engagement, với giao diện ứng dụng trên điện thoại.",
+   "data": [],
+   "bbox_pdf_pt": [
+    297.6,
+    336.8,
+    595.3,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p142_v2.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Đạt chứng nhận Gold LEED cho Tòa nhà Hội sở MB, 18 Lê Văn Lương, Hà Nội",
+   "bbox": [
+    0,
+    700,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp lễ trao chứng chỉ LEED Gold của Hội đồng Công trình Xanh Hoa Kỳ (USGBC) cho tòa nhà MB Tower, có 5 người đứng chụp hình cùng chứng nhận.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    589.3,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p142_v3.png"
+  }
+ ],
+ "usage": {
+  "input": 3403,
+  "output": 341
+ },
+ "seconds": 4.6
+}

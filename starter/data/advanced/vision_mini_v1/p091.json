@@ -1,0 +1,61 @@
+{
+ "printed_page": 91,
+ "pdf_page": 46,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tổng thu nhập hoạt động (nghìn tỷ đồng)",
+   "bbox": [
+    600,
+    250,
+    900,
+    650
+   ],
+   "description": "Biểu đồ cột kết hợp đường thể hiện tổng thu nhập hoạt động và thu nhập phí thuần của ngân hàng qua các năm 2023, 2024, 2025. Trục tung đơn vị nghìn tỷ đồng. Thu nhập phí thuần được thể hiện bằng cột màu tím nhạt, tổng thu nhập hoạt động bằng cột màu xanh đậm. Năm 2023: thu nhập phí thuần 4,1 nghìn tỷ, tổng thu nhập hoạt động 47,3 nghìn tỷ. Năm 2024: thu nhập phí thuần 4,4 nghìn tỷ, tổng thu nhập hoạt động 55,4 nghìn tỷ. Năm 2025: thu nhập phí thuần 6,6 nghìn tỷ, tổng thu nhập hoạt động 67,7 nghìn tỷ. Xu hướng tăng trưởng rõ rệt, tổng thu nhập hoạt động tăng 20% từ 2024 đến 2025.",
+   "data": [
+    {
+     "label": "2023 Thu nhập phí thuần",
+     "value": "4,1"
+    },
+    {
+     "label": "2023 Tổng thu nhập hoạt động",
+     "value": "47,3"
+    },
+    {
+     "label": "2024 Thu nhập phí thuần",
+     "value": "4,4"
+    },
+    {
+     "label": "2024 Tổng thu nhập hoạt động",
+     "value": "55,4"
+    },
+    {
+     "label": "2025 Thu nhập phí thuần",
+     "value": "6,6"
+    },
+    {
+     "label": "2025 Tổng thu nhập hoạt động",
+     "value": "67,7"
+    }
+   ],
+   "bbox_pdf_pt": [
+    952.4,
+    210.5,
+    1131.0,
+    547.2
+   ],
+   "crop": "starter/data/advanced/crops/p091_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3820,
+  "output": 339
+ },
+ "seconds": 2.9
+}

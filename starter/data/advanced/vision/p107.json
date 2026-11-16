@@ -1,0 +1,122 @@
+{
+ "printed_page": 107,
+ "pdf_page": 54,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tín dụng (nghìn tỷ)",
+   "bbox": [
+    350,
+    250,
+    950,
+    700
+   ],
+   "description": "Biểu đồ cột kết hợp đường thể hiện tín dụng và tỷ lệ svck (%) của các ngân hàng năm 2025. Trục tung trái là tín dụng (nghìn tỷ), trục tung phải là svck (%). Các ngân hàng gồm BID, CTG, VCB, MBB, VPB, TCB, ACB, STB. Cột màu xanh dương nhạt thể hiện giá trị tín dụng, cột màu xanh đậm cho MBB. Đường màu tím thể hiện svck (%). Giá trị tín dụng và svck (%) lần lượt là: BID 2.377 nghìn tỷ - 15%, CTG 1.995 nghìn tỷ - 16%, VCB 1.681 nghìn tỷ - 15%, MBB 1.110 nghìn tỷ - 37%, VPB 961 nghìn tỷ - 35%, TCB 824 nghìn tỷ - 21%, ACB 689 nghìn tỷ - 19%, STB 636 nghìn tỷ - 18%.",
+   "data": [
+    {
+     "label": "BID",
+     "value": "2.377 nghìn tỷ, 15%"
+    },
+    {
+     "label": "CTG",
+     "value": "1.995 nghìn tỷ, 16%"
+    },
+    {
+     "label": "VCB",
+     "value": "1.681 nghìn tỷ, 15%"
+    },
+    {
+     "label": "MBB",
+     "value": "1.110 nghìn tỷ, 37%"
+    },
+    {
+     "label": "VPB",
+     "value": "961 nghìn tỷ, 35%"
+    },
+    {
+     "label": "TCB",
+     "value": "824 nghìn tỷ, 21%"
+    },
+    {
+     "label": "ACB",
+     "value": "689 nghìn tỷ, 19%"
+    },
+    {
+     "label": "STB",
+     "value": "636 nghìn tỷ, 18%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    803.6,
+    210.5,
+    1160.8,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p107_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Huy động (nghìn tỷ)",
+   "bbox": [
+    350,
+    750,
+    950,
+    1200
+   ],
+   "description": "Biểu đồ cột kết hợp đường thể hiện huy động và tỷ lệ svck (%) của các ngân hàng năm 2025. Trục tung trái là huy động (nghìn tỷ), trục tung phải là svck (%). Các ngân hàng gồm BID, CTG, VCB, MBB, TCB, VPB, ACB, STB. Cột màu xanh dương nhạt thể hiện giá trị huy động, cột màu xanh đậm cho MBB. Đường màu tím thể hiện svck (%). Giá trị huy động và svck (%) lần lượt là: BID 2.449 nghìn tỷ - 14%, CTG 1.968 nghìn tỷ - 12%, VCB 1.700 nghìn tỷ - 10%, MBB 1.109 nghìn tỷ - 31%, TCB 834 nghìn tỷ - 24%, VPB 735 nghìn tỷ - 33%, ACB 718 nghìn tỷ - 12%, STB 658 nghìn tỷ - 9%.",
+   "data": [
+    {
+     "label": "BID",
+     "value": "2.449 nghìn tỷ, 14%"
+    },
+    {
+     "label": "CTG",
+     "value": "1.968 nghìn tỷ, 12%"
+    },
+    {
+     "label": "VCB",
+     "value": "1.700 nghìn tỷ, 10%"
+    },
+    {
+     "label": "MBB",
+     "value": "1.109 nghìn tỷ, 31%"
+    },
+    {
+     "label": "TCB",
+     "value": "834 nghìn tỷ, 24%"
+    },
+    {
+     "label": "VPB",
+     "value": "735 nghìn tỷ, 33%"
+    },
+    {
+     "label": "ACB",
+     "value": "718 nghìn tỷ, 12%"
+    },
+    {
+     "label": "STB",
+     "value": "658 nghìn tỷ, 9%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    803.6,
+    631.4,
+    1160.8,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p107_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3980,
+  "output": 784
+ },
+ "seconds": 8.1
+}

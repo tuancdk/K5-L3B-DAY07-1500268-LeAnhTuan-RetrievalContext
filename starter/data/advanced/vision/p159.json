@@ -1,0 +1,49 @@
+{
+ "printed_page": 159,
+ "pdf_page": 80,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Cơ chế quản trị phát triển bền vững",
+   "bbox": [
+    50,
+    700,
+    950,
+    980
+   ],
+   "description": "Sơ đồ thể hiện vai trò và trách nhiệm của các cấp, đơn vị trong triển khai hoạt động phát triển bền vững của MB. Bao gồm ba khối chính: Hội đồng quản trị, Ban Điều hành, Các đơn vị liên quan. Mỗi khối có các nhiệm vụ và trách nhiệm cụ thể liên quan đến định hướng, chỉ đạo, giám sát, triển khai, phối hợp và báo cáo các mục tiêu phát triển bền vững (PTBV).",
+   "data": [
+    {
+     "label": "Hội đồng quản trị",
+     "value": "Chịu trách nhiệm cao nhất về PTBV Tập đoàn; Định hướng PTBV; Chỉ đạo và giám sát cấp cao về PTBV; Rà soát định kỳ và đột xuất các ưu tiên, mục tiêu PTBV"
+    },
+    {
+     "label": "Ban Điều hành",
+     "value": "Tổng Giám đốc chịu trách nhiệm lãnh đạo tổ chức triển khai và giám sát triển khai mục tiêu PTBV; Điều hành, tổ chức triển khai; Giám sát các đơn vị triển khai; Rà soát định kỳ và đột xuất các mục tiêu, nội dung chính sách đảm bảo phù hợp với định hướng chiến lược"
+    },
+    {
+     "label": "Các đơn vị liên quan",
+     "value": "Chịu trách nhiệm triển khai các mục tiêu về phát triển bền vững; Phối hợp hoạt động giữa các đơn vị đảm bảo triển khai hiệu quả; Công tác quản lý rủi ro liên quan đến ESG, môi trường và khí hậu phối hợp vai trò giữa các đơn vị: QTRR - Tài chính kế toán - Thẩm định & Phê duyệt Tín dụng; Khai thác, quản lý cơ hội liên quan đến phát triển bền vững phối hợp vai trò giữa các đơn vị Văn phòng HĐQT - Khối Kinh doanh - Khối Tổ chức nhân sự - Khối Hành chính; Quản trị các thông tin, dữ liệu liên quan đến phát triển bền vững: CNTT, Dữ liệu và các đơn vị liên quan khác; Đo lường, báo cáo định kỳ về kết quả và hiệu quả triển khai các chương trình, kế hoạch ESG"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    589.3,
+    1160.8,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p159_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4245,
+  "output": 486
+ },
+ "seconds": 4.2
+}

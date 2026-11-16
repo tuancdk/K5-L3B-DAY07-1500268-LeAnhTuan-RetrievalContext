@@ -1,0 +1,117 @@
+{
+ "printed_page": 153,
+ "pdf_page": 77,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Ma trận lĩnh vực trọng yếu 2025",
+   "bbox": [
+    50,
+    150,
+    950,
+    900
+   ],
+   "description": "Biểu đồ ma trận thể hiện các lĩnh vực trọng yếu năm 2025 của MB, với trục hoành là 'Tác động đến hoạt động và tình hình tài chính của MB trong tương lai' và trục tung là 'Tác động đến môi trường và xã hội từ hoạt động kinh doanh của MB'. Các lĩnh vực được phân bố theo mức độ tác động khác nhau trên hai trục này.",
+   "data": [
+    {
+     "label": "An ninh mạng",
+     "value": ""
+    },
+    {
+     "label": "Quản trị dữ liệu",
+     "value": ""
+    },
+    {
+     "label": "Chuyển đổi số",
+     "value": ""
+    },
+    {
+     "label": "Trải nghiệm khách hàng",
+     "value": ""
+    },
+    {
+     "label": "Minh bạch tài chính",
+     "value": ""
+    },
+    {
+     "label": "Đạo đức kinh doanh",
+     "value": ""
+    },
+    {
+     "label": "Tài chính toàn diện",
+     "value": ""
+    },
+    {
+     "label": "Tuân thủ quy định",
+     "value": ""
+    },
+    {
+     "label": "Quản trị doanh nghiệp giám sát ESG & công bố thông tin và phát triển bền vững",
+     "value": ""
+    },
+    {
+     "label": "Tài chính xanh",
+     "value": ""
+    },
+    {
+     "label": "Đóng góp cho cộng đồng địa phương",
+     "value": ""
+    },
+    {
+     "label": "An toàn & sức khoẻ nghề nghiệp",
+     "value": ""
+    },
+    {
+     "label": "Giáo dục và đào tạo",
+     "value": ""
+    },
+    {
+     "label": "Cơ hội việc làm",
+     "value": ""
+    },
+    {
+     "label": "Đa dạng & cơ hội bình đẳng",
+     "value": ""
+    },
+    {
+     "label": "Tiêu thụ năng lượng",
+     "value": ""
+    },
+    {
+     "label": "Sự tham gia của các bên liên quan",
+     "value": ""
+    },
+    {
+     "label": "Quản lý rủi ro liên quan tới khí hậu",
+     "value": ""
+    },
+    {
+     "label": "Giảm phát thải",
+     "value": ""
+    },
+    {
+     "label": "Tuân thủ quy định theo pháp luật & thông lệ môi trường",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    126.3,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p153_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3450,
+  "output": 411
+ },
+ "seconds": 3.7
+}

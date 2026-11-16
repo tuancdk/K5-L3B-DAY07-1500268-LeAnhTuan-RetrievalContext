@@ -1,0 +1,53 @@
+{
+ "printed_page": 158,
+ "pdf_page": 80,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Cơ cấu Quản trị Phát triển bền vững",
+   "bbox": [
+    50,
+    120,
+    950,
+    900
+   ],
+   "description": "Ảnh chân dung 4 lãnh đạo MB trong cơ cấu quản trị phát triển bền vững năm 2025 gồm: Ông Lưu Trung Thái - Chủ tịch HĐQT, Bà Vũ Thái Huyền - Thành viên HĐQT, Bà Vũ Thị Hải Phượng - Phó Chủ tịch HĐQT, Ông Phạm Như Ánh - Tổng Giám đốc. Mỗi người có chú thích vai trò liên quan đến công tác phát triển bền vững (PTBV).",
+   "data": [
+    {
+     "label": "Ông LƯU TRUNG THÁI",
+     "value": "Chủ tịch HĐQT - Chủ trì, phụ trách công tác PTBV Tập đoàn"
+    },
+    {
+     "label": "Bà VŨ THÁI HUYỀN",
+     "value": "Thành viên HĐQT - Hỗ trợ chủ tịch công tác định hướng, chỉ đạo, giám sát về PTBV tại các công ty thành viên"
+    },
+    {
+     "label": "Bà VŨ THỊ HẢI PHƯỢNG",
+     "value": "Phó Chủ tịch HĐQT - Hỗ trợ chủ tịch công tác định hướng, chỉ đạo, giám sát về PTBV tại MB"
+    },
+    {
+     "label": "Ông PHẠM NHƯ ÁNH",
+     "value": "Tổng Giám đốc - Chịu trách nhiệm tổ chức triển khai các hoạt động PTBV tại MB"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    101.0,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p158_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3437,
+  "output": 332
+ },
+ "seconds": 3.1
+}

@@ -1,0 +1,53 @@
+{
+ "printed_page": 23,
+ "pdf_page": 12,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "map",
+   "title": "Bản đồ mạng lưới giao dịch MB năm 2025",
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Bản đồ Việt Nam với các điểm giao dịch của MB được đánh dấu. Có chú thích vị trí Hội sở chính, Địa điểm giao dịch tại Lào, Ngân hàng đại chúng TNHH MB Campuchia, và Điểm giao dịch trong nước. Các thành phố lớn được đánh dấu gồm Hà Nội, Đà Nẵng, TP. Hồ Chí Minh. Có đánh dấu quần đảo Hoàng Sa và Trường Sa.",
+   "data": [
+    {
+     "label": "Hội sở chính",
+     "value": "01"
+    },
+    {
+     "label": "Địa điểm giao dịch tại Lào",
+     "value": "01"
+    },
+    {
+     "label": "Ngân hàng đại chúng TNHH MB Campuchia",
+     "value": "01"
+    },
+    {
+     "label": "Điểm giao dịch trong nước",
+     "value": "327"
+    }
+   ],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p023_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3290,
+  "output": 194
+ },
+ "seconds": 3.5
+}

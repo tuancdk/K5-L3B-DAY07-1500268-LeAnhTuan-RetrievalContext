@@ -1,0 +1,122 @@
+{
+ "printed_page": 110,
+ "pdf_page": 56,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tỷ suất tài sản sinh lời (YEA)",
+   "bbox": [
+    50,
+    250,
+    950,
+    520
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện tỷ suất tài sản sinh lời (YEA) và svck (%) của các ngân hàng năm 2025. Trục tung trái biểu thị YEA (%) với cột màu xanh dương nhạt, trục tung phải biểu thị svck (%) với đường màu xanh đậm. Các ngân hàng so sánh gồm VPB, STB, MBB, TCB, ACB, CTG, BID, VCB. Giá trị YEA cao nhất là VPB và VCB (9,6% và 6,7%), MBB đạt 6,7%. Giá trị svck (%) tương ứng có các giá trị âm và dương, ví dụ VPB -1%, STB -5%, MBB -3%, BID -7%, VCB -3%.",
+   "data": [
+    {
+     "label": "VPB",
+     "value": "YEA 9,6%; svck -1%"
+    },
+    {
+     "label": "STB",
+     "value": "YEA 7,1%; svck -5%"
+    },
+    {
+     "label": "MBB",
+     "value": "YEA 6,7%; svck -3%"
+    },
+    {
+     "label": "TCB",
+     "value": "YEA 6,7%; svck -6%"
+    },
+    {
+     "label": "ACB",
+     "value": "YEA 6,4%; svck -3%"
+    },
+    {
+     "label": "CTG",
+     "value": "YEA 5,7%; svck -2%"
+    },
+    {
+     "label": "BID",
+     "value": "YEA 5,2%; svck -7%"
+    },
+    {
+     "label": "VCB",
+     "value": "YEA 4,8%; svck -3%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    210.5,
+    565.5,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p110_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Chi phí vốn (COF)",
+   "bbox": [
+    50,
+    580,
+    950,
+    850
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện chi phí vốn (COF) và svck (%) của các ngân hàng năm 2025. Trục tung trái biểu thị COF (%) với cột màu xanh dương nhạt, trục tung phải biểu thị svck (%) với đường màu xanh đậm. Các ngân hàng so sánh gồm VCB, MBB, CTG, BID, TCB, ACB, STB, VPB. Giá trị COF thấp nhất là VCB 2,3%, MBB 3,2%. Giá trị svck (%) có các giá trị dương và âm, ví dụ VCB 5%, MBB 0%, CTG 6%, BID -5%, TCB 2%, ACB 15%, STB 0%, VPB 8%.",
+   "data": [
+    {
+     "label": "VCB",
+     "value": "COF 2,3%; svck 5%"
+    },
+    {
+     "label": "MBB",
+     "value": "COF 3,2%; svck 0%"
+    },
+    {
+     "label": "CTG",
+     "value": "COF 3,3%; svck 6%"
+    },
+    {
+     "label": "BID",
+     "value": "COF 3,3%; svck -5%"
+    },
+    {
+     "label": "TCB",
+     "value": "COF 3,3%; svck 2%"
+    },
+    {
+     "label": "ACB",
+     "value": "COF 3,8%; svck 15%"
+    },
+    {
+     "label": "STB",
+     "value": "COF 4,1%; svck 0%"
+    },
+    {
+     "label": "VPB",
+     "value": "COF 4,8%; svck 8%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    488.3,
+    565.5,
+    715.6
+   ],
+   "crop": "starter/data/advanced/crops/p110_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3900,
+  "output": 739
+ },
+ "seconds": 9.5
+}

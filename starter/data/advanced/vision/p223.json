@@ -1,0 +1,81 @@
+{
+ "printed_page": 223,
+ "pdf_page": 112,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Danh sách Nghị quyết/Quyết định thành lập các Phòng giao dịch và Văn phòng đại diện của MB",
+   "bbox": [
+    50,
+    100,
+    950,
+    900
+   ],
+   "description": "Bảng liệt kê các Nghị quyết/Quyết định của MB về việc thành lập các Phòng giao dịch và Văn phòng đại diện tại các chi nhánh và quốc gia khác nhau, kèm theo ngày ban hành và ghi chú về thủ tục báo cáo cơ quan quản lý nhà nước (CQQLNN).",
+   "data": [
+    {
+     "label": "54 - 67/NQ-MB-HĐQT",
+     "value": "22/8/2025 - Thành lập Phòng giao dịch Dĩ An - Chi nhánh Tây Thủ Đức"
+    },
+    {
+     "label": "55 - 68/NQ-MB-HĐQT",
+     "value": "22/8/2025 - Thành lập Phòng giao dịch Long Bình - Chi nhánh Tây Thủ Đức"
+    },
+    {
+     "label": "56 - 69/NQ-MB-HĐQT",
+     "value": "22/8/2025 - Thành lập Phòng giao dịch Tân Ba - Chi nhánh Bến Nghé"
+    },
+    {
+     "label": "57 - 70/NQ-MB-HĐQT",
+     "value": "22/8/2025 - Thành lập Phòng giao dịch Phan Xích Long - Chi nhánh Bến Nghé"
+    },
+    {
+     "label": "58 - 71/NQ-MB-HĐQT",
+     "value": "22/8/2025 - Thành lập Phòng giao dịch Vĩnh Tân - Chi nhánh Đông Bình Thạnh"
+    },
+    {
+     "label": "59 - 72/NQ-MB-HĐQT",
+     "value": "22/8/2025 - Thành lập Phòng giao dịch Chợ Bà Chiểu - Chi nhánh Đông Bình Thạnh"
+    },
+    {
+     "label": "60 - 73/NQ-MB-HĐQT",
+     "value": "22/8/2025 - Thành lập Văn phòng đại diện tại Đài Loan"
+    },
+    {
+     "label": "61 - 74/NQ-MB-HĐQT",
+     "value": "22/8/2025 - Thành lập Văn phòng đại diện tại Singapore"
+    },
+    {
+     "label": "62 - 75/NQ-MB-HĐQT",
+     "value": "22/8/2025 - Thành lập Văn phòng đại diện tại Hàn Quốc"
+    },
+    {
+     "label": "63 - 76/NQ-MB-HĐQT",
+     "value": "22/8/2025 - Thành lập Văn phòng đại diện tại Trung Quốc"
+    },
+    {
+     "label": "64 - 77/NQ-MB-HĐQT",
+     "value": "03/09/2025 - Thông qua Hợp đồng, giao dịch giữa MB và MIC; MB thực hiện công bố thông tin theo văn bản số 966/MB-HĐQT ngày 03/09/2025"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p223_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3887,
+  "output": 569
+ },
+ "seconds": 4.9
+}

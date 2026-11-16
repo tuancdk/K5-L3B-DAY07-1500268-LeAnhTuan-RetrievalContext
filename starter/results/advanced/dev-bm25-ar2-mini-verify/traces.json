@@ -1,0 +1,2434 @@
+[
+ {
+  "query_id": "ad01",
+  "split": "dev",
+  "group": "bang",
+  "answerable": true,
+  "question": "Theo bảng chỉ tiêu kết quả hoạt động kinh doanh năm 2025, kế hoạch CIR là bao nhiêu và MB thực hiện được bao nhiêu?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "Kế hoạch CIR năm 2025 của MB là ≤30%. MB thực hiện được CIR là 29,1%, hoàn thành kế hoạch đề ra [mb-ar-2025:p059:visual1][mb-ar-2025:p059:table0:0].",
+  "citations": [
+   "mb-ar-2025:p059:visual1",
+   "mb-ar-2025:p059:table0:0"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "bảng chỉ tiêu kết quả hoạt động kinh doanh năm 2025 CIR kế hoạch thực hiện",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p059:text:00",
+      "page": 59,
+      "rank": 1,
+      "score": 67.972457
+     },
+     {
+      "id": "mb-ar-2025:p059:visual1",
+      "page": 59,
+      "rank": 2,
+      "score": 66.354027
+     },
+     {
+      "id": "mb-ar-2025:p059:table0:0",
+      "page": 59,
+      "rank": 3,
+      "score": 51.847571
+     },
+     {
+      "id": "mb-ar-2025:p121:visual1",
+      "page": 121,
+      "rank": 4,
+      "score": 47.150991
+     },
+     {
+      "id": "mb-ar-2025:p059:table1:0",
+      "page": 59,
+      "rank": 5,
+      "score": 46.020818
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p059:text:00",
+     "mb-ar-2025:p059:visual1",
+     "mb-ar-2025:p059:table0:0",
+     "mb-ar-2025:p121:visual1",
+     "mb-ar-2025:p059:table1:0"
+    ],
+    "skipped_budget": [],
+    "ms": 24.1
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p059:visual1",
+     "mb-ar-2025:p059:table0:0"
+    ],
+    "answer": "Kế hoạch CIR năm 2025 của MB là ≤30%. MB thực hiện được CIR là 29,1%, hoàn thành kế hoạch đề ra.",
+    "citations": [
+     "mb-ar-2025:p059:visual1",
+     "mb-ar-2025:p059:table0:0"
+    ]
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p059:text:00",
+   "mb-ar-2025:p059:visual1",
+   "mb-ar-2025:p059:table0:0",
+   "mb-ar-2025:p121:visual1",
+   "mb-ar-2025:p059:table1:0"
+  ],
+  "context_chars": 3937,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 6074,
+   "output_tokens": 207,
+   "cost_usd": 0.002761
+  },
+  "elapsed_ms": 4393.1,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad02",
+  "split": "dev",
+  "group": "bang",
+  "answerable": true,
+  "question": "Theo lịch sử trả cổ tức bằng tiền mặt, cổ tức tiền mặt cho năm 2016 có tỷ lệ bao nhiêu và được thanh toán ngày nào?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "abstain",
+  "answer": "Không đủ bằng chứng để trả lời.",
+  "citations": [],
+  "rejected_answer": "Cổ tức tiền mặt cho năm 2016 có tỷ lệ 6% và được thanh toán ngày 08/03/2017 theo bảng lịch sử trả cổ tức bằng tiền mặt trên trang 97.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "cổ tức tiền mặt năm 2016",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p097:visual0",
+      "page": 97,
+      "rank": 1,
+      "score": 40.27715
+     },
+     {
+      "id": "mb-ar-2025:p219:table1:2",
+      "page": 219,
+      "rank": 2,
+      "score": 38.30075
+     },
+     {
+      "id": "mb-ar-2025:p097:table1:0",
+      "page": 97,
+      "rank": 3,
+      "score": 38.103614
+     },
+     {
+      "id": "mb-ar-2025:p162:text:02",
+      "page": 162,
+      "rank": 4,
+      "score": 30.358087
+     },
+     {
+      "id": "mb-ar-2025:p348:table5:0",
+      "page": 348,
+      "rank": 5,
+      "score": 28.833014
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p097:visual0",
+     "mb-ar-2025:p219:table1:2",
+     "mb-ar-2025:p097:table1:0",
+     "mb-ar-2025:p162:text:02",
+     "mb-ar-2025:p348:table5:0"
+    ],
+    "skipped_budget": [],
+    "ms": 6.9
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p097:table1:0",
+     "mb-ar-2025:p097:visual0"
+    ],
+    "answer": "Cổ tức tiền mặt cho năm 2016 có tỷ lệ 6% và được thanh toán ngày 08/03/2017 theo bảng lịch sử trả cổ tức bằng tiền mặt trên trang 97.",
+    "citations": [
+     "mb-ar-2025:p097:table1:0",
+     "mb-ar-2025:p097:visual0"
+    ]
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p097:table1:0"
+    ],
+    "answer": "Cổ tức tiền mặt cho năm 2016 có tỷ lệ 6% và được thanh toán ngày 08/03/2017 theo bảng lịch sử trả cổ tức bằng tiền mặt trên trang 97.",
+    "citations": [
+     "mb-ar-2025:p097:table1:0"
+    ]
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p097:visual0",
+   "mb-ar-2025:p219:table1:2",
+   "mb-ar-2025:p097:table1:0",
+   "mb-ar-2025:p162:text:02",
+   "mb-ar-2025:p348:table5:0"
+  ],
+  "context_chars": 2227,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 4882,
+   "output_tokens": 183,
+   "cost_usd": 0.002246
+  },
+  "elapsed_ms": 3790.8,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad03",
+  "split": "dev",
+  "group": "bang",
+  "answerable": true,
+  "question": "Theo bảng quản lý nước tiêu thụ, tổng lượng nước MB sử dụng năm 2025 là bao nhiêu và thay đổi thế nào so với 2024?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "abstain",
+  "answer": "Không đủ bằng chứng để trả lời.",
+  "citations": [],
+  "rejected_answer": "Tổng lượng nước MB sử dụng năm 2025 là 28.664 m3, giảm 4% so với năm 2024 là 29.711 m3. Cường độ sử dụng nước trên người tại Hội sở năm 2025 là 9,25 m3/người, tăng 2,7% so với năm 2024 là 9 m3/người. Số lượng nhân sự tại Hội sở giảm từ 3.300 người năm 2024 xuống còn 3.100 người năm 2025, dẫn đến tổng lượng nước sử dụng giảm dù cường độ sử dụng nước trên người tăng [mb-ar-2025:p185:text:00, mb-ar-2025:p185:table1:0, mb-ar-2025:p185:visual0].",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "bảng quản lý nước tiêu thụ",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p185:text:00",
+      "page": 185,
+      "rank": 1,
+      "score": 35.658612
+     },
+     {
+      "id": "mb-ar-2025:p185:table1:0",
+      "page": 185,
+      "rank": 2,
+      "score": 32.612489
+     },
+     {
+      "id": "mb-ar-2025:p185:visual0",
+      "page": 185,
+      "rank": 3,
+      "score": 32.150034
+     },
+     {
+      "id": "mb-ar-2025:p178:text:00",
+      "page": 178,
+      "rank": 4,
+      "score": 27.606295
+     },
+     {
+      "id": "mb-ar-2025:p178:visual0",
+      "page": 178,
+      "rank": 5,
+      "score": 24.591138
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p185:text:00",
+     "mb-ar-2025:p185:table1:0",
+     "mb-ar-2025:p185:visual0",
+     "mb-ar-2025:p178:text:00",
+     "mb-ar-2025:p178:visual0"
+    ],
+    "skipped_budget": [],
+    "ms": 8.3
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p185:table1:0",
+     "mb-ar-2025:p185:text:00",
+     "mb-ar-2025:p185:visual0"
+    ],
+    "answer": "Tổng lượng nước MB sử dụng năm 2025 là 28.664 m3, giảm 4% so với năm 2024 là 29.711 m3. Cường độ sử dụng nước trên người tại Hội sở năm 2025 là 9,25 m3/người, tăng 2,7% so với năm 2024 là 9 m3/người. Số lượng nhân sự tại Hội sở giảm từ 3.300 người năm 2024 xuống còn 3.100 người năm 2025, dẫn đến tổng lượng nước sử dụng giảm dù cường độ sử dụng nước trên người tăng [mb-ar-2025:p185:table1:0, mb-ar-2025:p185:text:00, mb-ar-2025:p185:visual0].",
+    "citations": [
+     "mb-ar-2025:p185:table1:0",
+     "mb-ar-2025:p185:text:00",
+     "mb-ar-2025:p185:visual0"
+    ]
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p185:text:00",
+     "mb-ar-2025:p185:table1:0",
+     "mb-ar-2025:p185:visual0"
+    ],
+    "answer": "Tổng lượng nước MB sử dụng năm 2025 là 28.664 m3, giảm 4% so với năm 2024 là 29.711 m3. Cường độ sử dụng nước trên người tại Hội sở năm 2025 là 9,25 m3/người, tăng 2,7% so với năm 2024 là 9 m3/người. Số lượng nhân sự tại Hội sở giảm từ 3.300 người năm 2024 xuống còn 3.100 người năm 2025, dẫn đến tổng lượng nước sử dụng giảm dù cường độ sử dụng nước trên người tăng [mb-ar-2025:p185:text:00, mb-ar-2025:p185:table1:0, mb-ar-2025:p185:visual0].",
+    "citations": [
+     "mb-ar-2025:p185:text:00",
+     "mb-ar-2025:p185:table1:0",
+     "mb-ar-2025:p185:visual0"
+    ]
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p185:text:00",
+   "mb-ar-2025:p185:table1:0",
+   "mb-ar-2025:p185:visual0",
+   "mb-ar-2025:p178:text:00",
+   "mb-ar-2025:p178:visual0"
+  ],
+  "context_chars": 5244,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 6750,
+   "output_tokens": 471,
+   "cost_usd": 0.003454
+  },
+  "elapsed_ms": 5807.5,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad04",
+  "split": "dev",
+  "group": "bang",
+  "answerable": true,
+  "question": "MB sở hữu bao nhiêu phần trăm Công ty Cổ phần Chứng khoán MB (MBS) và vốn điều lệ của MBS là bao nhiêu?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "MB sở hữu 66,76% vốn điều lệ của Công ty Cổ phần Chứng khoán MB (MBS). Vốn điều lệ của MBS là 6.587,27 tỷ đồng [mb-ar-2025:p292:table0:0][mb-ar-2025:p080:table0:0].",
+  "citations": [
+   "mb-ar-2025:p292:table0:0",
+   "mb-ar-2025:p080:table0:0"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Công ty Cổ phần Chứng khoán MB MBS sở hữu phần trăm vốn điều lệ",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p308:text:00",
+      "page": 308,
+      "rank": 1,
+      "score": 69.785638
+     },
+     {
+      "id": "mb-ar-2025:p030:text:00",
+      "page": 30,
+      "rank": 2,
+      "score": 59.453381
+     },
+     {
+      "id": "mb-ar-2025:p047:text:04",
+      "page": 47,
+      "rank": 3,
+      "score": 58.344868
+     },
+     {
+      "id": "mb-ar-2025:p292:table0:0",
+      "page": 292,
+      "rank": 4,
+      "score": 56.918177
+     },
+     {
+      "id": "mb-ar-2025:p081:text:03",
+      "page": 81,
+      "rank": 5,
+      "score": 56.099504
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p308:text:00",
+     "mb-ar-2025:p030:text:00",
+     "mb-ar-2025:p047:text:04",
+     "mb-ar-2025:p292:table0:0",
+     "mb-ar-2025:p081:text:03"
+    ],
+    "skipped_budget": [],
+    "ms": 19.9
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "vốn điều lệ Công ty Cổ phần Chứng khoán MB MBS",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p308:text:00",
+      "page": 308,
+      "rank": 1,
+      "score": 64.594918
+     },
+     {
+      "id": "mb-ar-2025:p030:text:00",
+      "page": 30,
+      "rank": 2,
+      "score": 56.50191
+     },
+     {
+      "id": "mb-ar-2025:p047:text:04",
+      "page": 47,
+      "rank": 3,
+      "score": 55.529233
+     },
+     {
+      "id": "mb-ar-2025:p081:text:03",
+      "page": 81,
+      "rank": 4,
+      "score": 53.635841
+     },
+     {
+      "id": "mb-ar-2025:p080:table0:0",
+      "page": 80,
+      "rank": 5,
+      "score": 48.059757
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p080:table0:0"
+    ],
+    "skipped_budget": [],
+    "ms": 8.2
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 2,
+  "context_ids": [
+   "mb-ar-2025:p308:text:00",
+   "mb-ar-2025:p030:text:00",
+   "mb-ar-2025:p047:text:04",
+   "mb-ar-2025:p292:table0:0",
+   "mb-ar-2025:p081:text:03",
+   "mb-ar-2025:p080:table0:0"
+  ],
+  "context_chars": 5479,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 6387,
+   "output_tokens": 175,
+   "cost_usd": 0.002835
+  },
+  "elapsed_ms": 3476.4,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad05",
+  "split": "dev",
+  "group": "anh_so_do",
+  "answerable": true,
+  "question": "Trong sơ đồ giá trị cốt lõi của MB, giá trị nào được diễn giải là \"Nhanh chóng – Chính xác – Sáng tạo\"?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "Giá trị cốt lõi được diễn giải là \"Nhanh chóng – Chính xác – Sáng tạo\" là Thực thi trong sơ đồ giá trị cốt lõi của MB [mb-ar-2025:p019:visual0].",
+  "citations": [
+   "mb-ar-2025:p019:visual0"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Sơ đồ giá trị cốt lõi Nhanh chóng – Chính xác – Sáng tạo",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p019:visual0",
+      "page": 19,
+      "rank": 1,
+      "score": 89.656255
+     },
+     {
+      "id": "mb-ar-2025:p019:text:00",
+      "page": 19,
+      "rank": 2,
+      "score": 77.55293
+     },
+     {
+      "id": "mb-ar-2025:p034:visual4",
+      "page": 34,
+      "rank": 3,
+      "score": 40.622399
+     },
+     {
+      "id": "mb-ar-2025:p116:text:03",
+      "page": 116,
+      "rank": 4,
+      "score": 38.084252
+     },
+     {
+      "id": "mb-ar-2025:p169:visual0",
+      "page": 169,
+      "rank": 5,
+      "score": 31.652316
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p019:visual0",
+     "mb-ar-2025:p019:text:00",
+     "mb-ar-2025:p034:visual4",
+     "mb-ar-2025:p116:text:03",
+     "mb-ar-2025:p169:visual0"
+    ],
+    "skipped_budget": [],
+    "ms": 15.9
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p019:visual0",
+     "mb-ar-2025:p019:text:00"
+    ],
+    "answer": "Giá trị cốt lõi được diễn giải là \"Nhanh chóng – Chính xác – Sáng tạo\" là Thực thi trong sơ đồ giá trị cốt lõi của MB.",
+    "citations": [
+     "mb-ar-2025:p019:visual0",
+     "mb-ar-2025:p019:text:00"
+    ]
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p019:visual0",
+   "mb-ar-2025:p019:text:00",
+   "mb-ar-2025:p034:visual4",
+   "mb-ar-2025:p116:text:03",
+   "mb-ar-2025:p169:visual0"
+  ],
+  "context_chars": 3027,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 4947,
+   "output_tokens": 194,
+   "cost_usd": 0.002289
+  },
+  "elapsed_ms": 3744.7,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad06",
+  "split": "dev",
+  "group": "anh_so_do",
+  "answerable": true,
+  "question": "Theo dòng thời gian các mốc phát triển của MB, năm 2025 MB vinh dự đón nhận những huân chương nào?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "Năm 2025, MB vinh dự đón nhận Huân chương Bảo vệ Tổ quốc hạng Nhất và Huân chương Lao động hạng Ba [mb-ar-2025:p021:text:01][mb-ar-2025:p241:text:04][mb-ar-2025:p021:visual1].",
+  "citations": [
+   "mb-ar-2025:p021:text:01",
+   "mb-ar-2025:p241:text:04",
+   "mb-ar-2025:p021:visual1"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "mốc phát triển năm 2025 huân chương",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p021:text:01",
+      "page": 21,
+      "rank": 1,
+      "score": 32.251189
+     },
+     {
+      "id": "mb-ar-2025:p241:text:04",
+      "page": 241,
+      "rank": 2,
+      "score": 26.359844
+     },
+     {
+      "id": "mb-ar-2025:p021:visual1",
+      "page": 21,
+      "rank": 3,
+      "score": 26.165473
+     },
+     {
+      "id": "mb-ar-2025:p021:visual0",
+      "page": 21,
+      "rank": 4,
+      "score": 26.136971
+     },
+     {
+      "id": "mb-ar-2025:p020:text:00",
+      "page": 20,
+      "rank": 5,
+      "score": 24.599702
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p021:text:01",
+     "mb-ar-2025:p241:text:04",
+     "mb-ar-2025:p021:visual1",
+     "mb-ar-2025:p021:visual0",
+     "mb-ar-2025:p020:text:00"
+    ],
+    "skipped_budget": [],
+    "ms": 13.4
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p021:text:01",
+   "mb-ar-2025:p241:text:04",
+   "mb-ar-2025:p021:visual1",
+   "mb-ar-2025:p021:visual0",
+   "mb-ar-2025:p020:text:00"
+  ],
+  "context_chars": 3519,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2901,
+   "output_tokens": 143,
+   "cost_usd": 0.001389
+  },
+  "elapsed_ms": 2674.3,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad07",
+  "split": "dev",
+  "group": "anh_so_do",
+  "answerable": true,
+  "question": "Trong sơ đồ quy trình quản lý rủi ro, nhóm \"Đánh giá rủi ro (2)\" gồm những bước nào?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "Nhóm \"Đánh giá rủi ro (2)\" gồm các bước: Nhận dạng (2.1), Đo lường (2.2), Theo dõi (2.3) [mb-ar-2025:p041:visual0].",
+  "citations": [
+   "mb-ar-2025:p041:visual0"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Sơ đồ quy trình quản lý rủi ro Đánh giá rủi ro (2)",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p041:visual0",
+      "page": 41,
+      "rank": 1,
+      "score": 66.425516
+     },
+     {
+      "id": "mb-ar-2025:p041:text:00",
+      "page": 41,
+      "rank": 2,
+      "score": 55.361677
+     },
+     {
+      "id": "mb-ar-2025:p042:visual0",
+      "page": 42,
+      "rank": 3,
+      "score": 51.463277
+     },
+     {
+      "id": "mb-ar-2025:p170:visual0",
+      "page": 170,
+      "rank": 4,
+      "score": 49.684705
+     },
+     {
+      "id": "mb-ar-2025:p051:text:05",
+      "page": 51,
+      "rank": 5,
+      "score": 45.589528
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p041:visual0",
+     "mb-ar-2025:p041:text:00",
+     "mb-ar-2025:p042:visual0",
+     "mb-ar-2025:p170:visual0",
+     "mb-ar-2025:p051:text:05"
+    ],
+    "skipped_budget": [],
+    "ms": 17.3
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p041:visual0",
+     "mb-ar-2025:p041:text:00"
+    ],
+    "answer": "Nhóm \"Đánh giá rủi ro (2)\" gồm các bước: Nhận dạng (2.1), Đo lường (2.2), Theo dõi (2.3).",
+    "citations": [
+     "mb-ar-2025:p041:visual0",
+     "mb-ar-2025:p041:text:00"
+    ]
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p041:visual0",
+   "mb-ar-2025:p041:text:00",
+   "mb-ar-2025:p042:visual0",
+   "mb-ar-2025:p170:visual0",
+   "mb-ar-2025:p051:text:05"
+  ],
+  "context_chars": 3104,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 5216,
+   "output_tokens": 205,
+   "cost_usd": 0.002414
+  },
+  "elapsed_ms": 4111.6,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad08",
+  "split": "dev",
+  "group": "bieu_do",
+  "answerable": true,
+  "question": "Theo biểu đồ cho vay phân khúc KHCN, dư nợ cho vay KHCN năm 2025 là bao nhiêu?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "Dư nợ cho vay phân khúc khách hàng cá nhân (KHCN) năm 2025 là 444.841 nghìn tỷ đồng theo biểu đồ cột cho vay phân khúc KHCN trên trang 64 [mb-ar-2025:p064:visual0].",
+  "citations": [
+   "mb-ar-2025:p064:visual0"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "biểu đồ cho vay phân khúc KHCN năm 2025",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p064:visual0",
+      "page": 64,
+      "rank": 1,
+      "score": 67.510347
+     },
+     {
+      "id": "mb-ar-2025:p064:table0:0",
+      "page": 64,
+      "rank": 2,
+      "score": 52.183586
+     },
+     {
+      "id": "mb-ar-2025:p064:text:00",
+      "page": 64,
+      "rank": 3,
+      "score": 48.455888
+     },
+     {
+      "id": "mb-ar-2025:p064:visual1",
+      "page": 64,
+      "rank": 4,
+      "score": 47.164381
+     },
+     {
+      "id": "mb-ar-2025:p170:text:03",
+      "page": 170,
+      "rank": 5,
+      "score": 35.494669
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p064:visual0",
+     "mb-ar-2025:p064:table0:0",
+     "mb-ar-2025:p064:text:00",
+     "mb-ar-2025:p064:visual1",
+     "mb-ar-2025:p170:text:03"
+    ],
+    "skipped_budget": [],
+    "ms": 10.1
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p064:visual0",
+   "mb-ar-2025:p064:table0:0",
+   "mb-ar-2025:p064:text:00",
+   "mb-ar-2025:p064:visual1",
+   "mb-ar-2025:p170:text:03"
+  ],
+  "context_chars": 2661,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2696,
+   "output_tokens": 116,
+   "cost_usd": 0.001264
+  },
+  "elapsed_ms": 2713.9,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad09",
+  "split": "dev",
+  "group": "bieu_do",
+  "answerable": true,
+  "question": "Theo biểu đồ phân loại nhân sự theo độ tuổi, năm 2025 MB có bao nhiêu nhân sự dưới 35 tuổi và tăng bao nhiêu so với 2024?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "Năm 2025, MB có 9.182 nhân sự dưới 35 tuổi, tăng 6% so với năm 2024 là 8.671 người, tương ứng tăng 511 người (9.182 - 8.671 = 511) theo biểu đồ phân loại nhân sự theo độ tuổi [mb-ar-2025:p077:visual0][mb-ar-2025:p188:table0:0][mb-ar-2025:p188:visual0][mb-ar-2025:p077:text:00].",
+  "citations": [
+   "mb-ar-2025:p077:visual0",
+   "mb-ar-2025:p188:table0:0",
+   "mb-ar-2025:p188:visual0",
+   "mb-ar-2025:p077:text:00"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "phân loại nhân sự theo độ tuổi 2025 MB",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p077:visual0",
+      "page": 77,
+      "rank": 1,
+      "score": 60.563781
+     },
+     {
+      "id": "mb-ar-2025:p188:table0:0",
+      "page": 188,
+      "rank": 2,
+      "score": 46.754815
+     },
+     {
+      "id": "mb-ar-2025:p077:text:00",
+      "page": 77,
+      "rank": 3,
+      "score": 38.765299
+     },
+     {
+      "id": "mb-ar-2025:p188:visual0",
+      "page": 188,
+      "rank": 4,
+      "score": 30.137371
+     },
+     {
+      "id": "mb-ar-2025:p076:visual0",
+      "page": 76,
+      "rank": 5,
+      "score": 26.761448
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p077:visual0",
+     "mb-ar-2025:p188:table0:0",
+     "mb-ar-2025:p077:text:00",
+     "mb-ar-2025:p188:visual0",
+     "mb-ar-2025:p076:visual0"
+    ],
+    "skipped_budget": [],
+    "ms": 13.7
+   },
+   {
+    "event": "grounding_check",
+    "issues": [
+     "số '511'"
+    ],
+    "answer": "Năm 2025, MB có 9.182 nhân sự dưới 35 tuổi, tăng 511 người (tương ứng 6%) so với năm 2024 là 8.671 người theo biểu đồ phân loại nhân sự theo độ tuổi [mb-ar-2025:p077:visual0][mb-ar-2025:p188:table0:0][mb-ar-2025:p188:visual0]."
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": true
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p077:visual0",
+   "mb-ar-2025:p188:table0:0",
+   "mb-ar-2025:p077:text:00",
+   "mb-ar-2025:p188:visual0",
+   "mb-ar-2025:p076:visual0"
+  ],
+  "context_chars": 5724,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 7660,
+   "output_tokens": 340,
+   "cost_usd": 0.003608
+  },
+  "elapsed_ms": 5678.5,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad10",
+  "split": "dev",
+  "group": "bieu_do",
+  "answerable": true,
+  "question": "Theo biểu đồ mức độ biến động tỷ giá USD/VND, mức biến động năm 2025 là bao nhiêu và dự báo 2026 là bao nhiêu?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "abstain",
+  "answer": "Không đủ bằng chứng để trả lời.",
+  "citations": [],
+  "rejected_answer": "Mức độ biến động tỷ giá USD/VND năm 2025 là 3,2%. Dự báo mức độ biến động năm 2026 là 3,4%. Áp lực tỷ giá năm 2026 dự báo sẽ thấp hơn năm 2025 do chênh lệch lãi suất giữa VND và USD được thu hẹp, cùng với các yếu tố nội tại hỗ trợ ổn định tỷ giá như cán cân thương mại thặng dư, FDI giải ngân ổn định, kiều hối bền vững và khách du lịch quốc tế cung cấp ngoại tệ đều đặn, giúp Ngân hàng Nhà nước có dư địa điều tiết thị trường ngoại hối linh hoạt hơn [mb-ar-2025:p102:visual0, mb-ar-2025:p102:text:00].",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "biểu đồ mức độ biến động tỷ giá USD/VND",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p102:visual0",
+      "page": 102,
+      "rank": 1,
+      "score": 98.846277
+     },
+     {
+      "id": "mb-ar-2025:p102:text:00",
+      "page": 102,
+      "rank": 2,
+      "score": 63.113015
+     },
+     {
+      "id": "mb-ar-2025:p044:text:01",
+      "page": 44,
+      "rank": 3,
+      "score": 28.081529
+     },
+     {
+      "id": "mb-ar-2025:p101:visual0",
+      "page": 101,
+      "rank": 4,
+      "score": 26.891176
+     },
+     {
+      "id": "mb-ar-2025:p360:text:00",
+      "page": 360,
+      "rank": 5,
+      "score": 25.954187
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p102:visual0",
+     "mb-ar-2025:p102:text:00",
+     "mb-ar-2025:p044:text:01",
+     "mb-ar-2025:p101:visual0",
+     "mb-ar-2025:p360:text:00"
+    ],
+    "skipped_budget": [],
+    "ms": 15.7
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p102:visual0",
+     "mb-ar-2025:p102:text:00"
+    ],
+    "answer": "Mức độ biến động tỷ giá USD/VND năm 2025 là 3,2%. Dự báo mức độ biến động năm 2026 là 3,4%. Áp lực tỷ giá năm 2026 dự báo sẽ thấp hơn năm 2025 do chênh lệch lãi suất giữa VND và USD được thu hẹp, cùng với các yếu tố nội tại hỗ trợ ổn định tỷ giá như cán cân thương mại thặng dư, FDI giải ngân ổn định, kiều hối bền vững và khách du lịch quốc tế cung cấp ngoại tệ đều đặn, giúp Ngân hàng Nhà nước có dư địa điều tiết thị trường ngoại hối linh hoạt hơn [mb-ar-2025:p102:visual0, mb-ar-2025:p102:text:00].",
+    "citations": [
+     "mb-ar-2025:p102:visual0",
+     "mb-ar-2025:p102:text:00"
+    ]
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p102:visual0",
+     "mb-ar-2025:p102:text:00"
+    ],
+    "answer": "Mức độ biến động tỷ giá USD/VND năm 2025 là 3,2%. Dự báo mức độ biến động năm 2026 là 3,4%. Áp lực tỷ giá năm 2026 dự báo sẽ thấp hơn năm 2025 do chênh lệch lãi suất giữa VND và USD được thu hẹp, cùng với các yếu tố nội tại hỗ trợ ổn định tỷ giá như cán cân thương mại thặng dư, FDI giải ngân ổn định, kiều hối bền vững và khách du lịch quốc tế cung cấp ngoại tệ đều đặn, giúp Ngân hàng Nhà nước có dư địa điều tiết thị trường ngoại hối linh hoạt hơn [mb-ar-2025:p102:visual0, mb-ar-2025:p102:text:00].",
+    "citations": [
+     "mb-ar-2025:p102:visual0",
+     "mb-ar-2025:p102:text:00"
+    ]
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p102:visual0",
+   "mb-ar-2025:p102:text:00",
+   "mb-ar-2025:p044:text:01",
+   "mb-ar-2025:p101:visual0",
+   "mb-ar-2025:p360:text:00"
+  ],
+  "context_chars": 3811,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 5849,
+   "output_tokens": 455,
+   "cost_usd": 0.003068
+  },
+  "elapsed_ms": 6046.7,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad11",
+  "split": "dev",
+  "group": "bieu_do",
+  "answerable": true,
+  "question": "Theo biểu đồ so sánh tỷ lệ CASA các ngân hàng năm 2025, CASA của MBB là bao nhiêu và đứng thứ mấy?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "abstain",
+  "answer": "Không đủ bằng chứng để trả lời.",
+  "citations": [],
+  "rejected_answer": "Theo biểu đồ trên trang 108 và infographic trang 58, tỷ lệ CASA của MBB năm 2025 là 37,8% và đứng thứ nhất trong nhóm các ngân hàng so sánh, giữ vị trí dẫn đầu toàn ngành. Đây là lợi thế cạnh tranh đặc biệt của MB được duy trì từ năm 2017 đến nay, mặc dù tỷ lệ này giảm 4% so với năm 2024 nhưng vẫn đứng vị trí số 1 [mb-ar-2025:p108:visual0, mb-ar-2025:p108:text:00, mb-ar-2025:p058:visual1].",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "biểu đồ so sánh tỷ lệ CASA năm 2025",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p090:visual1",
+      "page": 90,
+      "rank": 1,
+      "score": 45.438064
+     },
+     {
+      "id": "mb-ar-2025:p108:visual0",
+      "page": 108,
+      "rank": 2,
+      "score": 43.322053
+     },
+     {
+      "id": "mb-ar-2025:p108:text:00",
+      "page": 108,
+      "rank": 3,
+      "score": 37.216639
+     },
+     {
+      "id": "mb-ar-2025:p058:visual1",
+      "page": 58,
+      "rank": 4,
+      "score": 31.208571
+     },
+     {
+      "id": "mb-ar-2025:p111:visual1",
+      "page": 111,
+      "rank": 5,
+      "score": 29.560287
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p090:visual1",
+     "mb-ar-2025:p108:visual0",
+     "mb-ar-2025:p108:text:00",
+     "mb-ar-2025:p058:visual1",
+     "mb-ar-2025:p111:visual1"
+    ],
+    "skipped_budget": [],
+    "ms": 10.7
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p108:visual0",
+     "mb-ar-2025:p108:text:00",
+     "mb-ar-2025:p058:visual1"
+    ],
+    "answer": "Theo biểu đồ trên trang 108 và infographic trang 58, tỷ lệ CASA của MBB năm 2025 là 37,8% và đứng thứ nhất trong nhóm các ngân hàng so sánh, giữ vị trí dẫn đầu toàn ngành. Đây là lợi thế cạnh tranh đặc biệt của MB được duy trì từ năm 2017 đến nay, mặc dù tỷ lệ này giảm 4% so với năm 2024 nhưng vẫn đứng vị trí số 1 [mb-ar-2025:p108:visual0, mb-ar-2025:p108:text:00, mb-ar-2025:p058:visual1].",
+    "citations": [
+     "mb-ar-2025:p108:visual0",
+     "mb-ar-2025:p108:text:00",
+     "mb-ar-2025:p058:visual1"
+    ]
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p108:visual0",
+     "mb-ar-2025:p108:text:00",
+     "mb-ar-2025:p058:visual1"
+    ],
+    "answer": "Theo biểu đồ trên trang 108 và infographic trang 58, tỷ lệ CASA của MBB năm 2025 là 37,8% và đứng thứ nhất trong nhóm các ngân hàng so sánh, giữ vị trí dẫn đầu toàn ngành. Đây là lợi thế cạnh tranh đặc biệt của MB được duy trì từ năm 2017 đến nay, mặc dù tỷ lệ này giảm 4% so với năm 2024 nhưng vẫn đứng vị trí số 1 [mb-ar-2025:p108:visual0, mb-ar-2025:p108:text:00, mb-ar-2025:p058:visual1].",
+    "citations": [
+     "mb-ar-2025:p108:visual0",
+     "mb-ar-2025:p108:text:00",
+     "mb-ar-2025:p058:visual1"
+    ]
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p090:visual1",
+   "mb-ar-2025:p108:visual0",
+   "mb-ar-2025:p108:text:00",
+   "mb-ar-2025:p058:visual1",
+   "mb-ar-2025:p111:visual1"
+  ],
+  "context_chars": 3037,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 5362,
+   "output_tokens": 394,
+   "cost_usd": 0.002775
+  },
+  "elapsed_ms": 5687.7,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad12",
+  "split": "dev",
+  "group": "multi_hop",
+  "answerable": true,
+  "question": "CIR năm 2025 của MB có đạt kế hoạch không, và theo biểu đồ so sánh CIR các ngân hàng thì ngân hàng nào có CIR thấp nhất?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "CIR năm 2025 của MB là 29,1%, đạt kế hoạch đề ra là ≤30%, được đánh giá hoàn thành kế hoạch. Theo biểu đồ so sánh CIR các ngân hàng năm 2025, ngân hàng có CIR thấp nhất là VPB với 25,0%, MB đứng thứ hai với 29,1% [mb-ar-2025:p059:visual1][mb-ar-2025:p111:visual1][mb-ar-2025:p111:text:00].",
+  "citations": [
+   "mb-ar-2025:p059:visual1",
+   "mb-ar-2025:p111:visual1",
+   "mb-ar-2025:p111:text:00"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "CIR năm 2025 của MB kế hoạch và thực hiện",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p059:visual1",
+      "page": 59,
+      "rank": 1,
+      "score": 33.915784
+     },
+     {
+      "id": "mb-ar-2025:p004:visual0",
+      "page": 4,
+      "rank": 2,
+      "score": 29.478562
+     },
+     {
+      "id": "mb-ar-2025:p085:visual0",
+      "page": 85,
+      "rank": 3,
+      "score": 28.127447
+     },
+     {
+      "id": "mb-ar-2025:p215:table0:0",
+      "page": 215,
+      "rank": 4,
+      "score": 27.094866
+     },
+     {
+      "id": "mb-ar-2025:p215:visual0",
+      "page": 215,
+      "rank": 5,
+      "score": 26.554329
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p059:visual1",
+     "mb-ar-2025:p004:visual0",
+     "mb-ar-2025:p085:visual0",
+     "mb-ar-2025:p215:table0:0",
+     "mb-ar-2025:p215:visual0"
+    ],
+    "skipped_budget": [],
+    "ms": 18.7
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Biểu đồ so sánh CIR các ngân hàng",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p111:visual1",
+      "page": 111,
+      "rank": 1,
+      "score": 41.094574
+     },
+     {
+      "id": "mb-ar-2025:p111:visual0",
+      "page": 111,
+      "rank": 2,
+      "score": 32.683992
+     },
+     {
+      "id": "mb-ar-2025:p111:text:00",
+      "page": 111,
+      "rank": 3,
+      "score": 31.648359
+     },
+     {
+      "id": "mb-ar-2025:p108:visual0",
+      "page": 108,
+      "rank": 4,
+      "score": 26.014874
+     },
+     {
+      "id": "mb-ar-2025:p108:visual1",
+      "page": 108,
+      "rank": 5,
+      "score": 25.73865
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p111:visual1",
+     "mb-ar-2025:p111:visual0",
+     "mb-ar-2025:p111:text:00",
+     "mb-ar-2025:p108:visual0"
+    ],
+    "skipped_budget": [
+     "mb-ar-2025:p108:visual1"
+    ],
+    "ms": 10.0
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 2,
+  "context_ids": [
+   "mb-ar-2025:p059:visual1",
+   "mb-ar-2025:p004:visual0",
+   "mb-ar-2025:p085:visual0",
+   "mb-ar-2025:p215:table0:0",
+   "mb-ar-2025:p215:visual0",
+   "mb-ar-2025:p111:visual1",
+   "mb-ar-2025:p111:visual0",
+   "mb-ar-2025:p111:text:00",
+   "mb-ar-2025:p108:visual0"
+  ],
+  "context_chars": 11776,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 10496,
+   "output_tokens": 210,
+   "cost_usd": 0.004534
+  },
+  "elapsed_ms": 3970.6,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad13",
+  "split": "dev",
+  "group": "multi_hop",
+  "answerable": true,
+  "question": "Trong năm MB niêm yết cổ phiếu MBB trên Sở giao dịch chứng khoán TP.HCM, MB chi trả cổ tức tiền mặt những đợt nào (tỷ lệ và ngày thanh toán)?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "MB đã niêm yết cổ phiếu MBB trên Sở giao dịch chứng khoán TP.HCM từ năm 2011. Trong năm niêm yết đó, MB chi trả cổ tức tiền mặt các đợt sau: năm 2023 chi trả cổ tức tiền mặt tỷ lệ 5% với ngày giao dịch không hưởng quyền 23/05/2024 và ngày thanh toán 14/06/2024; năm 2024 chi trả cổ tức tiền mặt tỷ lệ 3% với ngày giao dịch không hưởng quyền 13/08/2025 và ngày thanh toán 21/08/2025 [mb-ar-2025:p021:text:00][mb-ar-2025:p097:table1:0][mb-ar-2025:p097:visual0][mb-ar-2025:p227:text:00].",
+  "citations": [
+   "mb-ar-2025:p021:text:00",
+   "mb-ar-2025:p097:table1:0",
+   "mb-ar-2025:p097:visual0",
+   "mb-ar-2025:p227:text:00"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "MB chi trả cổ tức tiền mặt MBB niêm yết trên HOSE",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p348:table5:0",
+      "page": 348,
+      "rank": 1,
+      "score": 48.754324
+     },
+     {
+      "id": "mb-ar-2025:p227:text:00",
+      "page": 227,
+      "rank": 2,
+      "score": 46.428258
+     },
+     {
+      "id": "mb-ar-2025:p097:visual0",
+      "page": 97,
+      "rank": 3,
+      "score": 45.035329
+     },
+     {
+      "id": "mb-ar-2025:p219:table1:2",
+      "page": 219,
+      "rank": 4,
+      "score": 40.834214
+     },
+     {
+      "id": "mb-ar-2025:p097:table1:0",
+      "page": 97,
+      "rank": 5,
+      "score": 40.824147
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p348:table5:0",
+     "mb-ar-2025:p227:text:00",
+     "mb-ar-2025:p097:visual0",
+     "mb-ar-2025:p219:table1:2",
+     "mb-ar-2025:p097:table1:0"
+    ],
+    "skipped_budget": [],
+    "ms": 16.5
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "MB niêm yết cổ phiếu MBB trên Sở giao dịch chứng khoán TP.HCM năm nào",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p021:text:00",
+      "page": 21,
+      "rank": 1,
+      "score": 86.079207
+     },
+     {
+      "id": "mb-ar-2025:p142:visual0",
+      "page": 142,
+      "rank": 2,
+      "score": 84.5527
+     },
+     {
+      "id": "mb-ar-2025:p142:text:00",
+      "page": 142,
+      "rank": 3,
+      "score": 71.213357
+     },
+     {
+      "id": "mb-ar-2025:p021:visual1",
+      "page": 21,
+      "rank": 4,
+      "score": 62.450497
+     },
+     {
+      "id": "mb-ar-2025:p300:text:04",
+      "page": 300,
+      "rank": 5,
+      "score": 61.075574
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p021:text:00",
+     "mb-ar-2025:p142:visual0",
+     "mb-ar-2025:p142:text:00",
+     "mb-ar-2025:p021:visual1",
+     "mb-ar-2025:p300:text:04"
+    ],
+    "skipped_budget": [],
+    "ms": 17.8
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "MB chi trả cổ tức tiền mặt năm 2023 và 2024",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p097:visual0",
+      "page": 97,
+      "rank": 1,
+      "score": 51.889736
+     },
+     {
+      "id": "mb-ar-2025:p219:table1:2",
+      "page": 219,
+      "rank": 2,
+      "score": 51.623456
+     },
+     {
+      "id": "mb-ar-2025:p348:table5:0",
+      "page": 348,
+      "rank": 3,
+      "score": 49.920735
+     },
+     {
+      "id": "mb-ar-2025:p097:table1:0",
+      "page": 97,
+      "rank": 4,
+      "score": 48.596037
+     },
+     {
+      "id": "mb-ar-2025:p227:text:00",
+      "page": 227,
+      "rank": 5,
+      "score": 48.381351
+     }
+    ],
+    "new_context_ids": [],
+    "skipped_budget": [],
+    "ms": 15.3
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 3,
+  "context_ids": [
+   "mb-ar-2025:p348:table5:0",
+   "mb-ar-2025:p227:text:00",
+   "mb-ar-2025:p097:visual0",
+   "mb-ar-2025:p219:table1:2",
+   "mb-ar-2025:p097:table1:0",
+   "mb-ar-2025:p021:text:00",
+   "mb-ar-2025:p142:visual0",
+   "mb-ar-2025:p142:text:00",
+   "mb-ar-2025:p021:visual1",
+   "mb-ar-2025:p300:text:04"
+  ],
+  "context_chars": 6791,
+  "usage": {
+   "turns": 4,
+   "input_tokens": 10376,
+   "output_tokens": 339,
+   "cost_usd": 0.004693
+  },
+  "elapsed_ms": 5542.2,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad14",
+  "split": "dev",
+  "group": "multi_hop",
+  "answerable": true,
+  "question": "Số lượng khách hàng MB thực hiện năm 2025 là bao nhiêu và theo biểu đồ kế hoạch của HĐQT, mục tiêu khách hàng năm 2026 cao hơn bao nhiêu?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "Số lượng khách hàng MB thực hiện năm 2025 là 35 triệu khách hàng [mb-ar-2025:p120:visual1]. Theo biểu đồ kế hoạch của HĐQT, mục tiêu khách hàng năm 2026 là 40 triệu, cao hơn năm 2025 là 5 triệu khách hàng [mb-ar-2025:p134:visual0].",
+  "citations": [
+   "mb-ar-2025:p120:visual1",
+   "mb-ar-2025:p134:visual0"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Số lượng khách hàng MB năm 2025",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p120:visual1",
+      "page": 120,
+      "rank": 1,
+      "score": 42.162217
+     },
+     {
+      "id": "mb-ar-2025:p120:visual0",
+      "page": 120,
+      "rank": 2,
+      "score": 30.211095
+     },
+     {
+      "id": "mb-ar-2025:p056:visual1",
+      "page": 56,
+      "rank": 3,
+      "score": 29.867836
+     },
+     {
+      "id": "mb-ar-2025:p120:text:00",
+      "page": 120,
+      "rank": 4,
+      "score": 29.626507
+     },
+     {
+      "id": "mb-ar-2025:p134:visual0",
+      "page": 134,
+      "rank": 5,
+      "score": 26.429907
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p120:visual1",
+     "mb-ar-2025:p120:visual0",
+     "mb-ar-2025:p056:visual1",
+     "mb-ar-2025:p120:text:00",
+     "mb-ar-2025:p134:visual0"
+    ],
+    "skipped_budget": [],
+    "ms": 13.4
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p120:visual1",
+     "mb-ar-2025:p120:visual0",
+     "mb-ar-2025:p134:visual0",
+     "mb-ar-2025:p120:text:00",
+     "mb-ar-2025:p056:visual1"
+    ],
+    "answer": "Số lượng khách hàng MB thực hiện năm 2025 là 35 triệu khách hàng. Theo biểu đồ kế hoạch của HĐQT, mục tiêu khách hàng năm 2026 là 40 triệu, cao hơn năm 2025 là 5 triệu khách hàng (tăng 5 triệu).",
+    "citations": [
+     "mb-ar-2025:p120:visual1",
+     "mb-ar-2025:p120:visual0",
+     "mb-ar-2025:p134:visual0",
+     "mb-ar-2025:p120:text:00",
+     "mb-ar-2025:p056:visual1"
+    ]
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p120:visual1",
+   "mb-ar-2025:p120:visual0",
+   "mb-ar-2025:p056:visual1",
+   "mb-ar-2025:p120:text:00",
+   "mb-ar-2025:p134:visual0"
+  ],
+  "context_chars": 2667,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 4923,
+   "output_tokens": 278,
+   "cost_usd": 0.002414
+  },
+  "elapsed_ms": 4491.0,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad15",
+  "split": "dev",
+  "group": "text",
+  "answerable": true,
+  "question": "Năm 2025 MB tuyển mới bao nhiêu nhân sự?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "Năm 2025, MB tuyển mới 2.856 nhân sự [mb-ar-2025:p191:visual0][mb-ar-2025:p191:text:00].",
+  "citations": [
+   "mb-ar-2025:p191:visual0",
+   "mb-ar-2025:p191:text:00"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "tuyển mới nhân sự năm 2025",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p191:visual0",
+      "page": 191,
+      "rank": 1,
+      "score": 42.963416
+     },
+     {
+      "id": "mb-ar-2025:p191:text:00",
+      "page": 191,
+      "rank": 2,
+      "score": 30.408194
+     },
+     {
+      "id": "mb-ar-2025:p232:visual1",
+      "page": 232,
+      "rank": 3,
+      "score": 27.222829
+     },
+     {
+      "id": "mb-ar-2025:p232:table2:0",
+      "page": 232,
+      "rank": 4,
+      "score": 27.006007
+     },
+     {
+      "id": "mb-ar-2025:p077:text:00",
+      "page": 77,
+      "rank": 5,
+      "score": 25.610459
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p191:visual0",
+     "mb-ar-2025:p191:text:00",
+     "mb-ar-2025:p232:visual1",
+     "mb-ar-2025:p232:table2:0",
+     "mb-ar-2025:p077:text:00"
+    ],
+    "skipped_budget": [],
+    "ms": 8.6
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p191:visual0",
+     "mb-ar-2025:p191:text:00",
+     "mb-ar-2025:p077:text:00"
+    ],
+    "answer": "Năm 2025, MB tuyển mới 2.856 nhân sự.",
+    "citations": [
+     "mb-ar-2025:p191:visual0",
+     "mb-ar-2025:p191:text:00",
+     "mb-ar-2025:p077:text:00"
+    ]
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p191:visual0",
+   "mb-ar-2025:p191:text:00",
+   "mb-ar-2025:p232:visual1",
+   "mb-ar-2025:p232:table2:0",
+   "mb-ar-2025:p077:text:00"
+  ],
+  "context_chars": 4972,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 6248,
+   "output_tokens": 171,
+   "cost_usd": 0.002773
+  },
+  "elapsed_ms": 3697.9,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad16",
+  "split": "dev",
+  "group": "text",
+  "answerable": true,
+  "question": "Với bài dự thi nào và tập trung vào giá trị cốt lõi nào, MB nhận giải \"Vietnam HR Excellence 2025\"? Ai trao giải?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "MB nhận giải \"Vietnam HR Excellence 2025\" hạng mục Văn hóa Doanh nghiệp với bài dự thi \"Hành trình Niềm tin\", tập trung vào giá trị cốt lõi Tin cậy. Giải thưởng do Anphabe chứng nhận và trao tặng, ghi nhận nỗ lực định hình và phát triển văn hóa doanh nghiệp gắn với sứ mệnh, khẳng định sự Tin cậy với nhân viên, khách hàng và xã hội, góp phần củng cố cam kết phát triển lâu dài và giá trị bền vững [mb-ar-2025:p200:text:00][mb-ar-2025:p200:visual2].",
+  "citations": [
+   "mb-ar-2025:p200:text:00",
+   "mb-ar-2025:p200:visual2"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Vietnam HR Excellence 2025",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p200:visual2",
+      "page": 200,
+      "rank": 1,
+      "score": 66.943282
+     },
+     {
+      "id": "mb-ar-2025:p200:visual1",
+      "page": 200,
+      "rank": 2,
+      "score": 62.873342
+     },
+     {
+      "id": "mb-ar-2025:p200:text:00",
+      "page": 200,
+      "rank": 3,
+      "score": 54.154244
+     },
+     {
+      "id": "mb-ar-2025:p200:visual0",
+      "page": 200,
+      "rank": 4,
+      "score": 50.567257
+     },
+     {
+      "id": "mb-ar-2025:p015:text:00",
+      "page": 15,
+      "rank": 5,
+      "score": 21.089683
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p200:visual2",
+     "mb-ar-2025:p200:visual1",
+     "mb-ar-2025:p200:text:00",
+     "mb-ar-2025:p200:visual0",
+     "mb-ar-2025:p015:text:00"
+    ],
+    "skipped_budget": [],
+    "ms": 6.7
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p200:visual2",
+   "mb-ar-2025:p200:visual1",
+   "mb-ar-2025:p200:text:00",
+   "mb-ar-2025:p200:visual0",
+   "mb-ar-2025:p015:text:00"
+  ],
+  "context_chars": 2152,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2403,
+   "output_tokens": 202,
+   "cost_usd": 0.001284
+  },
+  "elapsed_ms": 3202.8,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "ad17",
+  "split": "dev",
+  "group": "text",
+  "answerable": true,
+  "question": "Bà Nguyễn Minh Châu được bổ nhiệm Phó Tổng Giám đốc ngày nào, và năm 2026 bà phụ trách những khối nào?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "Bà Nguyễn Minh Châu được bổ nhiệm Phó Tổng Giám đốc ngày 23/11/2009. Năm 2026, bà phụ trách chỉ đạo và quản lý Khối Nguồn vốn và Kinh doanh tiền tệ, Khối FDI và Khách hàng chiến lược [mb-ar-2025:p072:visual0][mb-ar-2025:p072:text:00].",
+  "citations": [
+   "mb-ar-2025:p072:visual0",
+   "mb-ar-2025:p072:text:00"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Nguyễn Minh Châu bổ nhiệm Phó Tổng Giám đốc",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p279:table1:0",
+      "page": 279,
+      "rank": 1,
+      "score": 69.833472
+     },
+     {
+      "id": "mb-ar-2025:p072:visual0",
+      "page": 72,
+      "rank": 2,
+      "score": 64.647165
+     },
+     {
+      "id": "mb-ar-2025:p072:text:00",
+      "page": 72,
+      "rank": 3,
+      "score": 64.50771
+     },
+     {
+      "id": "mb-ar-2025:p349:table1:0",
+      "page": 349,
+      "rank": 4,
+      "score": 52.7011
+     },
+     {
+      "id": "mb-ar-2025:p073:text:00",
+      "page": 73,
+      "rank": 5,
+      "score": 43.722781
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p279:table1:0",
+     "mb-ar-2025:p072:visual0",
+     "mb-ar-2025:p072:text:00",
+     "mb-ar-2025:p349:table1:0",
+     "mb-ar-2025:p073:text:00"
+    ],
+    "skipped_budget": [],
+    "ms": 12.2
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mb-ar-2025:p072:visual0",
+     "mb-ar-2025:p072:text:00"
+    ],
+    "answer": "Bà Nguyễn Minh Châu được bổ nhiệm Phó Tổng Giám đốc ngày 23/11/2009. Năm 2026, bà phụ trách chỉ đạo và quản lý Khối Nguồn vốn và Kinh doanh tiền tệ, Khối FDI và Khách hàng chiến lược.",
+    "citations": [
+     "mb-ar-2025:p072:visual0",
+     "mb-ar-2025:p072:text:00"
+    ]
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p279:table1:0",
+   "mb-ar-2025:p072:visual0",
+   "mb-ar-2025:p072:text:00",
+   "mb-ar-2025:p349:table1:0",
+   "mb-ar-2025:p073:text:00"
+  ],
+  "context_chars": 5022,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 6892,
+   "output_tokens": 262,
+   "cost_usd": 0.003176
+  },
+  "elapsed_ms": 4855.0,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "adn1",
+  "split": "dev",
+  "group": "thieu_bang_chung",
+  "answerable": false,
+  "question": "Lãi suất cho vay bình quân của MB năm 2025 là bao nhiêu phần trăm?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "answered",
+  "answer": "Lãi suất cho vay bình quân của MB năm 2025 dao động từ 3,50% đến 13,00%/năm đối với cho vay bằng VND, từ 3,50% đến 8,00%/năm đối với cho vay bằng ngoại tệ, và từ 4,85% đến 76,00%/năm đối với cho vay tiêu dùng cá nhân [mb-ar-2025:p316:table3:0].",
+  "citations": [
+   "mb-ar-2025:p316:table3:0"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Lãi suất cho vay bình quân năm 2025",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p316:text:00",
+      "page": 316,
+      "rank": 1,
+      "score": 40.404429
+     },
+     {
+      "id": "mb-ar-2025:p170:text:03",
+      "page": 170,
+      "rank": 2,
+      "score": 37.44623
+     },
+     {
+      "id": "mb-ar-2025:p316:table3:0",
+      "page": 316,
+      "rank": 3,
+      "score": 36.91203
+     },
+     {
+      "id": "mb-ar-2025:p196:visual2",
+      "page": 196,
+      "rank": 4,
+      "score": 34.730249
+     },
+     {
+      "id": "mb-ar-2025:p313:text:00",
+      "page": 313,
+      "rank": 5,
+      "score": 28.46518
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p316:text:00",
+     "mb-ar-2025:p170:text:03",
+     "mb-ar-2025:p316:table3:0",
+     "mb-ar-2025:p196:visual2",
+     "mb-ar-2025:p313:text:00"
+    ],
+    "skipped_budget": [],
+    "ms": 13.0
+   },
+   {
+    "event": "answer",
+    "abstain": false,
+    "grounding_checked": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p316:text:00",
+   "mb-ar-2025:p170:text:03",
+   "mb-ar-2025:p316:table3:0",
+   "mb-ar-2025:p196:visual2",
+   "mb-ar-2025:p313:text:00"
+  ],
+  "context_chars": 2118,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2513,
+   "output_tokens": 154,
+   "cost_usd": 0.001252
+  },
+  "elapsed_ms": 2911.4,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "adn2",
+  "split": "dev",
+  "group": "thieu_bang_chung",
+  "answerable": false,
+  "question": "Tỷ lệ nghỉ việc (turnover) của nhân viên MB năm 2025 là bao nhiêu?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "abstain",
+  "answer": "Báo cáo thường niên 2025 của MB không cung cấp thông tin về tỷ lệ nghỉ việc (turnover) của nhân viên MB năm 2025, do đó không đủ bằng chứng để trả lời câu hỏi này.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Tỷ lệ nghỉ việc nhân viên MB năm 2025",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p147:visual0",
+      "page": 147,
+      "rank": 1,
+      "score": 26.394136
+     },
+     {
+      "id": "mb-ar-2025:p008:visual1",
+      "page": 8,
+      "rank": 2,
+      "score": 24.396122
+     },
+     {
+      "id": "mb-ar-2025:p311:text:02",
+      "page": 311,
+      "rank": 3,
+      "score": 22.997819
+     },
+     {
+      "id": "mb-ar-2025:p198:text:00",
+      "page": 198,
+      "rank": 4,
+      "score": 22.390224
+     },
+     {
+      "id": "mb-ar-2025:p198:visual0",
+      "page": 198,
+      "rank": 5,
+      "score": 21.7032
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p147:visual0",
+     "mb-ar-2025:p008:visual1",
+     "mb-ar-2025:p311:text:02",
+     "mb-ar-2025:p198:text:00",
+     "mb-ar-2025:p198:visual0"
+    ],
+    "skipped_budget": [],
+    "ms": 13.0
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Tỷ lệ nghỉ việc nhân viên MB năm 2025 turnover rate",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p147:visual0",
+      "page": 147,
+      "rank": 1,
+      "score": 26.394136
+     },
+     {
+      "id": "mb-ar-2025:p008:visual1",
+      "page": 8,
+      "rank": 2,
+      "score": 24.396122
+     },
+     {
+      "id": "mb-ar-2025:p311:text:02",
+      "page": 311,
+      "rank": 3,
+      "score": 22.997819
+     },
+     {
+      "id": "mb-ar-2025:p198:text:00",
+      "page": 198,
+      "rank": 4,
+      "score": 22.390224
+     },
+     {
+      "id": "mb-ar-2025:p198:visual0",
+      "page": 198,
+      "rank": 5,
+      "score": 21.7032
+     }
+    ],
+    "new_context_ids": [],
+    "skipped_budget": [],
+    "ms": 22.5
+   },
+   {
+    "event": "answer",
+    "abstain": true,
+    "model_citations": [
+     "mb-ar-2025:p147:visual0",
+     "mb-ar-2025:p008:visual1",
+     "mb-ar-2025:p311:text:02",
+     "mb-ar-2025:p198:text:00",
+     "mb-ar-2025:p198:visual0"
+    ]
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 2,
+  "context_ids": [
+   "mb-ar-2025:p147:visual0",
+   "mb-ar-2025:p008:visual1",
+   "mb-ar-2025:p311:text:02",
+   "mb-ar-2025:p198:text:00",
+   "mb-ar-2025:p198:visual0"
+  ],
+  "context_chars": 3079,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 4743,
+   "output_tokens": 177,
+   "cost_usd": 0.00218
+  },
+  "elapsed_ms": 3972.6,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "adn3",
+  "split": "dev",
+  "group": "thieu_bang_chung",
+  "answerable": false,
+  "question": "Chi phí quảng cáo và marketing của MB năm 2025 là bao nhiêu tỷ đồng?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "abstain",
+  "answer": "Báo cáo không cung cấp thông tin cụ thể về chi phí quảng cáo và marketing của MB năm 2025 trong các đoạn đã tìm kiếm.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Chi phí quảng cáo và marketing năm 2025",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p210:visual0",
+      "page": 210,
+      "rank": 1,
+      "score": 30.635912
+     },
+     {
+      "id": "mb-ar-2025:p116:text:03",
+      "page": 116,
+      "rank": 2,
+      "score": 22.243276
+     },
+     {
+      "id": "mb-ar-2025:p121:text:01",
+      "page": 121,
+      "rank": 3,
+      "score": 18.250908
+     },
+     {
+      "id": "mb-ar-2025:p027:visual0",
+      "page": 27,
+      "rank": 4,
+      "score": 17.885447
+     },
+     {
+      "id": "mb-ar-2025:p309:text:02",
+      "page": 309,
+      "rank": 5,
+      "score": 16.674109
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p210:visual0",
+     "mb-ar-2025:p116:text:03",
+     "mb-ar-2025:p121:text:01",
+     "mb-ar-2025:p027:visual0",
+     "mb-ar-2025:p309:text:02"
+    ],
+    "skipped_budget": [],
+    "ms": 9.6
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Chi phí quảng cáo marketing năm 2025",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p210:visual0",
+      "page": 210,
+      "rank": 1,
+      "score": 24.700366
+     },
+     {
+      "id": "mb-ar-2025:p116:text:03",
+      "page": 116,
+      "rank": 2,
+      "score": 21.725513
+     },
+     {
+      "id": "mb-ar-2025:p121:text:01",
+      "page": 121,
+      "rank": 3,
+      "score": 17.868279
+     },
+     {
+      "id": "mb-ar-2025:p309:text:02",
+      "page": 309,
+      "rank": 4,
+      "score": 16.186335
+     },
+     {
+      "id": "mb-ar-2025:p309:text:01",
+      "page": 309,
+      "rank": 5,
+      "score": 15.788489
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p309:text:01"
+    ],
+    "skipped_budget": [],
+    "ms": 12.3
+   },
+   {
+    "event": "answer",
+    "abstain": true,
+    "model_citations": [
+     "mb-ar-2025:p210:visual0",
+     "mb-ar-2025:p116:text:03",
+     "mb-ar-2025:p121:text:01",
+     "mb-ar-2025:p309:text:02",
+     "mb-ar-2025:p309:text:01"
+    ]
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 2,
+  "context_ids": [
+   "mb-ar-2025:p210:visual0",
+   "mb-ar-2025:p116:text:03",
+   "mb-ar-2025:p121:text:01",
+   "mb-ar-2025:p027:visual0",
+   "mb-ar-2025:p309:text:02",
+   "mb-ar-2025:p309:text:01"
+  ],
+  "context_chars": 4855,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 5697,
+   "output_tokens": 153,
+   "cost_usd": 0.002524
+  },
+  "elapsed_ms": 3342.9,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ {
+  "query_id": "adn4",
+  "split": "dev",
+  "group": "thieu_bang_chung",
+  "answerable": false,
+  "question": "Trong năm 2025 MB phát hành mới bao nhiêu thẻ tín dụng?",
+  "config": "bm25-ar2-mini-verify",
+  "status": "abstain",
+  "answer": "Báo cáo không cung cấp thông tin cụ thể về số lượng thẻ tín dụng MB phát hành mới trong năm 2025.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "phát hành thẻ tín dụng năm 2025",
+    "filter": null,
+    "top_k": 5,
+    "results": [
+     {
+      "id": "mb-ar-2025:p175:visual0",
+      "page": 175,
+      "rank": 1,
+      "score": 30.49257
+     },
+     {
+      "id": "mb-ar-2025:p175:table3:0",
+      "page": 175,
+      "rank": 2,
+      "score": 27.736006
+     },
+     {
+      "id": "mb-ar-2025:p295:text:02",
+      "page": 295,
+      "rank": 3,
+      "score": 26.974897
+     },
+     {
+      "id": "mb-ar-2025:p174:table6:0",
+      "page": 174,
+      "rank": 4,
+      "score": 21.963654
+     },
+     {
+      "id": "mb-ar-2025:p181:text:00",
+      "page": 181,
+      "rank": 5,
+      "score": 18.238059
+     }
+    ],
+    "new_context_ids": [
+     "mb-ar-2025:p175:visual0",
+     "mb-ar-2025:p175:table3:0",
+     "mb-ar-2025:p295:text:02",
+     "mb-ar-2025:p174:table6:0",
+     "mb-ar-2025:p181:text:00"
+    ],
+    "skipped_budget": [],
+    "ms": 12.2
+   },
+   {
+    "event": "answer",
+    "abstain": true,
+    "model_citations": [
+     "mb-ar-2025:p175:visual0",
+     "mb-ar-2025:p175:table3:0",
+     "mb-ar-2025:p295:text:02",
+     "mb-ar-2025:p174:table6:0",
+     "mb-ar-2025:p181:text:00"
+    ]
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mb-ar-2025:p175:visual0",
+   "mb-ar-2025:p175:table3:0",
+   "mb-ar-2025:p295:text:02",
+   "mb-ar-2025:p174:table6:0",
+   "mb-ar-2025:p181:text:00"
+  ],
+  "context_chars": 5471,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 3316,
+   "output_tokens": 133,
+   "cost_usd": 0.001539
+  },
+  "elapsed_ms": 2748.9,
+  "rerank_usage": {
+   "calls": 0,
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ }
+]

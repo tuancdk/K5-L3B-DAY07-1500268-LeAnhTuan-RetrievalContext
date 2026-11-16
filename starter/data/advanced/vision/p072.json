@@ -1,0 +1,113 @@
+{
+ "printed_page": 72,
+ "pdf_page": 37,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Bà NGUYỄN MINH CHÂU - Phó Tổng Giám đốc",
+   "bbox": [
+    0,
+    0,
+    480,
+    480
+   ],
+   "description": "Ảnh chân dung bà Nguyễn Minh Châu, Phó Tổng Giám đốc MB, kèm thông tin cá nhân và kinh nghiệm công tác.",
+   "data": [
+    {
+     "label": "Năm sinh",
+     "value": "1973"
+    },
+    {
+     "label": "Tỷ lệ cổ phần",
+     "value": "0,031%"
+    },
+    {
+     "label": "Số lượng cổ phần",
+     "value": "2.526.736"
+    },
+    {
+     "label": "Chức danh quản lý đang nắm giữ tại các tổ chức/doanh nghiệp khác",
+     "value": "Không nắm giữ chức danh quản lý tại các đơn vị khác"
+    },
+    {
+     "label": "Trình độ học vấn",
+     "value": "Thạc sĩ Ngân hàng Tài chính Trường Đại học Kinh tế Paris Dauphine (Pháp) và Trường cao học quản lý kinh tế Châu Âu ESCP – EAP; Cử nhân Ngoại ngữ Đại học Tổng hợp Hà Nội"
+    },
+    {
+     "label": "Ngày bổ nhiệm",
+     "value": "23/11/2009"
+    },
+    {
+     "label": "Kinh nghiệm",
+     "value": "Hơn 30 năm trong lĩnh vực Tài chính - Ngân hàng; từng là Giám đốc Văn phòng triển khai chiến lược; năm 2025 chịu trách nhiệm chỉ đạo và quản lý Khối Nguồn vốn và Kinh doanh tiền tệ; năm 2026 chịu trách nhiệm chỉ đạo và quản lý Khối Nguồn vốn và Kinh doanh tiền tệ, Khối FDI và Khách hàng chiến lược."
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    285.7,
+    404.1
+   ],
+   "crop": "starter/data/advanced/crops/p072_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ông LÊ QUỐC MINH - Phó Tổng Giám đốc",
+   "bbox": [
+    480,
+    480,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chân dung ông Lê Quốc Minh, Phó Tổng Giám đốc MB, kèm thông tin cá nhân và kinh nghiệm công tác.",
+   "data": [
+    {
+     "label": "Năm sinh",
+     "value": "1979"
+    },
+    {
+     "label": "Tỷ lệ cổ phần",
+     "value": "0,04%"
+    },
+    {
+     "label": "Số lượng cổ phần",
+     "value": "3.244.072"
+    },
+    {
+     "label": "Chức danh quản lý đang nắm giữ tại các tổ chức/doanh nghiệp khác",
+     "value": "Từ tháng 06/2024: Chủ tịch Hội đồng Quản trị Công ty Cổ phần Quản lý Quỹ đầu tư MB (MBCapital); Thành viên Hội đồng Quản trị Công ty Cổ phần Hóa dầu Quân đội (MIPEC)"
+    },
+    {
+     "label": "Trình độ học vấn",
+     "value": "Tiến sĩ Tài chính - Ngân hàng Học viện Hậu cần; Thạc sĩ Quản trị kinh doanh Đại học Kinh tế Quốc dân; Thạc sĩ Ngân hàng Tài chính Trường Đại học Kinh tế Paris Dauphine (Pháp) và Trường cao học quản lý kinh tế Châu Âu ESCP – EAP; Cử nhân Ngoại ngữ Đại học Tổng hợp Hà Nội"
+    },
+    {
+     "label": "Ngày bổ nhiệm",
+     "value": "26/11/2015"
+    },
+    {
+     "label": "Kinh nghiệm",
+     "value": "Hơn 20 năm trong lĩnh vực Tài chính - Ngân hàng; từng giữ nhiều vị trí như Giám đốc Chi nhánh, Phó Giám đốc Khối Doanh nghiệp lớn và các Định chế tài chính, Giám đốc Khối Khách hàng lớn; hiện phụ trách Khối Khách hàng vừa và nhỏ."
+    }
+   ],
+   "bbox_pdf_pt": [
+    285.7,
+    404.1,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p072_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3813,
+  "output": 735
+ },
+ "seconds": 6.2
+}

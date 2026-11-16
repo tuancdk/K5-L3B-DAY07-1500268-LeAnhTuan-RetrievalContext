@@ -1,0 +1,186 @@
+{
+ "printed_page": 112,
+ "pdf_page": 57,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Hiệu quả hoạt động trên tài sản (ROA)",
+   "bbox": [
+    40,
+    320,
+    720,
+    540
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện ROA (%) và svck (%) của các ngân hàng năm 2025. Trục tung bên trái là ROA (%), trục tung bên phải là svck (%). Các ngân hàng gồm: TCB, VPB, MBB, ACB, VCB, CTG, BID, STB. Đường svck (%) có các nhãn số trên từng cột: 0 (TCB), 21 (VPB), -10 (MBB), -22 (ACB), -10 (VCB), 17 (CTG), -1 (BID), -50 (STB). Chú giải: svck (%) (đường nét đứt màu xanh), ROA (%) (cột màu xanh nhạt). Nguồn: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "TCB ROA (%)",
+     "value": "2,4"
+    },
+    {
+     "label": "VPB ROA (%)",
+     "value": "2,2"
+    },
+    {
+     "label": "MBB ROA (%)",
+     "value": "2,0"
+    },
+    {
+     "label": "ACB ROA (%)",
+     "value": "1,7"
+    },
+    {
+     "label": "VCB ROA (%)",
+     "value": "1,6"
+    },
+    {
+     "label": "CTG ROA (%)",
+     "value": "1,4"
+    },
+    {
+     "label": "BID ROA (%)",
+     "value": "1,0"
+    },
+    {
+     "label": "STB ROA (%)",
+     "value": "0,7"
+    },
+    {
+     "label": "TCB svck (%)",
+     "value": "0"
+    },
+    {
+     "label": "VPB svck (%)",
+     "value": "21"
+    },
+    {
+     "label": "MBB svck (%)",
+     "value": "-10"
+    },
+    {
+     "label": "ACB svck (%)",
+     "value": "-22"
+    },
+    {
+     "label": "VCB svck (%)",
+     "value": "-10"
+    },
+    {
+     "label": "CTG svck (%)",
+     "value": "17"
+    },
+    {
+     "label": "BID svck (%)",
+     "value": "-1"
+    },
+    {
+     "label": "STB svck (%)",
+     "value": "-50"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    269.4,
+    428.6,
+    454.6
+   ],
+   "crop": "starter/data/advanced/crops/p112_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Hiệu quả hoạt động trên vốn chủ sở hữu (ROE)",
+   "bbox": [
+    40,
+    600,
+    720,
+    820
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện ROE (%) và svck (%) của các ngân hàng năm 2025. Trục tung bên trái là ROE (%), trục tung bên phải là svck (%). Các ngân hàng gồm: CTG, MBB, BID, ACB, VCB, TCB, VPB, STB. Đường svck (%) có các nhãn số trên từng cột: 14 (CTG), -2 (MBB), 0 (BID), -19 (ACB), -11 (VCB), 2 (TCB), 34 (VPB), -48 (STB). Chú giải: svck (%) (đường nét đứt màu xanh), ROE (%) (cột màu xanh nhạt). Nguồn: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "CTG ROE (%)",
+     "value": "21,2"
+    },
+    {
+     "label": "MBB ROE (%)",
+     "value": "21,1"
+    },
+    {
+     "label": "BID ROE (%)",
+     "value": "19,1"
+    },
+    {
+     "label": "ACB ROE (%)",
+     "value": "17,6"
+    },
+    {
+     "label": "VCB ROE (%)",
+     "value": "16,6"
+    },
+    {
+     "label": "TCB ROE (%)",
+     "value": "15,9"
+    },
+    {
+     "label": "VPB ROE (%)",
+     "value": "14,9"
+    },
+    {
+     "label": "STB ROE (%)",
+     "value": "10,3"
+    },
+    {
+     "label": "CTG svck (%)",
+     "value": "14"
+    },
+    {
+     "label": "MBB svck (%)",
+     "value": "-2"
+    },
+    {
+     "label": "BID svck (%)",
+     "value": "0"
+    },
+    {
+     "label": "ACB svck (%)",
+     "value": "-19"
+    },
+    {
+     "label": "VCB svck (%)",
+     "value": "-11"
+    },
+    {
+     "label": "TCB svck (%)",
+     "value": "2"
+    },
+    {
+     "label": "VPB svck (%)",
+     "value": "34"
+    },
+    {
+     "label": "STB svck (%)",
+     "value": "-48"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    505.1,
+    428.6,
+    690.3
+   ],
+   "crop": "starter/data/advanced/crops/p112_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2282,
+  "output": 864
+ },
+ "seconds": 6.3
+}

@@ -1,0 +1,81 @@
+{
+ "printed_page": 216,
+ "pdf_page": 109,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Danh sách các nghị quyết được HĐQT thông qua trong năm 2025",
+   "bbox": [
+    30,
+    50,
+    970,
+    950
+   ],
+   "description": "Bảng liệt kê các nghị quyết được Hội đồng Quản trị (HĐQT) Ngân hàng MB thông qua trong năm 2025, gồm các cột: STT, Số Nghị quyết/Quyết định, Ngày, Nội dung, Ghi chú. Nội dung nghị quyết chủ yếu liên quan đến các hợp đồng, giao dịch giữa MB và các đơn vị liên quan, kế hoạch tổ chức Đại hội đồng cổ đông, phương án đầu tư, đóng cửa văn phòng đại diện, vay vốn nước ngoài, tăng vốn điều lệ, v.v. Một số nghị quyết có ghi chú kèm theo về việc MB thực hiện công bố thông tin với số văn bản và ngày cụ thể.",
+   "data": [
+    {
+     "label": "01/NQ-MB-HĐQT",
+     "value": "07/01/2025 - Về việc thông qua Hợp đồng, giao dịch giữa MB và MBAMC - MB thực hiện công bố thông tin: + Văn bản số 17/MB-HĐQT ngày 07/01/2025 v/v Nghị quyết HĐQT thông qua Hợp đồng, giao dịch giữa MB và MBAMC"
+    },
+    {
+     "label": "02/NQ-MB-HĐQT",
+     "value": "07/01/2025 - Về việc thông qua Hợp đồng, giao dịch giữa MB và MBV - MB thực hiện công bố thông tin: + Văn bản số 16/MB-HĐQT ngày 07/01/2025 v/v Nghị quyết HĐQT thông qua Hợp đồng, giao dịch giữa MB và MBV"
+    },
+    {
+     "label": "05/NQ-MB-HĐQT",
+     "value": "14/02/2025 - Về việc tiếp tục giao thực hiện nhiệm vụ Người phụ trách Quản trị Công ty"
+    },
+    {
+     "label": "06/NQ-MB-HĐQT",
+     "value": "12/02/2025 - Về việc thông qua hợp đồng, giao dịch đại lý thanh toán với Người có liên quan - MB thực hiện công bố thông tin: + Văn bản số 139/MB-HĐQT ngày 13/02/2025 v/v Thông qua hợp đồng, giao dịch đại lý thanh toán với Người có liên quan"
+    },
+    {
+     "label": "08/NQ-MB-HĐQT",
+     "value": "27/02/2025 - Về việc Kế hoạch công tác tổ chức Đại hội đồng cổ đông MB thường niên 2025 - MB thực hiện công bố thông tin: + Văn bản số 174/MB-HĐQT ngày 27/02/2025 v/v Thông qua kế hoạch tổ chức ĐHĐCĐ thường niên 2025 của MB"
+    },
+    {
+     "label": "11/NQ-MB-HĐQT",
+     "value": "06/03/2025 - Về việc Phương án đầu tư trụ sở văn phòng của MB tại tỉnh Nghệ An"
+    },
+    {
+     "label": "12/NQ-MB-HĐQT",
+     "value": "10/03/2025 - Về việc Phương án đóng cửa hoạt động của Văn phòng đại diện MB tại Nga (thực hiện thủ tục báo cáo CQQLNN) - MB thực hiện công bố thông tin: + Văn bản số 442/MB-HĐQT ngày 08/05/2025 v/v Đóng cửa Văn phòng đại diện Ngân hàng TMCP Quân đội tại Nga"
+    },
+    {
+     "label": "14/NQ-MB-HĐQT",
+     "value": "11/03/2025 - Về việc thông qua phương án vay vốn nước ngoài trung hạn và kế hoạch kinh doanh sử dụng khoản vay nước ngoài (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "15/NQ-MB-HĐQT",
+     "value": "13/03/2025 - Về việc thông qua hợp đồng, giao dịch sử dụng nhãn hiệu với Ngân hàng Trách nhiệm hữu hạn một thành viên Việt Nam Hiện đại"
+    },
+    {
+     "label": "16/NQ-MB-HĐQT",
+     "value": "20/03/2025 - Về việc Triển khai phương án tăng vốn điều lệ thông qua chào bán cổ phiếu riêng lẻ theo Nghị quyết ĐHĐCĐ MB năm 2024 (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "17/NQ-MB-HĐQT",
+     "value": "26/03/2025 - Về việc thông qua Hợp đồng, giao dịch giữa MB và MB Campuchia - MB thực hiện công bố thông tin: + Văn bản số 314/MB-HĐQT ngày 26/03/2025 v/v Thông qua hợp đồng, giao dịch giữa MB và MB Campuchia"
+    }
+   ],
+   "bbox_pdf_pt": [
+    17.9,
+    42.1,
+    577.4,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p216_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4112,
+  "output": 987
+ },
+ "seconds": 7.0
+}

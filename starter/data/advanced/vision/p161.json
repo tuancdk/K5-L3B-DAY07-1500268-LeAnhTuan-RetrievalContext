@@ -1,0 +1,72 @@
+{
+ "printed_page": 161,
+ "pdf_page": 81,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Kế hoạch năm 2026",
+   "bbox": [
+    50,
+    100,
+    950,
+    400
+   ],
+   "description": "Bốn vòng tròn chứa các mục tiêu kế hoạch năm 2026 của Ngân hàng MB liên quan đến phát triển bền vững và ESG. Nội dung từng vòng tròn lần lượt là: 1) Nhận diện, đánh giá và quản lý các yếu tố rủi ro liên quan đến môi trường - xã hội, bao gồm yếu tố khí hậu, tác động tới rủi ro trọng yếu của Ngân hàng. 2) Nghiên cứu, khai thác và quản lý các cơ hội kinh doanh liên quan đến phát triển bền vững trên cơ sở phù hợp quy định pháp luật và định hướng chiến lược MB. 3) Hoàn thiện hệ thống dữ liệu ESG, hướng tới tự động hóa thu thập và quản lý thông tin, đáp ứng các chuẩn mực quốc tế về công bố thông tin bền vững. 4) Tăng cường đào tạo, nâng cao năng lực chuyên môn về phát triển bền vững cho các vị trí trọng yếu trong lĩnh vực quản trị rủi ro, kinh doanh, đầu tư và quản trị dữ liệu.",
+   "data": [
+    {
+     "label": "Mục tiêu 1",
+     "value": "Nhận diện, đánh giá và quản lý các yếu tố rủi ro liên quan đến môi trường - xã hội, bao gồm yếu tố khí hậu, tác động tới rủi ro trọng yếu của Ngân hàng"
+    },
+    {
+     "label": "Mục tiêu 2",
+     "value": "Nghiên cứu, khai thác và quản lý các cơ hội kinh doanh liên quan đến phát triển bền vững trên cơ sở phù hợp quy định pháp luật và định hướng chiến lược MB"
+    },
+    {
+     "label": "Mục tiêu 3",
+     "value": "Hoàn thiện hệ thống dữ liệu ESG, hướng tới tự động hóa thu thập và quản lý thông tin, đáp ứng các chuẩn mực quốc tế về công bố thông tin bền vững"
+    },
+    {
+     "label": "Mục tiêu 4",
+     "value": "Tăng cường đào tạo, nâng cao năng lực chuyên môn về phát triển bền vững cho các vị trí trọng yếu trong lĩnh vực quản trị rủi ro, kinh doanh, đầu tư và quản trị dữ liệu"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    1160.8,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p161_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa ESG",
+   "bbox": [
+    0,
+    400,
+    1000,
+    1000
+   ],
+   "description": "Ảnh minh họa một bàn tay cầm hình trái tim xanh lá cây với chữ ESG nổi bật, xung quanh có các biểu tượng liên quan đến năng lượng tái tạo, tái chế, công nghệ và phát triển bền vững.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    336.8,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p161_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3465,
+  "output": 565
+ },
+ "seconds": 5.2
+}

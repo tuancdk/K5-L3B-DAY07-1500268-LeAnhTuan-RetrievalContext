@@ -1,0 +1,89 @@
+{
+ "printed_page": 60,
+ "pdf_page": 31,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Các chỉ tiêu nổi bật của Khối CIB năm 2025",
+   "bbox": [
+    600,
+    600,
+    980,
+    900
+   ],
+   "description": "Các chỉ tiêu chính của Khối CIB năm 2025 so với năm 2024, gồm tốc độ tăng trưởng tín dụng, tốc độ tăng trưởng huy động vốn (HĐV), tỷ lệ nợ xấu, doanh thu kênh số tăng và doanh số chuỗi cung ứng SCF.",
+   "data": [
+    {
+     "label": "Tốc độ tăng trưởng tín dụng đạt",
+     "value": "54% so với năm 2024"
+    },
+    {
+     "label": "Tốc độ tăng trưởng HĐV đạt",
+     "value": "38% so với năm 2024"
+    },
+    {
+     "label": "Tỷ lệ nợ xấu",
+     "value": "<0,1%"
+    },
+    {
+     "label": "Doanh thu kênh số tăng",
+     "value": "2,5 lần so với năm 2024"
+    },
+    {
+     "label": "Doanh số chuỗi cung ứng SCF đạt",
+     "value": "11.000 tỷ đồng"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    505.1,
+    583.4,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p060_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Mục tiêu 2026 của Khối CIB để hiện thực hóa chiến lược của ngân hàng",
+   "bbox": [
+    50,
+    900,
+    980,
+    980
+   ],
+   "description": "Các mục tiêu chiến lược của Khối CIB năm 2026 gồm phát triển giải pháp tài trợ chuỗi cung ứng SCF đơn tầng và đa tầng, chuỗi đầu tư công; tăng trưởng huy động vốn tương ứng với tốc độ tăng trưởng tín dụng; triển khai mô hình IB tập đoàn tập trung thu xếp vốn cho các dự án quy mô lớn, tìm kiếm cơ hội tài trợ lĩnh vực mới như công nghệ điện tử, chip bán dẫn, dự án xanh, điện khí LNG, điện hạt nhân với thu phí IB dự kiến 600 tỷ đồng.",
+   "data": [
+    {
+     "label": "Phát triển giải pháp tài trợ chuỗi",
+     "value": "chuỗi cung ứng SCF đơn tầng và đa tầng, chuỗi đầu tư công."
+    },
+    {
+     "label": "Tăng trưởng huy động vốn",
+     "value": "tương ứng với tốc độ tăng trưởng tín dụng."
+    },
+    {
+     "label": "Triển khai mô hình IB tập đoàn",
+     "value": "tập trung thu xếp vốn cho các dự án quy mô lớn. Tìm kiếm cơ hội tài trợ lĩnh vực mới/tiềm năng như công nghệ điện tử, chip bán dẫn, các dự án xanh và điện khí LNG, điện hạt nhân… thu phí IB dự kiến 600 tỷ đồng."
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    757.7,
+    583.4,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p060_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4053,
+  "output": 513
+ },
+ "seconds": 4.8
+}

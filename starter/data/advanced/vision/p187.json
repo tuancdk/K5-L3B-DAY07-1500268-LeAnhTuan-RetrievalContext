@@ -1,0 +1,36 @@
+{
+ "printed_page": 187,
+ "pdf_page": 94,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "MB cam kết vì mục tiêu Net-zero",
+   "bbox": [
+    0,
+    0,
+    600,
+    1000
+   ],
+   "description": "Ảnh nền với tay người bên trái, có chữ cam kết của MB về trách nhiệm xã hội và mục tiêu Net-zero, kèm theo các nội dung về tuân thủ chính sách người lao động, môi trường làm việc, phát triển năng lực, đa dạng hòa nhập, và các chương trình an sinh xã hội.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    952.4,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p187_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3438,
+  "output": 103
+ },
+ "seconds": 2.2
+}

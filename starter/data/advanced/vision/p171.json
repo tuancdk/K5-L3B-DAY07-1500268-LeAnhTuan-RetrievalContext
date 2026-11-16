@@ -1,0 +1,36 @@
+{
+ "printed_page": 171,
+ "pdf_page": 86,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa nhân viên ngân hàng MB trên thang cuốn",
+   "bbox": [
+    0,
+    500,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp hai nhân viên ngân hàng MB mặc đồng phục đứng trên thang cuốn trong không gian văn phòng hiện đại, phía sau có màn hình LED hiển thị logo MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    420.9,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p171_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3609,
+  "output": 85
+ },
+ "seconds": 2.5
+}

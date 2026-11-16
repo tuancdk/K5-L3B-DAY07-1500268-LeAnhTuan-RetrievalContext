@@ -1,0 +1,197 @@
+{
+ "printed_page": 220,
+ "pdf_page": 111,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Danh sách Nghị quyết/Quyết định từ số 32 đến 44",
+   "bbox": [
+    50,
+    100,
+    950,
+    900
+   ],
+   "description": "Bảng liệt kê các Nghị quyết/Quyết định của MB từ số 32 đến 44, ngày 22/08/2025, nội dung chủ yếu về việc điều chỉnh giấy phép, sửa đổi điều lệ và thành lập các chi nhánh mới. Cột gồm STT, Số Nghị quyết/Quyết định, Ngày, Nội dung, Ghi chú. Ghi chú chi tiết cho Nghị quyết số 32 về việc điều chỉnh giấy phép và sửa đổi điều lệ MB, các nghị quyết còn lại chủ yếu thực hiện thủ tục báo cáo CQQLNN.",
+   "data": [
+    {
+     "label": "19",
+     "value": "32/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/08/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc Điều chỉnh Giấy phép và sửa đổi Điều lệ của MB để cập nhật địa chỉ trụ sở chính"
+    },
+    {
+     "label": "Ghi chú",
+     "value": "MB thực hiện công bố thông tin: Văn bản số 1004/MB-HĐQT ngày 24/09/2025 v/v Quyết định của NHNN về sửa đổi nội dung Giấy phép hoạt động của MB; Quyết định của NHNN số 3269/QĐ-NHNN ngày 24/09/2025 v/v Quyết định sửa đổi nội dung Giấy phép thành lập và hoạt động của Ngân hàng TMCP Quân đội"
+    },
+    {
+     "label": "20",
+     "value": "33/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/08/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc sửa đổi Điều lệ Ngân hàng TNHH một thành viên Việt Nam Hiện đại (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "21",
+     "value": "34/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/08/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Bắc Đan Phượng (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "22",
+     "value": "35/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/08/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Gia Lâm (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "23",
+     "value": "36/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/08/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Bắc Hưng Yên (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "24",
+     "value": "37/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/08/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Nam Tây Ninh (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "25",
+     "value": "38/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Đồng Khởi (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "26",
+     "value": "39/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Bến Nghé (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "27",
+     "value": "40/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Đông Thủ Đức (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "28",
+     "value": "41/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Tây Thủ Đức (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "29",
+     "value": "42/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Bắc Hồ Chí Minh (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "30",
+     "value": "43/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Tây Hồ Chí Minh (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "31",
+     "value": "44/NQ-MB-HĐQT"
+    },
+    {
+     "label": "Ngày",
+     "value": "22/8/2025"
+    },
+    {
+     "label": "Nội dung",
+     "value": "Về việc thành lập Chi nhánh Nam Bình Tân (thực hiện thủ tục báo cáo CQQLNN)"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    84.2,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p220_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3970,
+  "output": 1084
+ },
+ "seconds": 8.2
+}

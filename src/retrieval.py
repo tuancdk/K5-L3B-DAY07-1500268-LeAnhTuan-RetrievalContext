@@ -25,7 +25,7 @@ from openai import OpenAI
 from .day6 import Day6Store, DenseRetriever, Embedder
 
 # USD per 1M tokens (input, output); re-check OpenAI pricing before reporting.
-LLM_PRICES = {"gpt-4.1-mini": (0.40, 1.60), "gpt-4.1-mini": (0.40, 1.60)}
+LLM_PRICES = {"gpt-4.1-mini": (0.40, 1.60), "gpt-4.1": (2.00, 8.00)}
 DEFAULT_RERANK_MODEL = "gpt-4.1-mini"
 
 

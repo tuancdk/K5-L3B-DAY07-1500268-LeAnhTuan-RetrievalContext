@@ -1,0 +1,169 @@
+{
+ "printed_page": 58,
+ "pdf_page": 30,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Tổng huy động đạt 1.062 NGHÌN Tỷ đồng, tăng 31,8% so với năm trước",
+   "bbox": [
+    600,
+    250,
+    900,
+    400
+   ],
+   "description": "Chỉ số tổng huy động vốn của MB năm 2025 đạt 1.062 nghìn tỷ đồng, tăng 31,8% so với năm trước.",
+   "data": [
+    {
+     "label": "Tổng huy động",
+     "value": "1.062 NGHÌN Tỷ đồng"
+    },
+    {
+     "label": "Tăng so với năm trước",
+     "value": "31,8%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    210.5,
+    535.7,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p058_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Tỷ lệ CASA tiếp tục giữ vị trí dẫn đầu toàn ngành",
+   "bbox": [
+    600,
+    410,
+    900,
+    520
+   ],
+   "description": "Tỷ lệ CASA của MB năm 2025 đạt 37,8%, giữ vị trí dẫn đầu toàn ngành.",
+   "data": [
+    {
+     "label": "Tỷ lệ CASA",
+     "value": "37,8%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    345.2,
+    535.7,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p058_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Tổng thu nhập hoạt động vượt 67 NGHÌN Tỷ đồng, tăng hơn 22% so với cùng kỳ",
+   "bbox": [
+    600,
+    650,
+    900,
+    780
+   ],
+   "description": "Tổng thu nhập hoạt động của MB năm 2025 vượt 67 nghìn tỷ đồng, tăng hơn 22% so với cùng kỳ năm trước.",
+   "data": [
+    {
+     "label": "Tổng thu nhập hoạt động",
+     "value": "67 NGHÌN Tỷ đồng"
+    },
+    {
+     "label": "Tăng so với cùng kỳ",
+     "value": "hơn 22%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    547.2,
+    535.7,
+    656.7
+   ],
+   "crop": "starter/data/advanced/crops/p058_v2.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Chỉ tiêu an toàn vốn CAR hợp nhất đạt 11,0%, tiệm cận mức yêu cầu cao của Basel II",
+   "bbox": [
+    900,
+    650,
+    1000,
+    780
+   ],
+   "description": "Chỉ tiêu an toàn vốn CAR hợp nhất của MB năm 2025 đạt 11,0%, gần đạt mức yêu cầu cao của Basel II.",
+   "data": [
+    {
+     "label": "CAR hợp nhất",
+     "value": "11,0%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    535.7,
+    547.2,
+    595.3,
+    656.7
+   ],
+   "crop": "starter/data/advanced/crops/p058_v3.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "ROE đạt 21,1%",
+   "bbox": [
+    600,
+    820,
+    750,
+    900
+   ],
+   "description": "Chỉ số sinh lời trên vốn chủ sở hữu (ROE) của MB năm 2025 đạt 21,1%.",
+   "data": [
+    {
+     "label": "ROE",
+     "value": "21,1%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    690.3,
+    446.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p058_v4.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "ROA đạt 2,0%",
+   "bbox": [
+    800,
+    820,
+    950,
+    900
+   ],
+   "description": "Chỉ số sinh lời trên tổng tài sản (ROA) của MB năm 2025 đạt 2,0%.",
+   "data": [
+    {
+     "label": "ROA",
+     "value": "2,0%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    476.2,
+    690.3,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p058_v5.png"
+  }
+ ],
+ "usage": {
+  "input": 3767,
+  "output": 562
+ },
+ "seconds": 4.5
+}

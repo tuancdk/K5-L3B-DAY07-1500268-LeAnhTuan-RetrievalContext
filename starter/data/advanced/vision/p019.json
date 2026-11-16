@@ -1,0 +1,69 @@
+{
+ "printed_page": 19,
+ "pdf_page": 10,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Tầm nhìn, sứ mệnh và giá trị cốt lõi",
+   "bbox": [
+    50,
+    50,
+    950,
+    950
+   ],
+   "description": "Sơ đồ thể hiện Tầm nhìn, Sứ mệnh và Giá trị cốt lõi của MB. Tầm nhìn: Trở thành Doanh nghiệp số, Tập đoàn tài chính dẫn đầu. Sứ mệnh: Vì sự phát triển của đất nước, vì lợi ích của khách hàng. Giá trị cốt lõi gồm 6 yếu tố: Tin cậy (Cam kết và thực hiện đúng cam kết, đạt được sự tín nhiệm của Khách hàng, Cổ đông), Kỷ luật (Thượng tôn pháp luật, chấp hành nghiêm các quy định của ngành và các chuẩn mực được MB lựa chọn), Hiệu quả (Đem lại giá trị lớn nhất cho khách hàng, cổ đông, cộng đồng), Thực thi (Nhanh chóng – Chính xác – Sáng tạo), Tận tâm (Chủ động, hết lòng phục vụ khách hàng), Đoàn kết (Thống nhất một ý chí, mọi hoạt động đều hướng về mục tiêu chung của MB). Các yếu tố này được kết nối với trung tâm Giá trị cốt lõi.",
+   "data": [
+    {
+     "label": "Tầm nhìn",
+     "value": "Trở thành Doanh nghiệp số, Tập đoàn tài chính dẫn đầu"
+    },
+    {
+     "label": "Sứ mệnh",
+     "value": "Vì sự phát triển của đất nước, vì lợi ích của khách hàng"
+    },
+    {
+     "label": "Tin cậy",
+     "value": "Cam kết và thực hiện đúng cam kết, đạt được sự tín nhiệm của Khách hàng, Cổ đông"
+    },
+    {
+     "label": "Kỷ luật",
+     "value": "Thượng tôn pháp luật, chấp hành nghiêm các quy định của ngành và các chuẩn mực được MB lựa chọn"
+    },
+    {
+     "label": "Hiệu quả",
+     "value": "Đem lại giá trị lớn nhất cho khách hàng, cổ đông, cộng đồng"
+    },
+    {
+     "label": "Thực thi",
+     "value": "Nhanh chóng – Chính xác – Sáng tạo"
+    },
+    {
+     "label": "Tận tâm",
+     "value": "Chủ động, hết lòng phục vụ khách hàng"
+    },
+    {
+     "label": "Đoàn kết",
+     "value": "Thống nhất một ý chí, mọi hoạt động đều hướng về mục tiêu chung của MB"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    42.1,
+    1160.8,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p019_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3435,
+  "output": 475
+ },
+ "seconds": 7.8
+}

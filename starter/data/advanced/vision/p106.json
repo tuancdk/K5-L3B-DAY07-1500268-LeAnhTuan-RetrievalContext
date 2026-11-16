@@ -1,0 +1,186 @@
+{
+ "printed_page": 106,
+ "pdf_page": 54,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tổng tài sản (nghìn tỷ)",
+   "bbox": [
+    50,
+    300,
+    950,
+    650
+   ],
+   "description": "Biểu đồ cột kết hợp đường thể hiện tổng tài sản và tốc độ tăng trưởng so với năm trước (svck %) của các ngân hàng năm 2025. Trục tung trái là tổng tài sản (nghìn tỷ), trục tung phải là svck (%). Các ngân hàng so sánh gồm BID, CTG, VCB, MBB, VPB, TCB, ACB, STB. Cột màu xanh dương nhạt biểu thị tổng tài sản, cột màu xanh dương đậm biểu thị MBB. Đường màu xanh dương biểu thị svck (%).",
+   "data": [
+    {
+     "label": "BID",
+     "value": "3.331"
+    },
+    {
+     "label": "CTG",
+     "value": "2.768"
+    },
+    {
+     "label": "VCB",
+     "value": "2.442"
+    },
+    {
+     "label": "MBB",
+     "value": "1.616"
+    },
+    {
+     "label": "VPB",
+     "value": "1.260"
+    },
+    {
+     "label": "TCB",
+     "value": "1.192"
+    },
+    {
+     "label": "ACB",
+     "value": "1.026"
+    },
+    {
+     "label": "STB",
+     "value": "917"
+    },
+    {
+     "label": "BID svck (%)",
+     "value": "21"
+    },
+    {
+     "label": "CTG svck (%)",
+     "value": "16"
+    },
+    {
+     "label": "VCB svck (%)",
+     "value": "17"
+    },
+    {
+     "label": "MBB svck (%)",
+     "value": "43"
+    },
+    {
+     "label": "VPB svck (%)",
+     "value": "36"
+    },
+    {
+     "label": "TCB svck (%)",
+     "value": "22"
+    },
+    {
+     "label": "ACB svck (%)",
+     "value": "19"
+    },
+    {
+     "label": "STB svck (%)",
+     "value": "23"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    252.6,
+    565.5,
+    547.2
+   ],
+   "crop": "starter/data/advanced/crops/p106_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Vốn chủ sở hữu (nghìn tỷ)",
+   "bbox": [
+    50,
+    700,
+    950,
+    1000
+   ],
+   "description": "Biểu đồ cột kết hợp đường thể hiện vốn chủ sở hữu và tốc độ tăng trưởng so với năm trước (svck %) của các ngân hàng năm 2025. Trục tung trái là vốn chủ sở hữu (nghìn tỷ), trục tung phải là svck (%). Các ngân hàng so sánh gồm VCB, VPB, CTG, TCB, BID, MBB, ACB, STB. Cột màu xanh dương nhạt biểu thị vốn chủ sở hữu, cột màu xanh dương đậm biểu thị MBB. Đường màu xanh dương biểu thị svck (%).",
+   "data": [
+    {
+     "label": "VCB",
+     "value": "228"
+    },
+    {
+     "label": "VPB",
+     "value": "180"
+    },
+    {
+     "label": "CTG",
+     "value": "180"
+    },
+    {
+     "label": "TCB",
+     "value": "180"
+    },
+    {
+     "label": "BID",
+     "value": "174"
+    },
+    {
+     "label": "MBB",
+     "value": "142"
+    },
+    {
+     "label": "ACB",
+     "value": "95"
+    },
+    {
+     "label": "STB",
+     "value": "60"
+    },
+    {
+     "label": "VCB svck (%)",
+     "value": "16"
+    },
+    {
+     "label": "VPB svck (%)",
+     "value": "22"
+    },
+    {
+     "label": "CTG svck (%)",
+     "value": "21"
+    },
+    {
+     "label": "TCB svck (%)",
+     "value": "21"
+    },
+    {
+     "label": "BID svck (%)",
+     "value": "20"
+    },
+    {
+     "label": "MBB svck (%)",
+     "value": "21"
+    },
+    {
+     "label": "ACB svck (%)",
+     "value": "13"
+    },
+    {
+     "label": "STB svck (%)",
+     "value": "9"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    589.3,
+    565.5,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p106_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4086,
+  "output": 686
+ },
+ "seconds": 7.1
+}

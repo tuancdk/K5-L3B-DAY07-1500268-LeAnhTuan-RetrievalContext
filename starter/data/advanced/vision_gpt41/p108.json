@@ -1,0 +1,186 @@
+{
+ "printed_page": 108,
+ "pdf_page": 55,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tỷ lệ CASA",
+   "bbox": [
+    40,
+    320,
+    720,
+    540
+   ],
+   "description": "Biểu đồ kết hợp thể hiện tỷ lệ CASA (%) (cột màu xanh nhạt) và svck (%) (đường màu xanh đậm, có nhãn số trên từng cột) của các ngân hàng: MBB, TCB, VCB, CTG, BID, ACB, STB, VPB. Trục tung trái: CASA (%), trục tung phải: svck (%). Chú giải: svck (%), CASA (%). Nguồn: BCTC hợp nhất các ngân hàng. Các nhãn phụ như '-4', '3', '8', '-16' đặt trên các cột tương ứng.",
+   "data": [
+    {
+     "label": "MBB CASA (%)",
+     "value": "37,8"
+    },
+    {
+     "label": "TCB CASA (%)",
+     "value": "35,9"
+    },
+    {
+     "label": "VCB CASA (%)",
+     "value": "35,4"
+    },
+    {
+     "label": "CTG CASA (%)",
+     "value": "25,5"
+    },
+    {
+     "label": "BID CASA (%)",
+     "value": "21,8"
+    },
+    {
+     "label": "ACB CASA (%)",
+     "value": "21,8"
+    },
+    {
+     "label": "STB CASA (%)",
+     "value": "15,3"
+    },
+    {
+     "label": "VPB CASA (%)",
+     "value": "14,4"
+    },
+    {
+     "label": "MBB svck (%)",
+     "value": "-4"
+    },
+    {
+     "label": "TCB svck (%)",
+     "value": "-4"
+    },
+    {
+     "label": "VCB svck (%)",
+     "value": "-4"
+    },
+    {
+     "label": "CTG svck (%)",
+     "value": "3"
+    },
+    {
+     "label": "BID svck (%)",
+     "value": "8"
+    },
+    {
+     "label": "ACB svck (%)",
+     "value": "-3"
+    },
+    {
+     "label": "STB svck (%)",
+     "value": "-16"
+    },
+    {
+     "label": "VPB svck (%)",
+     "value": "2"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    269.4,
+    428.6,
+    454.6
+   ],
+   "crop": "starter/data/advanced/crops/p108_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "TOI (nghìn tỷ)",
+   "bbox": [
+    40,
+    600,
+    720,
+    820
+   ],
+   "description": "Biểu đồ kết hợp thể hiện Tổng thu nhập hoạt động (TOI, cột màu xanh nhạt, đơn vị: nghìn tỷ) và svck (%) (đường màu xanh đậm, có nhãn số trên từng cột) của các ngân hàng: BID, CTG, VPB, VCB, MBB, TCB, ACB, STB. Trục tung trái: TOI (nghìn tỷ), trục tung phải: svck (%). Chú giải: svck (%), TOI. Nguồn: BCTC hợp nhất các ngân hàng. Các nhãn phụ như '13', '7', '20', '6', '22', '14', '12', '1' đặt trên các cột tương ứng.",
+   "data": [
+    {
+     "label": "BID TOI",
+     "value": "91,3"
+    },
+    {
+     "label": "CTG TOI",
+     "value": "87,3"
+    },
+    {
+     "label": "VPB TOI",
+     "value": "74,7"
+    },
+    {
+     "label": "VCB TOI",
+     "value": "72,4"
+    },
+    {
+     "label": "MBB TOI",
+     "value": "67,7"
+    },
+    {
+     "label": "TCB TOI",
+     "value": "53,4"
+    },
+    {
+     "label": "ACB TOI",
+     "value": "33,8"
+    },
+    {
+     "label": "STB TOI",
+     "value": "32,1"
+    },
+    {
+     "label": "BID svck (%)",
+     "value": "13"
+    },
+    {
+     "label": "CTG svck (%)",
+     "value": "7"
+    },
+    {
+     "label": "VPB svck (%)",
+     "value": "20"
+    },
+    {
+     "label": "VCB svck (%)",
+     "value": "6"
+    },
+    {
+     "label": "MBB svck (%)",
+     "value": "22"
+    },
+    {
+     "label": "TCB svck (%)",
+     "value": "14"
+    },
+    {
+     "label": "ACB svck (%)",
+     "value": "12"
+    },
+    {
+     "label": "STB svck (%)",
+     "value": "1"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    505.1,
+    428.6,
+    690.3
+   ],
+   "crop": "starter/data/advanced/crops/p108_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2367,
+  "output": 768
+ },
+ "seconds": 6.3
+}

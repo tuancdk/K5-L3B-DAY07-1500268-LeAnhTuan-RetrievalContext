@@ -1,0 +1,74 @@
+{
+ "printed_page": 74,
+ "pdf_page": 38,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Bà NGUYỄN THỊ THỦY • Thành viên ban điều hành",
+   "bbox": [
+    0,
+    0,
+    350,
+    320
+   ],
+   "description": "Ảnh chân dung bà Nguyễn Thị Thủy, thành viên ban điều hành MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    208.3,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p074_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Bà TRẦN THỊ BẢO QUẾ • Thành viên ban điều hành",
+   "bbox": [
+    0,
+    320,
+    350,
+    620
+   ],
+   "description": "Ảnh chân dung bà Trần Thị Bảo Quế, thành viên ban điều hành MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    269.4,
+    208.3,
+    522.0
+   ],
+   "crop": "starter/data/advanced/crops/p074_v1.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ông VŨ HỒNG PHÚ • Thành viên ban điều hành",
+   "bbox": [
+    0,
+    620,
+    350,
+    1000
+   ],
+   "description": "Ảnh chân dung ông Vũ Hồng Phú, thành viên ban điều hành MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    522.0,
+    208.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p074_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 4064,
+  "output": 182
+ },
+ "seconds": 2.3
+}

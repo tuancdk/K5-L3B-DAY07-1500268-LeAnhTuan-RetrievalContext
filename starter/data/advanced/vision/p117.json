@@ -1,0 +1,37 @@
+{
+ "printed_page": 117,
+ "pdf_page": 59,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Hoạt động cộng đồng",
+   "bbox": [
+    0,
+    100,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp nhóm người chạy bộ trên cầu, mặc áo xanh có dòng chữ 'RUN FOR BETTER LIFE'.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    84.2,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p117_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3657,
+  "output": 61
+ },
+ "seconds": 2.8
+}

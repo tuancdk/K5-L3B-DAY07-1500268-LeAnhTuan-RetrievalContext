@@ -1,0 +1,85 @@
+{
+ "printed_page": 285,
+ "pdf_page": 143,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Các chỉ tiêu ngoài báo cáo tình hình tài chính hợp nhất",
+   "bbox": [
+    50,
+    100,
+    950,
+    700
+   ],
+   "description": "Bảng liệt kê các chỉ tiêu tài chính ngoài báo cáo tình hình tài chính hợp nhất, gồm các chỉ tiêu, số liệu tại ngày 31/12/2025 và 31/12/2024, đơn vị triệu đồng, kèm số tham chiếu thuyết minh.",
+   "data": [
+    {
+     "label": "Bảo lãnh vay vốn",
+     "value": "1.684.717 (2025), 238.395 (2024)"
+    },
+    {
+     "label": "Cam kết giao dịch hối đoái",
+     "value": "618.888.427 (2025), 263.133.210 (2024)"
+    },
+    {
+     "label": "Cam kết mua ngoại tệ",
+     "value": "9.738.358 (2025), 4.416.403 (2024)"
+    },
+    {
+     "label": "Cam kết bán ngoại tệ",
+     "value": "8.752.345 (2025), 4.492.239 (2024)"
+    },
+    {
+     "label": "Cam kết mua giao dịch hoán đổi ngoại tệ",
+     "value": "299.830.234 (2025), 127.747.604 (2024)"
+    },
+    {
+     "label": "Cam kết bán giao dịch hoán đổi ngoại tệ",
+     "value": "300.567.490 (2025), 126.476.964 (2024)"
+    },
+    {
+     "label": "Cam kết trong nghiệp vụ L/C",
+     "value": "59.728.018 (2025), 29.138.440 (2024)"
+    },
+    {
+     "label": "Bảo lãnh khác",
+     "value": "190.317.517 (2025), 135.649.614 (2024)"
+    },
+    {
+     "label": "Các cam kết khác",
+     "value": "127.878.633 (2025), 72.142.229 (2024)"
+    },
+    {
+     "label": "Lãi cho vay và phí phải thu chưa thu được",
+     "value": "9.434.385 (2025), 9.244.457 (2024)"
+    },
+    {
+     "label": "Nợ khó đòi đã xử lý",
+     "value": "62.640.525 (2025), 43.977.154 (2024)"
+    },
+    {
+     "label": "Tài sản và chứng từ khác",
+     "value": "330.298.007 (2025), 302.861.111 (2024)"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    1160.8,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p285_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3650,
+  "output": 492
+ },
+ "seconds": 4.3
+}

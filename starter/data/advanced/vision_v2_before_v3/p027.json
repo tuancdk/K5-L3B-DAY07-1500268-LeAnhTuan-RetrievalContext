@@ -1,0 +1,126 @@
+{
+ "printed_page": 27,
+ "pdf_page": 14,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "org_chart",
+   "title": "Tổ chức nhân sự MB năm 2025",
+   "bbox": [
+    50,
+    50,
+    950,
+    950
+   ],
+   "description": "Sơ đồ tổ chức nhân sự của MB gồm các khối và ban dưới sự quản lý của CEO. Có 3 hội đồng: Hội đồng ALCO, Hội đồng rủi ro, Hội đồng quản lý vốn. Các khối và ban gồm: Ban Sản phẩm và Marketing, Khối Quản trị rủi ro, Khối Pháp chế và tuân thủ, Khối Mạng lưới và Quản lý chất lượng, Văn phòng CEO, Khối Tổ chức nhân sự, Khối Hành chính, Khối Tài chính kế toán, Khối Dữ liệu, Trung tâm Phê duyệt tín dụng, Khối Thẩm định, Khối Vận hành, Khối Công nghệ thông tin, Khối Ngân hàng số, Ban Khách hàng chiến lược, Khối Nguồn vốn và kinh doanh tiền tệ, Khối Khách hàng cá nhân, Khối Khách hàng vừa và nhỏ, Khối Khách hàng lớn. Có chi nhánh/phòng giao dịch/văn phòng đại diện nước ngoài.",
+   "data": [
+    {
+     "label": "Hội đồng ALCO",
+     "value": "1"
+    },
+    {
+     "label": "Hội đồng rủi ro",
+     "value": "2"
+    },
+    {
+     "label": "Hội đồng quản lý vốn",
+     "value": "3"
+    },
+    {
+     "label": "Ban Sản phẩm và Marketing",
+     "value": ""
+    },
+    {
+     "label": "Khối Quản trị rủi ro",
+     "value": ""
+    },
+    {
+     "label": "Khối Pháp chế và tuân thủ",
+     "value": ""
+    },
+    {
+     "label": "Khối Mạng lưới và Quản lý chất lượng",
+     "value": ""
+    },
+    {
+     "label": "Văn phòng CEO",
+     "value": ""
+    },
+    {
+     "label": "Khối Tổ chức nhân sự",
+     "value": ""
+    },
+    {
+     "label": "Khối Hành chính",
+     "value": ""
+    },
+    {
+     "label": "Khối Tài chính kế toán",
+     "value": ""
+    },
+    {
+     "label": "Khối Dữ liệu",
+     "value": ""
+    },
+    {
+     "label": "Trung tâm Phê duyệt tín dụng",
+     "value": ""
+    },
+    {
+     "label": "Khối Thẩm định",
+     "value": ""
+    },
+    {
+     "label": "Khối Vận hành",
+     "value": ""
+    },
+    {
+     "label": "Khối Công nghệ thông tin",
+     "value": ""
+    },
+    {
+     "label": "Khối Ngân hàng số",
+     "value": ""
+    },
+    {
+     "label": "Ban Khách hàng chiến lược",
+     "value": ""
+    },
+    {
+     "label": "Khối Nguồn vốn và kinh doanh tiền tệ",
+     "value": ""
+    },
+    {
+     "label": "Khối Khách hàng cá nhân",
+     "value": ""
+    },
+    {
+     "label": "Khối Khách hàng vừa và nhỏ",
+     "value": ""
+    },
+    {
+     "label": "Khối Khách hàng lớn",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    42.1,
+    1160.8,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p027_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3588,
+  "output": 570
+ },
+ "seconds": 5.9
+}

@@ -1,0 +1,186 @@
+{
+ "printed_page": 110,
+ "pdf_page": 56,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "YEA",
+   "bbox": [
+    44,
+    322,
+    722,
+    527
+   ],
+   "description": "Biểu đồ kết hợp thể hiện Tỷ suất tài sản sinh lời (YEA) của các ngân hàng năm 2025. Trục hoành là tên các ngân hàng (VPB, STB, MBB, TCB, ACB, CTG, BID, VCB). Trục tung bên trái là giá trị YEA (%), trục tung bên phải là svck (%). Cột màu xanh nhạt thể hiện YEA (%), đường màu xanh dương thể hiện svck (%). Có các nhãn số trên từng cột và các nhãn svck đặt phía trên hoặc dưới từng cột. Chú giải: svck (%), YEA (%). Nguồn: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "VPB YEA (%)",
+     "value": "9,6"
+    },
+    {
+     "label": "VPB svck (%)",
+     "value": "-1"
+    },
+    {
+     "label": "STB YEA (%)",
+     "value": "7,1"
+    },
+    {
+     "label": "STB svck (%)",
+     "value": "-5"
+    },
+    {
+     "label": "MBB YEA (%)",
+     "value": "6,7"
+    },
+    {
+     "label": "MBB svck (%)",
+     "value": "-3"
+    },
+    {
+     "label": "TCB YEA (%)",
+     "value": "6,7"
+    },
+    {
+     "label": "TCB svck (%)",
+     "value": "-3"
+    },
+    {
+     "label": "ACB YEA (%)",
+     "value": "6,4"
+    },
+    {
+     "label": "ACB svck (%)",
+     "value": "-2"
+    },
+    {
+     "label": "CTG YEA (%)",
+     "value": "5,7"
+    },
+    {
+     "label": "CTG svck (%)",
+     "value": "-3"
+    },
+    {
+     "label": "BID YEA (%)",
+     "value": "5,2"
+    },
+    {
+     "label": "BID svck (%)",
+     "value": "-7"
+    },
+    {
+     "label": "VCB YEA (%)",
+     "value": "4,8"
+    },
+    {
+     "label": "VCB svck (%)",
+     "value": "-3"
+    }
+   ],
+   "bbox_pdf_pt": [
+    26.2,
+    271.1,
+    429.8,
+    443.7
+   ],
+   "crop": "starter/data/advanced/crops/p110_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "COF",
+   "bbox": [
+    44,
+    613,
+    722,
+    818
+   ],
+   "description": "Biểu đồ kết hợp thể hiện Chi phí vốn (COF) của các ngân hàng năm 2025. Trục hoành là tên các ngân hàng (VCB, MBB, CTG, BID, TCB, ACB, STB, VPB). Trục tung bên trái là giá trị COF (%), trục tung bên phải là svck (%). Cột màu xanh nhạt thể hiện COF (%), đường màu xanh dương thể hiện svck (%). Có các nhãn số trên từng cột và các nhãn svck đặt phía trên hoặc dưới từng cột. Chú giải: svck (%), COF (%). Nguồn: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "VCB COF (%)",
+     "value": "2,3"
+    },
+    {
+     "label": "VCB svck (%)",
+     "value": "5"
+    },
+    {
+     "label": "MBB COF (%)",
+     "value": "3,2"
+    },
+    {
+     "label": "MBB svck (%)",
+     "value": "0"
+    },
+    {
+     "label": "CTG COF (%)",
+     "value": "3,3"
+    },
+    {
+     "label": "CTG svck (%)",
+     "value": "6"
+    },
+    {
+     "label": "BID COF (%)",
+     "value": "3,3"
+    },
+    {
+     "label": "BID svck (%)",
+     "value": "-5"
+    },
+    {
+     "label": "TCB COF (%)",
+     "value": "3,3"
+    },
+    {
+     "label": "TCB svck (%)",
+     "value": "8"
+    },
+    {
+     "label": "ACB COF (%)",
+     "value": "3,8"
+    },
+    {
+     "label": "ACB svck (%)",
+     "value": "15"
+    },
+    {
+     "label": "STB COF (%)",
+     "value": "4,1"
+    },
+    {
+     "label": "STB svck (%)",
+     "value": "8"
+    },
+    {
+     "label": "VPB COF (%)",
+     "value": "4,8"
+    },
+    {
+     "label": "VPB svck (%)",
+     "value": "6"
+    }
+   ],
+   "bbox_pdf_pt": [
+    26.2,
+    516.1,
+    429.8,
+    688.7
+   ],
+   "crop": "starter/data/advanced/crops/p110_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2297,
+  "output": 788
+ },
+ "seconds": 6.7
+}

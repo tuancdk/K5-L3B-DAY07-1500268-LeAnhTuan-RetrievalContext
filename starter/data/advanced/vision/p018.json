@@ -1,0 +1,16 @@
+{
+ "printed_page": 18,
+ "pdf_page": 10,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [],
+ "usage": {
+  "input": 3216,
+  "output": 5
+ },
+ "seconds": 8.1
+}

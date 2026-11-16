@@ -1,0 +1,36 @@
+{
+ "printed_page": 103,
+ "pdf_page": 52,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh nhân viên MB đứng trước trụ sở MB Từ Liêm",
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp 5 nhân viên MB (4 nữ, 1 nam) đứng xếp hàng trước cửa trụ sở MB Từ Liêm, mặc đồng phục vest xanh, tay phải đặt lên ngực trái, cầm tài liệu màu xanh có logo MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p103_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3227,
+  "output": 102
+ },
+ "seconds": 3.0
+}

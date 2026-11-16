@@ -1,0 +1,36 @@
+{
+ "printed_page": 202,
+ "pdf_page": 102,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "MB tạo dựng môi trường làm việc đa dạng, công bằng, tôn trọng quyền con người",
+   "bbox": [
+    0,
+    500,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp các bàn tay của nhiều người khác nhau chạm vào nhau thể hiện sự đoàn kết và đa dạng trong môi trường làm việc.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    420.9,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p202_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3695,
+  "output": 80
+ },
+ "seconds": 2.5
+}

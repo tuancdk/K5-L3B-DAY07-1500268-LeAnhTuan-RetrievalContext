@@ -1,0 +1,53 @@
+{
+ "printed_page": 214,
+ "pdf_page": 108,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Đánh giá chung của HĐQT về thực hành Quản trị công ty tại MB trong năm 2025",
+   "bbox": [
+    50,
+    150,
+    450,
+    700
+   ],
+   "description": "Sơ đồ gồm 4 vòng tròn lớn theo chiều dọc bên trái với các nội dung chính: Gia tăng tốc độ ra quyết định của HĐQT; Củng cố niềm tin nhà đầu tư; Xây dựng nền tảng phát triển khu vực; Công bố Báo cáo thường niên tích hợp Báo cáo Phát triển bền vững. Bên phải là các đoạn mô tả chi tiết tương ứng với từng vòng tròn, nêu các giải pháp trọng tâm của MB trong năm 2025 về quản trị doanh nghiệp, bao gồm hoàn thiện cơ cấu quản trị, nâng cao hiệu quả huy động vốn, phê duyệt quy hoạch mạng lưới 2025-2027, và thực hành ESG với mục tiêu Net-Zero.",
+   "data": [
+    {
+     "label": "Gia tăng tốc độ ra quyết định của HĐQT",
+     "value": "Thông qua việc hoàn thiện cơ cấu quản trị, phân định rõ ràng vai trò, quyền hạn và trách nhiệm của từng cấp."
+    },
+    {
+     "label": "Củng cố niềm tin nhà đầu tư",
+     "value": "Nâng cao hiệu quả huy động vốn và cải thiện đánh giá từ các tổ chức xếp hạng tín nhiệm quốc tế."
+    },
+    {
+     "label": "Xây dựng nền tảng phát triển khu vực",
+     "value": "Phê duyệt Phương án quy hoạch mạng lưới giai đoạn 2025–2027 và Kế hoạch phát triển mạng lưới năm 2025 nhằm bảo đảm hệ thống đáp ứng mục tiêu tăng trưởng và tối ưu nguồn lực, thống nhất chủ trương đóng cửa Văn phòng đại diện (VPĐD) tại Nga và điều chỉnh kế hoạch mạng lưới năm 2025 (bổ sung 4 VPĐD), định hướng thành lập VPĐD tại Hàn Quốc, Singapore, Đài Loan và Trung Quốc."
+    },
+    {
+     "label": "Công bố Báo cáo thường niên tích hợp Báo cáo Phát triển bền vững",
+     "value": "Với đầy đủ các chỉ tiêu ESG, dữ liệu định lượng minh bạch và định hướng chiến lược rõ ràng. Nhấn mạnh vai trò của ESG trong Chiến lược MB giai đoạn 2022–2026, tầm nhìn đến năm 2030, mục tiêu “Thực hành ESG tiên tiến, hướng tới tương lai Net-Zero” và định hướng trở thành “Tổ chức phát triển bền vững.” Cam kết tạo ra giá trị tích cực cho môi trường, khách hàng, quản trị và cộng đồng."
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    126.3,
+    267.9,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p214_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3949,
+  "output": 570
+ },
+ "seconds": 4.8
+}

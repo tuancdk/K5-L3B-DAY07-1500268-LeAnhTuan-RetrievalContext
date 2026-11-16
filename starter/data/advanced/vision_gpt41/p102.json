@@ -1,0 +1,146 @@
+{
+ "printed_page": 102,
+ "pdf_page": 52,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Mức độ biến động tỷ giá USD/VND (%)",
+   "bbox": [
+    44,
+    293,
+    474,
+    523
+   ],
+   "description": "Biểu đồ cột thể hiện mức độ biến động tỷ giá USD/VND qua các năm từ 2020 đến 2026F. Trục hoành là các năm (2020, 2021, 2022, 2023, 2024, 2025, 2026F). Trục tung là phần trăm biến động (%). Các cột có giá trị cụ thể ghi trên đầu cột. Nguồn: GSO và CQ KTT MB dự báo.",
+   "data": [
+    {
+     "label": "2020",
+     "value": "0,9"
+    },
+    {
+     "label": "2021",
+     "value": "0,4"
+    },
+    {
+     "label": "2022",
+     "value": "1,2"
+    },
+    {
+     "label": "2023",
+     "value": "4,2"
+    },
+    {
+     "label": "2024",
+     "value": "4,4"
+    },
+    {
+     "label": "2025",
+     "value": "3,2"
+    },
+    {
+     "label": "2026F",
+     "value": "3,4"
+    }
+   ],
+   "bbox_pdf_pt": [
+    26.2,
+    246.7,
+    282.2,
+    440.3
+   ],
+   "crop": "starter/data/advanced/crops/p102_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Tín dụng toàn nền kinh tế",
+   "bbox": [
+    44,
+    574,
+    724,
+    1040
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện tăng trưởng tín dụng (%) và tổng tín dụng (triệu tỷ) toàn nền kinh tế từ 2020 đến 2026F. Trục hoành là các năm (2020, 2021, 2022, 2023, 2024, 2025, 2026F). Trục tung bên trái là giá trị tín dụng (triệu tỷ), trục tung bên phải là tăng trưởng (%). Cột màu xanh nhạt thể hiện giá trị tín dụng, đường màu xanh đậm thể hiện tăng trưởng tín dụng. Các giá trị cụ thể được ghi trên đầu cột và điểm đường. Có nhãn phụ '+15%' đặt trên điểm năm 2023 của đường tăng trưởng. Nguồn: GSO và CQ KTT MB dự báo.",
+   "data": [
+    {
+     "label": "2020 - Tín dụng (triệu tỷ)",
+     "value": "9,2"
+    },
+    {
+     "label": "2020 - Tăng trưởng (%)",
+     "value": "12"
+    },
+    {
+     "label": "2021 - Tín dụng (triệu tỷ)",
+     "value": "10,4"
+    },
+    {
+     "label": "2021 - Tăng trưởng (%)",
+     "value": "14"
+    },
+    {
+     "label": "2022 - Tín dụng (triệu tỷ)",
+     "value": "11,9"
+    },
+    {
+     "label": "2022 - Tăng trưởng (%)",
+     "value": "14"
+    },
+    {
+     "label": "2023 - Tín dụng (triệu tỷ)",
+     "value": "13,6"
+    },
+    {
+     "label": "2023 - Tăng trưởng (%)",
+     "value": "14"
+    },
+    {
+     "label": "2024 - Tín dụng (triệu tỷ)",
+     "value": "15,6"
+    },
+    {
+     "label": "2024 - Tăng trưởng (%)",
+     "value": "15"
+    },
+    {
+     "label": "2025 - Tín dụng (triệu tỷ)",
+     "value": "18,6"
+    },
+    {
+     "label": "2025 - Tăng trưởng (%)",
+     "value": "15"
+    },
+    {
+     "label": "2026F - Tín dụng (triệu tỷ)",
+     "value": "21,4"
+    },
+    {
+     "label": "2026F - Tăng trưởng (%)",
+     "value": "15"
+    },
+    {
+     "label": "+15% (nhãn phụ)",
+     "value": "đặt trên điểm năm 2023 của đường tăng trưởng"
+    }
+   ],
+   "bbox_pdf_pt": [
+    26.2,
+    483.2,
+    431.0,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p102_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2573,
+  "output": 694
+ },
+ "seconds": 7.4
+}

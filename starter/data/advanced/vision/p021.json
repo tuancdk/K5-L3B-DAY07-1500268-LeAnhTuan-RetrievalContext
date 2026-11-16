@@ -1,0 +1,88 @@
+{
+ "printed_page": 21,
+ "pdf_page": 11,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Hình ảnh sự kiện và nhân vật liên quan đến các mốc thời gian của MB",
+   "bbox": [
+    50,
+    50,
+    300,
+    300
+   ],
+   "description": "Ba ảnh tròn thể hiện các sự kiện và nhân vật quan trọng trong lịch sử MB, gồm ảnh lễ nhận huân chương, ảnh sự kiện phát biểu tại hội nghị, và ảnh sự kiện khác liên quan đến MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    625.0,
+    42.1,
+    773.9,
+    252.6
+   ],
+   "crop": "starter/data/advanced/crops/p021_v0.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Dòng thời gian các sự kiện quan trọng của MB từ 2011 đến 2025",
+   "bbox": [
+    350,
+    50,
+    950,
+    950
+   ],
+   "description": "Dòng thời gian theo chiều dọc với các mốc năm 2011, 2013, 2014-2015, 2019, 2022, 2023, 2024, 2025. Mỗi năm có mô tả sự kiện quan trọng tương ứng về thành tựu, giải thưởng, thay đổi nhân sự, và phát triển thương hiệu của MB.",
+   "data": [
+    {
+     "label": "2011",
+     "value": "MB đã thực hiện thành công việc niêm yết cổ phiếu MBB trên Sở giao dịch chứng khoán TP.HCM."
+    },
+    {
+     "label": "2013",
+     "value": "Top 3 Ngân hàng thương mại cổ phần không do nhà nước nắm cổ phần chi phối."
+    },
+    {
+     "label": "2014-2015",
+     "value": "MB vinh dự đón nhận Huân chương Lao động Hạng Nhất vào năm 2014 và Danh hiệu Anh Hùng Lao động vào năm 2015."
+    },
+    {
+     "label": "2019",
+     "value": "Thay đổi Nhận diện thương hiệu mới thành công."
+    },
+    {
+     "label": "2022",
+     "value": "MB đã xuất sắc về đích với vị trí Top 5 về lợi nhuận, Top đầu về tỷ suất sinh lời trên vốn và nằm trong Top đầu về các chỉ số an toàn, chất lượng tín dụng. Với hình ảnh một ngân hàng năng động, trẻ trung, Top 2 thương hiệu được yêu thích nhất, giá trị thương hiệu của MB đã tăng gấp đôi, lọt vào Top 300 thương hiệu ngân hàng có giá trị và mạnh nhất thế giới (theo báo cáo Banking 500 năm 2022 của Brand Finance)."
+    },
+    {
+     "label": "2023",
+     "value": "MB đạt được các danh hiệu, giải thưởng uy tín: Top 3 về lợi nhuận trong hệ thống các Ngân hàng thương mại và Top 2 thương hiệu mạnh nhất Việt Nam và là một trong số ít các ngân hàng có hệ sinh thái đầy đủ nhất và số hóa đồng bộ nhất Việt Nam."
+    },
+    {
+     "label": "2024",
+     "value": "Được sự tin tưởng của Quân ủy trung ương, Bộ Quốc phòng, MB đã thực hiện chuyển giao nhân sự cấp cao thành công, mở ra một chương mới cho sự phát triển của Ngân hàng."
+    },
+    {
+     "label": "2025",
+     "value": "MB vinh dự đón nhận Huân chương Bảo vệ Tổ quốc hạng Nhất và Huân chương Lao động hạng Ba."
+    }
+   ],
+   "bbox_pdf_pt": [
+    803.6,
+    42.1,
+    1160.8,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p021_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3645,
+  "output": 630
+ },
+ "seconds": 6.6
+}

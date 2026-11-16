@@ -1,0 +1,186 @@
+{
+ "printed_page": 113,
+ "pdf_page": 57,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tỷ lệ nợ xấu (NPL)",
+   "bbox": [
+    60,
+    320,
+    710,
+    540
+   ],
+   "description": "Biểu đồ kết hợp thể hiện tỷ lệ nợ xấu (NPL, cột màu xanh nhạt, đơn vị %) và svck (%) (đường màu xanh lam, đơn vị %) của các ngân hàng: VCB, ACB, TCB, CTG, MBB, BID, VPB, STB. Trục tung bên trái là NPL (%), trục tung bên phải là svck (%). Các nhãn svck (%) được đặt phía trên hoặc dưới các cột tương ứng.",
+   "data": [
+    {
+     "label": "VCB - NPL (%)",
+     "value": "0,6"
+    },
+    {
+     "label": "VCB - svck (%)",
+     "value": "-40"
+    },
+    {
+     "label": "ACB - NPL (%)",
+     "value": "1,1"
+    },
+    {
+     "label": "ACB - svck (%)",
+     "value": "-35"
+    },
+    {
+     "label": "TCB - NPL (%)",
+     "value": "1,1"
+    },
+    {
+     "label": "TCB - svck (%)",
+     "value": "-5"
+    },
+    {
+     "label": "CTG - NPL (%)",
+     "value": "1,3"
+    },
+    {
+     "label": "CTG - svck (%)",
+     "value": "-10"
+    },
+    {
+     "label": "MBB - NPL (%)",
+     "value": "1,3"
+    },
+    {
+     "label": "MBB - svck (%)",
+     "value": "-20"
+    },
+    {
+     "label": "BID - NPL (%)",
+     "value": "1,5"
+    },
+    {
+     "label": "BID - svck (%)",
+     "value": "1"
+    },
+    {
+     "label": "VPB - NPL (%)",
+     "value": "3,3"
+    },
+    {
+     "label": "VPB - svck (%)",
+     "value": "6,4"
+    },
+    {
+     "label": "STB - NPL (%)",
+     "value": "6,4"
+    },
+    {
+     "label": "STB - svck (%)",
+     "value": "167"
+    }
+   ],
+   "bbox_pdf_pt": [
+    631.0,
+    269.4,
+    1017.9,
+    454.6
+   ],
+   "crop": "starter/data/advanced/crops/p113_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Tỷ lệ bao phủ nợ xấu (LLR)",
+   "bbox": [
+    60,
+    860,
+    710,
+    1080
+   ],
+   "description": "Biểu đồ kết hợp thể hiện tỷ lệ bao phủ nợ xấu (LLR, cột màu xanh nhạt, đơn vị %) và svck (%) (đường màu xanh lam, đơn vị %) của các ngân hàng: VCB, CTG, TCB, ACB, BID, MBB, VPB, STB. Trục tung bên trái là LLR (%), trục tung bên phải là svck (%). Các nhãn svck (%) được đặt phía trên hoặc dưới các cột tương ứng.",
+   "data": [
+    {
+     "label": "VCB - LLR (%)",
+     "value": "259"
+    },
+    {
+     "label": "VCB - svck (%)",
+     "value": "16"
+    },
+    {
+     "label": "CTG - LLR (%)",
+     "value": "159"
+    },
+    {
+     "label": "CTG - svck (%)",
+     "value": "-9"
+    },
+    {
+     "label": "TCB - LLR (%)",
+     "value": "128"
+    },
+    {
+     "label": "TCB - svck (%)",
+     "value": "12"
+    },
+    {
+     "label": "ACB - LLR (%)",
+     "value": "114"
+    },
+    {
+     "label": "ACB - svck (%)",
+     "value": "47"
+    },
+    {
+     "label": "BID - LLR (%)",
+     "value": "100"
+    },
+    {
+     "label": "BID - svck (%)",
+     "value": "2"
+    },
+    {
+     "label": "MBB - LLR (%)",
+     "value": "94"
+    },
+    {
+     "label": "MBB - svck (%)",
+     "value": "-5"
+    },
+    {
+     "label": "VPB - LLR (%)",
+     "value": "55"
+    },
+    {
+     "label": "VPB - svck (%)",
+     "value": "-27"
+    },
+    {
+     "label": "STB - LLR (%)",
+     "value": "50"
+    },
+    {
+     "label": "STB - svck (%)",
+     "value": "-24"
+    }
+   ],
+   "bbox_pdf_pt": [
+    631.0,
+    724.0,
+    1017.9,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p113_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2429,
+  "output": 739
+ },
+ "seconds": 5.3
+}

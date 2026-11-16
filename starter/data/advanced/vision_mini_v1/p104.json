@@ -1,0 +1,117 @@
+{
+ "printed_page": 104,
+ "pdf_page": 53,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "line_chart",
+   "title": "Giá cổ phiếu trong năm 2025",
+   "bbox": [
+    0,
+    600,
+    1000,
+    1000
+   ],
+   "description": "Biểu đồ đường thể hiện sự tăng trưởng giá cổ phiếu của các ngân hàng trên sàn HSX từ năm 2017 đến 2022. Các cổ phiếu gồm CTG, BID, VCB, MBB, ACB, STB, TCB, VPB, HDB. Trục hoành là năm từ 2017 đến 2022. Trục tung không có số liệu cụ thể nhưng thể hiện xu hướng tăng trưởng giá cổ phiếu. MBB có mức tăng trưởng cao nhất.",
+   "data": [
+    {
+     "label": "CTG",
+     "value": "416,46%"
+    },
+    {
+     "label": "BID",
+     "value": "431,86%"
+    },
+    {
+     "label": "VCB",
+     "value": "300,86%"
+    },
+    {
+     "label": "MBB",
+     "value": "910,13%"
+    },
+    {
+     "label": "ACB",
+     "value": "566,24%"
+    },
+    {
+     "label": "STB",
+     "value": "668,79%"
+    },
+    {
+     "label": "TCB",
+     "value": "103,13%"
+    },
+    {
+     "label": "VPB",
+     "value": "266,57%"
+    },
+    {
+     "label": "HDB",
+     "value": "251,27%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    505.1,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p104_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Chỉ số VNINDEX 1W và Volume - Khối lượng",
+   "bbox": [
+    0,
+    400,
+    400,
+    600
+   ],
+   "description": "Thông tin chỉ số VNINDEX trong tuần với các giá trị mở cửa (O), cao nhất (H), thấp nhất (L), đóng cửa (C) và biến động giảm. Khối lượng giao dịch là 2,71 tỷ.",
+   "data": [
+    {
+     "label": "O (Open)",
+     "value": "1.876,01"
+    },
+    {
+     "label": "H (High)",
+     "value": "1.885,14"
+    },
+    {
+     "label": "L (Low)",
+     "value": "1.802,85"
+    },
+    {
+     "label": "C (Close)",
+     "value": "1.827,33"
+    },
+    {
+     "label": "Biến động",
+     "value": "-52,95(-2,82%)"
+    },
+    {
+     "label": "Volume - Khối lượng",
+     "value": "2,71B"
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    336.8,
+    238.1,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p104_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3704,
+  "output": 439
+ },
+ "seconds": 4.1
+}

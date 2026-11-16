@@ -1,0 +1,96 @@
+{
+ "printed_page": 8,
+ "pdf_page": 5,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Chân dung Chủ tịch Hội đồng Quản trị MB",
+   "bbox": [
+    0,
+    0,
+    500,
+    1000
+   ],
+   "description": "Ảnh chân dung Chủ tịch Hội đồng Quản trị MB mặc vest xanh, đeo kính, đứng khoanh tay trên nền xanh dương.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    297.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p008_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Thông điệp của Chủ tịch Hội đồng Quản trị MB năm 2025",
+   "bbox": [
+    500,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Nội dung thông điệp của Chủ tịch Hội đồng Quản trị MB năm 2025, trình bày các chỉ tiêu tài chính và thành tựu của MB trong năm 2025, bao gồm giá trị thương hiệu, tăng trưởng tài sản, lợi nhuận, dư nợ tín dụng, tỷ lệ CASA, tỷ lệ CIR, tỷ lệ nợ xấu, và mô hình tập đoàn tài chính MB Group với 8 công ty thành viên.",
+   "data": [
+    {
+     "label": "Giá trị thương hiệu MB",
+     "value": "vượt mốc 2 tỷ USD, nằm trong top 3 ngân hàng và top 10 thương hiệu giá trị nhất cả nước"
+    },
+    {
+     "label": "Tăng trưởng GDP Việt Nam 2025",
+     "value": "8,02%"
+    },
+    {
+     "label": "Tổng tài sản MB",
+     "value": "vượt 1,6 triệu tỷ đồng, tăng 43% so với đầu năm"
+    },
+    {
+     "label": "Lợi nhuận MB",
+     "value": "34.268 tỷ đồng, tăng gần 19%"
+    },
+    {
+     "label": "Dư nợ tín dụng MB",
+     "value": "vượt 1 triệu tỷ đồng, tăng 37%"
+    },
+    {
+     "label": "Tỷ lệ tiền gửi không kỳ hạn (CASA)",
+     "value": "~36%, thuộc top cao nhất hệ thống"
+    },
+    {
+     "label": "Số lượng khách hàng MB",
+     "value": "35 triệu khách hàng"
+    },
+    {
+     "label": "Tỷ lệ chi phí hoạt động trên thu nhập (CIR)",
+     "value": "~29%, thấp hơn bình quân ngành"
+    },
+    {
+     "label": "Tỷ lệ nợ xấu MB",
+     "value": "dưới 1,3%"
+    },
+    {
+     "label": "Số công ty thành viên MB Group",
+     "value": "8 công ty thành viên"
+    }
+   ],
+   "bbox_pdf_pt": [
+    297.6,
+    0.0,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p008_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4009,
+  "output": 456
+ },
+ "seconds": 5.4
+}

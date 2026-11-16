@@ -1,0 +1,57 @@
+{
+ "printed_page": 252,
+ "pdf_page": 127,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Hội đồng Quản trị của MB nhiệm kỳ 2024-2029",
+   "bbox": [
+    50,
+    150,
+    950,
+    850
+   ],
+   "description": "Sơ đồ thể hiện cấu trúc Hội đồng Quản trị MB nhiệm kỳ 2024-2029 với các vị trí: Chủ tịch ở trung tâm, ba Phó Chủ tịch xung quanh, và một Thành viên Độc lập bên dưới.",
+   "data": [
+    {
+     "label": "Chủ tịch",
+     "value": "CHỦ TỊCH"
+    },
+    {
+     "label": "Phó Chủ tịch",
+     "value": "PHÓ CHỦ TỊCH"
+    },
+    {
+     "label": "Phó Chủ tịch",
+     "value": "PHÓ CHỦ TỊCH"
+    },
+    {
+     "label": "Phó Chủ tịch",
+     "value": "PHÓ CHỦ TỊCH"
+    },
+    {
+     "label": "Thành viên Độc lập",
+     "value": "THÀNH VIÊN ĐỘC LẬP"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    126.3,
+    565.5,
+    715.6
+   ],
+   "crop": "starter/data/advanced/crops/p252_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3292,
+  "output": 192
+ },
+ "seconds": 2.6
+}

@@ -1,0 +1,64 @@
+{
+ "printed_page": 229,
+ "pdf_page": 115,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Họp Ban Tổng Giám đốc và Thành viên HĐQT/BĐH",
+   "bbox": [
+    0,
+    0,
+    1000,
+    600
+   ],
+   "description": "Ảnh chụp một cuộc họp với nhiều người ngồi quanh bàn họp, sử dụng laptop và ghi chú, trong phòng họp hiện đại.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    1190.6,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p229_v0.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Quy trình đánh giá và chỉ đạo của Thành viên HĐQT/BĐH",
+   "bbox": [
+    50,
+    600,
+    950,
+    900
+   ],
+   "description": "Hai khối nội dung chính: 1) Định kỳ đánh giá Thành viên HĐQT/BĐH dựa trên mục tiêu và kết quả thực hiện công việc. 2) Chỉ đạo, định hướng nghiên cứu, tổ chức rà soát và triển khai các nội dung liên quan đến hướng dẫn, yêu cầu mới của các cơ quan quản lý nhà nước, phù hợp quy định pháp luật. HĐQT định hướng/chỉ đạo Ban Tổng Giám đốc tổ chức triển khai bám sát chỉ đạo tín dụng, tập trung tăng trưởng kinh doanh đi đôi với quản trị rủi ro chặt chẽ, nâng cao chất lượng hoạt động.",
+   "data": [
+    {
+     "label": "Định kỳ đánh giá Thành viên HĐQT/BĐH",
+     "value": "Căn cứ theo mục tiêu và kết quả thực hiện công việc."
+    },
+    {
+     "label": "Chỉ đạo, định hướng nghiên cứu, tổ chức rà soát và triển khai",
+     "value": "HĐQT định hướng/chỉ đạo Ban Tổng Giám đốc tổ chức triển khai bám sát chỉ đạo tín dụng, tập trung tăng trưởng kinh doanh đi đôi với quản trị rủi ro chặt chẽ, nâng cao chất lượng hoạt động."
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    505.1,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p229_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3354,
+  "output": 366
+ },
+ "seconds": 4.7
+}

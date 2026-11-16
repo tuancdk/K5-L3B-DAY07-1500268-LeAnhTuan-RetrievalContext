@@ -1,0 +1,120 @@
+{
+ "printed_page": 172,
+ "pdf_page": 87,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Chỉ số Hài lòng khách hàng CSAT",
+   "bbox": [
+    50,
+    350,
+    250,
+    450
+   ],
+   "description": "Chỉ số hài lòng khách hàng CSAT của MB năm 2025 đạt 91,7 điểm, tăng 1,4 điểm so với năm 2024.",
+   "data": [
+    {
+     "label": "CSAT",
+     "value": "91,7 điểm"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "1,4 điểm"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    294.7,
+    148.8,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p172_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Chỉ số Trung thành của khách hàng NPS",
+   "bbox": [
+    350,
+    350,
+    550,
+    450
+   ],
+   "description": "Chỉ số trung thành của khách hàng NPS của MB năm 2025 đạt 67 điểm, tăng 4,6 điểm so với năm 2024.",
+   "data": [
+    {
+     "label": "NPS",
+     "value": "67 điểm"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "4,6 điểm"
+    }
+   ],
+   "bbox_pdf_pt": [
+    208.3,
+    294.7,
+    327.4,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p172_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Chỉ số nỗ lực/dễ dàng tiếp cận sản phẩm dịch vụ của MB CES",
+   "bbox": [
+    650,
+    350,
+    850,
+    450
+   ],
+   "description": "Chỉ số nỗ lực/dễ dàng tiếp cận sản phẩm dịch vụ của MB CES năm 2025 đạt 85,1 điểm, tăng 1,8 điểm so với năm 2024.",
+   "data": [
+    {
+     "label": "CES",
+     "value": "85,1 điểm"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "1,8 điểm"
+    }
+   ],
+   "bbox_pdf_pt": [
+    386.9,
+    294.7,
+    506.0,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p172_v2.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa trải nghiệm khách hàng MB",
+   "bbox": [
+    0,
+    450,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp ba người trong môi trường ngân hàng, thể hiện trải nghiệm khách hàng tích cực tại MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    378.9,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p172_v3.png"
+  }
+ ],
+ "usage": {
+  "input": 3541,
+  "output": 379
+ },
+ "seconds": 3.9
+}

@@ -1,0 +1,61 @@
+{
+ "printed_page": 22,
+ "pdf_page": 12,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Vùng miền và điểm giao dịch của MB",
+   "bbox": [
+    600,
+    800,
+    980,
+    980
+   ],
+   "description": "Bảng liệt kê số điểm giao dịch của MB theo vùng miền và quốc gia tính đến tháng 12/2025, gồm các khu vực Miền Bắc, Miền Trung, Miền Nam, Lào và Campuchia, tổng cộng 329 điểm giao dịch.",
+   "data": [
+    {
+     "label": "Khu vực Miền Bắc",
+     "value": "158"
+    },
+    {
+     "label": "Khu vực Miền Trung",
+     "value": "47"
+    },
+    {
+     "label": "Khu vực Miền Nam",
+     "value": "122"
+    },
+    {
+     "label": "Lào",
+     "value": "1"
+    },
+    {
+     "label": "Campuchia",
+     "value": "1"
+    },
+    {
+     "label": "Tổng",
+     "value": "329"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    673.5,
+    583.4,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p022_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3972,
+  "output": 163
+ },
+ "seconds": 3.3
+}

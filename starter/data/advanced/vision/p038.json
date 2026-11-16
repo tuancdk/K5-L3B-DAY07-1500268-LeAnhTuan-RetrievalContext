@@ -1,0 +1,61 @@
+{
+ "printed_page": 38,
+ "pdf_page": 20,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Định hướng triển khai chiến lược 2026",
+   "bbox": [
+    50,
+    50,
+    950,
+    850
+   ],
+   "description": "Biểu đồ hình tròn trung tâm với phương châm năm 2026: 'Tăng tốc Vững chắc - Hiệu quả'. Mục tiêu: Ngân hàng Top 1 về Khách hàng, giao dịch, Top 3 về hiệu quả các NHTM. Xung quanh là 4 khối nội dung chính: Về quy mô (Phát triển thêm 4-5 triệu khách hàng mới, mở rộng quy mô khách hàng lên 40 triệu, duy trì tốc độ tăng trưởng dư nợ và huy động vốn khoảng 35%, mở rộng thị phần trên cơ sở tăng trưởng thực chất và bền vững), Về an toàn (Tối ưu năng suất lao động và duy trì tỷ lệ nợ xấu dưới 1,5%. Tăng cường đầu tư công nghệ thông tin; đảm bảo đáp ứng yêu cầu tăng trưởng, an toàn - bảo mật, ổn định hệ thống, duy trì hoạt động vận hành, kinh doanh liên tục đối với khách hàng, giao dịch và các mô hình kinh doanh mới), Về hiệu quả (Đảm bảo hoạt động kinh doanh an toàn, hiệu quả, gia tăng thị phần tại các thị trường trọng điểm, hướng tới mục tiêu tăng trưởng lợi nhuận 15-20%), và Hiệp lực Tập đoàn (Hiệp lực Tập đoàn, khai thác toàn diện và hiệu quả hệ sinh thái, phấn đấu doanh thu bán chéo tăng trưởng tối thiểu 30%/năm).",
+   "data": [
+    {
+     "label": "Phương châm năm 2026",
+     "value": "Tăng tốc Vững chắc – Hiệu quả"
+    },
+    {
+     "label": "Mục tiêu",
+     "value": "Ngân hàng Top 1 về Khách hàng, giao dịch, Top 3 về hiệu quả các NHTM"
+    },
+    {
+     "label": "Về quy mô",
+     "value": "Phát triển thêm 4-5 triệu khách hàng mới, mở rộng quy mô khách hàng lên 40 triệu. Duy trì tốc độ tăng trưởng dư nợ và huy động vốn khoảng 35%, mở rộng thị phần trên cơ sở tăng trưởng thực chất và bền vững."
+    },
+    {
+     "label": "Về an toàn",
+     "value": "Tối ưu năng suất lao động và duy trì tỷ lệ nợ xấu dưới 1,5%. Tăng cường đầu tư công nghệ thông tin; đảm bảo đáp ứng yêu cầu tăng trưởng, an toàn – bảo mật, ổn định hệ thống, duy trì hoạt động vận hành, kinh doanh liên tục đối với khách hàng, giao dịch và các mô hình kinh doanh mới."
+    },
+    {
+     "label": "Về hiệu quả",
+     "value": "Đảm bảo hoạt động kinh doanh an toàn, hiệu quả, gia tăng thị phần tại các thị trường trọng điểm, hướng tới mục tiêu tăng trưởng lợi nhuận 15-20%."
+    },
+    {
+     "label": "Hiệp lực Tập đoàn",
+     "value": "Hiệp lực Tập đoàn, khai thác toàn diện và hiệu quả hệ sinh thái, phấn đấu doanh thu bán chéo tăng trưởng tối thiểu 30%/năm"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    565.5,
+    715.6
+   ],
+   "crop": "starter/data/advanced/crops/p038_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4043,
+  "output": 664
+ },
+ "seconds": 5.6
+}

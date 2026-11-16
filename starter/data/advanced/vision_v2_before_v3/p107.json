@@ -1,0 +1,122 @@
+{
+ "printed_page": 107,
+ "pdf_page": 54,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tín dụng (nghìn tỷ)",
+   "bbox": [
+    100,
+    300,
+    900,
+    650
+   ],
+   "description": "Biểu đồ cột kết hợp đường thể hiện tín dụng và tỷ lệ svck (%) của các ngân hàng năm 2025. Trục tung trái là giá trị tín dụng (nghìn tỷ), trục tung phải là tỷ lệ svck (%). Các ngân hàng theo thứ tự BID, CTG, VCB, MBB, VPB, TCB, ACB, STB. Cột màu xanh dương nhạt biểu thị giá trị tín dụng, đường màu xanh đậm biểu thị tỷ lệ svck (%). Giá trị tín dụng lần lượt: BID 2.377, CTG 1.995, VCB 1.681, MBB 1.110, VPB 961, TCB 824, ACB 689, STB 636. Tỷ lệ svck (%) lần lượt: BID 15, CTG 16, VCB 15, MBB 37, VPB 35, TCB 21, ACB 19, STB 18.",
+   "data": [
+    {
+     "label": "BID",
+     "value": "2.377"
+    },
+    {
+     "label": "CTG",
+     "value": "1.995"
+    },
+    {
+     "label": "VCB",
+     "value": "1.681"
+    },
+    {
+     "label": "MBB",
+     "value": "1.110"
+    },
+    {
+     "label": "VPB",
+     "value": "961"
+    },
+    {
+     "label": "TCB",
+     "value": "824"
+    },
+    {
+     "label": "ACB",
+     "value": "689"
+    },
+    {
+     "label": "STB",
+     "value": "636"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    252.6,
+    1131.0,
+    547.2
+   ],
+   "crop": "starter/data/advanced/crops/p107_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Huy động (nghìn tỷ)",
+   "bbox": [
+    100,
+    700,
+    900,
+    1050
+   ],
+   "description": "Biểu đồ cột kết hợp đường thể hiện huy động và tỷ lệ svck (%) của các ngân hàng năm 2025. Trục tung trái là giá trị huy động (nghìn tỷ), trục tung phải là tỷ lệ svck (%). Các ngân hàng theo thứ tự BID, CTG, VCB, MBB, TCB, VPB, ACB, STB. Cột màu xanh dương nhạt biểu thị giá trị huy động, đường màu xanh đậm biểu thị tỷ lệ svck (%). Giá trị huy động lần lượt: BID 2.449, CTG 1.968, VCB 1.700, MBB 1.109, TCB 834, VPB 735, ACB 718, STB 658. Tỷ lệ svck (%) lần lượt: BID 14, CTG 12, VCB 10, MBB 31, TCB 24, VPB 33, ACB 12, STB 9.",
+   "data": [
+    {
+     "label": "BID",
+     "value": "2.449"
+    },
+    {
+     "label": "CTG",
+     "value": "1.968"
+    },
+    {
+     "label": "VCB",
+     "value": "1.700"
+    },
+    {
+     "label": "MBB",
+     "value": "1.109"
+    },
+    {
+     "label": "TCB",
+     "value": "834"
+    },
+    {
+     "label": "VPB",
+     "value": "735"
+    },
+    {
+     "label": "ACB",
+     "value": "718"
+    },
+    {
+     "label": "STB",
+     "value": "658"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    589.3,
+    1131.0,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p107_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3915,
+  "output": 658
+ },
+ "seconds": 5.9
+}

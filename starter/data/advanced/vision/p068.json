@@ -1,0 +1,85 @@
+{
+ "printed_page": 68,
+ "pdf_page": 35,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Hạ tầng công nghệ cũng đạt quy mô lớn với:",
+   "bbox": [
+    100,
+    150,
+    900,
+    400
+   ],
+   "description": "Bốn ô số liệu nổi bật về hạ tầng công nghệ MB năm 2025, gồm số triệu yêu cầu/ngày vào hệ thống App, tỷ lệ xử lý thành công, thời gian phát hiện sự cố giảm nhờ hệ thống giám sát thông minh, và mô hình vận hành active-active toàn thời gian.",
+   "data": [
+    {
+     "label": "Triệu yêu cầu/ngày vào hệ thống App",
+     "value": "37"
+    },
+    {
+     "label": "Tỷ lệ xử lý thành công",
+     "value": "99,5%"
+    },
+    {
+     "label": "Thời gian phát hiện sự cố nhờ hệ thống giám sát thông minh giảm",
+     "value": "30%"
+    },
+    {
+     "label": "Mô hình vận hành active-active toàn thời gian",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    126.3,
+    535.7,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p068_v0.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Quy trình được tái thiết kế mạnh mẽ",
+   "bbox": [
+    150,
+    500,
+    850,
+    650
+   ],
+   "description": "Ba vòng tròn biểu thị các bước cắt giảm trong quy trình tín dụng số toàn trình cho SME siêu nhỏ: cắt 100% khâu phê duyệt thủ công, cắt 90% khâu thẩm định, cắt 90% vai trò chi nhánh.",
+   "data": [
+    {
+     "label": "Cắt 100% khâu phê duyệt thủ công",
+     "value": ""
+    },
+    {
+     "label": "Cắt 90% khâu thẩm định",
+     "value": ""
+    },
+    {
+     "label": "Cắt 90% vai trò chi nhánh",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    89.3,
+    420.9,
+    506.0,
+    547.2
+   ],
+   "crop": "starter/data/advanced/crops/p068_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3714,
+  "output": 333
+ },
+ "seconds": 3.3
+}

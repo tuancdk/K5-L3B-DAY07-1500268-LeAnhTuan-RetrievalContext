@@ -1,0 +1,36 @@
+{
+ "printed_page": 122,
+ "pdf_page": 62,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Trách nhiệm về môi trường và xã hội",
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ảnh phong cảnh có tua-bin gió trên cánh đồng xanh dưới bầu trời xanh, không có chú thích sự kiện hay giải thưởng, chỉ có tiêu đề trang.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p122_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3238,
+  "output": 75
+ },
+ "seconds": 3.5
+}

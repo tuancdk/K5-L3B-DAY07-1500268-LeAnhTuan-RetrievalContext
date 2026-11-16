@@ -1,0 +1,49 @@
+{
+ "printed_page": 20,
+ "pdf_page": 11,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Lịch sử hình thành và phát triển ngân hàng",
+   "bbox": [
+    0,
+    0,
+    600,
+    1000
+   ],
+   "description": "Ảnh tòa nhà trụ sở MB với timeline sự kiện lịch sử bên phải gồm các năm 1994, 2004, 2009 và ảnh sự kiện khai trương năm 1994.",
+   "data": [
+    {
+     "label": "1994",
+     "value": "Ngày thành lập: 04/11/1994"
+    },
+    {
+     "label": "2004",
+     "value": "Tròn 10 năm thành lập, tổng vốn huy động của MB tăng gấp trên 500 lần, tổng tài sản trên 7.000 tỷ đồng, lợi nhuận trên 500 tỷ đồng và khai trương trụ sở mới tại số 3 Liễu Giai, Ba Đình, Hà Nội"
+    },
+    {
+     "label": "2009",
+     "value": "Đánh dấu 15 năm phát triển, MB vinh dự nhận Huân chương Lao động Hạng Ba do Chủ tịch nước trao tặng."
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    357.2,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p020_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3359,
+  "output": 214
+ },
+ "seconds": 4.6
+}

@@ -1,0 +1,122 @@
+{
+ "printed_page": 108,
+ "pdf_page": 55,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tỷ lệ CASA",
+   "bbox": [
+    100,
+    350,
+    900,
+    650
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện tỷ lệ CASA (%) và svck (%) của các ngân hàng năm 2025. Trục tung trái là tỷ lệ CASA (%) với các cột màu xanh dương nhạt, trục tung phải là svck (%) với đường màu xanh đậm. Các ngân hàng gồm MBB, TCB, VCB, CTG, BID, ACB, STB, VPB. MBB có tỷ lệ CASA cao nhất 37,8% với svck -4%. TCB 35,9% (svck -4%), VCB 35,4% (svck -4%), CTG 25,5% (svck 3%), BID 21,8% (svck 8%), ACB 21,8% (svck -3%), STB 15,3% (svck -16%), VPB 14,4% (svck 2%). Nguồn: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "MBB",
+     "value": "37,8"
+    },
+    {
+     "label": "TCB",
+     "value": "35,9"
+    },
+    {
+     "label": "VCB",
+     "value": "35,4"
+    },
+    {
+     "label": "CTG",
+     "value": "25,5"
+    },
+    {
+     "label": "BID",
+     "value": "21,8"
+    },
+    {
+     "label": "ACB",
+     "value": "21,8"
+    },
+    {
+     "label": "STB",
+     "value": "15,3"
+    },
+    {
+     "label": "VPB",
+     "value": "14,4"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    294.7,
+    535.7,
+    547.2
+   ],
+   "crop": "starter/data/advanced/crops/p108_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "TOI (nghìn tỷ)",
+   "bbox": [
+    100,
+    700,
+    900,
+    1000
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện Tổng thu nhập hoạt động (TOI) (nghìn tỷ) và svck (%) của các ngân hàng năm 2025. Trục tung trái là TOI với các cột màu xanh dương nhạt, trục tung phải là svck (%) với đường màu xanh đậm. Các ngân hàng gồm BID, CTG, VPB, VCB, MBB, TCB, ACB, STB. BID có TOI cao nhất 91,3 nghìn tỷ với svck 13%. CTG 87,3 nghìn tỷ (svck 7%), VPB 74,7 nghìn tỷ (svck 20%), VCB 72,4 nghìn tỷ (svck 6%), MBB 67,7 nghìn tỷ (svck 22%), TCB 53,4 nghìn tỷ (svck 14%), ACB 33,8 nghìn tỷ (svck 1%), STB 32,1 nghìn tỷ (svck 12%). Nguồn: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "BID",
+     "value": "91,3"
+    },
+    {
+     "label": "CTG",
+     "value": "87,3"
+    },
+    {
+     "label": "VPB",
+     "value": "74,7"
+    },
+    {
+     "label": "VCB",
+     "value": "72,4"
+    },
+    {
+     "label": "MBB",
+     "value": "67,7"
+    },
+    {
+     "label": "TCB",
+     "value": "53,4"
+    },
+    {
+     "label": "ACB",
+     "value": "33,8"
+    },
+    {
+     "label": "STB",
+     "value": "32,1"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    589.3,
+    535.7,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p108_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3970,
+  "output": 692
+ },
+ "seconds": 7.0
+}

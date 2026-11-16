@@ -1,0 +1,36 @@
+{
+ "printed_page": 179,
+ "pdf_page": 90,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Quản lý rủi ro liên quan đến khí hậu",
+   "bbox": [
+    0,
+    400,
+    1000,
+    1000
+   ],
+   "description": "Ảnh minh họa về ESG với các biểu tượng liên quan đến môi trường, xã hội và quản trị, có hình bàn tay người chỉ vào chữ ESG phát sáng.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    336.8,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p179_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3439,
+  "output": 77
+ },
+ "seconds": 1.7
+}

@@ -1,0 +1,140 @@
+{
+ "printed_page": 146,
+ "pdf_page": 74,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Đóng góp An sinh xã hội, phát triển cộng đồng",
+   "bbox": [
+    0,
+    0,
+    350,
+    350
+   ],
+   "description": "Thông tin về đóng góp an sinh xã hội với tổng kinh phí 620 tỷ đồng, tăng 55% so với năm 2024.",
+   "data": [
+    {
+     "label": "Tổng kinh phí",
+     "value": "620 TỶ ĐỒNG"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "55%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    208.3,
+    294.7
+   ],
+   "crop": "starter/data/advanced/crops/p146_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Phát triển nguồn lực",
+   "bbox": [
+    0,
+    350,
+    350,
+    600
+   ],
+   "description": "Thông tin về phát triển nguồn lực với 82,91 giờ đào tạo bình quân, tăng 17,2% so với năm 2024 và 657 khoá học, tăng 9,32% so với năm 2024.",
+   "data": [
+    {
+     "label": "Giờ đào tạo bình quân",
+     "value": "82,91"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "17,2%"
+    },
+    {
+     "label": "Khoá học",
+     "value": "657"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "9,32%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    294.7,
+    208.3,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p146_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "App Thiện nguyện",
+   "bbox": [
+    0,
+    600,
+    350,
+    1000
+   ],
+   "description": "Thông tin về App Thiện nguyện với tổng kinh phí 1.696 tỷ đồng, gần 2 lần so với năm 2024, 3,7 triệu lượt ủng hộ, 3.675 chiến dịch và 872.000 thành viên.",
+   "data": [
+    {
+     "label": "Tổng kinh phí",
+     "value": "1.696 TỶ ĐỒNG"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "gần 2 lần"
+    },
+    {
+     "label": "Lượt ủng hộ",
+     "value": "3,7 triệu"
+    },
+    {
+     "label": "Chiến dịch",
+     "value": "3.675"
+    },
+    {
+     "label": "Thành viên",
+     "value": "872.000"
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    505.1,
+    208.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p146_v2.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh sự kiện và hoạt động cộng đồng",
+   "bbox": [
+    350,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ba ảnh chụp sự kiện phát động chương trình nhân đạo, nhóm nhân viên MB mặc áo xanh chụp tập thể trước trụ sở MB, và nhóm trẻ em mặc áo đỏ sao vàng chơi đùa ngoài trời.",
+   "data": [],
+   "bbox_pdf_pt": [
+    208.3,
+    0.0,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p146_v3.png"
+  }
+ ],
+ "usage": {
+  "input": 3373,
+  "output": 491
+ },
+ "seconds": 5.4
+}

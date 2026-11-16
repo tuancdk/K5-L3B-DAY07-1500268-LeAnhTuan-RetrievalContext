@@ -1,0 +1,109 @@
+{
+ "printed_page": 121,
+ "pdf_page": 61,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Chỉ tiêu an toàn và hiệu quả",
+   "bbox": [
+    50,
+    100,
+    450,
+    450
+   ],
+   "description": "Các chỉ tiêu an toàn và hiệu quả của Ngân hàng MB năm 2025 gồm tỷ lệ nợ xấu ~1,1%, tỷ lệ bao phủ nợ xấu ~100%, ROE ~23% (2024: 22,6%), ROA ~2,1% (2024: 2,25%), CAR 11,1% (cao hơn 3,1% so với mức yêu cầu của NHNN là 8%). MB phát hành trái phiếu tăng vốn cấp 2 tổng quy mô 12.174 tỷ đồng, trong đó trái phiếu riêng lẻ 9.976 tỷ đồng và trái phiếu ra công chúng 2.199 tỷ đồng.",
+   "data": [
+    {
+     "label": "Tỷ lệ nợ xấu",
+     "value": "~1,1%"
+    },
+    {
+     "label": "Tỷ lệ bao phủ nợ xấu",
+     "value": "~100%"
+    },
+    {
+     "label": "ROE",
+     "value": "~23% (2024: 22,6%)"
+    },
+    {
+     "label": "ROA",
+     "value": "~2,1% (2024: 2,25%)"
+    },
+    {
+     "label": "CAR",
+     "value": "11,1% (cao hơn 3,1% so với mức yêu cầu của NHNN là 8%)"
+    },
+    {
+     "label": "Trái phiếu riêng lẻ",
+     "value": "9.976 Tỷ đồng"
+    },
+    {
+     "label": "Trái phiếu ra công chúng",
+     "value": "2.199 Tỷ đồng"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    863.1,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p121_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Chỉ tiêu kết quả kinh doanh",
+   "bbox": [
+    50,
+    460,
+    450,
+    900
+   ],
+   "description": "Các chỉ tiêu kết quả kinh doanh năm 2025 của Ngân hàng MB gồm Thu thuần lãi 42.779 tỷ đồng (tăng 24,7% so với năm 2024), CIR 26,05% (giảm 1,75% so với năm 2024), Lợi nhuận trước thuế riêng ngân hàng 33.889 tỷ đồng (tăng 22,6% so với năm 2024).",
+   "data": [
+    {
+     "label": "Thu thuần lãi năm 2025",
+     "value": "42.779 Tỷ đồng"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "24,7%"
+    },
+    {
+     "label": "CIR",
+     "value": "26,05%"
+    },
+    {
+     "label": "Giảm so với năm 2024",
+     "value": "1,75%"
+    },
+    {
+     "label": "Lợi nhuận trước thuế riêng ngân hàng",
+     "value": "33.889 Tỷ đồng"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "22,6%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    387.3,
+    863.1,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p121_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3953,
+  "output": 567
+ },
+ "seconds": 5.0
+}

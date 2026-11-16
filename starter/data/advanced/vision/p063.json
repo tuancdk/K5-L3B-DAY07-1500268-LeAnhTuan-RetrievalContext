@@ -1,0 +1,93 @@
+{
+ "printed_page": 63,
+ "pdf_page": 32,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Các chương trình triển khai sáng kiến tiêu biểu năm báo cáo",
+   "bbox": [
+    50,
+    80,
+    950,
+    420
+   ],
+   "description": "Sơ đồ gồm 4 ô chính thể hiện các chương trình sáng kiến tiêu biểu năm báo cáo: 1) Tăng tốc thu hút khách hàng và đề xuất giá trị mới Phân khúc SME; 2) Cải tiến quy trình TD Tái thiết kế KHDN CIB và SME Upper; 3) CRM APP MOBILE; 4) Biểu lãi suất theo chân dung. Mỗi ô có mô tả chi tiết về nội dung sáng kiến và các chỉ số liên quan.",
+   "data": [
+    {
+     "label": "Tăng tốc thu hút khách hàng và đề xuất giá trị mới Phân khúc SME",
+     "value": "Quy hoạch lại định nghĩa Phân khúc đối với nhóm KH Siêu nhỏ. Tích hợp công cụ phân tích vi mô trên CRM, 100% CN thực hiện thao tác phục vụ xây dựng KHKD 2026"
+    },
+    {
+     "label": "Cải tiến quy trình TD Tái thiết kế KHDN CIB và SME Upper",
+     "value": "Hoàn thành phê duyệt và ban hành quy trình tín dụng Tái thiết kế KHDN CIB & SME Upper, Quy hoạch tập trung thành 01 quy trình tín dụng dành cho PK nhỏ trở lên, phân định rõ trách nhiệm các khâu, tránh trùng lặp vai trò trách nhiệm. Hoàn thành điều chỉnh checklist chuyển tiền quốc tế linh hoạt giảm ~40% số case vướng mắc của ĐVKD, hỗ trợ thúc đẩy mạnh doanh số thanh toán quốc tế các ngành dịch vụ: Du lịch, Logistic,..."
+    },
+    {
+     "label": "CRM APP MOBILE",
+     "value": "Cung cấp giải pháp tối ưu và đột phá nhằm quản lý tiềm năng và cơ hội bán hàng ở mọi nơi, mọi lúc và ngay trên thiết bị cá nhân. Tỷ lệ sử dụng của RM ~ 94%"
+    },
+    {
+     "label": "Biểu lãi suất theo chân dung",
+     "value": "Ban hành Biểu tích hợp hệ số rủi ro tín dụng (RW), thiết kế biểu lãi suất riêng đối với KH Micro. Tỷ lệ sử dụng biểu ~ 82%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    67.4,
+    1160.8,
+    353.6
+   ],
+   "crop": "starter/data/advanced/crops/p063_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Kế hoạch năm tới",
+   "bbox": [
+    50,
+    430,
+    950,
+    980
+   ],
+   "description": "Các kế hoạch trọng tâm cho năm tới gồm: tổ chức lại lực lượng bán và điều chỉnh KPI tập trung vào các chỉ tiêu năng suất bán chất lượng; tái cấu trúc danh mục Upper, tăng trưởng vào các ngành lựa chọn theo phân tích vi mô để đạt 60 nghìn tỷ net Upper ngắn hạn trong đó 30 nghìn tỷ từ KH hiện hữu và 30 nghìn tỷ từ KH mới; cấu trúc lại danh mục theo ngành phù hợp với định hướng của Nhà nước và thị trường, tăng định vị hình ảnh MB lên Top 2 thị trường và lựa chọn các ngành có lãi suất cho vay cao, NIM tốt, tăng trưởng đi kèm hiệu quả; chuyển dịch dòng tiền KH có nghĩa vụ và sử dụng BIZ MBBank thông qua định hướng bán và công cụ Loyalty đối với RM TTTM/aRM; triển khai mô hình kinh doanh cho 02 chuỗi Khu công nghiệp và nhà thầu.",
+   "data": [
+    {
+     "label": "Tổ chức lại lực lượng bán và điều chỉnh KPI tập trung vào các chỉ tiêu năng suất bán chất lượng",
+     "value": "Khối chủ động thay đổi cơ cấu level LLKD SME 2026, tăng tỷ trọng RM Level 2 trở lên, nâng cao chất lượng và sử dụng hiệu quả RM có kinh nghiệm. Điều chỉnh KPI và cơ chế lương theo 3 yếu tố năng lực bán mới, quy mô dư nợ quản lý/tăng net, doanh thu phát sinh. Tăng cường đào tạo, tạo động lực, đẩy mạnh công cụ bán hàng, giảm thời gian xử lý thủ công, hạn chế rủi ro."
+    },
+    {
+     "label": "Tái cấu trúc danh mục Upper",
+     "value": "Tăng trưởng vào các ngành lựa chọn theo phân tích vi mô để đạt 60 nghìn tỷ net Upper ngắn hạn trong đó 30 nghìn tỷ từ KH hiện hữu và 30 nghìn tỷ từ KH mới."
+    },
+    {
+     "label": "Cấu trúc lại danh mục theo ngành",
+     "value": "Phù hợp với định hướng của Nhà nước và thị trường, tăng định vị hình ảnh MB lên Top 2 thị trường và lựa chọn các ngành có lãi suất cho vay cao, NIM tốt, tăng trưởng đi kèm hiệu quả."
+    },
+    {
+     "label": "Chuyển dịch dòng tiền KH có nghĩa vụ và sử dụng BIZ MBBank",
+     "value": "Thông qua định hướng bán và công cụ Loyalty đối với RM TTTM/aRM."
+    },
+    {
+     "label": "Triển khai mô hình kinh doanh cho 02 chuỗi Khu công nghiệp và nhà thầu",
+     "value": "Tập trung vào 02 chuỗi gồm chủ đầu tư – nhà thầu và chủ đầu tư Khu cụm công nghiệp – Nhà đầu tư thứ cấp – Nhà xưởng cho thuê/dự án sản xuất. Khối SME xây dựng khung chính sách cấp tín dụng cho Chuỗi với mục tiêu giá trị phê duyệt trung - dài hạn 160 nghìn tỷ/năm, tăng net trung - dài hạn 35 nghìn tỷ trong đó 60 nghìn tỷ là doanh số giải ngân và 25 nghìn tỷ là doanh số thu nợ."
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    362.0,
+    1160.8,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p063_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4287,
+  "output": 1135
+ },
+ "seconds": 8.2
+}

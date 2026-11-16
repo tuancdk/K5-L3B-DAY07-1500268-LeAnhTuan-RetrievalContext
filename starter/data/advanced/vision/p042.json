@@ -1,0 +1,109 @@
+{
+ "printed_page": 42,
+ "pdf_page": 22,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Khung Quản trị rủi ro",
+   "bbox": [
+    50,
+    350,
+    950,
+    980
+   ],
+   "description": "Sơ đồ khung quản trị rủi ro tại MB gồm các thành phần chính: Chiến lược kinh doanh (đỉnh tam giác), bên dưới là Chính sách quản lý rủi ro, tiếp theo là Chiến lược quản lý rủi ro hạn mức rủi ro, quy trình, hướng dẫn. Tiếp theo là các loại rủi ro trọng yếu gồm: Rủi ro tín dụng, Rủi ro hoạt động, Rủi ro thị trường, Rủi ro thanh khoản, Rủi ro lãi suất trên sổ ngân hàng, Rủi ro tập trung, Rủi ro trọng yếu khác. Dưới các loại rủi ro là các bước quản lý gồm: Nhận dạng, Đo lường, Theo dõi, Kiểm soát. Cuối cùng là Công cụ và báo cáo quản lý rủi ro, và Hệ thống cơ sở dữ liệu, hệ thống công nghệ thông tin quản lý rủi ro. Hai bên là các trụ cột: Cơ cấu tổ chức QLRR (bên trái) và Văn hóa QLRR, tuân thủ (bên phải).",
+   "data": [
+    {
+     "label": "Chiến lược kinh doanh",
+     "value": ""
+    },
+    {
+     "label": "Chính sách quản lý rủi ro",
+     "value": ""
+    },
+    {
+     "label": "Chiến lược quản lý rủi ro hạn mức rủi ro, quy trình, hướng dẫn",
+     "value": ""
+    },
+    {
+     "label": "Rủi ro tín dụng",
+     "value": ""
+    },
+    {
+     "label": "Rủi ro hoạt động",
+     "value": ""
+    },
+    {
+     "label": "Rủi ro thị trường",
+     "value": ""
+    },
+    {
+     "label": "Rủi ro thanh khoản",
+     "value": ""
+    },
+    {
+     "label": "Rủi ro lãi suất trên sổ ngân hàng",
+     "value": ""
+    },
+    {
+     "label": "Rủi ro tập trung",
+     "value": ""
+    },
+    {
+     "label": "Rủi ro trọng yếu khác",
+     "value": ""
+    },
+    {
+     "label": "Nhận dạng",
+     "value": ""
+    },
+    {
+     "label": "Đo lường",
+     "value": ""
+    },
+    {
+     "label": "Theo dõi",
+     "value": ""
+    },
+    {
+     "label": "Kiểm soát",
+     "value": ""
+    },
+    {
+     "label": "Công cụ và báo cáo quản lý rủi ro",
+     "value": ""
+    },
+    {
+     "label": "Hệ thống cơ sở dữ liệu, hệ thống công nghệ thông tin quản lý rủi ro",
+     "value": ""
+    },
+    {
+     "label": "Cơ cấu tổ chức QLRR",
+     "value": ""
+    },
+    {
+     "label": "Văn hóa QLRR, tuân thủ",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    294.7,
+    565.5,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p042_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3912,
+  "output": 563
+ },
+ "seconds": 5.0
+}

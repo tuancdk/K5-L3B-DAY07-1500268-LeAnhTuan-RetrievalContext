@@ -1,0 +1,74 @@
+{
+ "printed_page": 243,
+ "pdf_page": 122,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Phương pháp kiểm toán",
+   "bbox": [
+    40,
+    120,
+    280,
+    280
+   ],
+   "description": "Mô tả phương pháp kiểm toán nội bộ tại MB theo cách tiếp cận dựa trên rủi ro, tập trung ưu tiên nguồn lực đối với các lĩnh vực, hoạt động và đơn vị có mức độ rủi ro và tính trọng yếu cao, bảo đảm phù hợp với khẩu vị rủi ro và yêu cầu quản trị của Ngân hàng. Áp dụng các phương pháp và công cụ kiểm toán hiện đại như kiểm toán theo phương pháp Agile, kiểm toán/giám sát liên tục dựa trên dữ liệu, nâng cao tính linh hoạt, kịp thời và hiệu quả trong nhận diện, cảnh báo và xử lý rủi ro, phù hợp với định hướng chuyển đổi số và nâng cao năng lực quản trị của MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    619.1,
+    101.0,
+    762.0,
+    235.7
+   ],
+   "crop": "starter/data/advanced/crops/p243_v0.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Hoạt động Kiểm toán nội bộ năm 2025",
+   "bbox": [
+    40,
+    350,
+    280,
+    520
+   ],
+   "description": "Mô tả hoạt động kiểm toán nội bộ năm 2025 của Cơ quan Kiểm toán nội bộ MB, triển khai kế hoạch kiểm toán dựa trên kết quả đánh giá rủi ro, bao phủ toàn diện các lĩnh vực hoạt động trọng yếu, rủi ro cao tại Ngân hàng và các công ty thành viên. Nội dung kiểm toán tập trung đánh giá tính hiệu lực và hiệu quả của hệ thống kiểm soát nội bộ, kết quả hoạt động/đơn vị/danh mục khách hàng/sản phẩm được chọn mẫu kiểm toán, kiểm toán tài chính/thẩm định báo cáo tài chính, tuân thủ quy định pháp luật và nội bộ. Thực hiện các chương trình tham mưu/tư vấn theo yêu cầu Hội đồng quản trị, Ban Kiểm soát, Ban Điều hành và các yêu cầu kiểm tra, rà soát của cơ quan quản lý. Kết quả kiểm toán giúp MB kiện toàn hệ thống kiểm soát nội bộ và quản lý rủi ro, các kiến nghị được Ban lãnh đạo và đơn vị ghi nhận, đánh giá cao và chỉnh sửa, góp phần tăng doanh thu, tối ưu chi phí, nâng cao hiệu quả quản trị điều hành.",
+   "data": [],
+   "bbox_pdf_pt": [
+    619.1,
+    294.7,
+    762.0,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p243_v1.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Định hướng hoạt động kiểm toán nội bộ năm 2026",
+   "bbox": [
+    40,
+    600,
+    280,
+    770
+   ],
+   "description": "Mô tả định hướng hoạt động kiểm toán nội bộ năm 2026 của Cơ quan Kiểm toán nội bộ MB, tiếp tục cung cấp dịch vụ đảm bảo và tư vấn độc lập theo định hướng rủi ro, tăng cường kiểm toán, giám sát liên tục dựa trên dữ liệu, nâng cao vai trò tư vấn và cảnh báo sớm đối với Ban Lãnh đạo và Ban Kiểm soát. Bảo đảm hoạt động kiểm toán nội bộ tuân thủ pháp luật và áp dụng các thông lệ tốt. Triển khai và hoàn thành các sáng kiến, giải pháp của Chiến lược kiểm toán nội bộ giai đoạn 2022–2026, tập trung kiện toàn hệ thống kiểm toán nội bộ, quy hoạch và phát triển nền tảng dữ liệu kiểm toán nội bộ, đẩy mạnh chuyển đổi số và tự động hóa trong hoạt động kiểm toán nội bộ. Hoàn thiện phương pháp luận đánh giá rủi ro kiểm toán, nâng cao chất lượng lập kế hoạch kiểm toán năm dựa trên rủi ro. Kết quả chiến lược kiểm toán nội bộ giai đoạn 2022–2026 sẽ được đánh giá tổng thể trong năm 2026, làm cơ sở xây dựng chiến lược kiểm toán nội bộ cho giai đoạn tiếp theo phù hợp với định hướng phát triển của MB và yêu cầu quản trị trong bối cảnh mới.",
+   "data": [],
+   "bbox_pdf_pt": [
+    619.1,
+    505.1,
+    762.0,
+    648.3
+   ],
+   "crop": "starter/data/advanced/crops/p243_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 4131,
+  "output": 796
+ },
+ "seconds": 6.1
+}

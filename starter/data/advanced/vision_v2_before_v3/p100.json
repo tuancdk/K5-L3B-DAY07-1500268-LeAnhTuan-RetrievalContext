@@ -1,0 +1,186 @@
+{
+ "printed_page": 100,
+ "pdf_page": 51,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Hình 1: GDP các nền kinh tế thế giới (%)",
+   "bbox": [
+    100,
+    400,
+    900,
+    600
+   ],
+   "description": "Biểu đồ cột thể hiện GDP của các nền kinh tế thế giới theo năm 2023, 2024, 2025 và dự báo 2026 (2026F). Có 4 nhóm dữ liệu: Thế giới (màu xám), Nền kinh tế mới nổi (màu xanh dương nhạt), Nền kinh tế phát triển (màu xanh dương), Việt Nam (màu xanh đậm). Trục tung là phần trăm GDP, trục hoành là các năm. Dữ liệu tăng dần cho Việt Nam qua các năm, năm 2026F cao nhất 10,0%.",
+   "data": [
+    {
+     "label": "2023 Thế giới",
+     "value": "3,3"
+    },
+    {
+     "label": "2023 Nền KT mới nổi",
+     "value": "1,7"
+    },
+    {
+     "label": "2023 Nền KT phát triển",
+     "value": "4,4"
+    },
+    {
+     "label": "2023 Việt Nam",
+     "value": "5,1"
+    },
+    {
+     "label": "2024 Thế giới",
+     "value": "3,3"
+    },
+    {
+     "label": "2024 Nền KT mới nổi",
+     "value": "1,8"
+    },
+    {
+     "label": "2024 Nền KT phát triển",
+     "value": "4,3"
+    },
+    {
+     "label": "2024 Việt Nam",
+     "value": "7,1"
+    },
+    {
+     "label": "2025 Thế giới",
+     "value": "3,3"
+    },
+    {
+     "label": "2025 Nền KT mới nổi",
+     "value": "1,7"
+    },
+    {
+     "label": "2025 Nền KT phát triển",
+     "value": "4,4"
+    },
+    {
+     "label": "2025 Việt Nam",
+     "value": "8,0"
+    },
+    {
+     "label": "2026F Thế giới",
+     "value": "3,3"
+    },
+    {
+     "label": "2026F Nền KT mới nổi",
+     "value": "1,8"
+    },
+    {
+     "label": "2026F Nền KT phát triển",
+     "value": "4,2"
+    },
+    {
+     "label": "2026F Việt Nam",
+     "value": "10,0"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    336.8,
+    535.7,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p100_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Hình 2: CPI các nền kinh tế thế giới (%)",
+   "bbox": [
+    100,
+    620,
+    900,
+    820
+   ],
+   "description": "Biểu đồ cột thể hiện CPI của các nền kinh tế thế giới theo năm 2023, 2024, 2025 và dự báo 2026 (2026F). Có 4 nhóm dữ liệu: Thế giới (màu xám), Nền kinh tế mới nổi (màu xanh dương nhạt), Nền kinh tế phát triển (màu xanh dương), Việt Nam (màu xanh đậm). Trục tung là phần trăm CPI, trục hoành là các năm. Dữ liệu có xu hướng giảm nhẹ cho Việt Nam từ 3,3% năm 2023 xuống 4,5% năm 2026F.",
+   "data": [
+    {
+     "label": "2023 Thế giới",
+     "value": "6,7"
+    },
+    {
+     "label": "2023 Nền KT mới nổi",
+     "value": "4,6"
+    },
+    {
+     "label": "2023 Nền KT phát triển",
+     "value": "8,1"
+    },
+    {
+     "label": "2023 Việt Nam",
+     "value": "3,3"
+    },
+    {
+     "label": "2024 Thế giới",
+     "value": "5,8"
+    },
+    {
+     "label": "2024 Nền KT mới nổi",
+     "value": "2,6"
+    },
+    {
+     "label": "2024 Nền KT phát triển",
+     "value": "7,9"
+    },
+    {
+     "label": "2024 Việt Nam",
+     "value": "3,6"
+    },
+    {
+     "label": "2025 Thế giới",
+     "value": "4,1"
+    },
+    {
+     "label": "2025 Nền KT mới nổi",
+     "value": "2,5"
+    },
+    {
+     "label": "2025 Nền KT phát triển",
+     "value": "5,2"
+    },
+    {
+     "label": "2025 Việt Nam",
+     "value": "3,3"
+    },
+    {
+     "label": "2026F Thế giới",
+     "value": "3,8"
+    },
+    {
+     "label": "2026F Nền KT mới nổi",
+     "value": "2,2"
+    },
+    {
+     "label": "2026F Nền KT phát triển",
+     "value": "4,8"
+    },
+    {
+     "label": "2026F Việt Nam",
+     "value": "4,5"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    522.0,
+    535.7,
+    690.3
+   ],
+   "crop": "starter/data/advanced/crops/p100_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4073,
+  "output": 846
+ },
+ "seconds": 6.3
+}

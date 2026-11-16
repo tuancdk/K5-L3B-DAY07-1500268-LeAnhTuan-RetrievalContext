@@ -1,0 +1,161 @@
+{
+ "printed_page": 28,
+ "pdf_page": 15,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ông LƯU TRUNG THÁI - Chủ tịch HĐQT",
+   "bbox": [
+    0,
+    50,
+    320,
+    320
+   ],
+   "description": "Chân dung ông Lưu Trung Thái, Chủ tịch Hội đồng Quản trị MB, với thông tin cá nhân và sự nghiệp chi tiết bên cạnh.",
+   "data": [
+    {
+     "label": "Năm sinh",
+     "value": "1975"
+    },
+    {
+     "label": "Số lượng cổ phần",
+     "value": "10.658.345"
+    },
+    {
+     "label": "Tỷ lệ cổ phần",
+     "value": "0,132%"
+    },
+    {
+     "label": "Chức danh quản lý đang nắm giữ tại các tổ chức/doanh nghiệp khác",
+     "value": "Không nắm giữ chức danh quản lý tại các đơn vị khác"
+    },
+    {
+     "label": "Học vấn",
+     "value": "Thạc sĩ Quản trị Kinh doanh Đại học Hawaii (Hoa Kỳ), Cử nhân Tài chính Tín dụng Học viện Ngân hàng, Cử nhân Luật Đại học Luật Hà Nội"
+    },
+    {
+     "label": "Ngày bổ nhiệm",
+     "value": "12/04/2023"
+    },
+    {
+     "label": "Tóm tắt sự nghiệp",
+     "value": "Gần 31 năm gắn bó với MB, từng giữ các vị trí quan trọng như phụ trách Tín dụng Hội sở, Giám đốc Chi nhánh, Giám đốc Nhân sự, Phó TGĐ, Chủ tịch HĐQT kiêm TGĐ Công ty Cổ phần Chứng khoán MB (MBS), Phó Chủ tịch HĐQT từ 09/2013, Phó Chủ tịch HĐQT kiêm TGĐ MB từ 2017 đến 12/04/2023, được bầu làm Chủ tịch HĐQT MB."
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    42.1,
+    190.5,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p028_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Bà VŨ THỊ HẢI PHƯỢNG - Phó Chủ tịch HĐQT",
+   "bbox": [
+    0,
+    330,
+    320,
+    620
+   ],
+   "description": "Chân dung bà Vũ Thị Hải Phượng, Phó Chủ tịch Hội đồng Quản trị MB, với thông tin cá nhân và sự nghiệp chi tiết bên cạnh.",
+   "data": [
+    {
+     "label": "Năm sinh",
+     "value": "1970"
+    },
+    {
+     "label": "Số lượng cổ phần",
+     "value": "5.712.076"
+    },
+    {
+     "label": "Tỷ lệ cổ phần",
+     "value": "0,071%"
+    },
+    {
+     "label": "Chức danh quản lý đang nắm giữ tại các tổ chức/doanh nghiệp khác",
+     "value": "Chủ tịch Hội đồng Thành viên - Công ty Tài chính tín dụng tiêu dùng TNHH MB Shinsei (MCredit)"
+    },
+    {
+     "label": "Học vấn",
+     "value": "Thạc sĩ Kinh tế Học viện Ngân Hàng, Cử nhân Tài Chính – Tín dụng Học viện Ngân Hàng"
+    },
+    {
+     "label": "Ngày bổ nhiệm",
+     "value": "27/04/2019"
+    },
+    {
+     "label": "Tóm tắt sự nghiệp",
+     "value": "Công tác tại MB 31 năm, từng là Giám đốc Chi nhánh Điện Biên Phủ, Phó TGĐ kiêm Giám đốc Khối Khách hàng lớn và Khối Mạng lưới và Kênh phân phối, Trưởng BKS MB từ 2014-2019, tổ chức hệ thống kiểm soát nội bộ và kiểm toán nội bộ, được bầu làm Phó Chủ tịch HĐQT 2 nhiệm kỳ liên tiếp 2019-2024 & 2024-2029, chủ nhiệm Ủy ban Quản lý rủi ro, người được ủy quyền công bố thông tin của MB."
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    277.8,
+    190.5,
+    522.0
+   ],
+   "crop": "starter/data/advanced/crops/p028_v1.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ông VŨ THÀNH TRUNG - Phó Chủ tịch HĐQT",
+   "bbox": [
+    0,
+    630,
+    320,
+    980
+   ],
+   "description": "Chân dung ông Vũ Thành Trung, Phó Chủ tịch Hội đồng Quản trị MB, với thông tin cá nhân và sự nghiệp chi tiết bên cạnh.",
+   "data": [
+    {
+     "label": "Năm sinh",
+     "value": "1981"
+    },
+    {
+     "label": "Số lượng cổ phần",
+     "value": "1.636.711"
+    },
+    {
+     "label": "Tỷ lệ cổ phần",
+     "value": "0,020%"
+    },
+    {
+     "label": "Chức danh quản lý đang nắm giữ tại các tổ chức/doanh nghiệp khác",
+     "value": "Chủ tịch HĐTV Ngân hàng TNHH MTV Việt Nam hiện đại"
+    },
+    {
+     "label": "Học vấn",
+     "value": "Thạc sĩ quản trị kinh doanh Đại học Quốc tế Nhật Bản, Cử nhân Luật Đại học Luật Hà Nội"
+    },
+    {
+     "label": "Ngày bổ nhiệm",
+     "value": "15/06/2024"
+    },
+    {
+     "label": "Tóm tắt sự nghiệp",
+     "value": "Gần 15 năm công tác tại MB Group, từng là Giám đốc Đầu tư, Phó Tổng Giám đốc MBCapital, Phó Giám đốc Khối Đầu tư, Chánh Văn phòng CEO, Giám đốc Khối Ngân hàng số, tổ chức các hoạt động Ngân hàng số tại MB, được bầu làm Phó Chủ tịch HĐQT nhiệm kỳ 2024-2029, chỉ đạo hoạt động Ủy ban Công nghệ và Chuyển đổi số."
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    530.4,
+    190.5,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p028_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 4430,
+  "output": 1075
+ },
+ "seconds": 8.8
+}

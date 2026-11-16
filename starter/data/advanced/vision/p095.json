@@ -1,0 +1,77 @@
+{
+ "printed_page": 95,
+ "pdf_page": 48,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Cơ cấu cổ đông tại ngày 31/12/2025",
+   "bbox": [
+    50,
+    50,
+    950,
+    900
+   ],
+   "description": "Bảng thể hiện cơ cấu cổ đông của ngân hàng MB tính đến ngày 31/12/2025, phân loại theo tỷ lệ sở hữu, loại hình cổ đông, quốc gia và vùng lãnh thổ, loại hình sở hữu. Có các cột: Đối tượng, Số lượng cổ phần, Tỷ lệ sở hữu, Số lượng cổ đông.",
+   "data": [
+    {
+     "label": "Cổ đông lớn (sở hữu từ 5% vốn cổ phần trở lên)",
+     "value": "3.225.575.405 cổ phần, 40,04%, 4 cổ đông"
+    },
+    {
+     "label": "Cổ đông nhỏ",
+     "value": "4.829.424.504 cổ phần, 59,96%, 207.067 cổ đông"
+    },
+    {
+     "label": "Cổ đông tổ chức",
+     "value": "6.214.680.353 cổ phần, 77,15%, 646 cổ đông"
+    },
+    {
+     "label": "Cổ đông cá nhân",
+     "value": "1.840.319.556 cổ phần, 22,85%, 206.425 cổ đông"
+    },
+    {
+     "label": "Cổ đông trong nước",
+     "value": "6.343.753.444 cổ phần, 78,76%, 206.022 cổ đông"
+    },
+    {
+     "label": "Cổ đông nước ngoài",
+     "value": "1.711.246.465 cổ phần, 21,24%, 1.049 cổ đông"
+    },
+    {
+     "label": "Cổ đông Nhà nước",
+     "value": "0 cổ phần, 0%, 0 cổ đông"
+    },
+    {
+     "label": "Cổ đông khác",
+     "value": "8.054.999.909 cổ phần, 100,00%, 207.071 cổ đông"
+    },
+    {
+     "label": "Tỷ lệ sở hữu nước ngoài tối đa",
+     "value": "30%"
+    },
+    {
+     "label": "Tỷ lệ sở hữu của nhà đầu tư nước ngoài tại thời điểm cuối năm",
+     "value": "1.711.246.465 cổ phần, 21,24%, 1.049 cổ đông"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    42.1,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p095_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3520,
+  "output": 434
+ },
+ "seconds": 6.0
+}

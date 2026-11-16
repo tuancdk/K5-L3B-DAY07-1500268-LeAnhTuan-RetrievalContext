@@ -1,0 +1,73 @@
+{
+ "printed_page": 259,
+ "pdf_page": 130,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Bảng đánh giá mức độ đáp ứng các tiêu chí ESG và quản trị bền vững tại MB",
+   "bbox": [
+    50,
+    100,
+    950,
+    900
+   ],
+   "description": "Bảng liệt kê các mã số tiêu chí liên quan đến ESG và quản trị bền vững, mức độ đáp ứng tại MB (đánh dấu V cho đáp ứng), cùng ghi chú/dẫn chứng cụ thể cho từng tiêu chí. Các tiêu chí bao gồm xác định chủ đề ESG, biến đổi khí hậu, áp dụng khung báo cáo quốc tế, công bố mục tiêu bền vững, tiến độ hoạt động bền vững, xác nhận báo cáo bền vững được Hội đồng quản trị xem xét, thu hút các bên liên quan nội bộ và bên ngoài để trao đổi quan điểm, xem xét cấu trúc vốn phù hợp với chiến lược và rủi ro liên quan đến khí hậu.",
+   "data": [
+    {
+     "label": "B.1.1",
+     "value": "V"
+    },
+    {
+     "label": "B.1.2",
+     "value": "V"
+    },
+    {
+     "label": "B.1.3",
+     "value": "V"
+    },
+    {
+     "label": "B.1.4",
+     "value": "V"
+    },
+    {
+     "label": "B.1.5",
+     "value": "V"
+    },
+    {
+     "label": "B.1.6",
+     "value": "V"
+    },
+    {
+     "label": "B.2.1",
+     "value": "V"
+    },
+    {
+     "label": "B.2.2",
+     "value": "V"
+    },
+    {
+     "label": "B.3.1",
+     "value": "V"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p259_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4337,
+  "output": 308
+ },
+ "seconds": 3.1
+}

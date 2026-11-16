@@ -1,0 +1,64 @@
+{
+ "printed_page": 24,
+ "pdf_page": 13,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Dịch vụ tài chính và các sản phẩm cốt lõi",
+   "bbox": [
+    40,
+    40,
+    960,
+    520
+   ],
+   "description": "Phân loại dịch vụ tài chính và sản phẩm cốt lõi của MB theo hai nhóm khách hàng: Khách hàng cá nhân và Khách hàng doanh nghiệp. Mỗi nhóm liệt kê các dịch vụ và sản phẩm chính.",
+   "data": [
+    {
+     "label": "Khách hàng cá nhân",
+     "value": "Tiền gửi, Ngân hàng số, Dịch vụ thẻ, Chuyển tiền, thanh toán, Bảo hiểm nhân thọ, Dịch vụ khác"
+    },
+    {
+     "label": "Khách hàng doanh nghiệp",
+     "value": "Tiền gửi & Đầu tư, Ngân hàng số, Các dịch vụ thu hộ, trả lương, nộp thuế điện tử, Tín dụng & bảo lãnh, Thanh toán quốc tế & tài trợ thương mại, Tài khoản và gói tài khoản, Thị trường tiền tệ & vốn, Sản phẩm ngoại hối và ngân hàng đầu tư (Sản phẩm dành cho doanh nghiệp lớn), Sản phẩm và chính sách dành cho khách hàng FDI (Sản phẩm dành cho doanh nghiệp lớn), Thư tín dụng, bảo lãnh, nhờ thu, cấp tín dụng, hợp vốn (Sản phẩm dành cho khách hàng định chế)"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    33.7,
+    571.5,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p024_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa dịch vụ tài chính MB",
+   "bbox": [
+    40,
+    520,
+    960,
+    980
+   ],
+   "description": "Ảnh chụp 4 nhân viên MB trong trang phục công sở đang bắt tay và trao đổi trong phòng họp, phía sau có màn hình trình chiếu sản phẩm thẻ MB hiSlay.dy.",
+   "data": [],
+   "bbox_pdf_pt": [
+    23.8,
+    437.8,
+    571.5,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p024_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3466,
+  "output": 365
+ },
+ "seconds": 3.9
+}

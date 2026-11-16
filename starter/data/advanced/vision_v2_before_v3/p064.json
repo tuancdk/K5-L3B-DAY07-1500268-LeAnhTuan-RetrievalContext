@@ -1,0 +1,101 @@
+{
+ "printed_page": 64,
+ "pdf_page": 33,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Cho vay phân khúc KHCN",
+   "bbox": [
+    40,
+    520,
+    230,
+    780
+   ],
+   "description": "Biểu đồ cột thể hiện dư nợ cho vay phân khúc khách hàng cá nhân (KHCN) qua các năm 2023, 2024, 2025. Trục tung không ghi đơn vị cụ thể, giá trị thể hiện bằng nghìn tỷ đồng. Các cột lần lượt từ trái sang phải là năm 2023, 2024, 2025. Có nhãn phụ +27% nằm trên mũi tên nối từ cột 2024 đến 2025, biểu thị tăng trưởng.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "277.720"
+    },
+    {
+     "label": "2024",
+     "value": "336.936"
+    },
+    {
+     "label": "2025",
+     "value": "444.841"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    437.8,
+    136.9,
+    656.7
+   ],
+   "crop": "starter/data/advanced/crops/p064_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Tiền gửi phân khúc KHCN",
+   "bbox": [
+    280,
+    520,
+    470,
+    780
+   ],
+   "description": "Biểu đồ cột thể hiện quy mô tiền gửi phân khúc khách hàng cá nhân (KHCN) qua các năm 2023, 2024, 2025. Trục tung không ghi đơn vị cụ thể, giá trị thể hiện bằng nghìn tỷ đồng. Các cột lần lượt từ trái sang phải là năm 2023, 2024, 2025. Có nhãn phụ +26% nằm trên mũi tên nối từ cột 2024 đến 2025, biểu thị tăng trưởng.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "328.719"
+    },
+    {
+     "label": "2024",
+     "value": "420.521"
+    },
+    {
+     "label": "2025",
+     "value": "518.971"
+    }
+   ],
+   "bbox_pdf_pt": [
+    166.7,
+    437.8,
+    279.8,
+    656.7
+   ],
+   "crop": "starter/data/advanced/crops/p064_v1.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh nhân viên ngân hàng MB phục vụ khách hàng",
+   "bbox": [
+    0,
+    0,
+    1000,
+    500
+   ],
+   "description": "Ảnh chụp 4 nhân viên ngân hàng MB mặc vest xanh đứng sau quầy giao dịch, thể hiện hình ảnh phục vụ khách hàng tại ngân hàng MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    595.3,
+    420.9
+   ],
+   "crop": "starter/data/advanced/crops/p064_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 4056,
+  "output": 431
+ },
+ "seconds": 6.1
+}

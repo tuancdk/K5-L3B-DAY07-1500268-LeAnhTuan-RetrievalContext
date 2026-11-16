@@ -1,0 +1,81 @@
+{
+ "printed_page": 16,
+ "pdf_page": 9,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Các con số nổi bật",
+   "bbox": [
+    50,
+    50,
+    950,
+    950
+   ],
+   "description": "Các chỉ số tài chính và khách hàng nổi bật của MB năm 2025, gồm lợi nhuận trước thuế tập đoàn và ngân hàng, tỷ lệ tăng trưởng, huy động vốn, nợ xấu, khách hàng mới và tổng khách hàng, giao dịch tài chính, tín dụng toàn tập đoàn.",
+   "data": [
+    {
+     "label": "LNTT tập đoàn đạt",
+     "value": "34.268 TỶ ĐỒNG"
+    },
+    {
+     "label": "Hoàn thành kế hoạch",
+     "value": "108,3%"
+    },
+    {
+     "label": "LNTT ngân hàng đạt",
+     "value": "33.889 TỶ ĐỒNG"
+    },
+    {
+     "label": "Tăng trưởng LNTT ngân hàng",
+     "value": "22,6%"
+    },
+    {
+     "label": "Huy động vốn",
+     "value": "31,8%"
+    },
+    {
+     "label": "Tỷ lệ CASA",
+     "value": "Top đầu ngành"
+    },
+    {
+     "label": "Nợ xấu kiểm soát",
+     "value": "~1,3%"
+    },
+    {
+     "label": "Khách hàng lũy kế 2025",
+     "value": "~35 TRIỆU"
+    },
+    {
+     "label": "Khách hàng mới thu hút",
+     "value": "5 TRIỆU"
+    },
+    {
+     "label": "Giao dịch tài chính chuyển đổi số",
+     "value": "12,4 TỶ"
+    },
+    {
+     "label": "Tín dụng toàn tập đoàn (Dư nợ & TPDN & Mua nợ)",
+     "value": "36,8%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    565.5,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p016_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3402,
+  "output": 306
+ },
+ "seconds": 5.3
+}

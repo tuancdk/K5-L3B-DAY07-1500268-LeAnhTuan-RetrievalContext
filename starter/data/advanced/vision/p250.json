@@ -1,0 +1,70 @@
+{
+ "printed_page": 250,
+ "pdf_page": 126,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Hợp đồng – Giao dịch với Các bên liên quan",
+   "bbox": [
+    50,
+    100,
+    950,
+    900
+   ],
+   "description": "Bảng liệt kê các hợp đồng và giao dịch của MB với các bên liên quan trong năm 2025, gồm các cột: STT, Thời điểm ký kết hợp đồng/thực hiện giao dịch, Đối tượng giao dịch, Mối quan hệ với MB, Nội dung chính của hợp đồng hoặc giao dịch, Giá trị hợp đồng/giao dịch (đơn vị: Trđ), Ghi chú (Số Nghị quyết/Quyết định/…).",
+   "data": [
+    {
+     "label": "03.2025 - Công ty TNHH Hantekom",
+     "value": "Người liên quan của người nội bộ - 15,27 Trđ"
+    },
+    {
+     "label": "05.2025 - Công ty tài chính tín dụng tiêu dùng TNHH MB Shinsei",
+     "value": "Công ty thành viên - Hợp đồng cấp hạn mức giao dịch liên ngân hàng - Theo giá trị hợp đồng - 468/MB-HĐQT"
+    },
+    {
+     "label": "09.2025 - Công ty cổ phần Tân cảng cái mép",
+     "value": "Người liên quan của người nội bộ - 5.699,48 Trđ"
+    },
+    {
+     "label": "09.2025 - Công ty CP Hoá dầu Quân đội (MIPEC)",
+     "value": "Người liên quan của người nội bộ - 936.532 Trđ"
+    },
+    {
+     "label": "10.2025 - Công ty thành viên: Công ty cổ phần Chứng khoán MB (MBS), Công ty cổ phần Quản lý Quỹ đầu tư MB (MB Capital), Tổng Công ty cổ phần Bảo hiểm Quân đội (MIC), Công ty TNHH Quản lý nợ và khai thác tài sản Ngân hàng TMCP Quân đội (MBAMC)",
+     "value": "Công ty thành viên - Hợp đồng Giao dịch trong hoạt động quản lý và sử dụng Vốn chủ sở hữu - Theo giá trị hợp đồng - 1075/MB-HĐQT"
+    },
+    {
+     "label": "11.2025 - Tổng công ty trực thăng Việt Nam - Công ty TNHH",
+     "value": "Người liên quan của người nội bộ - 28 Trđ"
+    },
+    {
+     "label": "12.2025 - Tổng CTCP Bảo hiểm Quân Đội (MIC)",
+     "value": "Công ty con của MB - 29.860 Trđ"
+    },
+    {
+     "label": "12.2025 - Công ty CP quản lý quỹ đầu tư MB (MB Capital)",
+     "value": "Công ty thành viên - Hợp đồng giao dịch giữa MB và các công ty thành viên, cổ đông lớn, người có liên quan cổ đông lớn trong hoạt động nguồn vốn và kinh doanh tiền tệ - Theo giá trị hợp đồng - 1246/MB-HĐQT"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    84.2,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p250_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4013,
+  "output": 590
+ },
+ "seconds": 6.2
+}

@@ -1,0 +1,65 @@
+{
+ "printed_page": 144,
+ "pdf_page": 73,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Môi trường",
+   "bbox": [
+    70,
+    70,
+    930,
+    520
+   ],
+   "description": "Infographic trình bày các chỉ số môi trường năm 2025 riêng Hội sở, gồm tiêu thụ điện, phát thải khí nhà kính (KNK), tiêu thụ nước và đa dạng sinh học. Mỗi chỉ số có giá trị năm 2025, tỷ lệ thay đổi so với năm 2024 và giá trị năm 2024 trong ngoặc.",
+   "data": [
+    {
+     "label": "Tiêu thụ điện năm 2025 (riêng Hội sở)",
+     "value": "4.784.300 kWh"
+    },
+    {
+     "label": "Tỷ lệ thay đổi so với năm 2024",
+     "value": "giảm 3,3% (năm 2024: 4.948.100 kWh)"
+    },
+    {
+     "label": "Phát thải KNK (phạm vi 2 - riêng Hội sở)",
+     "value": "3.154 tCO2e"
+    },
+    {
+     "label": "Tỷ lệ thay đổi so với năm 2024",
+     "value": "giảm 3,3% (năm 2024: 3.261 tCO2e)"
+    },
+    {
+     "label": "Tiêu thụ nước năm 2025 (riêng Hội sở)",
+     "value": "28.664 m3"
+    },
+    {
+     "label": "Tỷ lệ thay đổi so với năm 2024",
+     "value": "giảm 3,5% (năm 2024: 29.711 m3)"
+    },
+    {
+     "label": "Đa dạng sinh học",
+     "value": "1 triệu cây xanh được trồng cho Trường Sa năm 2025 thông qua Dự án HiGreen"
+    }
+   ],
+   "bbox_pdf_pt": [
+    41.7,
+    58.9,
+    553.6,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p144_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3386,
+  "output": 345
+ },
+ "seconds": 5.0
+}

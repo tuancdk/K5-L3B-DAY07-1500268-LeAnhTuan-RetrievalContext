@@ -1,0 +1,92 @@
+{
+ "printed_page": 117,
+ "pdf_page": 59,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Hoạt động cộng đồng",
+   "bbox": [
+    0,
+    200,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp nhóm người chạy bộ trên cầu, mặc áo đồng phục màu xanh có chữ RUN FOR BETTER LIFE, thể hiện hoạt động cộng đồng của MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    168.4,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p117_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Hoạt động cộng đồng",
+   "bbox": [
+    500,
+    0,
+    1000,
+    200
+   ],
+   "description": "Thông tin về hoạt động cộng đồng của MB với hơn 137 chương trình an sinh xã hội, kinh phí hơn 620 tỷ đồng, đóng góp NSNN hơn 10 nghìn tỷ đồng. Chiến dịch HiGreen với thông điệp 'Gửi lòng yêu nước, Góp 1 triệu cây xanh' và 'Triệu cột mốc xanh' đã cán mốc 160 tỷ đồng, với hơn 80.000 lượt ủng hộ để trồng và chăm sóc 1 triệu cây xanh tại đặc khu Trường Sa, tỉnh Khánh Hòa, gấp khoảng 2 lần so với mục tiêu tối thiểu 82 tỷ đồng đăng ký với Bộ Quốc phòng. Trong đó, 50 tỷ đồng từ nguồn do MB đảm bảo, được đối ứng thông qua các hành động tài chính 'xanh', phần còn lại được vận động từ hơn 31 triệu khách hàng, đối tác, các tổ chức, cá nhân trong cộng đồng xã hội.",
+   "data": [
+    {
+     "label": "Số chương trình an sinh xã hội",
+     "value": "137"
+    },
+    {
+     "label": "Kinh phí",
+     "value": "hơn 620 tỷ"
+    },
+    {
+     "label": "Đóng góp NSNN",
+     "value": "hơn 10 nghìn tỷ"
+    },
+    {
+     "label": "Kinh phí chiến dịch HiGreen",
+     "value": "160 tỷ đồng"
+    },
+    {
+     "label": "Lượt ủng hộ chiến dịch HiGreen",
+     "value": "hơn 80.000 lượt"
+    },
+    {
+     "label": "Số cây xanh trồng và chăm sóc",
+     "value": "1 triệu cây xanh"
+    },
+    {
+     "label": "Mục tiêu tối thiểu đăng ký với Bộ Quốc phòng",
+     "value": "82 tỷ đồng"
+    },
+    {
+     "label": "Nguồn do MB đảm bảo",
+     "value": "50 tỷ đồng"
+    },
+    {
+     "label": "Số khách hàng, đối tác, tổ chức, cá nhân vận động",
+     "value": "hơn 31 triệu"
+    }
+   ],
+   "bbox_pdf_pt": [
+    892.9,
+    0.0,
+    1190.6,
+    168.4
+   ],
+   "crop": "starter/data/advanced/crops/p117_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3469,
+  "output": 466
+ },
+ "seconds": 6.4
+}

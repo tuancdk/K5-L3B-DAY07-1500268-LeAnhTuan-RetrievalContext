@@ -1,0 +1,110 @@
+{
+ "printed_page": 66,
+ "pdf_page": 34,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Liên ngân hàng",
+   "bbox": [
+    520,
+    70,
+    1000,
+    320
+   ],
+   "description": "Biểu đồ cột thể hiện số liệu Huy động và cho vay liên ngân hàng qua các năm 2023, 2024, 2025. Có hai nhóm dữ liệu: 'Nhận tiền gửi và vay liên ngân hàng' (màu tím nhạt) và 'Gửi và cho vay liên ngân hàng' (màu xanh dương). Trục hoành là các năm 2023, 2024, 2025. Trục tung không ghi rõ đơn vị nhưng các giá trị số liệu được in trên từng cột. Chú giải màu sắc nằm phía dưới tiêu đề biểu đồ.",
+   "data": [
+    {
+     "label": "2023 - Nhận tiền gửi và vay liên ngân hàng",
+     "value": "46.343"
+    },
+    {
+     "label": "2023 - Gửi và cho vay liên ngân hàng",
+     "value": "99.810"
+    },
+    {
+     "label": "2024 - Nhận tiền gửi và vay liên ngân hàng",
+     "value": "76.785"
+    },
+    {
+     "label": "2024 - Gửi và cho vay liên ngân hàng",
+     "value": "110.169"
+    },
+    {
+     "label": "2025 - Nhận tiền gửi và vay liên ngân hàng",
+     "value": "182.924"
+    },
+    {
+     "label": "2025 - Gửi và cho vay liên ngân hàng",
+     "value": "248.017"
+    }
+   ],
+   "bbox_pdf_pt": [
+    309.5,
+    58.9,
+    595.3,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p066_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "TOP 1 Nhà tạo lập thị trường trái phiếu TCTD do VBMA trao tặng",
+   "bbox": [
+    320,
+    390,
+    480,
+    470
+   ],
+   "description": "Ô số liệu nổi bật với biểu tượng vòng nguyệt quế, ghi nhận thành tích TOP 1 Nhà tạo lập thị trường trái phiếu TCTD do VBMA trao tặng.",
+   "data": [
+    {
+     "label": "TOP 1 Nhà tạo lập thị trường trái phiếu TCTD do VBMA trao tặng",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    190.5,
+    328.3,
+    285.7,
+    395.7
+   ],
+   "crop": "starter/data/advanced/crops/p066_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "TOP 3 Nhà tạo lập thị trường TPCP do VBMA trao tặng",
+   "bbox": [
+    520,
+    390,
+    680,
+    470
+   ],
+   "description": "Ô số liệu nổi bật với biểu tượng vòng nguyệt quế, ghi nhận thành tích TOP 3 Nhà tạo lập thị trường TPCP do VBMA trao tặng.",
+   "data": [
+    {
+     "label": "TOP 3 Nhà tạo lập thị trường TPCP do VBMA trao tặng",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    309.5,
+    328.3,
+    404.8,
+    395.7
+   ],
+   "crop": "starter/data/advanced/crops/p066_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 2680,
+  "output": 500
+ },
+ "seconds": 8.4
+}

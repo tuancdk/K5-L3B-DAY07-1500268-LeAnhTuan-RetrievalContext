@@ -1,0 +1,132 @@
+{
+ "printed_page": 34,
+ "pdf_page": 18,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Chiến lược giai đoạn 2022-2026 - Tầm nhìn",
+   "bbox": [
+    520,
+    120,
+    980,
+    460
+   ],
+   "description": "Ảnh tòa nhà MB với nền xanh gradient, kèm chữ Tầm nhìn: Trở thành Doanh nghiệp số, Tập đoàn tài chính dẫn đầu",
+   "data": [],
+   "bbox_pdf_pt": [
+    309.5,
+    101.0,
+    583.4,
+    387.3
+   ],
+   "crop": "starter/data/advanced/crops/p034_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Mục tiêu chiến lược",
+   "bbox": [
+    40,
+    460,
+    480,
+    660
+   ],
+   "description": "Ô nền xanh nhạt có bản đồ chấm điểm, chữ lớn Top 3 thị trường về hiệu quả hướng đến Top đầu Châu Á",
+   "data": [
+    {
+     "label": "Mục tiêu chiến lược",
+     "value": "Top 3 thị trường về hiệu quả hướng đến Top đầu Châu Á"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    387.3,
+    285.7,
+    555.6
+   ],
+   "crop": "starter/data/advanced/crops/p034_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Phương châm",
+   "bbox": [
+    520,
+    460,
+    980,
+    660
+   ],
+   "description": "Ô nền xanh đậm với các dòng chữ: Tăng tốc số, Hấp dẫn khách hàng, Hiệp lực tập đoàn, An toàn bền vững",
+   "data": [
+    {
+     "label": "Phương châm",
+     "value": "Tăng tốc số, Hấp dẫn khách hàng, Hiệp lực tập đoàn, An toàn bền vững"
+    }
+   ],
+   "bbox_pdf_pt": [
+    309.5,
+    387.3,
+    583.4,
+    555.6
+   ],
+   "crop": "starter/data/advanced/crops/p034_v2.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Định vị giá trị",
+   "bbox": [
+    40,
+    670,
+    480,
+    860
+   ],
+   "description": "Ô nền xanh đậm với hình ảnh thẻ MB và hộp quà, chữ: Cung cấp các sản phẩm tài chính xuất sắc",
+   "data": [
+    {
+     "label": "Định vị giá trị",
+     "value": "Cung cấp các sản phẩm tài chính xuất sắc"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    564.1,
+    285.7,
+    724.0
+   ],
+   "crop": "starter/data/advanced/crops/p034_v3.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Giá trị cốt lõi",
+   "bbox": [
+    520,
+    670,
+    980,
+    860
+   ],
+   "description": "Ô nền xanh nhạt với biểu tượng nguyên tử, chữ: Đoàn kết – Kỷ luật – Tận tâm; Thực thi – Tin cậy – Hiệu quả",
+   "data": [
+    {
+     "label": "Giá trị cốt lõi",
+     "value": "Đoàn kết – Kỷ luật – Tận tâm; Thực thi – Tin cậy – Hiệu quả"
+    }
+   ],
+   "bbox_pdf_pt": [
+    309.5,
+    564.1,
+    583.4,
+    724.0
+   ],
+   "crop": "starter/data/advanced/crops/p034_v4.png"
+  }
+ ],
+ "usage": {
+  "input": 3387,
+  "output": 450
+ },
+ "seconds": 5.3
+}

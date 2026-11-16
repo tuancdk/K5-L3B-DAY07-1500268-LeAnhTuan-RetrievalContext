@@ -1,0 +1,97 @@
+{
+ "printed_page": 232,
+ "pdf_page": 117,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Thành viên Ủy ban Nhân sự",
+   "bbox": [
+    50,
+    120,
+    600,
+    280
+   ],
+   "description": "Danh sách thành viên Ủy ban Nhân sự gồm 6 người với tên và chức vụ tương ứng: Lưu Trung Thái - Chủ nhiệm Ủy ban; Vũ Thị Hải Phượng - Thành viên Ủy ban; Vũ Thành Trung - Thành viên Ủy ban; Nguyễn Thị Hải Lý - Thành viên Ủy ban; Phạm Như Ánh - Thành viên Ủy ban; Lê Viết Hải - Thành viên Ủy ban.",
+   "data": [
+    {
+     "label": "Lưu Trung Thái",
+     "value": "Chủ nhiệm Ủy ban"
+    },
+    {
+     "label": "Vũ Thị Hải Phượng",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Vũ Thành Trung",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Nguyễn Thị Hải Lý",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Phạm Như Ánh",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Lê Viết Hải",
+     "value": "Thành viên Ủy ban"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    101.0,
+    357.2,
+    235.7
+   ],
+   "crop": "starter/data/advanced/crops/p232_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Các cuộc họp của Ủy ban Nhân sự trong năm 2025",
+   "bbox": [
+    40,
+    320,
+    960,
+    960
+   ],
+   "description": "Bảng liệt kê 4 cuộc họp của Ủy ban Nhân sự trong năm 2025 theo từng quý, gồm ngày họp, nội dung chính và kết quả. Nội dung chính gồm các hoạt động như xem xét báo cáo tình hình nhân sự, tổ chức hội đồng phỏng vấn nhân sự định hướng các vị trí thuộc thẩm quyền bổ nhiệm của CT HĐQT, đánh giá thi đua khen thưởng, phân công phỏng vấn nhân sự FlexiZ, định hướng kế hoạch nhân sự năm 2025 và 2026. Tất cả các cuộc họp đều được thông qua.",
+   "data": [
+    {
+     "label": "Quý I/2025",
+     "value": "Xem xét Báo cáo tình hình nhân sự năm 2024 & Định hướng Kế hoạch nhân sự 2025 (bao gồm kế hoạch tuyển chọn, đánh giá và bồi dưỡng nhân sự quy hoạch kế cận - FlexiZ); Đánh giá thi đua khen thưởng năm 2024 và các đề xuất danh hiệu khen thưởng ngoài MB năm 2025; Tổ chức Hội đồng phỏng vấn các nhân sự định hướng các vị trí thuộc thẩm quyền bổ nhiệm của CT HĐQT"
+    },
+    {
+     "label": "Quý II/2025",
+     "value": "Tổ chức Hội đồng phỏng vấn các nhân sự định hướng các vị trí thuộc thẩm quyền bổ nhiệm của CT HĐQT; Xem xét Báo cáo tình hình nhân sự định kỳ Quý I/2025"
+    },
+    {
+     "label": "Quý III/2025",
+     "value": "Xem xét đánh giá thi đua khen thưởng kỳ 1/2025; Tổ chức Hội đồng phỏng vấn các nhân sự định hướng các vị trí thuộc thẩm quyền bổ nhiệm của CT HĐQT; Các Thành viên UBNS được phân công phỏng vấn/trao đổi với các nhân sự FlexiZ - tham mưu/tư vấn cho HĐQT/CT HĐQT về định hướng quy hoạch/bồi dưỡng nhân sự tiềm năng; Xem xét Báo cáo tình hình nhân sự 6 tháng đầu năm 2025, các định hướng nhân sự 6 tháng cuối năm"
+    },
+    {
+     "label": "Quý IV/2025",
+     "value": "Tổ chức Hội đồng phỏng vấn các nhân sự định hướng các vị trí thuộc thẩm quyền bổ nhiệm của CT HĐQT; Các Thành viên UBNS được phân công phỏng vấn/trao đổi với các nhân sự FlexiZ; Xem xét Báo cáo tình hình nhân sự định kỳ Quý III/2025 và Báo cáo tình hình nhân sự dự kiến năm 2025; các định hướng nhân sự năm 2026"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    269.4,
+    571.5,
+    808.2
+   ],
+   "crop": "starter/data/advanced/crops/p232_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4206,
+  "output": 849
+ },
+ "seconds": 7.1
+}

@@ -87,7 +87,7 @@ Nhãn của baseline đã được học viên xác nhận. Nhãn của 6 cấu 
 
 ## Test: chạy một lần sau khi FROZEN (2026-11-16)
 
-Nhãn test là **bản nháp, chờ học viên xác nhận** (`src/test_review_draft.py`). Không có câu nào bị lỗi, nên không phải chạy lại.
+Nhãn test do AI đề xuất và **học viên đã xác nhận** ngày 2026-11-16 (`src/test_review_draft.py`). Không có câu nào bị lỗi, nên không phải chạy lại.
 
 | Cấu hình | Hit@1 | Evidence Hit@3 | Context Evidence Rate | Context 0/1/2 | Grounded 0/1/2 (mean) | Citation hợp lệ | Từ chối đúng | Từ chối nhầm | invalid_citations | Lượt gọi model | Trung vị | Chi phí |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|

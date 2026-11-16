@@ -1,0 +1,77 @@
+{
+ "printed_page": 137,
+ "pdf_page": 69,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Trang mục lục Báo cáo phát triển bền vững MB",
+   "bbox": [
+    0,
+    0,
+    450,
+    1000
+   ],
+   "description": "Ảnh chụp ngoài trời có cầu Long Biên phía sau, ghế đá có logo MB, sân chơi có họa tiết màu xanh và trắng. Bên trái là khung màu xanh lá với tiêu đề và mục lục báo cáo phát triển bền vững MB, liệt kê các phần và số trang tương ứng từ 138 đến 208.",
+   "data": [
+    {
+     "label": "Thông tin báo cáo phát triển bền vững",
+     "value": "138"
+    },
+    {
+     "label": "Thông điệp phát triển bền vững của MB",
+     "value": "139"
+    },
+    {
+     "label": "Thành tựu nổi bật về phát triển bền vững",
+     "value": "142"
+    },
+    {
+     "label": "Báo cáo của Ban Điều hành về trách nhiệm Môi trường – Xã hội",
+     "value": "151"
+    },
+    {
+     "label": "Quy trình xác định các chủ đề trọng yếu",
+     "value": "152"
+    },
+    {
+     "label": "Các trụ cột chiến lược Quản trị Phát triển bền vững",
+     "value": "158"
+    },
+    {
+     "label": "Khách hàng là trung tâm",
+     "value": "168"
+    },
+    {
+     "label": "Bảo vệ Môi trường",
+     "value": "177"
+    },
+    {
+     "label": "Cộng đồng và Xã hội thịnh vượng",
+     "value": "186"
+    },
+    {
+     "label": "Các chủ đề nền tảng Số hóa",
+     "value": "208"
+    }
+   ],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    863.1,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p137_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3330,
+  "output": 302
+ },
+ "seconds": 4.2
+}

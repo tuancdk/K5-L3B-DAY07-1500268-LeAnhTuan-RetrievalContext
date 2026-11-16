@@ -1,0 +1,36 @@
+{
+ "printed_page": 61,
+ "pdf_page": 31,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "",
+   "bbox": [
+    0,
+    700,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp 4 nhân viên MB mặc vest xanh đứng trước trụ sở ngân hàng MB, thể hiện sự chuyên nghiệp và đồng đội.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    589.3,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p061_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3826,
+  "output": 60
+ },
+ "seconds": 2.0
+}
