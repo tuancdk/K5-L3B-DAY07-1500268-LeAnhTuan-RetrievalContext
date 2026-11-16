@@ -1,0 +1,10 @@
+[
+ {
+  "id": "adn1",
+  "split": "dev",
+  "found_at": "2026-11-16, khi chấm dev (trước khi chạy test)",
+  "issue": "Câu được gán thiếu bằng chứng nhưng tài liệu có bảng 'Mức lãi suất bình quân cho vay khách hàng trong năm' (tr.316, thuyết minh BCTC): VND 3,50-13,00%/năm; ngoại tệ 3,50-8,00%/năm; tiêu dùng cá nhân 4,85-76,00%/năm. Kiểm tra từ khóa ban đầu chỉ tìm cụm 'lãi suất cho vay bình quân' (thứ tự từ khác) nên bỏ sót.",
+  "handling": "Không sửa advanced/benchmark.json (đã FROZEN). Câu này bị loại khỏi tiêu chí chọn cấu hình; tỷ lệ dev được báo cả hai cách (21 câu và 20 câu hợp lệ).",
+  "follow_up": "Kiểm tra lại 6 câu thiếu bằng chứng của TEST bằng tìm đồng xuất hiện (mọi từ khóa trong cửa sổ ±250 ký tự, không phụ thuộc thứ tự) trên toàn bộ lớp text + mô tả hình: không câu nào có đáp án (các trang khớp là ngữ cảnh khác: tr.308 quy định trích quỹ, tr.226 bổ nhiệm, tr.111 NIM, tr.59/87/129 cổ tức đã trả năm 2025). Không chạy agent trên test để kiểm tra."
+ }
+]
