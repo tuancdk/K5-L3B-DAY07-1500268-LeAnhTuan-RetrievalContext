@@ -1,0 +1,62 @@
+[
+ {
+  "id": "dn01",
+  "split": "dev",
+  "question": "Tỷ lệ an toàn vốn (CAR) hợp nhất của MB tại ngày 30/09/2026 là bao nhiêu phần trăm?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "BCTC quý không trình bày tỷ lệ an toàn vốn. Chỉ có vốn điều lệ, vốn chủ sở hữu và dòng tiền phát hành giấy tờ có giá 'đủ điều kiện tính vào vốn tự có' (tr.8); không có tỷ lệ CAR và không có tổng tài sản có rủi ro quy đổi để tính. Lưu ý: 'tài sản có rủi ro tín dụng' tr.20-21 là cách phân loại khoản phải thu, không phải RWA.",
+  "near_topic_pages": [8, 44, 45],
+  "absent_terms": ["an toàn vốn", "CAR", "Basel", "hệ số an toàn vốn", "tài sản có rủi ro quy đổi"]
+ },
+ {
+  "id": "dn02",
+  "split": "dev",
+  "question": "Tại ngày 30/09/2026 MB có bao nhiêu khách hàng cá nhân đang sử dụng dịch vụ?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Tài liệu có số chi nhánh/phòng giao dịch (tr.10) và số nhân viên (tr.11) nhưng không có số lượng khách hàng; 'khách hàng' chỉ xuất hiện trong chính sách tín dụng và số dư cho vay/tiền gửi.",
+  "near_topic_pages": [10, 11, 43],
+  "absent_terms": ["khách hàng cá nhân", "số lượng khách hàng", "người dùng", "tài khoản thanh toán"]
+ },
+ {
+  "id": "dn03",
+  "split": "dev",
+  "question": "Lãi suất tiết kiệm kỳ hạn 12 tháng MB áp dụng cho khách hàng tại ngày 30/09/2026 là bao nhiêu?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Tài liệu có số dư tiền gửi khách hàng (tr.43) và bảng rủi ro lãi suất theo kỳ định lại lãi suất (tr.56-57) nhưng không công bố mức lãi suất huy động; 'lãi suất bình quân' tr.24 là lãi suất trái phiếu Chính phủ dùng cho dự phòng bảo hiểm.",
+  "near_topic_pages": [24, 43, 56, 57],
+  "absent_terms": ["tiết kiệm", "kỳ hạn 12", "lãi suất huy động"]
+ },
+ {
+  "id": "tn01",
+  "split": "test",
+  "question": "Kế hoạch lợi nhuận trước thuế năm 2026 mà Đại hội đồng Cổ đông MB thông qua là bao nhiêu?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Tài liệu có lợi nhuận trước thuế thực hiện (tr.6) nhưng không có kế hoạch năm; 'Đại hội đồng Cổ đông' chỉ xuất hiện khi nói về trích quỹ (tr.25) và thù lao HĐQT/BKS (tr.52); 'kế hoạch' chỉ có trong tên 'Sở kế hoạch và Đầu tư' (tr.10); 'chỉ tiêu' chỉ là tên dòng/cột bảng (tr.5, 28, 44, 51).",
+  "near_topic_pages": [6, 25, 48, 52],
+  "absent_terms": ["kế hoạch lợi nhuận", "kế hoạch kinh doanh", "mục tiêu lợi nhuận", "hoàn thành kế hoạch"]
+ },
+ {
+  "id": "tn02",
+  "split": "test",
+  "question": "Giá đóng cửa của cổ phiếu MBB vào ngày 30/09/2026 là bao nhiêu đồng?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Tài liệu có số lượng cổ phiếu và EPS (tr.45); 'giá đóng cửa' tr.17 chỉ là chính sách định giá chứng khoán kinh doanh MB nắm giữ, không phải giá cổ phiếu MBB.",
+  "near_topic_pages": [17, 45],
+  "absent_terms": ["giá cổ phiếu MBB", "thị giá", "vốn hóa thị trường"]
+ },
+ {
+  "id": "tn03",
+  "split": "test",
+  "question": "Tỷ lệ nợ xấu riêng của công ty con MCredit tại ngày 30/09/2026 là bao nhiêu?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Phân loại nhóm nợ (tr.31-34) là số hợp nhất; báo cáo bộ phận (tr.54) không tách tài chính tiêu dùng và không có nợ xấu theo công ty con. MCredit chỉ xuất hiện ở danh sách công ty con (tr.10) và chính sách trích quỹ (tr.25).",
+  "near_topic_pages": [10, 25, 31, 54],
+  "absent_terms": ["nợ xấu của MCredit", "tỷ lệ nợ xấu", "NPL"]
+ }
+]

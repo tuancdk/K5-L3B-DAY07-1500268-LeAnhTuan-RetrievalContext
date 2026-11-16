@@ -1,0 +1,24 @@
+# Day 7 reuses the Day 6 pgvector database as-is (same volume, same index, no re-embedding).
+# Host port 15433 instead of Day 6's 55433: Windows/Hyper-V may reserve 55330-55729 after
+# a reboot ("bind: An attempt was made to access a socket in a way forbidden...").
+# Only run ONE container on this volume at a time (stop the Day 6 container first).
+services:
+  postgres:
+    image: pgvector/pgvector:0.8.7-pg16
+    environment:
+      POSTGRES_DB: day6_lab
+      POSTGRES_USER: day6
+      POSTGRES_PASSWORD: day6_local_only
+    ports:
+      - "127.0.0.1:15433:5432"
+    volumes:
+      - day6_pg_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U day6 -d day6_lab"]
+      interval: 3s
+      timeout: 3s
+      retries: 30
+volumes:
+  day6_pg_data:
+    external: true
+    name: day6_student_starter_pg_data
