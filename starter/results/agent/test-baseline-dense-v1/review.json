@@ -1,0 +1,167 @@
+[
+ {
+  "query_id": "t01",
+  "answerable": true,
+  "question": "MB đóng bảo hiểm xã hội và bảo hiểm tai nạn lao động cho nhân viên theo tỷ lệ nào?",
+  "expected": "Lần lượt 17% và 0,5% lương cơ bản hàng tháng.",
+  "status": "answered",
+  "answer": "MB đóng bảo hiểm xã hội với tỷ lệ 17% lương cơ bản hàng tháng của nhân viên và bảo hiểm tai nạn và bệnh nghề nghiệp với tỷ lệ 0,5% lương cơ bản hàng tháng của nhân viên trong thời gian làm việc [mbb-bctc-hn-q3-2026:p028:para1000:003].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p028:para1000:003",
+    "page": 28,
+    "text": "33. Lợi ích của nhân viên\na. | Trợ cấp nghỉ hưu\nNhân viên MB tại Việt Nam khi nghỉ hưu sẽ được nhận trợ cấp về hưu từ Bảo hiểm Xã hội\nthuộc Bộ Lao động và Thương binh Xã hội. MB sẽ phải đóng bảo hiểm xã hội và bảo hiểm tai\nnạn và bệnh nghề nghiệp cho mỗi nhân viên lần lượt bằng 17% và 0,5% lương cơ bản hàng\ntháng của họ trong thời gian làm việc. Ngoài ra, MB không có một nghĩa vụ nào khác. Bảo hiểm\nxã hội và bảo hiểm tai nạn và bệnh nghề nghiệp được ghi nhận trong báo cáo kết quả hoạt\nđộng hợp nhất.\nb. | Trợ cấp thôi việc\nTheo Điều 46 Bộ Luật Lao động số 45/2019/QH14 có hiệu lực ngày 1 tháng 1 năm 2021, MB\ncó nghĩa vụ chi trả trợ cấp thôi việc bằng một nửa tháng lương cho mỗi năm làm việc tính đến\nngày 31 tháng 12 năm 2008 cộng với các trợ cấp khác (nếu có) cho những nhân viên tự nguyện\nthôi việc và đáp ứng đầy đủ các yếu tố theo quy định của pháp luật."
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "t02",
+  "answerable": true,
+  "question": "Lợi thế thương mại từ hợp nhất kinh doanh được phân bổ trong bao lâu?",
+  "expected": "Phân bổ theo đường thẳng trong 10 năm.",
+  "status": "answered",
+  "answer": "Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian hữu ích được ước tính là mười (10) năm [mbb-bctc-hn-q3-2026:p021:para1000:003].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p021:para1000:003",
+    "page": 21,
+    "text": "Nếu giá phí hợp nhất kinh doanh thấp hơn giá trị hợp lý của tài sản thuần của bên bị mua, phần\nchênh lệch đó sẽ được ghi nhận vào Báo cáo kết quả hoạt động hợp nhất. Sau ghi nhận ban\nđầu, lợi thế thương mại được xác định giá trị bằng nguyên giá trừ đi giá trị phân bố lũy kế. Lợi\nthế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian hữu ích được\nước tính là mười (10) năm,"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "t03",
+  "answerable": true,
+  "question": "Khi mua một khoản nợ, MB phân loại số tiền đã trả vào nhóm nợ nào?",
+  "expected": "Nhóm có mức độ rủi ro không thấp hơn nhóm của khoản nợ trước khi mua.",
+  "status": "answered",
+  "answer": "Khi mua một khoản nợ, MB phân loại số tiền đã thanh toán để mua nợ vào nhóm có mức độ rủi ro không thấp hơn nhóm mà khoản nợ đó đã được phân loại trước khi mua. Việc phân loại nợ và trích lập dự phòng cho các khoản mua nợ được thực hiện tương tự như các khoản cho vay khách hàng khác [mbb-bctc-hn-q3-2026:p016:para1000:002].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p016:para1000:002",
+    "page": 16,
+    "text": "Hoạt động mua nợ\nĐối với các khoản nợ được mua, MB phân loại số tiền đã thanh toán để mua nợ vào nhóm có\nmức độ rủi ro không thấp hơn nhóm mà khoản nợ đó đã được phân loại trước khi mua. Việc\nphân loại nợ và trích lập dự phòng cho các khoản mua nợ được thực hiện tương tự như các\nkhoản cho vay khách hàng khác được trình bày tại Thuyết minh 9.\nGiá mua khoản nợ theo hợp đồng được hạch toán trong nội bảng.\nGiá trị nợ gốc, lãi của khoản nợ đã mua được theo dõi ngoài ngoại bảng.\nNếu thu được tiền lãi của khoản nợ bao gồm cả tiền lãi từ trước khi MB mua khoản nợ\nđó, MB thực hiện phân bổ số tiền lãi theo nguyên tắc: (i) ghi giảm giá trị của khoản mua\nnợ số tiền lãi trước khi mua; (ii) ghi nhận là thu nhập số tiền lãi của kỳ sau khi MB mua\nno.\n8"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "t04",
+  "answerable": true,
+  "question": "MIC và MBLife trích quỹ dự trữ bắt buộc theo tỷ lệ nào và đến khi nào thì dừng?",
+  "expected": "5% lợi nhuận sau thuế, cho tới khi quỹ bằng 10% vốn điều lệ.",
+  "status": "answered",
+  "answer": "Tổng Công ty Cổ phần Bảo hiểm Quân đội (MIC) và Công ty TNHH Bảo hiểm nhân thọ MB Ageas (MBLife) phải trích lập quỹ dự trữ bắt buộc từ lợi nhuận sau thuế theo tỷ lệ 5% cho tới khi quỹ này bằng 10% mức vốn điều lệ [mbb-bctc-hn-q3-2026:p025:para1000:003].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p025:para1000:003",
+    "page": 25,
+    "text": "MB AMC thực hiện trích lập quỹ khen thưởng phúc lợi theo quyết định của chủ sở hữu.\nCác quỹ khác của MBS và MB Capital được trích lập theo Nghị quyết của Đại hội đồng Cổ\nđông.\nCông ty Tài chính Tín dụng Tiêu dùng TNHH MB Shinsei (“MCredit”)\nTheo Nghị định số 93/2017/NĐ-CP, MCredit phải trích lập các quỹ dự trữ bắt buộc trước khi\nphân phối lợi nhuận tương tự như Ngân hàng.\nTổng Công ty Cổ phần Bảo hiểm Quân đội (“MIC”) và Công ty TNHH Bảo hiểm nhân thọ\nMB Ageas (\"MBLife\")\nMIC và MBLife phải trích lập quỹ dự trữ bắt buộc từ lợi nhuận sau thuế theo tỷ lệ là 5% cho tới\nkhi bằng 10% mức vốn điều lệ.\n17"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "t05",
+  "answerable": true,
+  "question": "Theo thuyết minh bổ sung cho báo cáo kết quả hoạt động, ngân hàng chịu thuế suất thuế TNDN bao nhiêu?",
+  "expected": "20% trên thu nhập chịu thuế.",
+  "status": "answered",
+  "answer": "Ngân hàng chịu thuế suất thuế thu nhập doanh nghiệp (TNDN) là 20% trên thu nhập chịu thuế theo thuyết minh bổ sung cho báo cáo kết quả hoạt động [mbb-bctc-hn-q3-2026:p050:para1000:001].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p050:para1000:001",
+    "page": 50,
+    "text": "11.2 Thuế thu nhập doanh nghiệp\nNgân hàng có nghĩa vụ nộp thuế thu nhập doanh nghiệp 20% trên thu nhập chịu thuế,\n30/09/2026 | 30/09/2025\nTriệu đồng | Triệu đồng\nTổng lợi nhuận theo kế toán trước thuế hợp\nnhất | 30.518.358 | 23.139.236\nĐiều chỉnh cho các khoản:\nThư nhập không chịu thuế (bao gồm cổ tức,\nLợi nhuận từ các đơn vị, các khoản điều chỉnh\nhợp nhất không chịu thuế) và các khoản khác | (2.613.298) | (2.475.124)\nCác chi phí không được khấu trừ của riêng\nNgân hàng | 13.091 | 39.934\nThu nhập chịu thuế TNDN ước tính tại Việt\nNam | 27.918.151 | 20.704.046\nChi phí thuế TNDN hiện hành riêng Ngân hàng (i) | 5.583.630 | 4.482.665\nĐiều chỉnh trong năm cho thuế thu nhập hiện\nhành của các năm trước (ii) | 4.223 | 14.599\nChi phí thuế TNDN chi nhánh nước ngoài (iii) | 1.113 | 4.297\nChi phí thuế TNDN của các công ty con (iv) | 535.352 | 498.519\nĐiều chỉnh chi phí thuế TNDN do thoái vốn tại\nCTTV (v) | (341.855)"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "t06",
+  "answerable": true,
+  "question": "Trong phần cam kết ngoại bảng ở thuyết minh V, mức ký quỹ MB yêu cầu khách hàng dao động trong khoảng nào?",
+  "expected": "Từ 0% đến 100% giá trị cam kết, tùy mức độ tin cậy của khách hàng.",
+  "status": "answered",
+  "answer": "Mức ký quỹ MB yêu cầu khách hàng dao động từ 0% đến 100% giá trị cam kết được cấp, tùy thuộc vào mức độ tin cậy của khách hàng do Ngân hàng đánh giá [mbb-bctc-hn-q3-2026:p051:para1000:002].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p051:para1000:002",
+    "page": 51,
+    "text": "Giao dịch thư tín dụng trả chậm sẽ phát sinh rủi ro khi hợp đồng đã được thực hiện mà khách\nhàng không thanh toán cho bên thụ hưởng. Các thư tín dụng trả chậm không được khách hàng\nthanh toán được Ngân hàng ghi nhận là khoản cho vay bắt buộc và công nợ tương ứng thế\nhiện nghĩa vụ tài chính của Ngân hàng phải thanh toán cho bên thụ hưởng và thực hiện nghĩa\nvụ của Ngân hàng trong việc bảo lãnh cho khách hàng.\nHAN\nNgân hàng thường yêu cầu khách hàng ký quỹ để đảm bảo cho các công cụ tài chính có liên\nquan đến tín dụng khi cần thiết. Giá trị ký quỹ dao động từ 0% đến 100% giá trị cam kết được\ncấp, tùy thuộc vào mức độ tin cậy của khách hàng do Ngân hàng đánh giá.\n43"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "tn01",
+  "answerable": false,
+  "question": "Kế hoạch lợi nhuận trước thuế năm 2026 mà Đại hội đồng Cổ đông MB thông qua là bao nhiêu?",
+  "expected": "Tài liệu có lợi nhuận trước thuế thực hiện (tr.6) nhưng không có kế hoạch năm; 'Đại hội đồng Cổ đông' chỉ xuất hiện khi nói về trích quỹ (tr.25) và thù lao HĐQT/BKS (tr.52); 'kế hoạch' chỉ có trong tên 'Sở kế hoạch và Đầu tư' (tr.10); 'chỉ tiêu' chỉ là tên dòng/cột bảng (tr.5, 28, 44, 51).",
+  "status": "abstain",
+  "answer": "Báo cáo tài chính hợp nhất Quý III/2026 không cung cấp thông tin cụ thể về kế hoạch lợi nhuận trước thuế năm 2026 mà Đại hội đồng Cổ đông MB thông qua.",
+  "cited": [],
+  "answer_grade": null,
+  "citation_support": [],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "tn02",
+  "answerable": false,
+  "question": "Giá đóng cửa của cổ phiếu MBB vào ngày 30/09/2026 là bao nhiêu đồng?",
+  "expected": "Tài liệu có số lượng cổ phiếu và EPS (tr.45); 'giá đóng cửa' tr.17 chỉ là chính sách định giá chứng khoán kinh doanh MB nắm giữ, không phải giá cổ phiếu MBB.",
+  "status": "abstain",
+  "answer": "Báo cáo tài chính hợp nhất Quý III/2026 không cung cấp thông tin về giá đóng cửa của cổ phiếu MBB vào ngày 30/09/2026.",
+  "cited": [],
+  "answer_grade": null,
+  "citation_support": [],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "tn03",
+  "answerable": false,
+  "question": "Tỷ lệ nợ xấu riêng của công ty con MCredit tại ngày 30/09/2026 là bao nhiêu?",
+  "expected": "Phân loại nhóm nợ (tr.31-34) là số hợp nhất; báo cáo bộ phận (tr.54) không tách tài chính tiêu dùng và không có nợ xấu theo công ty con. MCredit chỉ xuất hiện ở danh sách công ty con (tr.10) và chính sách trích quỹ (tr.25).",
+  "status": "abstain",
+  "answer": "Báo cáo tài chính hợp nhất Quý III/2026 của MB không cung cấp thông tin cụ thể về tỷ lệ nợ xấu riêng của công ty con MCredit tại ngày 30/09/2026.",
+  "cited": [],
+  "answer_grade": null,
+  "citation_support": [],
+  "abstention_correct": null,
+  "reason": ""
+ }
+]

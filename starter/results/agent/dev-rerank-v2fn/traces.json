@@ -1,0 +1,1785 @@
+[
+ {
+  "query_id": "d01",
+  "split": "dev",
+  "answerable": true,
+  "question": "Giấy phép hoạt động của MB có thời hạn bao lâu và tính từ ngày nào?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Giấy phép hoạt động của Ngân hàng TMCP Quân đội (MB) có thời hạn 99 năm, tính từ ngày 14/9/1994, theo Giấy phép hoạt động số 03/GP-NHNN ngày 16/01/2026 do Thống đốc Ngân hàng Nhà nước Việt Nam cấp, thay thế Giấy phép hoạt động số 100/GP-NHNN ngày 16/10/2018 và các văn bản sửa đổi, bổ sung liên quan [mbb-bctc-hn-q3-2026:p009:para1000:000].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p009:para1000:000"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "giấy phép hoạt động MB thời hạn ngày cấp",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p009:para1000:000",
+      "page": 9,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p059:para1000:002",
+      "page": 59,
+      "rank": 2,
+      "score": 0.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p056:para1000:000",
+      "page": 56,
+      "rank": 3,
+      "score": 0.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p009:para1000:000",
+     "mbb-bctc-hn-q3-2026:p059:para1000:002",
+     "mbb-bctc-hn-q3-2026:p056:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 4437.3
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p009:para1000:000",
+   "mbb-bctc-hn-q3-2026:p059:para1000:002",
+   "mbb-bctc-hn-q3-2026:p056:para1000:000"
+  ],
+  "context_chars": 2323,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2251,
+   "output_tokens": 194,
+   "cost_usd": 0.001211
+  },
+  "elapsed_ms": 7306.9,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 5757,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d02",
+  "split": "dev",
+  "answerable": true,
+  "question": "Mạng lưới của MB gồm bao nhiêu chi nhánh và phòng giao dịch?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Mạng lưới của MB gồm 1 Hội sở chính, 129 Chi nhánh (trong đó có 1 chi nhánh nước ngoài), và 238 Phòng Giao dịch tính đến ngày 30 tháng 09 năm 2026 [mbb-bctc-hn-q3-2026:p010:para1000:000].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p010:para1000:000"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "mạng lưới chi nhánh phòng giao dịch",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p010:para1000:000",
+      "page": 10,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p018:para1000:005",
+      "page": 18,
+      "rank": 2,
+      "score": 0.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p017:para1000:004",
+      "page": 17,
+      "rank": 3,
+      "score": 0.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p010:para1000:000",
+     "mbb-bctc-hn-q3-2026:p018:para1000:005",
+     "mbb-bctc-hn-q3-2026:p017:para1000:004"
+    ],
+    "skipped_budget": [],
+    "ms": 3699.6
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p010:para1000:000",
+   "mbb-bctc-hn-q3-2026:p018:para1000:005",
+   "mbb-bctc-hn-q3-2026:p017:para1000:004"
+  ],
+  "context_chars": 2101,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2172,
+   "output_tokens": 142,
+   "cost_usd": 0.001096
+  },
+  "elapsed_ms": 6048.8,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 4726,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d03",
+  "split": "dev",
+  "answerable": true,
+  "question": "Vì sao báo cáo tài chính hợp nhất của MB không hợp nhất Ngân hàng MBV?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Báo cáo tài chính hợp nhất của MB không hợp nhất Ngân hàng MBV vì tại ngày 30/09/2026, MB chưa có khoản góp vốn nào vào MBV. Ngoài ra, theo quy định tại điểm c, khoản 1, Điều 185 của Luật các Tổ chức tín dụng số 32/2024/QH15 ngày 18/01/2024, MB không phải hợp nhất báo cáo tài chính của ngân hàng thương mại được chuyển giao bắt buộc, trong đó có MBV [mbb-bctc-hn-q3-2026:p010:para1000:003].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p010:para1000:003"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "không hợp nhất MBV",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p010:para1000:003",
+      "page": 10,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p012:para1000:000",
+      "page": 12,
+      "rank": 2,
+      "score": 5.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p012:para1000:001",
+      "page": 12,
+      "rank": 3,
+      "score": 0.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p010:para1000:003",
+     "mbb-bctc-hn-q3-2026:p012:para1000:000",
+     "mbb-bctc-hn-q3-2026:p012:para1000:001"
+    ],
+    "skipped_budget": [],
+    "ms": 2850.1
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p010:para1000:003",
+   "mbb-bctc-hn-q3-2026:p012:para1000:000",
+   "mbb-bctc-hn-q3-2026:p012:para1000:001"
+  ],
+  "context_chars": 1900,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2101,
+   "output_tokens": 196,
+   "cost_usd": 0.001154
+  },
+  "elapsed_ms": 5654.7,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 5031,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d04",
+  "split": "dev",
+  "answerable": true,
+  "question": "Tại ngày 30/09/2026 MB có bao nhiêu nhân viên?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Tại ngày 30/09/2026, MB có 18.675 nhân viên [mbb-bctc-hn-q3-2026:p011:para1000:000].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p011:para1000:000"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "số lượng nhân viên tại ngày 30/09/2026",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p011:para1000:000",
+      "page": 11,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p048:para1000:000",
+      "page": 48,
+      "rank": 2,
+      "score": 0.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p005:para1000:000",
+      "page": 5,
+      "rank": 3,
+      "score": 0.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p011:para1000:000",
+     "mbb-bctc-hn-q3-2026:p048:para1000:000",
+     "mbb-bctc-hn-q3-2026:p005:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 3986.6
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p011:para1000:000",
+   "mbb-bctc-hn-q3-2026:p048:para1000:000",
+   "mbb-bctc-hn-q3-2026:p005:para1000:000"
+  ],
+  "context_chars": 1948,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2364,
+   "output_tokens": 112,
+   "cost_usd": 0.001125
+  },
+  "elapsed_ms": 6516.9,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 5664,
+   "output_tokens": 244
+  },
+  "previous_errors": [
+   "APIConnectionError: Connection error."
+  ],
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d05",
+  "split": "dev",
+  "answerable": true,
+  "question": "Các con số trong báo cáo tài chính hợp nhất được làm tròn và thể hiện theo đơn vị gì?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Các con số trong báo cáo tài chính hợp nhất của MB được làm tròn đến hàng triệu và thể hiện theo đơn vị triệu đồng Việt Nam (triệu đồng) [mbb-bctc-hn-q3-2026:p011:para1000:001].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p011:para1000:001"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "đơn vị tính các con số trong báo cáo tài chính hợp nhất",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p011:para1000:001",
+      "page": 11,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p057:para1000:001",
+      "page": 57,
+      "rank": 2,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p030:para1000:000",
+      "page": 30,
+      "rank": 3,
+      "score": 10.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p011:para1000:001",
+     "mbb-bctc-hn-q3-2026:p057:para1000:001",
+     "mbb-bctc-hn-q3-2026:p030:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 21286.7
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p011:para1000:001",
+   "mbb-bctc-hn-q3-2026:p057:para1000:001",
+   "mbb-bctc-hn-q3-2026:p030:para1000:000"
+  ],
+  "context_chars": 2208,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2452,
+   "output_tokens": 127,
+   "cost_usd": 0.001184
+  },
+  "elapsed_ms": 38815.6,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 5847,
+   "output_tokens": 244
+  },
+  "previous_errors": [
+   "APIConnectionError: Connection error."
+  ],
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d06",
+  "split": "dev",
+  "answerable": true,
+  "question": "MB có phải trích lập dự phòng chung cho tiền gửi và cho vay các tổ chức tín dụng khác không?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "MB không phải trích lập dự phòng chung cho các khoản tiền gửi và cho vay các tổ chức tín dụng khác theo quy định tại Nghị định 86/2024. Ngân hàng chỉ trích lập dự phòng cụ thể cho các khoản này (trừ tiền gửi thanh toán) theo phương pháp quy định, không trích lập dự phòng chung cho các khoản này [mbb-bctc-hn-q3-2026:p012:para1000:004].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p012:para1000:004"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "dự phòng chung cho tiền gửi và cho vay các tổ chức tín dụng khác",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p012:para1000:004",
+      "page": 12,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p015:para1000:002",
+      "page": 15,
+      "rank": 2,
+      "score": 8.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p016:para1000:000",
+      "page": 16,
+      "rank": 3,
+      "score": 6.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p012:para1000:004",
+     "mbb-bctc-hn-q3-2026:p015:para1000:002",
+     "mbb-bctc-hn-q3-2026:p016:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 6366.2
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p012:para1000:004",
+   "mbb-bctc-hn-q3-2026:p015:para1000:002",
+   "mbb-bctc-hn-q3-2026:p016:para1000:000"
+  ],
+  "context_chars": 2424,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2338,
+   "output_tokens": 171,
+   "cost_usd": 0.001209
+  },
+  "elapsed_ms": 9463.1,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 5920,
+   "output_tokens": 244
+  },
+  "previous_errors": [
+   "APIConnectionError: Connection error."
+  ],
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d07",
+  "split": "dev",
+  "answerable": true,
+  "question": "Khoản cho vay trung hạn được định nghĩa với thời hạn bao lâu?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Khoản cho vay trung hạn được định nghĩa là các khoản có thời hạn cho vay từ 1 năm đến 5 năm tính từ ngày giải ngân [mbb-bctc-hn-q3-2026:p013:para1000:000].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p013:para1000:000"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "khoản cho vay trung hạn thời hạn",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p013:para1000:000",
+      "page": 13,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p031:para1000:002",
+      "page": 31,
+      "rank": 2,
+      "score": 7.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p031:para1000:001",
+      "page": 31,
+      "rank": 3,
+      "score": 5.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p013:para1000:000",
+     "mbb-bctc-hn-q3-2026:p031:para1000:002",
+     "mbb-bctc-hn-q3-2026:p031:para1000:001"
+    ],
+    "skipped_budget": [],
+    "ms": 17332.2
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mbb-bctc-hn-q3-2026:p013:para1000:000"
+    ],
+    "answer": "Khoản cho vay trung hạn được định nghĩa là các khoản có thời hạn cho vay từ 1 năm đến 5 năm tính từ ngày giải ngân.",
+    "citations": [
+     "mbb-bctc-hn-q3-2026:p013:para1000:000"
+    ]
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p013:para1000:000",
+   "mbb-bctc-hn-q3-2026:p031:para1000:002",
+   "mbb-bctc-hn-q3-2026:p031:para1000:001"
+  ],
+  "context_chars": 2039,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 4148,
+   "output_tokens": 192,
+   "cost_usd": 0.001966
+  },
+  "elapsed_ms": 38445.2,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 5148,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d08",
+  "split": "dev",
+  "answerable": true,
+  "question": "Những nhóm nợ nào bị MB coi là nợ xấu?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "MB coi các nhóm nợ dưới tiêu chuẩn, nợ nghi ngờ và nợ có khả năng mất vốn là nợ xấu theo quy định tại Thông tư 31/2024. Cụ thể, các khoản nợ này bao gồm nợ quá hạn trên 360 ngày, nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 91 ngày trở lên, nợ cơ cấu lại thời hạn trả nợ lần thứ hai và quá hạn, nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, nợ phải thu hồi theo kết luận thanh tra quá hạn trên 60 ngày, nợ phải thu hồi theo quyết định thu hồi nợ trước hạn chưa thu hồi được trên 60 ngày, và khoản nợ của khách hàng là tổ chức tín dụng đang được kiểm soát đặc biệt hoặc chi nhánh ngân hàng nước ngoài bị phong tỏa vốn và tài sản [mbb-bctc-hn-q3-2026:p013:para1000:001][mbb-bctc-hn-q3-2026:p015:para1000:001].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p013:para1000:001",
+   "mbb-bctc-hn-q3-2026:p015:para1000:001"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "nhóm nợ xấu",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p015:para1000:001",
+      "page": 15,
+      "rank": 1,
+      "score": 9.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p013:para1000:001",
+      "page": 13,
+      "rank": 2,
+      "score": 9.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p015:para1000:000",
+      "page": 15,
+      "rank": 3,
+      "score": 7.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p015:para1000:001",
+     "mbb-bctc-hn-q3-2026:p013:para1000:001",
+     "mbb-bctc-hn-q3-2026:p015:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 18186.0
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p015:para1000:001",
+   "mbb-bctc-hn-q3-2026:p013:para1000:001",
+   "mbb-bctc-hn-q3-2026:p015:para1000:000"
+  ],
+  "context_chars": 2609,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2350,
+   "output_tokens": 317,
+   "cost_usd": 0.001447
+  },
+  "elapsed_ms": 21783.0,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 5967,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d09",
+  "split": "dev",
+  "answerable": true,
+  "question": "Nếu một khách hàng có nhiều khoản nợ và một khoản bị chuyển sang nhóm rủi ro cao hơn thì các khoản còn lại được phân loại thế nào?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Trường hợp một khách hàng có nhiều khoản nợ với Ngân hàng mà có bất kỳ khoản nợ nào bị chuyển sang nhóm nợ rủi ro cao hơn thì Ngân hàng phân loại các khoản nợ còn lại của khách hàng đó vào nhóm nợ rủi ro cao hơn tương ứng với mức độ rủi ro [mbb-bctc-hn-q3-2026:p013:para1000:001].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p013:para1000:001"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "phân loại nhóm nợ khi có khoản nợ chuyển nhóm rủi ro cao hơn",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p013:para1000:001",
+      "page": 13,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p014:para1000:002",
+      "page": 14,
+      "rank": 2,
+      "score": 4.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p014:para1000:001",
+      "page": 14,
+      "rank": 3,
+      "score": 4.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p013:para1000:001",
+     "mbb-bctc-hn-q3-2026:p014:para1000:002",
+     "mbb-bctc-hn-q3-2026:p014:para1000:001"
+    ],
+    "skipped_budget": [],
+    "ms": 5956.7
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p013:para1000:001",
+   "mbb-bctc-hn-q3-2026:p014:para1000:002",
+   "mbb-bctc-hn-q3-2026:p014:para1000:001"
+  ],
+  "context_chars": 1818,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2183,
+   "output_tokens": 168,
+   "cost_usd": 0.001142
+  },
+  "elapsed_ms": 24066.5,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 4834,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d10",
+  "split": "dev",
+  "answerable": true,
+  "question": "Khoản nợ quá hạn từ 10 đến 90 ngày phải trích dự phòng cụ thể theo tỷ lệ bao nhiêu?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Khoản nợ quá hạn từ 10 đến 90 ngày phải trích dự phòng theo tỷ lệ 5% [mbb-bctc-hn-q3-2026:p014:para1000:002].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p014:para1000:002"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "tỷ lệ trích dự phòng khoản nợ quá hạn 10 đến 90 ngày",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p014:para1000:002",
+      "page": 14,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p014:para1000:004",
+      "page": 14,
+      "rank": 2,
+      "score": 5.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p021:para1000:001",
+      "page": 21,
+      "rank": 3,
+      "score": 0.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p014:para1000:002",
+     "mbb-bctc-hn-q3-2026:p014:para1000:004",
+     "mbb-bctc-hn-q3-2026:p021:para1000:001"
+    ],
+    "skipped_budget": [],
+    "ms": 64569.9
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mbb-bctc-hn-q3-2026:p014:para1000:002"
+    ],
+    "answer": "Khoản nợ quá hạn từ 10 đến 90 ngày phải trích dự phòng theo tỷ lệ 5%.",
+    "citations": [
+     "mbb-bctc-hn-q3-2026:p014:para1000:002"
+    ]
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p014:para1000:002",
+   "mbb-bctc-hn-q3-2026:p014:para1000:004",
+   "mbb-bctc-hn-q3-2026:p021:para1000:001"
+  ],
+  "context_chars": 1547,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 3658,
+   "output_tokens": 189,
+   "cost_usd": 0.001766
+  },
+  "elapsed_ms": 67894.6,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 4902,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d11",
+  "split": "dev",
+  "answerable": true,
+  "question": "Với khách hàng được cơ cấu lại nợ theo Thông tư 53/2024, đến 31/12/2025 MB phải trích bổ sung tối thiểu bao nhiêu phần trăm dự phòng cụ thể?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Đến 31/12/2025, MB phải trích bổ sung tối thiểu 70% số tiền dự phòng cụ thể đối với khách hàng được cơ cấu lại nợ theo Thông tư 53/2024 [mbb-bctc-hn-q3-2026:p015:para1000:002].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p015:para1000:002"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "cơ cấu lại nợ Thông tư 53/2024 trích bổ sung dự phòng đến 31/12/2025",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p015:para1000:002",
+      "page": 15,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p013:para1000:002",
+      "page": 13,
+      "rank": 2,
+      "score": 7.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p014:para1000:004",
+      "page": 14,
+      "rank": 3,
+      "score": 5.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p015:para1000:002",
+     "mbb-bctc-hn-q3-2026:p013:para1000:002",
+     "mbb-bctc-hn-q3-2026:p014:para1000:004"
+    ],
+    "skipped_budget": [],
+    "ms": 53772.7
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mbb-bctc-hn-q3-2026:p015:para1000:002"
+    ],
+    "answer": "Đến 31/12/2025, MB phải trích bổ sung tối thiểu 70% số tiền dự phòng cụ thể đối với khách hàng được cơ cấu lại nợ theo Thông tư 53/2024.",
+    "citations": [
+     "mbb-bctc-hn-q3-2026:p015:para1000:002"
+    ]
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p015:para1000:002",
+   "mbb-bctc-hn-q3-2026:p013:para1000:002",
+   "mbb-bctc-hn-q3-2026:p014:para1000:004"
+  ],
+  "context_chars": 2388,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 4376,
+   "output_tokens": 245,
+   "cost_usd": 0.002142
+  },
+  "elapsed_ms": 57716.1,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 5145,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d12",
+  "split": "dev",
+  "answerable": true,
+  "question": "Khi MB bán một khoản nợ nội bảng với giá cao hơn giá trị ghi sổ thì phần chênh lệch được hạch toán vào đâu?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Khi MB bán một khoản nợ nội bảng với giá cao hơn giá trị ghi sổ, phần chênh lệch được hạch toán vào thu nhập trong kỳ của MB [mbb-bctc-hn-q3-2026:p017:para1000:000].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p017:para1000:000"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "bán khoản nợ nội bảng giá cao hơn giá trị ghi sổ hạch toán phần chênh lệch",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p017:para1000:000",
+      "page": 17,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p016:para1000:001",
+      "page": 16,
+      "rank": 2,
+      "score": 5.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p016:para1000:002",
+      "page": 16,
+      "rank": 3,
+      "score": 3.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p017:para1000:000",
+     "mbb-bctc-hn-q3-2026:p016:para1000:001",
+     "mbb-bctc-hn-q3-2026:p016:para1000:002"
+    ],
+    "skipped_budget": [],
+    "ms": 2429.3
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p017:para1000:000",
+   "mbb-bctc-hn-q3-2026:p016:para1000:001",
+   "mbb-bctc-hn-q3-2026:p016:para1000:002"
+  ],
+  "context_chars": 2491,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2368,
+   "output_tokens": 134,
+   "cost_usd": 0.001162
+  },
+  "elapsed_ms": 4992.9,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 5209,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d13",
+  "split": "dev",
+  "answerable": true,
+  "question": "Khoản góp vốn nào được MB xếp vào nhóm đầu tư dài hạn khác?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Khoản góp vốn được MB xếp vào nhóm đầu tư dài hạn khác bao gồm: đầu tư vào tổ chức kinh tế, dự án dài hạn và đầu tư vào các Quỹ đầu tư. Các khoản này được ghi nhận theo giá gốc và MB có tối đa 11% quyền biểu quyết, chưa niêm yết trên thị trường chứng khoán. Dự phòng giảm giá được lập khi có bằng chứng suy giảm giá trị và được hoàn nhập khi giá trị thu hồi tăng trở lại [mbb-bctc-hn-q3-2026:p036:para1000:001][mbb-bctc-hn-q3-2026:p019:para1000:000].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p036:para1000:001",
+   "mbb-bctc-hn-q3-2026:p019:para1000:000"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "khoản góp vốn đầu tư dài hạn khác",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p036:para1000:001",
+      "page": 36,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p003:para1000:001",
+      "page": 3,
+      "rank": 2,
+      "score": 8.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p019:para1000:000",
+      "page": 19,
+      "rank": 3,
+      "score": 7.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p036:para1000:001",
+     "mbb-bctc-hn-q3-2026:p003:para1000:001",
+     "mbb-bctc-hn-q3-2026:p019:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 2518.8
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p036:para1000:001",
+   "mbb-bctc-hn-q3-2026:p003:para1000:001",
+   "mbb-bctc-hn-q3-2026:p019:para1000:000"
+  ],
+  "context_chars": 1976,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2250,
+   "output_tokens": 232,
+   "cost_usd": 0.001271
+  },
+  "elapsed_ms": 5428.6,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 6233,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d14",
+  "split": "dev",
+  "answerable": true,
+  "question": "Lãi dự thu từ các khoản vay nhóm 2 đến nhóm 5 có được ghi nhận vào báo cáo kết quả hoạt động không?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Lãi dự thu phát sinh từ các khoản cho vay phân loại từ nhóm 2 đến nhóm 5 theo Thông tư 31 và các khoản vay được cơ cấu thời hạn trả nợ theo Nghị định 55 và Thông tư 53/2024 sẽ không được ghi nhận vào báo cáo kết quả hoạt động hợp nhất. Lãi dự thu của các khoản nợ này được chuyển ra theo dõi ở tài khoản ngoại bảng và chỉ được ghi nhận vào Báo cáo kết quả hoạt động hợp nhất khi MB thực thu [mbb-bctc-hn-q3-2026:p026:para1000:000].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p026:para1000:000"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "lãi dự thu các khoản vay nhóm 2 đến nhóm 5",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p026:para1000:000",
+      "page": 26,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p014:para1000:002",
+      "page": 14,
+      "rank": 2,
+      "score": 3.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p014:para1000:004",
+      "page": 14,
+      "rank": 3,
+      "score": 3.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p026:para1000:000",
+     "mbb-bctc-hn-q3-2026:p014:para1000:002",
+     "mbb-bctc-hn-q3-2026:p014:para1000:004"
+    ],
+    "skipped_budget": [],
+    "ms": 9673.1
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mbb-bctc-hn-q3-2026:p026:para1000:000"
+    ],
+    "answer": "Lãi dự thu phát sinh từ các khoản cho vay phân loại từ nhóm 2 đến nhóm 5 theo Thông tư 31 và các khoản vay được cơ cấu thời hạn trả nợ theo Nghị định 55 và Thông tư 53/2024 sẽ không được ghi nhận vào báo cáo kết quả hoạt động hợp nhất. Lãi dự thu của các khoản nợ này được chuyển ra theo dõi ở tài khoản ngoại bảng và chỉ được ghi nhận vào Báo cáo kết quả hoạt động hợp nhất khi MB thực thu.",
+    "citations": [
+     "mbb-bctc-hn-q3-2026:p026:para1000:000"
+    ]
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p026:para1000:000",
+   "mbb-bctc-hn-q3-2026:p014:para1000:002",
+   "mbb-bctc-hn-q3-2026:p014:para1000:004"
+  ],
+  "context_chars": 1696,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 3792,
+   "output_tokens": 355,
+   "cost_usd": 0.002085
+  },
+  "elapsed_ms": 21215.1,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 5327,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d15",
+  "split": "dev",
+  "answerable": true,
+  "question": "Theo phần chính sách kế toán, dự phòng chung được lập ở mức bao nhiêu?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Dự phòng chung được lập với mức bằng 0,75% tổng số dư nợ nhóm 1 đến 4 theo quy định phân loại nợ theo Thông tư 31/2024 của các khoản nợ trừ các khoản tiền gửi và cho vay các tổ chức tín dụng khác và các khoản nợ được phân loại vào nhóm nợ có khả năng mất vốn [mbb-bctc-hn-q3-2026:p015:para1000:002].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p015:para1000:002"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "dự phòng chung mức lập",
+    "filter": {
+     "section": "tm_dac_diem_chinh_sach_ke_toan"
+    },
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p015:para1000:002",
+      "page": 15,
+      "rank": 1,
+      "score": 10.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p024:para1000:004",
+      "page": 24,
+      "rank": 2,
+      "score": 5.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p014:para1000:000",
+      "page": 14,
+      "rank": 3,
+      "score": 3.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p015:para1000:002",
+     "mbb-bctc-hn-q3-2026:p024:para1000:004",
+     "mbb-bctc-hn-q3-2026:p014:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 19396.8
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p015:para1000:002",
+   "mbb-bctc-hn-q3-2026:p024:para1000:004",
+   "mbb-bctc-hn-q3-2026:p014:para1000:000"
+  ],
+  "context_chars": 1613,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2125,
+   "output_tokens": 163,
+   "cost_usd": 0.001111
+  },
+  "elapsed_ms": 43180.9,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 4539,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "d16",
+  "split": "dev",
+  "answerable": true,
+  "question": "Trong các phân tích rủi ro ở thuyết minh V, chứng khoán kinh doanh được xếp vào nhóm kỳ hạn nào?",
+  "config": "rerank-v2fn",
+  "status": "answered",
+  "answer": "Chứng khoán kinh doanh được xếp vào loại kỳ hạn đến một tháng trong phân tích rủi ro ở thuyết minh V của MB [mbb-bctc-hn-q3-2026:p056:para1000:001][mbb-bctc-hn-q3-2026:p059:para1000:003].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p056:para1000:001",
+   "mbb-bctc-hn-q3-2026:p059:para1000:003"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "chứng khoán kinh doanh kỳ hạn thuyết minh V",
+    "filter": {
+     "section": "tm_thong_tin_khac"
+    },
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p056:para1000:001",
+      "page": 56,
+      "rank": 1,
+      "score": 8.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p059:para1000:003",
+      "page": 59,
+      "rank": 2,
+      "score": 8.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p057:para1000:001",
+      "page": 57,
+      "rank": 3,
+      "score": 8.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p056:para1000:001",
+     "mbb-bctc-hn-q3-2026:p059:para1000:003",
+     "mbb-bctc-hn-q3-2026:p057:para1000:001"
+    ],
+    "skipped_budget": [],
+    "ms": 57234.7
+   },
+   {
+    "event": "invalid_citations",
+    "answer_empty": false,
+    "no_citations": false,
+    "not_in_context": [],
+    "not_inline": [
+     "mbb-bctc-hn-q3-2026:p056:para1000:001",
+     "mbb-bctc-hn-q3-2026:p059:para1000:003"
+    ],
+    "answer": "Chứng khoán kinh doanh được xếp vào loại kỳ hạn đến một tháng trong phân tích rủi ro ở thuyết minh V của MB.",
+    "citations": [
+     "mbb-bctc-hn-q3-2026:p056:para1000:001",
+     "mbb-bctc-hn-q3-2026:p059:para1000:003"
+    ]
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p056:para1000:001",
+   "mbb-bctc-hn-q3-2026:p059:para1000:003",
+   "mbb-bctc-hn-q3-2026:p057:para1000:001"
+  ],
+  "context_chars": 2928,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 4673,
+   "output_tokens": 255,
+   "cost_usd": 0.002277
+  },
+  "elapsed_ms": 82344.3,
+  "rerank_usage": {
+   "calls": 1,
+   "input_tokens": 6285,
+   "output_tokens": 244
+  },
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "dn01",
+  "split": "dev",
+  "answerable": false,
+  "question": "Tỷ lệ an toàn vốn (CAR) hợp nhất của MB tại ngày 30/09/2026 là bao nhiêu phần trăm?",
+  "config": "rerank-v2fn",
+  "status": "abstain",
+  "answer": "Tài liệu không cung cấp thông tin cụ thể về tỷ lệ an toàn vốn (CAR) hợp nhất của MB tại ngày 30/09/2026.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "Tỷ lệ an toàn vốn CAR hợp nhất 30/09/2026",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p044:para1000:002",
+      "page": 44,
+      "rank": 1,
+      "score": 5.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p005:para1000:000",
+      "page": 5,
+      "rank": 2,
+      "score": 0.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p030:para1000:000",
+      "page": 30,
+      "rank": 3,
+      "score": 0.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p044:para1000:002",
+     "mbb-bctc-hn-q3-2026:p005:para1000:000",
+     "mbb-bctc-hn-q3-2026:p030:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 2597.7
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "Tỷ lệ an toàn vốn CAR hợp nhất",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p044:para1000:002",
+      "page": 44,
+      "rank": 1,
+      "score": 3.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p055:para1000:002",
+      "page": 55,
+      "rank": 2,
+      "score": 2.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p055:para1000:000",
+      "page": 55,
+      "rank": 3,
+      "score": 1.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p055:para1000:002",
+     "mbb-bctc-hn-q3-2026:p055:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 2598.4
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "Tỷ lệ an toàn vốn CAR hợp nhất MB 30/09/2026",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p005:para1000:000",
+      "page": 5,
+      "rank": 1,
+      "score": 0.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p030:para1000:000",
+      "page": 30,
+      "rank": 2,
+      "score": 0.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p008:para1000:000",
+      "page": 8,
+      "rank": 3,
+      "score": 0.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p008:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 2756.7
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "Tỷ lệ an toàn vốn CAR hợp nhất MB",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p044:para1000:002",
+      "page": 44,
+      "rank": 1,
+      "score": 3.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p055:para1000:002",
+      "page": 55,
+      "rank": 2,
+      "score": 2.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p059:para1000:001",
+      "page": 59,
+      "rank": 3,
+      "score": 2.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p059:para1000:001"
+    ],
+    "skipped_budget": [],
+    "ms": 2452.1
+   },
+   {
+    "event": "answer",
+    "abstain": true,
+    "model_citations": []
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 4,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p044:para1000:002",
+   "mbb-bctc-hn-q3-2026:p005:para1000:000",
+   "mbb-bctc-hn-q3-2026:p030:para1000:000",
+   "mbb-bctc-hn-q3-2026:p055:para1000:002",
+   "mbb-bctc-hn-q3-2026:p055:para1000:000",
+   "mbb-bctc-hn-q3-2026:p008:para1000:000",
+   "mbb-bctc-hn-q3-2026:p059:para1000:001"
+  ],
+  "context_chars": 5663,
+  "usage": {
+   "turns": 5,
+   "input_tokens": 11437,
+   "output_tokens": 159,
+   "cost_usd": 0.004829
+  },
+  "elapsed_ms": 16078.3,
+  "rerank_usage": {
+   "calls": 4,
+   "input_tokens": 23192,
+   "output_tokens": 976
+  },
+  "previous_errors": [
+   "APIConnectionError: Connection error."
+  ]
+ },
+ {
+  "query_id": "dn02",
+  "split": "dev",
+  "answerable": false,
+  "question": "Tại ngày 30/09/2026 MB có bao nhiêu khách hàng cá nhân đang sử dụng dịch vụ?",
+  "config": "rerank-v2fn",
+  "status": "abstain",
+  "answer": "Báo cáo tài chính hợp nhất Quý III/2026 của MB không cung cấp thông tin cụ thể về số lượng khách hàng cá nhân đang sử dụng dịch vụ tại ngày 30/09/2026, chỉ có số liệu về dư nợ cho vay và tiền gửi của khách hàng cá nhân mà không có số lượng khách hàng cụ thể.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "khách hàng cá nhân sử dụng dịch vụ ngày 30/09/2026",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p032:para1000:000",
+      "page": 32,
+      "rank": 1,
+      "score": 8.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p043:para1000:000",
+      "page": 43,
+      "rank": 2,
+      "score": 7.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p031:para1000:001",
+      "page": 31,
+      "rank": 3,
+      "score": 6.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p032:para1000:000",
+     "mbb-bctc-hn-q3-2026:p043:para1000:000",
+     "mbb-bctc-hn-q3-2026:p031:para1000:001"
+    ],
+    "skipped_budget": [],
+    "ms": 25140.3
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "số lượng khách hàng cá nhân sử dụng dịch vụ",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p032:para1000:000",
+      "page": 32,
+      "rank": 1,
+      "score": 7.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p043:para1000:000",
+      "page": 43,
+      "rank": 2,
+      "score": 5.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p032:para1000:001",
+      "page": 32,
+      "rank": 3,
+      "score": 4.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p032:para1000:001"
+    ],
+    "skipped_budget": [],
+    "ms": 2644.1
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "số lượng khách hàng cá nhân",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p032:para1000:000",
+      "page": 32,
+      "rank": 1,
+      "score": 5.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p043:para1000:000",
+      "page": 43,
+      "rank": 2,
+      "score": 4.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p032:para1000:001",
+      "page": 32,
+      "rank": 3,
+      "score": 4.0
+     }
+    ],
+    "new_context_ids": [],
+    "skipped_budget": [],
+    "ms": 2620.1
+   },
+   {
+    "event": "answer",
+    "abstain": true,
+    "model_citations": [
+     "mbb-bctc-hn-q3-2026:p032:para1000:000",
+     "mbb-bctc-hn-q3-2026:p043:para1000:000",
+     "mbb-bctc-hn-q3-2026:p032:para1000:001"
+    ]
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 3,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p032:para1000:000",
+   "mbb-bctc-hn-q3-2026:p043:para1000:000",
+   "mbb-bctc-hn-q3-2026:p031:para1000:001",
+   "mbb-bctc-hn-q3-2026:p032:para1000:001"
+  ],
+  "context_chars": 3097,
+  "usage": {
+   "turns": 4,
+   "input_tokens": 7552,
+   "output_tokens": 232,
+   "cost_usd": 0.003392
+  },
+  "elapsed_ms": 49891.3,
+  "rerank_usage": {
+   "calls": 3,
+   "input_tokens": 19528,
+   "output_tokens": 732
+  }
+ },
+ {
+  "query_id": "dn03",
+  "split": "dev",
+  "answerable": false,
+  "question": "Lãi suất tiết kiệm kỳ hạn 12 tháng MB áp dụng cho khách hàng tại ngày 30/09/2026 là bao nhiêu?",
+  "config": "rerank-v2fn",
+  "status": "abstain",
+  "answer": "Báo cáo tài chính hợp nhất Quý III/2026 của MB không cung cấp thông tin cụ thể về lãi suất tiết kiệm kỳ hạn 12 tháng áp dụng cho khách hàng tại ngày 30/09/2026.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "lãi suất tiết kiệm kỳ hạn 12 tháng",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p044:para1000:000",
+      "page": 44,
+      "rank": 1,
+      "score": 5.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p036:para1000:000",
+      "page": 36,
+      "rank": 2,
+      "score": 0.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p056:para1000:001",
+      "page": 56,
+      "rank": 3,
+      "score": 0.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p044:para1000:000",
+     "mbb-bctc-hn-q3-2026:p036:para1000:000",
+     "mbb-bctc-hn-q3-2026:p056:para1000:001"
+    ],
+    "skipped_budget": [],
+    "ms": 2836.7
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "lãi suất tiết kiệm kỳ hạn 12 tháng khách hàng",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p044:para1000:000",
+      "page": 44,
+      "rank": 1,
+      "score": 4.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p043:para1000:000",
+      "page": 43,
+      "rank": 2,
+      "score": 3.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p056:para1000:002",
+      "page": 56,
+      "rank": 3,
+      "score": 2.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p043:para1000:000",
+     "mbb-bctc-hn-q3-2026:p056:para1000:002"
+    ],
+    "skipped_budget": [],
+    "ms": 2606.2
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "lãi suất tiết kiệm kỳ hạn 12 tháng khách hàng cá nhân",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p044:para1000:000",
+      "page": 44,
+      "rank": 1,
+      "score": 5.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p043:para1000:000",
+      "page": 43,
+      "rank": 2,
+      "score": 0.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p031:para1000:001",
+      "page": 31,
+      "rank": 3,
+      "score": 0.0
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p031:para1000:001"
+    ],
+    "skipped_budget": [],
+    "ms": 2542.8
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "hybrid_rerank",
+    "query": "lãi suất tiết kiệm kỳ hạn 12 tháng khách hàng cá nhân tại ngày 30/09/2026",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p044:para1000:000",
+      "page": 44,
+      "rank": 1,
+      "score": 2.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p043:para1000:000",
+      "page": 43,
+      "rank": 2,
+      "score": 0.0
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p031:para1000:001",
+      "page": 31,
+      "rank": 3,
+      "score": 0.0
+     }
+    ],
+    "new_context_ids": [],
+    "skipped_budget": [],
+    "ms": 2677.1
+   },
+   {
+    "event": "answer",
+    "abstain": true,
+    "model_citations": [
+     "mbb-bctc-hn-q3-2026:p044:para1000:000",
+     "mbb-bctc-hn-q3-2026:p043:para1000:000",
+     "mbb-bctc-hn-q3-2026:p031:para1000:001"
+    ]
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 4,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p044:para1000:000",
+   "mbb-bctc-hn-q3-2026:p036:para1000:000",
+   "mbb-bctc-hn-q3-2026:p056:para1000:001",
+   "mbb-bctc-hn-q3-2026:p043:para1000:000",
+   "mbb-bctc-hn-q3-2026:p056:para1000:002",
+   "mbb-bctc-hn-q3-2026:p031:para1000:001"
+  ],
+  "context_chars": 4573,
+  "usage": {
+   "turns": 5,
+   "input_tokens": 10812,
+   "output_tokens": 250,
+   "cost_usd": 0.004725
+  },
+  "elapsed_ms": 16012.2,
+  "rerank_usage": {
+   "calls": 4,
+   "input_tokens": 24143,
+   "output_tokens": 976
+  },
+  "previous_errors": [
+   "APIConnectionError: Connection error."
+  ]
+ }
+]

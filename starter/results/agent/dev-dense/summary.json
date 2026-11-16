@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "run_at": "2026-11-16T03:04:15+00:00",
+    "split": "dev",
+    "tag": "dense",
+    "model": "gpt-4.1-mini",
+    "retriever": "dense",
+    "index": "B",
+    "top_k": 3,
+    "max_searches": 4,
+    "budget_chars": 6000,
+    "neighbors": false,
+    "use_filter": false,
+    "bm25_bigrams": true,
+    "questions": 19,
+    "wall_seconds": 10.5,
+    "rerun_errors": [
+      "d01"
+    ]
+  },
+  "summary": {
+    "tool_use": "19/19",
+    "searches_distribution": {
+      "1": 12,
+      "2": 1,
+      "3": 5,
+      "4": 1
+    },
+    "context_evidence_rate": "12/16",
+    "cited_gold_evidence": "12/16",
+    "citations_in_context": "14/14",
+    "answered_with_citation": "13/13",
+    "abstain_on_unanswerable": "3/3",
+    "abstain_on_answerable": "3/16",
+    "invalid_citation_events": 9,
+    "errors": [],
+    "median_ms": 4261.2,
+    "mean_context_chars": 2504.3,
+    "tokens": {
+      "agent_input": 74983,
+      "agent_output": 4185,
+      "embedding": 70
+    },
+    "cost_usd": {
+      "agent": 0.03669,
+      "rerank": 0.0,
+      "embedding": 1e-06,
+      "total": 0.03669
+    },
+    "note": "Grounded answer, citation support và abstention đúng cần chấm tay trong review.json."
+  }
+}

@@ -1,0 +1,359 @@
+[
+ {
+  "query_id": "d01",
+  "answerable": true,
+  "question": "Giấy phép hoạt động của MB có thời hạn bao lâu và tính từ ngày nào?",
+  "expected": "99 năm kể từ ngày 14/9/1994.",
+  "status": "abstain",
+  "answer": "Không tìm thấy thông tin về thời hạn và ngày bắt đầu tính của giấy phép hoạt động của MB trong báo cáo tài chính hợp nhất Quý III/2026.",
+  "cited": [],
+  "answer_grade": null,
+  "citation_support": [],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d02",
+  "answerable": true,
+  "question": "Mạng lưới của MB gồm bao nhiêu chi nhánh và phòng giao dịch?",
+  "expected": "1 Hội sở chính, 129 chi nhánh (trong đó 1 chi nhánh nước ngoài) và 238 phòng giao dịch.",
+  "status": "abstain",
+  "answer": "Báo cáo tài chính hợp nhất Quý III/2026 của MB không cung cấp thông tin cụ thể về số lượng chi nhánh và phòng giao dịch trong mạng lưới của MB.",
+  "cited": [],
+  "answer_grade": null,
+  "citation_support": [],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d03",
+  "answerable": true,
+  "question": "Vì sao báo cáo tài chính hợp nhất của MB không hợp nhất Ngân hàng MBV?",
+  "expected": "Theo điểm c khoản 1 Điều 185 Luật các TCTD số 32/2024/QH15, ngân hàng không phải hợp nhất báo cáo tài chính của ngân hàng thương mại được chuyển giao bắt buộc (MBV).",
+  "status": "answered",
+  "answer": "Báo cáo tài chính hợp nhất của MB không hợp nhất Ngân hàng MBV vì tại ngày 30/09/2026, MB chưa có khoản góp vốn nào vào MBV. Ngoài ra, theo quy định tại điểm c, khoản 1, Điều 185 của Luật các Tổ chức tín dụng số 32/2024/QH15 ngày 18/01/2024, MB không phải hợp nhất báo cáo tài chính của ngân hàng thương mại được chuyển giao bắt buộc như MBV [mbb-bctc-hn-q3-2026:p010:para1000:003].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p010:para1000:003",
+    "page": 10,
+    "text": "Ngân hàng Thương mại TNHH Một thành viên Đại Dương sau đó được đổi tên thành\nNgân hàng TNHH MTV Việt Nam Hiện Đại (\"MBV”) theo Quyết định số 741/QĐ-TTGSNH1\nngày 5 tháng 12 năm 2024 của Cơ quan Thanh tra giám sát ngân hàng thuộc Ngân hàng Nhà\nnước Việt Nam. Tại ngày 30 tháng 09 năm 2026, Ngân hàng chưa có khoản góp vốn nào vào\nMBV.\nNgoài ra, theo quy định tại điểm c, khoản 1, Điều 185 của Luật các Tổ chức tín dụng số\n32/2024/QH15 ngày 18 tháng 1 năm 2024, Ngân hàng không phải hợp nhất báo cáo tài chính\ncủa ngân hàng thương mại được chuyển giao bắt buộc. Theo đó báo cáo tài chính hợp nhất\ncủa Ngân hàng cho kỳ kế toán kết thúc tại ngày 30 tháng 09 năm 2026 bao gồm Ngân hàng\nvà các công ty con nhưng không bao gồm MBV (được gọi chung là \"MB\").\n2"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d04",
+  "answerable": true,
+  "question": "Tại ngày 30/09/2026 MB có bao nhiêu nhân viên?",
+  "expected": "18.675 nhân viên (in là 18,675).",
+  "status": "answered",
+  "answer": "Tại ngày 30/09/2026, MB có 18.675 nhân viên [mbb-bctc-hn-q3-2026:p011:para1000:000].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p011:para1000:000",
+    "page": 11,
+    "text": "7. | Tổng số cán bộ công nhân viên\nTính đến ngày 30 tháng 09 năm 2026, MB có 18,675 nhân viên.\n||- | CHUẨN MỰC VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG\n1. Tuân thủ theo các Chuẩn mực Kế toán Việt Nam và Hệ thống Kế toán các TCTD Việt Nam\nBan Điều hành MB khẳng định báo cáo tài chính hợp nhất đính kèm được lập phù hợp với các\nChuẩn mực kế toán Việt Nam, Hệ thống kế toán các tổ chức tín dụng Việt Nam và các quy định\npháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất."
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d05",
+  "answerable": true,
+  "question": "Các con số trong báo cáo tài chính hợp nhất được làm tròn và thể hiện theo đơn vị gì?",
+  "expected": "Làm tròn đến hàng triệu, trình bày theo đơn vị triệu đồng Việt Nam.",
+  "status": "answered",
+  "answer": "Các con số trong báo cáo tài chính hợp nhất của MB được làm tròn đến hàng triệu và trình bày theo đơn vị triệu đồng Việt Nam (\"triệu đồng\"). Đơn vị tiền tệ sử dụng là đồng Việt Nam (VND) [mbb-bctc-hn-q3-2026:p011:para1000:001].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p011:para1000:001",
+    "page": 11,
+    "text": "2. | Cơ sở lập các báo cáo tài chính hợp nhất\nCác báo cáo tài chính hợp nhất của MB sử dụng đơn vị tiền tệ là đồng Việt Nam (“VND” hay\n“đồng”), các số liệu được làm tròn đến hàng triệu và trình bày theo đơn vị triệu đồng Việt Nam\n(“triệu đồng”). Các báo cáo tài chính hợp nhất của Ngân hàng được lập theo Hệ thống Kế toán\ncác Tổ chức Tín dụng Việt Nam theo Quyết định số 479/2004/QĐ-NHNN ngày 29 tháng 04\nnăm 2004 (\"Quyết định 479/2004”) của Thống đốc Ngân hàng nhà nước Việt Nam có hiệu lực\nngày 01 tháng 10 năm 2004 và các văn bản bổ sung, sửa đổi Quyết định 479/2004; Quyết định\nsố 16/2007/QĐ-NHNN ngày 18 tháng 04 năm 2007 (“Quyết định 16/2007”) của Thống đốc\nNgân hàng Nhà nước Việt Nam và các văn bản sửa đổi, bổ sung Quyết định 16/2007 và Hệ\nthống Chuẩn mực Kế toán Việt Nam do Bộ Tài chính ban hành bao gồm:\n* Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành và công bố"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d06",
+  "answerable": true,
+  "question": "MB có phải trích lập dự phòng chung cho tiền gửi và cho vay các tổ chức tín dụng khác không?",
+  "expected": "Không; theo Nghị định 86/2024 ngân hàng không cần trích lập dự phòng chung cho các khoản này.",
+  "status": "answered",
+  "answer": "Ngân hàng MB không phải trích lập dự phòng chung đối với các khoản tiền gửi và cho vay các tổ chức tín dụng khác theo Nghị định 86/2024. Tuy nhiên, MB trích lập dự phòng cụ thể cho các khoản tiền gửi (trừ tiền gửi thanh toán) và cho vay các tổ chức tín dụng khác theo quy định tại Thông tư 31/2024 và Nghị định 86/2024, phương pháp trình bày tại Thuyết minh số 9 trong báo cáo tài chính hợp nhất Quý III/2026 [mbb-bctc-hn-q3-2026:p012:para1000:004].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p012:para1000:004",
+    "page": 12,
+    "text": "7. | Tiền gửi và cho vay các tổ chức tín dụng khác\nCác khoản tiền gửi và cho vay các tổ chức tín dụng khác được công bố và trình bày theo số\ndư nợ gốc tại thời điểm kết thúc kỳ báo cáo.\nViệc phân loại rủi ro tín dụng đối với các khoản tiền gửi và cho vay các tổ chức tín dụng khác\nvà trích lập dự phòng tương ứng được thực hiện theo quy định tại Thông tư 31/2024 và Nghị\nđịnh 86/2024. Theo đó, Ngân hàng trích lập dự phòng cụ thể cho các khoản tiền gửi (trừ tiền\ngửi thanh toán) và cho vay các tổ chức tín dụng khác theo phương pháp được trình bày tại\nThuyết minh số 9.\nTheo Nghị định 86/2024, Ngân hàng không cần phải trích lập dự phòng chung đối với các\nkhoản tiền gửi và cho vay các tổ chức tín dụng khác.\n4"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d07",
+  "answerable": true,
+  "question": "Khoản cho vay trung hạn được định nghĩa với thời hạn bao lâu?",
+  "expected": "Từ 1 năm đến 5 năm tính từ ngày giải ngân.",
+  "status": "answered",
+  "answer": "Khoản cho vay trung hạn được định nghĩa là các khoản có thời hạn cho vay từ 1 năm đến 5 năm tính từ ngày giải ngân [mbb-bctc-hn-q3-2026:p013:para1000:000].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p013:para1000:000",
+    "page": 13,
+    "text": "8. | Các khoản cho vay khách hàng\nCác khoản cho vay khách hàng được trình bày theo số dư nợ gốc tại thời điểm kết thúc kỳ bảo\ncáo.\nDự phòng rủi ro tín dụng của các khoản cho vay khách hàng được hạch toán và trình bày thành\nmột dòng riêng trên Báo cáo tình hình tài chính hợp nhất.\nCác khoản cho vay ngắn hạn là các khoản có thời hạn cho vay dưới 1 năm tính từ ngày giải\nngân. Các khoản cho vay trung hạn có thời hạn cho vay từ 1 năm đến 5 năm tính từ ngày giải\nngân. Các khoản cho vay dài hạn có thời hạn cho vay trên 5 năm tính từ ngày giải ngân.\nViệc phân loại nợ và trích lập dự phòng rủi ro tín dụng được thực hiện theo Thông tư 31/2024\nvà Nghị định 86/2024 như trình bày trong Thuyết minh số 9."
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d08",
+  "answerable": true,
+  "question": "Những nhóm nợ nào bị MB coi là nợ xấu?",
+  "expected": "Nợ dưới tiêu chuẩn, nợ nghi ngờ và nợ có khả năng mất vốn.",
+  "status": "answered",
+  "answer": "MB phân loại các nhóm nợ xấu gồm: Nợ dưới tiêu chuẩn, Nợ nghi ngờ và Nợ có khả năng mất vốn. Cụ thể, tại ngày 30/09/2026, dư nợ cho vay các nhóm này lần lượt là 7.230.947 triệu đồng, 4.778.315 triệu đồng và 9.465.064 triệu đồng [mbb-bctc-hn-q3-2026:p031:para1000:002].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p031:para1000:002",
+    "page": 31,
+    "text": "30/09/2026 | 31/12/2025\nTriệu đồng | Triệu đồng\nDư nợ cho vay\nNợ đủ tiêu chuẩn | 1.249.640.585 | 1.059.781.834\n+ Trong đó các khoản cho vay tại MBS | 16.695.619 | 15.040.585\nNợ cần chú ý | 17.013.532 | 10.210.040\nNợ dưới tiêu chuẩn | 7.230.947 | 3.276.216\nNợ nghi ngờ | 4.778.315 | 4.330.016\nNợ có khả năng mất vốn | 9.465.064 | 6.421.264\n1.288.128.443 | 1.084.019.370\nPhân tích dự nợ theo thời gian:\n30/09/2026 | 31/12/2025\nTriệu đồng | Triệu đồng\nDư nợ cho vay\nNợ ngắn hạn | 621.326.189 | 587.136.924\nNợ trung hạn | 175.109.533 | 127.883.727\nNợ dài hạn | 474.997.102 | 353.958.134\n1.271.432.824 | 1.068.978.785\nCác khoản cho vay margin chứng khoán và ứng trước\nkhách hàng tại MBS | 16.695.619 | 15.040.585\n1.288.128.443 | 1.084.019.370\n23"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d09",
+  "answerable": true,
+  "question": "Nếu một khách hàng có nhiều khoản nợ và một khoản bị chuyển sang nhóm rủi ro cao hơn thì các khoản còn lại được phân loại thế nào?",
+  "expected": "Các khoản nợ còn lại của khách hàng đó cũng bị phân loại vào nhóm nợ rủi ro cao hơn tương ứng.",
+  "status": "answered",
+  "answer": "Trường hợp một khách hàng có nhiều khoản nợ với Ngân hàng mà có bất kỳ khoản nợ nào bị chuyển sang nhóm nợ rủi ro cao hơn thì Ngân hàng phân loại các khoản nợ còn lại của khách hàng đó vào nhóm nợ rủi ro cao hơn tương ứng với mức độ rủi ro [mbb-bctc-hn-q3-2026:p013:para1000:001].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p013:para1000:001",
+    "page": 13,
+    "text": "9. | Dự phòng rủi ro tín dụng\nPhân loại nợ\nNgân hàng thực hiện phân loại các khoản nợ theo các mức độ rủi ro như sau: Nợ đủ tiêu\nchuẩn, Nợ cần chú ý, Nợ dưới tiêu chuẩn, Nợ nghi ngờ và Nợ có khả năng mất vốn theo quy\nđịnh tại Thông tư 31/2024. Các khoản nợ được phân loại là Nợ dưới tiêu chuẩn, Nợ nghi ngờ\nvà Nợ có khả năng mất vốn được coi là nợ xấu.\nCác khoản nợ được phân loại nợ theo phương pháp định lượng quy định tại Điều 10 Thông tư\n31/2024.\nTrường hợp một khách hàng có nhiều hơn một khoản nợ với Ngân hàng mà có bất kỳ\nkhoản nợ nào bị chuyển sang nhóm nợ rủi ro cao hơn thì Ngân hàng phân loại các khoản\nnợ còn lại của khách hàng đó vào nhóm nợ rủi ro cao hơn tương ứng với mức độ rủi ro.\nNgân hàng phải sử dụng kết quả phân loại nhóm nợ đối với khách hàng do Trung tâm\nThông tin Tín dụng (\"CIC”) cung cấp tại thời điểm phân loại để điều chỉnh kết quả tự phân\nloại nợ, cam kết ngoại bảng."
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d10",
+  "answerable": true,
+  "question": "Khoản nợ quá hạn từ 10 đến 90 ngày phải trích dự phòng cụ thể theo tỷ lệ bao nhiêu?",
+  "expected": "5% (thuộc nhóm 2 - nợ cần chú ý).",
+  "status": "answered",
+  "answer": "Khoản nợ quá hạn từ 10 đến 90 ngày phải trích dự phòng theo tỷ lệ 5% [mbb-bctc-hn-q3-2026:p014:para1000:002].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p014:para1000:002",
+    "page": 14,
+    "text": "2 Nợ cần | (a) Nợ quá hạn từ 10 ngày đến 90 ngày; hoặc | 5%\nchú ý | (b) Nợ điều chỉnh kỳ hạn trả nợ lần đầu; hoặc\n(c) Nợ được phân loại vào nhóm 2 theo quy định tại khoản 2,\nkhoản 3 điều 10 Thông tư 31.\n3 Nợ dưới (a) Nợ quá hạn từ 91 ngày đến 180 ngày; hoặc | 20%\ntiêu | (b) Nợ gia hạn nợ lần đầu còn trong hạn; hoặc\nchuẩn\n(c) Nợ được miễn hoặc giảm lãi do khách hàng không đủ khả\nnăng trả lãi đầy đủ theo thỏa thuận; hoặc\n(d) Nợ thuộc một trong các trường hợp sau đây chưa thu hồi\nđược trong thời gian dưới 30 ngày kể từ ngày có quyết định\nthu hồi:"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d11",
+  "answerable": true,
+  "question": "Với khách hàng được cơ cấu lại nợ theo Thông tư 53/2024, đến 31/12/2025 MB phải trích bổ sung tối thiểu bao nhiêu phần trăm dự phòng cụ thể?",
+  "expected": "Tối thiểu 70%.",
+  "status": "answered",
+  "answer": "Đến thời điểm 31/12/2025, MB phải trích bổ sung tối thiểu 70% số tiền dự phòng cụ thể đối với khách hàng được cơ cấu lại nợ theo Thông tư 53/2024 [mbb-bctc-hn-q3-2026:p015:para1000:002].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p015:para1000:002",
+    "page": 15,
+    "text": "hoặc\n(i) Nợ được phân loại vào nhóm 5 theo quy định tại khoản 3\nĐiều 10 Thông tư 31.\n(j) Khoản nợ phải phân loại vào nhóm 5 theo quy định của\nkhoản 4 Điều 8 Thông tư 31.\nCơ sở xác định giá trị và giá trị khấu trừ của từng loại tài sản bảo đảm được quy định trong\nNghị định 86/2024,\nNgoài ra, MB trích lập dự phòng cụ thể đối với Khách hàng được cơ cấu lại thời hạn trả nợ\ntheo quy định tại Thông tư 53/2024 và Quyết định 1510 như sau:\nĐến thời điểm 31/12/2024: Tối thiểu 35% số tiền dự phòng cụ thể phải trích bổ\nsung\nĐến thời điểm 31/12/2025: Tối thiểu 70% số tiền dự phòng cụ thể phải trích bổ\nsung;\nĐến thời điểm 31/12/2026: 100% số tiền dự phòng cụ thể phải trích bổ sung.\nDự phòng chung\nDự phòng chung được lập với mức bằng 0,75% tổng số dư nợ nhóm 1 đến 4 theo quy định\nphân loại nợ theo Thông tư 31/2024 của các khoản nợ trừ các khoản tiền gửi và cho vay các\ntổ chức tín dụng khác và các khoản nợ được phân loại vào nhóm nợ có khả năng mất vốn. Dự\n7"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d12",
+  "answerable": true,
+  "question": "Khi MB bán một khoản nợ nội bảng với giá cao hơn giá trị ghi sổ thì phần chênh lệch được hạch toán vào đâu?",
+  "expected": "Vào thu nhập trong kỳ của MB.",
+  "status": "answered",
+  "answer": "Khi MB bán một khoản nợ nội bảng với giá cao hơn giá trị ghi sổ, phần chênh lệch cao hơn được hạch toán vào thu nhập trong kỳ của MB [mbb-bctc-hn-q3-2026:p017:para1000:000].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p017:para1000:000",
+    "page": 17,
+    "text": "Hoạt động bán nợ\nDoanh thu và chi phí bản nợ được ghi nhận theo Thông tư số 09/2015 và Thông tư 18/2022.\nTheo hướng dẫn, phần chênh lệch giữa giá mua, bán nợ và giá trị ghi sổ khoản nợ của bên\nbán nợ được xử lý như sau:\nĐối với các khoản nợ đang được hạch toán nội bảng:\nTrường hợp giá bán cao hơn giá trị ghi sổ khoản nợ thì phần chênh lệch cao hơn\nđược hạch toán vào thu nhập trong kỳ của MB\nTrường hợp giá bán nợ thấp hơn giá trị khoản nợ thì phần chênh lệch thấp hơn được\nbù đắp từ tiền bồi thường của cá nhân, tập thể (trong trường hợp tổn thất đã được\nxác định do cá nhân, tập thể gây ra và phải bồi thường theo quy định), tiền bảo hiểm\ncủa tổ chức bảo hiểm và quỹ dự phòng rủi ro đã được trích lập chi phí trong năm,\nphần còn thiếu được hạch toán vào chi phí kinh doanh của MB trong năm.\nĐối với các khoản nợ đang theo dõi ngoại bảng, khoản nợ đã xuất toán ra khỏi Báo cáo\ntình hình tài chính, thì số tiền bán khoản nợ được hạch toán vào thu nhập khác của MB."
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d13",
+  "answerable": true,
+  "question": "Khoản góp vốn nào được MB xếp vào nhóm đầu tư dài hạn khác?",
+  "expected": "Khoản đầu tư vốn vào đơn vị khác mà MB có tối đa 11% quyền biểu quyết và chưa niêm yết trên thị trường chứng khoán.",
+  "status": "answered",
+  "answer": "Khoản góp vốn được MB xếp vào nhóm đầu tư dài hạn khác bao gồm: đầu tư vào tổ chức kinh tế, dự án dài hạn và đầu tư vào các Quỹ đầu tư. Cụ thể, tính đến 30/09/2026, đầu tư vào tổ chức kinh tế, dự án dài hạn là 452.008 triệu đồng và đầu tư vào các Quỹ đầu tư là 69.740 triệu đồng, tổng cộng 521.748 triệu đồng, đã trừ dự phòng giảm giá 91.228 triệu đồng [mbb-bctc-hn-q3-2026:p036:para1000:001][mbb-bctc-hn-q3-2026:p019:para1000:000].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p036:para1000:001",
+    "page": 36,
+    "text": "9. | Góp vốn, đầu tư dài hạn\nChi tiết các khoản đầu tư dài hạn như sau:\n30/09/2026 | 31/12/2025\nTriệu đồng | Triệu đồng\nĐầu tư dài hạn khác | 521.748 | 559.624\n521.748 | 559.624\nDự phòng giảm giá | (91.228) | (91.228)\n430.520 | 468.396\n9.1 Đầu tư dài hạn khác\n30/09/2026 | 31/12/2025\nTriệu đồng | Triệu đồng\nĐầu tư vào tổ chức kinh tế, dự án dài hạn | 452.008 | 493.184\nĐầu tư vào các Quỹ đầu tư | 69.740 | 66.440\n521.748 | 559.624\n28"
+   },
+   {
+    "id": "mbb-bctc-hn-q3-2026:p019:para1000:000",
+    "page": 19,
+    "text": "Chứng khoán giữ đến ngày đáo hạn được ghi nhận và đo lường tương tự như chứng khoán\nđầu tư sẵn sàng để bán được trình bày tại Thuyết minh số 12.1,\n13. Đầu tư dài hạn khác\nCác khoản đầu tư, góp vốn dài hạn khác thể hiện các khoản đầu tư vốn vào các đơn vị khác\nmà MB có tối đa 11% quyền biểu quyết và chưa niêm yết trên thị trường chứng khoán. Các\nkhoản đầu tư này được ghi nhận theo giá gốc tại thời điểm đầu tư.\nDự phòng giảm giả cho các khoản đầu tư dài hạn được lập trong trường hợp có bằng chứng\nchắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu từ này vào ngày kết thúc niên độ\nkế toán.\nDự phòng được hoàn nhập khi các giá trị có thể thu hồi của khoản đầu tư tăng trở lại sau khi\nlập dự phòng. Khoản dự phòng được ghi nhận hoàn nhập trong phạm vi sao cho giá trị ghi sổ\ncủa các khoản đầu tư không vượt quá giá trị ghi số của các khoản đầu tư này khi giả định không\ncó khoản dự phòng nào đã được ghi nhận."
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null,
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d14",
+  "answerable": true,
+  "question": "Lãi dự thu từ các khoản vay nhóm 2 đến nhóm 5 có được ghi nhận vào báo cáo kết quả hoạt động không?",
+  "expected": "Không; lãi dự thu của các khoản vay nhóm 2-5 (và khoản cơ cấu theo Nghị định 55, Thông tư 53/2024) không được ghi nhận vào báo cáo kết quả hoạt động hợp nhất, mà chuyển ra theo dõi ngoại bảng và chỉ ghi nhận khi MB thực thu.",
+  "status": "answered",
+  "answer": "Lãi dự thu phát sinh từ các khoản cho vay phân loại từ nhóm 2 đến nhóm 5 theo Thông tư 31 và các khoản vay được cơ cấu thời hạn trả nợ theo Nghị định 55 và Thông tư 53/2024 sẽ không được ghi nhận vào báo cáo kết quả hoạt động hợp nhất. Lãi dự thu của các khoản nợ này được chuyển ra theo dõi ở tài khoản ngoại bảng và chỉ được ghi nhận vào báo cáo kết quả hoạt động hợp nhất khi MB thực thu [mbb-bctc-hn-q3-2026:p026:para1000:000].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p026:para1000:000",
+    "page": 26,
+    "text": "29. Ghi nhận doanh thu và chi phí\nDoanh thu và chi phí từ các hoạt động ngân hàng\nDoanh thu lãi và chi phí lãi được ghi nhận trong báo cáo kết quả hoạt động riêng trên cơ sở dự\nthu, dự chi. Lãi dự thu phát sinh từ các khoản cho vay phân loại từ nhóm 2 đến nhóm 5 theo\nThông tư 31 và các khoản vay được cơ cấu thời hạn trả nợ theo Nghị định 55 và Thông tư\n53/2024 sẽ không được ghi nhận vào báo cáo kết quả hoạt động hợp nhất. Lãi dự thu của các\nkhoản nợ này được chuyển ra theo dõi ở tài khoản ngoại bảng và được ghi nhận vào Báo cáo\nkết quả hoạt động hợp nhất khi MB thực thu.\nCác khoản phí dịch vụ ngân hàng được ghi nhận khi dịch vụ được thực hiện."
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d15",
+  "answerable": true,
+  "question": "Theo phần chính sách kế toán, dự phòng chung được lập ở mức bao nhiêu?",
+  "expected": "0,75% tổng số dư nợ nhóm 1 đến 4 (trừ tiền gửi/cho vay TCTD khác và nợ nhóm 5).",
+  "status": "abstain",
+  "answer": "Báo cáo không nêu rõ mức lập dự phòng chung cụ thể. Các đoạn tài liệu chỉ đề cập đến dự phòng cụ thể và các loại dự phòng khác như dự phòng dao động lớn và dự phòng đảm bảo cân đối, nhưng không có thông tin về mức lập dự phòng chung.",
+  "cited": [],
+  "answer_grade": null,
+  "citation_support": [],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "d16",
+  "answerable": true,
+  "question": "Trong các phân tích rủi ro ở thuyết minh V, chứng khoán kinh doanh được xếp vào nhóm kỳ hạn nào?",
+  "expected": "Kỳ hạn đến một tháng.",
+  "status": "answered",
+  "answer": "Chứng khoán kinh doanh được xếp vào loại kỳ hạn đến một tháng trong các phân tích rủi ro ở thuyết minh V [mbb-bctc-hn-q3-2026:p059:para1000:003].",
+  "cited": [
+   {
+    "id": "mbb-bctc-hn-q3-2026:p059:para1000:003",
+    "page": 59,
+    "text": "Chứng khoán kinh doanh được xếp vào loại kỳ hạn đến một tháng;\nThời gian đáo hạn của chứng khoán đầu tư là chứng khoản nợ được tính dựa trên ngày\nđáo hạn của từng loại chứng khoán;\nThời gian đến hạn của các khoản góp vốn mua cổ phần, chứng khoán đầu tư là chứng\nkhoán vốn được coi là từ (1) năm đến (5) năm do các khoản đầu tư này không có thời\ngian đáo hạn xác định;\nCác khoản tiền gửi, tiền vay của các tổ chức tín dụng và các khoản tiền gửi của khách\nhàng được xác định dựa vào tính chất của các khoản này hoặc thời gian đảo hạn trên hợp\nđồng. Tiền gửi thanh toán được xác định dựa trên kết quả phân tích mô hình hành vi khách\nhàng. Thời gian đảo hạn đối với các khoản vay và tiền gửi có kỳ hạn được xác định dựa\ntrên ngày đến hạn theo hợp đồng;\nThời gian đáo hạn của khoản mục phát hành giấy tờ có giá được tính dựa trên ngày đảo\nhạn theo hợp đồng của từng loại giấy tờ có giá; và\nThời gian đáo hạn của tài sản cố định được xác định xếp vào loại từ một (1) năm đến năm\n(5) năm.\n51"
+   }
+  ],
+  "answer_grade": null,
+  "citation_support": [
+   null
+  ],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "dn01",
+  "answerable": false,
+  "question": "Tỷ lệ an toàn vốn (CAR) hợp nhất của MB tại ngày 30/09/2026 là bao nhiêu phần trăm?",
+  "expected": "BCTC quý không trình bày tỷ lệ an toàn vốn. Chỉ có vốn điều lệ, vốn chủ sở hữu và dòng tiền phát hành giấy tờ có giá 'đủ điều kiện tính vào vốn tự có' (tr.8); không có tỷ lệ CAR và không có tổng tài sản có rủi ro quy đổi để tính. Lưu ý: 'tài sản có rủi ro tín dụng' tr.20-21 là cách phân loại khoản phải thu, không phải RWA.",
+  "status": "abstain",
+  "answer": "Báo cáo tài chính hợp nhất Quý III/2026 của MB không cung cấp thông tin cụ thể về tỷ lệ an toàn vốn (CAR) hợp nhất tại ngày 30/09/2026 trong các đoạn tài liệu được tìm thấy.",
+  "cited": [],
+  "answer_grade": null,
+  "citation_support": [],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "dn02",
+  "answerable": false,
+  "question": "Tại ngày 30/09/2026 MB có bao nhiêu khách hàng cá nhân đang sử dụng dịch vụ?",
+  "expected": "Tài liệu có số chi nhánh/phòng giao dịch (tr.10) và số nhân viên (tr.11) nhưng không có số lượng khách hàng; 'khách hàng' chỉ xuất hiện trong chính sách tín dụng và số dư cho vay/tiền gửi.",
+  "status": "abstain",
+  "answer": "Báo cáo tài chính hợp nhất Quý III/2026 của MB không cung cấp thông tin cụ thể về số lượng khách hàng cá nhân đang sử dụng dịch vụ tại ngày 30/09/2026.",
+  "cited": [],
+  "answer_grade": null,
+  "citation_support": [],
+  "abstention_correct": null,
+  "reason": ""
+ },
+ {
+  "query_id": "dn03",
+  "answerable": false,
+  "question": "Lãi suất tiết kiệm kỳ hạn 12 tháng MB áp dụng cho khách hàng tại ngày 30/09/2026 là bao nhiêu?",
+  "expected": "Tài liệu có số dư tiền gửi khách hàng (tr.43) và bảng rủi ro lãi suất theo kỳ định lại lãi suất (tr.56-57) nhưng không công bố mức lãi suất huy động; 'lãi suất bình quân' tr.24 là lãi suất trái phiếu Chính phủ dùng cho dự phòng bảo hiểm.",
+  "status": "abstain",
+  "answer": "Báo cáo tài chính hợp nhất Quý III/2026 của MB không cung cấp thông tin cụ thể về lãi suất tiết kiệm kỳ hạn 12 tháng áp dụng cho khách hàng tại ngày 30/09/2026.",
+  "cited": [],
+  "answer_grade": null,
+  "citation_support": [],
+  "abstention_correct": null,
+  "reason": ""
+ }
+]

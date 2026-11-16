@@ -1,0 +1,171 @@
+[
+ {
+  "query_id": "d01",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d02",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d03",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d04",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d05",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d06",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d07",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d08",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d09",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d10",
+  "citation_support": [
+   true,
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d11",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d12",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d13",
+  "citation_support": [
+   true,
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d14",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d15",
+  "citation_support": [
+   true,
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d16",
+  "citation_support": [
+   true,
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "dn01",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm khẳng định."
+ },
+ {
+  "query_id": "dn02",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm khẳng định."
+ },
+ {
+  "query_id": "dn03",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm khẳng định."
+ }
+]

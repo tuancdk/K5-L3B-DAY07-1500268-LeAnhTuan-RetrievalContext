@@ -1,0 +1,164 @@
+[
+ {
+  "query_id": "d01",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 0,
+  "reason": "Từ chối nhầm: dense không lấy được tr.9."
+ },
+ {
+  "query_id": "d02",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 0,
+  "reason": "Từ chối nhầm (v2 không filter trả lời đúng): dense không lấy được tr.10 ở lần chạy này."
+ },
+ {
+  "query_id": "d03",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d04",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d05",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d06",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d07",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d08",
+  "citation_support": [
+   false,
+   false
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 1,
+  "reason": "Nói nợ xấu là nhóm 3 trở lên, liệt kê tiêu chí nhóm 3 và 5 nhưng bỏ sót nhóm 4 trong phần 'cụ thể'; chunk được cite (tr.14, tr.15) không nói các nhóm này là nợ xấu."
+ },
+ {
+  "query_id": "d09",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d10",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d11",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d12",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d13",
+  "citation_support": [
+   true,
+   false
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 1,
+  "reason": "Như dense-v2: số liệu đúng, thiếu tiêu chí."
+ },
+ {
+  "query_id": "d14",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d15",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 0,
+  "reason": "Từ chối nhầm dù đã lọc section chính sách kế toán: dense vẫn không xếp tr.15 vào top-3."
+ },
+ {
+  "query_id": "d16",
+  "citation_support": [
+   true,
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "dn01",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm khẳng định."
+ },
+ {
+  "query_id": "dn02",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm khẳng định."
+ },
+ {
+  "query_id": "dn03",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm khẳng định."
+ }
+]

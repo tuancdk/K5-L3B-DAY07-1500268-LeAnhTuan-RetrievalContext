@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "run_at": "2026-11-16T02:50:48+00:00",
+    "split": "dev",
+    "index": "B",
+    "top_k": 3,
+    "budget_chars": 4000,
+    "candidates": 20,
+    "rrf_k": 60,
+    "bm25_bigrams": true,
+    "use_filter": false,
+    "questions": 19,
+    "answerable": 16,
+    "embedding_usage": {
+      "model": "text-embedding-3-small",
+      "dimensions": 1536,
+      "api_calls": 19,
+      "total_tokens": 759,
+      "estimated_cost_usd": 1.5e-05
+    },
+    "note": "latency of hybrid_rerank includes its hybrid first stage; dense/hybrid share a cached query embedding"
+  },
+  "summary": {
+    "dense": {
+      "hit_at_1": "7/16",
+      "evidence_hit_at_3": "12/16",
+      "mrr_at_10": 0.583,
+      "context_evidence_rate": "12/16",
+      "candidate_recall": "n/a",
+      "mean_context_chars": 2630.4,
+      "median_ms": 387.5,
+      "errors": 0,
+      "misses_at_3": [
+        "d01",
+        "d02",
+        "d03",
+        "d08"
+      ]
+    },
+    "bm25": {
+      "hit_at_1": "15/16",
+      "evidence_hit_at_3": "16/16",
+      "mrr_at_10": 0.969,
+      "context_evidence_rate": "16/16",
+      "candidate_recall": "n/a",
+      "mean_context_chars": 2685.6,
+      "median_ms": 3.2,
+      "errors": 0,
+      "misses_at_3": []
+    },
+    "hybrid": {
+      "hit_at_1": "12/16",
+      "evidence_hit_at_3": "14/16",
+      "mrr_at_10": 0.802,
+      "context_evidence_rate": "14/16",
+      "candidate_recall": "16/16",
+      "mean_context_chars": 2713.1,
+      "median_ms": 54.2,
+      "errors": 0,
+      "misses_at_3": [
+        "d01",
+        "d08"
+      ]
+    },
+    "hybrid_rerank": {
+      "hit_at_1": "14/16",
+      "evidence_hit_at_3": "16/16",
+      "mrr_at_10": 0.938,
+      "context_evidence_rate": "16/16",
+      "candidate_recall": "16/16",
+      "mean_context_chars": 2712.9,
+      "median_ms": 2456.8,
+      "errors": 0,
+      "misses_at_3": [],
+      "llm": {
+        "model": "gpt-4.1-mini-2025-04-14",
+        "calls": 19,
+        "input_tokens": 103884,
+        "output_tokens": 4636,
+        "cost_usd": 0.04897
+      }
+    }
+  }
+}
