@@ -1,6 +1,17 @@
 # Benchmark Day 7
 
-**Trạng thái:** bản nháp ngày 2026-11-16, soạn **trước khi chạy bất kỳ retrieval hay agent nào của Day 7**. Học viên đọc lại, xác nhận rồi đổi dòng này thành `FROZEN <ngày>` trước khi chạy dev. Sau mốc đó không sửa câu test.
+**Trạng thái: FROZEN 2026-11-16** (học viên xác nhận), trước khi chạy test lần đầu.
+
+- **Thời điểm soạn:** bản nháp soạn ngày 2026-11-16, trước mọi lần chạy retrieval hay agent của Day 7.
+- **Sai lệch so với kế hoạch:** kế hoạch là FROZEN trước khi chạy dev, nhưng thực tế benchmark được chốt **sau** khi chạy dev. Thay đổi duy nhất trong lúc chạy dev là `absence_reason` của câu **dev** dn03, sửa vì phát hiện tr.44 có lãi suất chứng chỉ tiền gửi. Nội dung câu hỏi và nhãn không đổi.
+- **Câu test** (t01–t06, tn01–tn03) không thay đổi kể từ khi tạo. Test chưa được chạy trước mốc FROZEN.
+- **sha256 khi chốt:**
+  - `questions.json` = `61e610aab7ee2a1470191a9acbe30452e1164858a3e7f242dda2cdcccad3b38e`
+  - `unanswerable.json` = `2624162202c54311f7834278150a4a95a3205ff47b6168c81783d890b6a5acba`
+- **Cấu hình chốt trên dev, trước khi chạy test** (`report/experiments.md`):
+  - cấu hình chọn: agent + BM25 + prompt v2 (top-3, tối đa 4 lượt search, ngân sách 6000 ký tự, không filter, không lấy đoạn lân cận);
+  - baseline: agent + dense + prompt v1.
+- **Quy tắc chạy test:** chạy test đúng một lần cho mỗi cấu hình. Chỉ chạy lại những câu bị `status=error` do lỗi kết nối (`--rerun-errors`), lỗi cũ giữ lại trong trace.
 
 ## 1. Thành phần
 
