@@ -1,0 +1,801 @@
+[
+ {
+  "query_id": "t01",
+  "split": "test",
+  "answerable": true,
+  "question": "MB đóng bảo hiểm xã hội và bảo hiểm tai nạn lao động cho nhân viên theo tỷ lệ nào?",
+  "config": "selected-bm25-v2",
+  "status": "answered",
+  "answer": "MB đóng bảo hiểm xã hội với tỷ lệ 17% và bảo hiểm tai nạn và bệnh nghề nghiệp với tỷ lệ 0,5% lương cơ bản hàng tháng của nhân viên trong thời gian làm việc [mbb-bctc-hn-q3-2026:p028:para1000:003].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p028:para1000:003"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "tỷ lệ đóng bảo hiểm xã hội bảo hiểm tai nạn lao động nhân viên",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p028:para1000:003",
+      "page": 28,
+      "rank": 1,
+      "score": 103.525184
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p029:para1000:000",
+      "page": 29,
+      "rank": 2,
+      "score": 49.008565
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p027:para1000:000",
+      "page": 27,
+      "rank": 3,
+      "score": 36.959229
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p028:para1000:003",
+     "mbb-bctc-hn-q3-2026:p029:para1000:000",
+     "mbb-bctc-hn-q3-2026:p027:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 1.8
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p028:para1000:003",
+   "mbb-bctc-hn-q3-2026:p029:para1000:000",
+   "mbb-bctc-hn-q3-2026:p027:para1000:000"
+  ],
+  "context_chars": 2255,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2134,
+   "output_tokens": 140,
+   "cost_usd": 0.001078
+  },
+  "elapsed_ms": 2609.2,
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "t02",
+  "split": "test",
+  "answerable": true,
+  "question": "Lợi thế thương mại từ hợp nhất kinh doanh được phân bổ trong bao lâu?",
+  "config": "selected-bm25-v2",
+  "status": "answered",
+  "answer": "Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian hữu ích được ước tính là mười (10) năm [mbb-bctc-hn-q3-2026:p021:para1000:003].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p021:para1000:003"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "Lợi thế thương mại phân bổ thời gian",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p021:para1000:003",
+      "page": 21,
+      "rank": 1,
+      "score": 50.2758
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p021:para1000:002",
+      "page": 21,
+      "rank": 2,
+      "score": 28.103465
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p009:para1000:000",
+      "page": 9,
+      "rank": 3,
+      "score": 18.74257
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p021:para1000:003",
+     "mbb-bctc-hn-q3-2026:p021:para1000:002",
+     "mbb-bctc-hn-q3-2026:p009:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 2.2
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p021:para1000:003",
+   "mbb-bctc-hn-q3-2026:p021:para1000:002",
+   "mbb-bctc-hn-q3-2026:p009:para1000:000"
+  ],
+  "context_chars": 1911,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2045,
+   "output_tokens": 118,
+   "cost_usd": 0.001007
+  },
+  "elapsed_ms": 2230.9,
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "t03",
+  "split": "test",
+  "answerable": true,
+  "question": "Khi mua một khoản nợ, MB phân loại số tiền đã trả vào nhóm nợ nào?",
+  "config": "selected-bm25-v2",
+  "status": "answered",
+  "answer": "Khi mua một khoản nợ, MB phân loại số tiền đã thanh toán để mua nợ vào nhóm có mức độ rủi ro không thấp hơn nhóm mà khoản nợ đó đã được phân loại trước khi mua. Việc phân loại nợ và trích lập dự phòng cho các khoản mua nợ được thực hiện tương tự như các khoản cho vay khách hàng khác [mbb-bctc-hn-q3-2026:p016:para1000:002].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p016:para1000:002"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "phân loại khoản nợ mua",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p016:para1000:002",
+      "page": 16,
+      "rank": 1,
+      "score": 17.340691
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p013:para1000:001",
+      "page": 13,
+      "rank": 2,
+      "score": 15.570496
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p015:para1000:002",
+      "page": 15,
+      "rank": 3,
+      "score": 13.010958
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p016:para1000:002",
+     "mbb-bctc-hn-q3-2026:p013:para1000:001",
+     "mbb-bctc-hn-q3-2026:p015:para1000:002"
+    ],
+    "skipped_budget": [],
+    "ms": 3.4
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p016:para1000:002",
+   "mbb-bctc-hn-q3-2026:p013:para1000:001",
+   "mbb-bctc-hn-q3-2026:p015:para1000:002"
+  ],
+  "context_chars": 2601,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2308,
+   "output_tokens": 163,
+   "cost_usd": 0.001184
+  },
+  "elapsed_ms": 2570.3,
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "t04",
+  "split": "test",
+  "answerable": true,
+  "question": "MIC và MBLife trích quỹ dự trữ bắt buộc theo tỷ lệ nào và đến khi nào thì dừng?",
+  "config": "selected-bm25-v2",
+  "status": "answered",
+  "answer": "MIC và MBLife phải trích lập quỹ dự trữ bắt buộc từ lợi nhuận sau thuế theo tỷ lệ 5% cho tới khi quỹ này bằng 10% mức vốn điều lệ [mbb-bctc-hn-q3-2026:p025:para1000:003].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p025:para1000:003"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "MIC MBLife trích quỹ dự trữ bắt buộc tỷ lệ dừng",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p025:para1000:003",
+      "page": 25,
+      "rank": 1,
+      "score": 69.188786
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p025:para1000:002",
+      "page": 25,
+      "rank": 2,
+      "score": 31.293137
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p059:para1000:002",
+      "page": 59,
+      "rank": 3,
+      "score": 28.760415
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p025:para1000:003",
+     "mbb-bctc-hn-q3-2026:p025:para1000:002",
+     "mbb-bctc-hn-q3-2026:p059:para1000:002"
+    ],
+    "skipped_budget": [],
+    "ms": 2.6
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p025:para1000:003",
+   "mbb-bctc-hn-q3-2026:p025:para1000:002",
+   "mbb-bctc-hn-q3-2026:p059:para1000:002"
+  ],
+  "context_chars": 2580,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2277,
+   "output_tokens": 141,
+   "cost_usd": 0.001136
+  },
+  "elapsed_ms": 2967.2,
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "t05",
+  "split": "test",
+  "answerable": true,
+  "question": "Theo thuyết minh bổ sung cho báo cáo kết quả hoạt động, ngân hàng chịu thuế suất thuế TNDN bao nhiêu?",
+  "config": "selected-bm25-v2",
+  "status": "answered",
+  "answer": "Ngân hàng chịu thuế suất thuế thu nhập doanh nghiệp (TNDN) 20% trên thu nhập chịu thuế [mbb-bctc-hn-q3-2026:p050:para1000:001].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p050:para1000:001"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "thuế suất thuế TNDN",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p006:para1000:003",
+      "page": 6,
+      "rank": 1,
+      "score": 21.301434
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p050:para1000:001",
+      "page": 50,
+      "rank": 2,
+      "score": 21.076348
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p027:para1000:004",
+      "page": 27,
+      "rank": 3,
+      "score": 18.710791
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p006:para1000:003",
+     "mbb-bctc-hn-q3-2026:p050:para1000:001",
+     "mbb-bctc-hn-q3-2026:p027:para1000:004"
+    ],
+    "skipped_budget": [],
+    "ms": 1.1
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p006:para1000:003",
+   "mbb-bctc-hn-q3-2026:p050:para1000:001",
+   "mbb-bctc-hn-q3-2026:p027:para1000:004"
+  ],
+  "context_chars": 1740,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2135,
+   "output_tokens": 114,
+   "cost_usd": 0.001036
+  },
+  "elapsed_ms": 2286.3,
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "t06",
+  "split": "test",
+  "answerable": true,
+  "question": "Trong phần cam kết ngoại bảng ở thuyết minh V, mức ký quỹ MB yêu cầu khách hàng dao động trong khoảng nào?",
+  "config": "selected-bm25-v2",
+  "status": "answered",
+  "answer": "MB yêu cầu khách hàng ký quỹ để đảm bảo cho các công cụ tài chính liên quan đến tín dụng khi cần thiết, với giá trị ký quỹ dao động từ 0% đến 100% giá trị cam kết được cấp, tùy thuộc vào mức độ tin cậy của khách hàng do Ngân hàng đánh giá [mbb-bctc-hn-q3-2026:p051:para1000:002].",
+  "citations": [
+   "mbb-bctc-hn-q3-2026:p051:para1000:002"
+  ],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "cam kết ngoại bảng mức ký quỹ",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p051:para1000:000",
+      "page": 51,
+      "rank": 1,
+      "score": 25.016328
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p051:para1000:002",
+      "page": 51,
+      "rank": 2,
+      "score": 21.467282
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p013:para1000:001",
+      "page": 13,
+      "rank": 3,
+      "score": 18.226863
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p051:para1000:000",
+     "mbb-bctc-hn-q3-2026:p051:para1000:002",
+     "mbb-bctc-hn-q3-2026:p013:para1000:001"
+    ],
+    "skipped_budget": [],
+    "ms": 1.3
+   },
+   {
+    "event": "answer",
+    "abstain": false
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 1,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p051:para1000:000",
+   "mbb-bctc-hn-q3-2026:p051:para1000:002",
+   "mbb-bctc-hn-q3-2026:p013:para1000:001"
+  ],
+  "context_chars": 2542,
+  "usage": {
+   "turns": 2,
+   "input_tokens": 2301,
+   "output_tokens": 154,
+   "cost_usd": 0.001167
+  },
+  "elapsed_ms": 2472.1,
+  "context_evidence": true,
+  "cited_evidence": true
+ },
+ {
+  "query_id": "tn01",
+  "split": "test",
+  "answerable": false,
+  "question": "Kế hoạch lợi nhuận trước thuế năm 2026 mà Đại hội đồng Cổ đông MB thông qua là bao nhiêu?",
+  "config": "selected-bm25-v2",
+  "status": "abstain",
+  "answer": "Tài liệu không đủ bằng chứng để xác định kế hoạch lợi nhuận trước thuế năm 2026 mà Đại hội đồng Cổ đông MB thông qua.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "kế hoạch lợi nhuận trước thuế năm 2026 Đại hội đồng Cổ đông MB",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p025:para1000:002",
+      "page": 25,
+      "rank": 1,
+      "score": 52.090327
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p025:para1000:003",
+      "page": 25,
+      "rank": 2,
+      "score": 43.094988
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p052:para1000:002",
+      "page": 52,
+      "rank": 3,
+      "score": 38.062467
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p025:para1000:002",
+     "mbb-bctc-hn-q3-2026:p025:para1000:003",
+     "mbb-bctc-hn-q3-2026:p052:para1000:002"
+    ],
+    "skipped_budget": [],
+    "ms": 2.5
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "kế hoạch lợi nhuận trước thuế năm 2026 Đại hội đồng Cổ đông MB thông qua",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p025:para1000:002",
+      "page": 25,
+      "rank": 1,
+      "score": 52.090327
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p025:para1000:003",
+      "page": 25,
+      "rank": 2,
+      "score": 43.094988
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p052:para1000:002",
+      "page": 52,
+      "rank": 3,
+      "score": 38.062467
+     }
+    ],
+    "new_context_ids": [],
+    "skipped_budget": [],
+    "ms": 1.5
+   },
+   {
+    "event": "answer",
+    "abstain": true,
+    "model_citations": [
+     "mbb-bctc-hn-q3-2026:p025:para1000:002",
+     "mbb-bctc-hn-q3-2026:p025:para1000:003",
+     "mbb-bctc-hn-q3-2026:p052:para1000:002"
+    ]
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 2,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p025:para1000:002",
+   "mbb-bctc-hn-q3-2026:p025:para1000:003",
+   "mbb-bctc-hn-q3-2026:p052:para1000:002"
+  ],
+  "context_chars": 1987,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 3772,
+   "output_tokens": 186,
+   "cost_usd": 0.001806
+  },
+  "elapsed_ms": 4425.8
+ },
+ {
+  "query_id": "tn02",
+  "split": "test",
+  "answerable": false,
+  "question": "Giá đóng cửa của cổ phiếu MBB vào ngày 30/09/2026 là bao nhiêu đồng?",
+  "config": "selected-bm25-v2",
+  "status": "abstain",
+  "answer": "Báo cáo tài chính hợp nhất Quý III/2026 của MB không cung cấp thông tin về giá đóng cửa cổ phiếu MBB vào ngày 30/09/2026.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "giá đóng cửa cổ phiếu MBB ngày 30/09/2026",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p045:para1000:000",
+      "page": 45,
+      "rank": 1,
+      "score": 25.68583
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p045:para1000:001",
+      "page": 45,
+      "rank": 2,
+      "score": 24.736954
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p008:para1000:000",
+      "page": 8,
+      "rank": 3,
+      "score": 19.573458
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p045:para1000:000",
+     "mbb-bctc-hn-q3-2026:p045:para1000:001",
+     "mbb-bctc-hn-q3-2026:p008:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 1.3
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "giá cổ phiếu MBB ngày 30/09/2026",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p045:para1000:000",
+      "page": 45,
+      "rank": 1,
+      "score": 25.68583
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p045:para1000:001",
+      "page": 45,
+      "rank": 2,
+      "score": 24.736954
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p008:para1000:000",
+      "page": 8,
+      "rank": 3,
+      "score": 19.573458
+     }
+    ],
+    "new_context_ids": [],
+    "skipped_budget": [],
+    "ms": 2.1
+   },
+   {
+    "event": "answer",
+    "abstain": true,
+    "model_citations": [
+     "mbb-bctc-hn-q3-2026:p045:para1000:000",
+     "mbb-bctc-hn-q3-2026:p045:para1000:001",
+     "mbb-bctc-hn-q3-2026:p008:para1000:000"
+    ]
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 2,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p045:para1000:000",
+   "mbb-bctc-hn-q3-2026:p045:para1000:001",
+   "mbb-bctc-hn-q3-2026:p008:para1000:000"
+  ],
+  "context_chars": 1774,
+  "usage": {
+   "turns": 3,
+   "input_tokens": 3918,
+   "output_tokens": 183,
+   "cost_usd": 0.00186
+  },
+  "elapsed_ms": 3315.8
+ },
+ {
+  "query_id": "tn03",
+  "split": "test",
+  "answerable": false,
+  "question": "Tỷ lệ nợ xấu riêng của công ty con MCredit tại ngày 30/09/2026 là bao nhiêu?",
+  "config": "selected-bm25-v2",
+  "status": "abstain",
+  "answer": "Tài liệu không cung cấp thông tin về tỷ lệ nợ xấu riêng của công ty con MCredit tại ngày 30/09/2026.",
+  "citations": [],
+  "events": [
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "tỷ lệ nợ xấu MCredit 30/09/2026",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p014:para1000:000",
+      "page": 14,
+      "rank": 1,
+      "score": 18.865136
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p025:para1000:003",
+      "page": 25,
+      "rank": 2,
+      "score": 15.104824
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p048:para1000:000",
+      "page": 48,
+      "rank": 3,
+      "score": 13.222395
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p014:para1000:000",
+     "mbb-bctc-hn-q3-2026:p025:para1000:003",
+     "mbb-bctc-hn-q3-2026:p048:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 2.3
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "tỷ lệ nợ xấu MCredit",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p025:para1000:003",
+      "page": 25,
+      "rank": 1,
+      "score": 15.104824
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p014:para1000:000",
+      "page": 14,
+      "rank": 2,
+      "score": 15.01293
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p027:para1000:000",
+      "page": 27,
+      "rank": 3,
+      "score": 12.703811
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p027:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 1.1
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "nợ xấu MCredit 30/09/2026",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p035:para1000:000",
+      "page": 35,
+      "rank": 1,
+      "score": 12.369169
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p042:para1000:001",
+      "page": 42,
+      "rank": 2,
+      "score": 12.358118
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p047:para1000:002",
+      "page": 47,
+      "rank": 3,
+      "score": 11.514801
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p035:para1000:000",
+     "mbb-bctc-hn-q3-2026:p042:para1000:001",
+     "mbb-bctc-hn-q3-2026:p047:para1000:002"
+    ],
+    "skipped_budget": [],
+    "ms": 0.9
+   },
+   {
+    "event": "search",
+    "tool": "search_documents",
+    "retriever": "bm25",
+    "query": "tỷ lệ nợ xấu MCredit công ty con",
+    "filter": null,
+    "top_k": 3,
+    "results": [
+     {
+      "id": "mbb-bctc-hn-q3-2026:p025:para1000:003",
+      "page": 25,
+      "rank": 1,
+      "score": 24.79874
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p010:para1000:000",
+      "page": 10,
+      "rank": 2,
+      "score": 24.568617
+     },
+     {
+      "id": "mbb-bctc-hn-q3-2026:p012:para1000:000",
+      "page": 12,
+      "rank": 3,
+      "score": 21.847383
+     }
+    ],
+    "new_context_ids": [
+     "mbb-bctc-hn-q3-2026:p010:para1000:000",
+     "mbb-bctc-hn-q3-2026:p012:para1000:000"
+    ],
+    "skipped_budget": [],
+    "ms": 1.4
+   },
+   {
+    "event": "answer",
+    "abstain": true,
+    "model_citations": []
+   }
+  ],
+  "model": "gpt-4.1-mini",
+  "searches": 4,
+  "context_ids": [
+   "mbb-bctc-hn-q3-2026:p014:para1000:000",
+   "mbb-bctc-hn-q3-2026:p025:para1000:003",
+   "mbb-bctc-hn-q3-2026:p048:para1000:000",
+   "mbb-bctc-hn-q3-2026:p027:para1000:000",
+   "mbb-bctc-hn-q3-2026:p035:para1000:000",
+   "mbb-bctc-hn-q3-2026:p042:para1000:001",
+   "mbb-bctc-hn-q3-2026:p047:para1000:002",
+   "mbb-bctc-hn-q3-2026:p010:para1000:000",
+   "mbb-bctc-hn-q3-2026:p012:para1000:000"
+  ],
+  "context_chars": 5049,
+  "usage": {
+   "turns": 5,
+   "input_tokens": 9624,
+   "output_tokens": 156,
+   "cost_usd": 0.004099
+  },
+  "elapsed_ms": 5337.2
+ }
+]

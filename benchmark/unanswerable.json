@@ -6,8 +6,18 @@
   "answerable": false,
   "expected_behavior": "search_and_abstain",
   "absence_reason": "BCTC quý không trình bày tỷ lệ an toàn vốn. Chỉ có vốn điều lệ, vốn chủ sở hữu và dòng tiền phát hành giấy tờ có giá 'đủ điều kiện tính vào vốn tự có' (tr.8); không có tỷ lệ CAR và không có tổng tài sản có rủi ro quy đổi để tính. Lưu ý: 'tài sản có rủi ro tín dụng' tr.20-21 là cách phân loại khoản phải thu, không phải RWA.",
-  "near_topic_pages": [8, 44, 45],
-  "absent_terms": ["an toàn vốn", "CAR", "Basel", "hệ số an toàn vốn", "tài sản có rủi ro quy đổi"]
+  "near_topic_pages": [
+   8,
+   44,
+   45
+  ],
+  "absent_terms": [
+   "an toàn vốn",
+   "CAR",
+   "Basel",
+   "hệ số an toàn vốn",
+   "tài sản có rủi ro quy đổi"
+  ]
  },
  {
   "id": "dn02",
@@ -16,8 +26,17 @@
   "answerable": false,
   "expected_behavior": "search_and_abstain",
   "absence_reason": "Tài liệu có số chi nhánh/phòng giao dịch (tr.10) và số nhân viên (tr.11) nhưng không có số lượng khách hàng; 'khách hàng' chỉ xuất hiện trong chính sách tín dụng và số dư cho vay/tiền gửi.",
-  "near_topic_pages": [10, 11, 43],
-  "absent_terms": ["khách hàng cá nhân", "số lượng khách hàng", "người dùng", "tài khoản thanh toán"]
+  "near_topic_pages": [
+   10,
+   11,
+   43
+  ],
+  "absent_terms": [
+   "khách hàng cá nhân",
+   "số lượng khách hàng",
+   "người dùng",
+   "tài khoản thanh toán"
+  ]
  },
  {
   "id": "dn03",
@@ -25,9 +44,19 @@
   "question": "Lãi suất tiết kiệm kỳ hạn 12 tháng MB áp dụng cho khách hàng tại ngày 30/09/2026 là bao nhiêu?",
   "answerable": false,
   "expected_behavior": "search_and_abstain",
-  "absence_reason": "Tài liệu có số dư tiền gửi khách hàng (tr.43) và bảng rủi ro lãi suất theo kỳ định lại lãi suất (tr.56-57) nhưng không công bố mức lãi suất huy động; 'lãi suất bình quân' tr.24 là lãi suất trái phiếu Chính phủ dùng cho dự phòng bảo hiểm.",
-  "near_topic_pages": [24, 43, 56, 57],
-  "absent_terms": ["tiết kiệm", "kỳ hạn 12", "lãi suất huy động"]
+  "absence_reason": "Tài liệu không có lãi suất tiết kiệm/tiền gửi theo kỳ hạn. Gần chủ đề: số dư tiền gửi khách hàng (tr.43), bảng rủi ro lãi suất theo kỳ định lại lãi suất (tr.56-57), và khoảng lãi suất phát hành giấy tờ có giá (tr.44: chứng chỉ tiền gửi 4,70%-11,18%/năm, trái phiếu 5,40%-9,20%/năm) - đây là lãi suất chứng chỉ tiền gửi, không phải lãi suất tiết kiệm kỳ hạn 12 tháng. 'lãi suất bình quân' tr.24 là lãi suất trái phiếu Chính phủ dùng cho dự phòng bảo hiểm. Sửa 2026-11-16 (trước FROZEN): bản đầu ghi sai 'không công bố mức lãi suất huy động'; phát hiện khi chấm dev.",
+  "near_topic_pages": [
+   24,
+   43,
+   44,
+   56,
+   57
+  ],
+  "absent_terms": [
+   "tiết kiệm",
+   "kỳ hạn 12",
+   "lãi suất huy động"
+  ]
  },
  {
   "id": "tn01",
@@ -36,8 +65,18 @@
   "answerable": false,
   "expected_behavior": "search_and_abstain",
   "absence_reason": "Tài liệu có lợi nhuận trước thuế thực hiện (tr.6) nhưng không có kế hoạch năm; 'Đại hội đồng Cổ đông' chỉ xuất hiện khi nói về trích quỹ (tr.25) và thù lao HĐQT/BKS (tr.52); 'kế hoạch' chỉ có trong tên 'Sở kế hoạch và Đầu tư' (tr.10); 'chỉ tiêu' chỉ là tên dòng/cột bảng (tr.5, 28, 44, 51).",
-  "near_topic_pages": [6, 25, 48, 52],
-  "absent_terms": ["kế hoạch lợi nhuận", "kế hoạch kinh doanh", "mục tiêu lợi nhuận", "hoàn thành kế hoạch"]
+  "near_topic_pages": [
+   6,
+   25,
+   48,
+   52
+  ],
+  "absent_terms": [
+   "kế hoạch lợi nhuận",
+   "kế hoạch kinh doanh",
+   "mục tiêu lợi nhuận",
+   "hoàn thành kế hoạch"
+  ]
  },
  {
   "id": "tn02",
@@ -46,8 +85,15 @@
   "answerable": false,
   "expected_behavior": "search_and_abstain",
   "absence_reason": "Tài liệu có số lượng cổ phiếu và EPS (tr.45); 'giá đóng cửa' tr.17 chỉ là chính sách định giá chứng khoán kinh doanh MB nắm giữ, không phải giá cổ phiếu MBB.",
-  "near_topic_pages": [17, 45],
-  "absent_terms": ["giá cổ phiếu MBB", "thị giá", "vốn hóa thị trường"]
+  "near_topic_pages": [
+   17,
+   45
+  ],
+  "absent_terms": [
+   "giá cổ phiếu MBB",
+   "thị giá",
+   "vốn hóa thị trường"
+  ]
  },
  {
   "id": "tn03",
@@ -56,7 +102,16 @@
   "answerable": false,
   "expected_behavior": "search_and_abstain",
   "absence_reason": "Phân loại nhóm nợ (tr.31-34) là số hợp nhất; báo cáo bộ phận (tr.54) không tách tài chính tiêu dùng và không có nợ xấu theo công ty con. MCredit chỉ xuất hiện ở danh sách công ty con (tr.10) và chính sách trích quỹ (tr.25).",
-  "near_topic_pages": [10, 25, 31, 54],
-  "absent_terms": ["nợ xấu của MCredit", "tỷ lệ nợ xấu", "NPL"]
+  "near_topic_pages": [
+   10,
+   25,
+   31,
+   54
+  ],
+  "absent_terms": [
+   "nợ xấu của MCredit",
+   "tỷ lệ nợ xấu",
+   "NPL"
+  ]
  }
 ]

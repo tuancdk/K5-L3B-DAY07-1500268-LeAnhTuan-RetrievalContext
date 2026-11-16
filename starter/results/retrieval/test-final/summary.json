@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "run_at": "2026-11-16T04:41:07+00:00",
+    "split": "test",
+    "index": "B",
+    "top_k": 3,
+    "budget_chars": 4000,
+    "candidates": 20,
+    "rrf_k": 60,
+    "bm25_bigrams": true,
+    "use_filter": false,
+    "questions": 9,
+    "answerable": 6,
+    "embedding_usage": {
+      "model": "text-embedding-3-small",
+      "dimensions": 1536,
+      "api_calls": 9,
+      "total_tokens": 365,
+      "estimated_cost_usd": 7e-06
+    },
+    "note": "latency of hybrid_rerank includes its hybrid first stage; dense/hybrid share a cached query embedding"
+  },
+  "summary": {
+    "dense": {
+      "hit_at_1": "4/6",
+      "evidence_hit_at_3": "6/6",
+      "mrr_at_10": 0.833,
+      "context_evidence_rate": "6/6",
+      "candidate_recall": "n/a",
+      "mean_context_chars": 2578.7,
+      "median_ms": 276.3,
+      "errors": 0,
+      "misses_at_3": []
+    },
+    "bm25": {
+      "hit_at_1": "6/6",
+      "evidence_hit_at_3": "6/6",
+      "mrr_at_10": 1.0,
+      "context_evidence_rate": "6/6",
+      "candidate_recall": "n/a",
+      "mean_context_chars": 2836.2,
+      "median_ms": 1.1,
+      "errors": 0,
+      "misses_at_3": []
+    }
+  }
+}

@@ -1,0 +1,163 @@
+[
+ {
+  "query_id": "d01",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 0,
+  "reason": "Từ chối nhầm: 3 lượt search gần như cùng query, dense không lấy được tr.9."
+ },
+ {
+  "query_id": "d02",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 0,
+  "reason": "Từ chối nhầm: query lặp lại, không lấy được tr.10."
+ },
+ {
+  "query_id": "d03",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d04",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d05",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d06",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d07",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d08",
+  "citation_support": [
+   false
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 1,
+  "reason": "Nhóm nợ xấu đúng, nhưng chỉ cite bảng phân loại dư nợ tr.31: bảng có số liệu từng nhóm (số liệu đúng) nhưng không nói các nhóm này là nợ xấu -> thiếu evidence cho ý chính."
+ },
+ {
+  "query_id": "d09",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d10",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d11",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d12",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d13",
+  "citation_support": [
+   false,
+   false
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 0,
+  "reason": "Không nêu tiêu chí (≤11% quyền biểu quyết, chưa niêm yết); chỉ liệt kê loại đầu tư và nói sai 521.748 là số 'đã trừ dự phòng' (tr.36: 521.748 là trước dự phòng, sau dự phòng 430.520).",
+  "citation_note": "p036 không hỗ trợ ý 'đã trừ dự phòng'; p019 (định nghĩa) không được dùng trong câu trả lời."
+ },
+ {
+  "query_id": "d14",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "d15",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 0,
+  "reason": "Từ chối nhầm: tìm 2 lần cùng query 'dự phòng chung mức lập', không thấy tr.15."
+ },
+ {
+  "query_id": "d16",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đúng và đủ so với đáp án; chunk được cite chứa evidence gold."
+ },
+ {
+  "query_id": "dn01",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm khẳng định."
+ },
+ {
+  "query_id": "dn02",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm khẳng định."
+ },
+ {
+  "query_id": "dn03",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời + chunk được cite; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm khẳng định."
+ }
+]

@@ -313,10 +313,11 @@
   "question": "Lãi suất tiết kiệm kỳ hạn 12 tháng MB áp dụng cho khách hàng tại ngày 30/09/2026 là bao nhiêu?",
   "answerable": false,
   "expected_behavior": "search_and_abstain",
-  "absence_reason": "Tài liệu có số dư tiền gửi khách hàng (tr.43) và bảng rủi ro lãi suất theo kỳ định lại lãi suất (tr.56-57) nhưng không công bố mức lãi suất huy động; 'lãi suất bình quân' tr.24 là lãi suất trái phiếu Chính phủ dùng cho dự phòng bảo hiểm.",
+  "absence_reason": "Tài liệu không có lãi suất tiết kiệm/tiền gửi theo kỳ hạn. Gần chủ đề: số dư tiền gửi khách hàng (tr.43), bảng rủi ro lãi suất theo kỳ định lại lãi suất (tr.56-57), và khoảng lãi suất phát hành giấy tờ có giá (tr.44: chứng chỉ tiền gửi 4,70%-11,18%/năm, trái phiếu 5,40%-9,20%/năm) - đây là lãi suất chứng chỉ tiền gửi, không phải lãi suất tiết kiệm kỳ hạn 12 tháng. 'lãi suất bình quân' tr.24 là lãi suất trái phiếu Chính phủ dùng cho dự phòng bảo hiểm. Sửa 2026-11-16 (trước FROZEN): bản đầu ghi sai 'không công bố mức lãi suất huy động'; phát hiện khi chấm dev.",
   "near_topic_pages": [
    24,
    43,
+   44,
    56,
    57
   ],

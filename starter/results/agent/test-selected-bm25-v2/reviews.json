@@ -1,0 +1,89 @@
+[
+ {
+  "query_id": "t01",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời, chunk được cite và context cuối; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "17% BHXH và 0,5% bảo hiểm tai nạn/bệnh nghề nghiệp trên lương cơ bản hàng tháng; khớp p028:003.",
+  "context_grade": 2,
+  "context_reason": "Context cuối chứa chunk gold kèm nhãn chunk_id/trang/mục, đủ điều kiện của đáp án."
+ },
+ {
+  "query_id": "t02",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời, chunk được cite và context cuối; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Đường thẳng, 10 năm; khớp p021:003.",
+  "context_grade": 2,
+  "context_reason": "Context cuối chứa chunk gold kèm nhãn chunk_id/trang/mục, đủ điều kiện của đáp án."
+ },
+ {
+  "query_id": "t03",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời, chunk được cite và context cuối; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "Nhóm rủi ro không thấp hơn nhóm trước khi mua; ý phụ 'phân loại, trích lập tương tự cho vay khác' có trong p016:002.",
+  "context_grade": 2,
+  "context_reason": "Context cuối chứa chunk gold kèm nhãn chunk_id/trang/mục, đủ điều kiện của đáp án."
+ },
+ {
+  "query_id": "t04",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời, chunk được cite và context cuối; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "5% LNST tới khi bằng 10% vốn điều lệ; tên đầy đủ MIC/MBLife có trong p025:003.",
+  "context_grade": 2,
+  "context_reason": "Context cuối chứa chunk gold kèm nhãn chunk_id/trang/mục, đủ điều kiện của đáp án."
+ },
+ {
+  "query_id": "t05",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời, chunk được cite và context cuối; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "20% trên thu nhập chịu thuế; khớp p050:001.",
+  "context_grade": 2,
+  "context_reason": "Context cuối chứa chunk gold kèm nhãn chunk_id/trang/mục, đủ điều kiện của đáp án."
+ },
+ {
+  "query_id": "t06",
+  "citation_support": [
+   true
+  ],
+  "reviewer": "draft: Claude Code đọc câu trả lời, chunk được cite và context cuối; học viên đã xác nhận 2026-11-16",
+  "answer_grade": 2,
+  "reason": "0%-100% giá trị cam kết tùy mức tin cậy; ý phụ 'ký quỹ cho công cụ tài chính liên quan tín dụng' có trong p051:002.",
+  "context_grade": 2,
+  "context_reason": "Context cuối chứa chunk gold kèm nhãn chunk_id/trang/mục, đủ điều kiện của đáp án."
+ },
+ {
+  "query_id": "tn01",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời, chunk được cite và context cuối; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ tài liệu không có thông tin, không thêm khẳng định hay số liệu."
+ },
+ {
+  "query_id": "tn02",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời, chunk được cite và context cuối; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ tài liệu không có thông tin, không thêm khẳng định hay số liệu."
+ },
+ {
+  "query_id": "tn03",
+  "citation_support": [],
+  "reviewer": "draft: Claude Code đọc câu trả lời, chunk được cite và context cuối; học viên đã xác nhận 2026-11-16",
+  "abstention_correct": true,
+  "reason": "Từ chối, nói rõ tài liệu không có thông tin, không thêm khẳng định hay số liệu."
+ }
+]

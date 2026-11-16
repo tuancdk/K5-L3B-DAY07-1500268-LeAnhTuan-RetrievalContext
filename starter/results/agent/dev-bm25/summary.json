@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "run_at": "2026-11-16T03:06:07+00:00",
+    "split": "dev",
+    "tag": "bm25",
+    "model": "gpt-4.1-mini",
+    "retriever": "bm25",
+    "index": "B",
+    "top_k": 3,
+    "max_searches": 4,
+    "budget_chars": 6000,
+    "neighbors": false,
+    "use_filter": false,
+    "bm25_bigrams": true,
+    "questions": 19,
+    "wall_seconds": 3.1,
+    "warmup_seconds": 7.9,
+    "rerun_errors": [
+      "d01"
+    ]
+  },
+  "summary": {
+    "tool_use": "19/19",
+    "searches_distribution": {
+      "1": 17,
+      "3": 1,
+      "4": 1
+    },
+    "context_evidence_rate": "16/16",
+    "cited_gold_evidence": "16/16",
+    "citations_in_context": "18/18",
+    "answered_with_citation": "16/16",
+    "abstain_on_unanswerable": "3/3",
+    "abstain_on_answerable": "0/16",
+    "invalid_citation_events": 8,
+    "errors": [],
+    "median_ms": 3541.3,
+    "mean_context_chars": 2222.5,
+    "tokens": {
+      "agent_input": 53076,
+      "agent_output": 3879,
+      "embedding": 0
+    },
+    "cost_usd": {
+      "agent": 0.02744,
+      "rerank": 0.0,
+      "embedding": 0.0,
+      "total": 0.02744
+    },
+    "note": "Grounded answer, citation support và abstention đúng cần chấm tay trong review.json."
+  }
+}

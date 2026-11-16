@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "run_at": "2026-11-16T04:20:39+00:00",
+    "split": "dev",
+    "tag": "dense-v2fn",
+    "model": "gpt-4.1-mini",
+    "retriever": "dense",
+    "index": "B",
+    "top_k": 3,
+    "max_searches": 4,
+    "budget_chars": 6000,
+    "prompt": "v2",
+    "neighbors": true,
+    "use_filter": true,
+    "bm25_bigrams": true,
+    "questions": 19,
+    "wall_seconds": 113.4,
+    "warmup_seconds": 83.9,
+    "rerun_errors": []
+  },
+  "summary": {
+    "tool_use": "19/19",
+    "searches_distribution": {
+      "1": 11,
+      "2": 2,
+      "3": 1,
+      "4": 5
+    },
+    "context_evidence_rate": "12/16",
+    "cited_gold_evidence": "12/16",
+    "citations_in_context": "16/16",
+    "answered_with_citation": "13/13",
+    "abstain_on_unanswerable": "3/3",
+    "abstain_on_answerable": "3/16",
+    "invalid_citation_events": 5,
+    "errors": [],
+    "median_ms": 4105.0,
+    "mean_context_chars": 2619.9,
+    "tokens": {
+      "agent_input": 95145,
+      "agent_output": 3731,
+      "embedding": 763
+    },
+    "cost_usd": {
+      "agent": 0.04403,
+      "rerank": 0.0,
+      "embedding": 1.5e-05,
+      "total": 0.04404
+    },
+    "note": "Grounded answer, citation support và abstention đúng cần chấm tay trong review.json."
+  }
+}
