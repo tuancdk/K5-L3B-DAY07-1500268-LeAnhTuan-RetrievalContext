@@ -1,0 +1,55 @@
+{
+ "printed_page": 127,
+ "pdf_page": 64,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh tòa nhà văn phòng MB",
+   "bbox": [
+    0,
+    100,
+    350,
+    450
+   ],
+   "description": "Ảnh chụp tòa nhà văn phòng MB với trời xanh và cây xanh xung quanh.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    84.2,
+    803.6,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p127_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa bàn tay robot chạm vào biểu tượng số",
+   "bbox": [
+    350,
+    450,
+    1000,
+    1000
+   ],
+   "description": "Ảnh minh họa bàn tay robot màu trắng ánh kim loại đang chạm vào biểu tượng số màu xanh dương trên nền sáng.",
+   "data": [],
+   "bbox_pdf_pt": [
+    803.6,
+    378.9,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p127_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3401,
+  "output": 123
+ },
+ "seconds": 1.9
+}

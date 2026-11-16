@@ -1,0 +1,36 @@
+{
+ "printed_page": 208,
+ "pdf_page": 105,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "MB DOANH NGHIỆP SỐ TẬP ĐOÀN TÀI CHÍNH DẪN ĐẦU",
+   "bbox": [
+    0,
+    600,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp hai người mặc vest đứng trước backdrop MB với dòng chữ 'DOANH NGHIỆP SỐ TẬP ĐOÀN TÀI CHÍNH DẪN ĐẦU'. Có màn hình hiển thị các thành tựu MB đạt được khi thực hiện chiến lược chuyển đổi số.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    505.1,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p208_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3641,
+  "output": 130
+ },
+ "seconds": 2.7
+}

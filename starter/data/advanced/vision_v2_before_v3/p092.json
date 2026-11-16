@@ -1,0 +1,94 @@
+{
+ "printed_page": 92,
+ "pdf_page": 47,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "pie_chart",
+   "title": "Cơ cấu doanh thu phí",
+   "bbox": [
+    50,
+    50,
+    950,
+    450
+   ],
+   "description": "Biểu đồ tròn thể hiện cơ cấu doanh thu phí của MB theo các loại hình dịch vụ. Các phần trăm được ghi rõ trên từng phần của biểu đồ với chú thích tương ứng bên phải.",
+   "data": [
+    {
+     "label": "Bảo hiểm",
+     "value": "52%"
+    },
+    {
+     "label": "Thanh toán và ngân quỹ",
+     "value": "25%"
+    },
+    {
+     "label": "Khác",
+     "value": "10%"
+    },
+    {
+     "label": "Dịch vụ tư vấn",
+     "value": "6%"
+    },
+    {
+     "label": "Môi giới chứng khoán",
+     "value": "5%"
+    },
+    {
+     "label": "Thu từ xử lý nợ",
+     "value": "2%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    565.5,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p092_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Lợi nhuận trước thuế (nghìn tỷ đồng)",
+   "bbox": [
+    600,
+    600,
+    950,
+    950
+   ],
+   "description": "Biểu đồ cột thể hiện lợi nhuận trước thuế của MB trong các năm 2023, 2024 và 2025. Trục tung là giá trị lợi nhuận trước thuế tính bằng nghìn tỷ đồng. Các giá trị lần lượt là 26,3 (2023), 28,8 (2024), 34,3 (2025). Có chú thích +14% trên cột năm 2024 và mũi tên tăng từ 2023 đến 2025 thể hiện tốc độ tăng trưởng bình quân (CAGR) 14%.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "26,3"
+    },
+    {
+     "label": "2024",
+     "value": "28,8"
+    },
+    {
+     "label": "2025",
+     "value": "34,3"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    505.1,
+    565.5,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p092_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3631,
+  "output": 348
+ },
+ "seconds": 3.1
+}

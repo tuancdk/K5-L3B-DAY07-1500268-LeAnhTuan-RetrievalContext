@@ -1,0 +1,138 @@
+{
+ "printed_page": 134,
+ "pdf_page": 68,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Khách hàng (triệu KH)",
+   "bbox": [
+    520,
+    460,
+    700,
+    600
+   ],
+   "description": "Biểu đồ cột thể hiện số lượng khách hàng (triệu KH) qua các năm 2024, 2025, 2026. Trục ngang là năm, trục dọc là số triệu khách hàng. Giá trị lần lượt: 2024 là 30 triệu, 2025 là 35 triệu, 2026 là 40 triệu.",
+   "data": [
+    {
+     "label": "2024",
+     "value": "30"
+    },
+    {
+     "label": "2025",
+     "value": "35"
+    },
+    {
+     "label": "2026",
+     "value": "40"
+    }
+   ],
+   "bbox_pdf_pt": [
+    309.5,
+    387.3,
+    416.7,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p134_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Kế hoạch và định hướng của HĐQT trong năm 2026",
+   "bbox": [
+    50,
+    460,
+    480,
+    900
+   ],
+   "description": "Các mục tiêu trọng yếu của HĐQT năm 2026 với các chỉ tiêu và giá trị tương ứng: TÍN DỤNG (Dư nợ + TPDN + Mua nợ) tăng khoảng 30%, HUY ĐỘNG tăng khoảng 30%, LỢI NHUẬN TRƯỚC THUẾ tăng 15% với phấn đấu 20%, %NPL ≤1,5%, CIR Top đầu ngành NH, ROE Top đầu ngành NH, ROA Top đầu ngành NH.",
+   "data": [
+    {
+     "label": "TÍN DỤNG (Dư nợ + TPDN + Mua nợ)",
+     "value": "^~30%"
+    },
+    {
+     "label": "HUY ĐỘNG",
+     "value": "^~30%"
+    },
+    {
+     "label": "LỢI NHUẬN TRƯỚC THUẾ",
+     "value": "^15% Phấn đấu 20%"
+    },
+    {
+     "label": "%NPL",
+     "value": "≤1,5%"
+    },
+    {
+     "label": "CIR",
+     "value": "Top đầu ngành NH"
+    },
+    {
+     "label": "ROE",
+     "value": "Top đầu ngành NH"
+    },
+    {
+     "label": "ROA",
+     "value": "Top đầu ngành NH"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    387.3,
+    285.7,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p134_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Các mục tiêu khác của HĐQT năm 2026",
+   "bbox": [
+    700,
+    460,
+    980,
+    900
+   ],
+   "description": "Các mục tiêu khác gồm: % Doanh thu kênh số > 50%, %CASA Top 1, Năng suất lao động tăng khoảng 20%, Quản trị an toàn vốn theo thông lệ quốc tế, Đẩy mạnh hợp lực tập đoàn, nâng cao hiệu quả CTTV.",
+   "data": [
+    {
+     "label": "% Doanh thu kênh số",
+     "value": "> 50%"
+    },
+    {
+     "label": "%CASA",
+     "value": "Top 1"
+    },
+    {
+     "label": "Năng suất lao động",
+     "value": "^~20%"
+    },
+    {
+     "label": "Quản trị an toàn vốn",
+     "value": "theo thông lệ quốc tế"
+    },
+    {
+     "label": "Đẩy mạnh hợp lực tập đoàn, nâng cao hiệu quả CTTV",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    416.7,
+    387.3,
+    583.4,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p134_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 4004,
+  "output": 601
+ },
+ "seconds": 8.1
+}

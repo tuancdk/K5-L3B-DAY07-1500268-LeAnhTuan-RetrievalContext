@@ -1,0 +1,36 @@
+{
+ "printed_page": 128,
+ "pdf_page": 65,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh nhân viên MB trước trụ sở ngân hàng",
+   "bbox": [
+    0,
+    400,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp nhóm nhân viên MB mặc đồng phục xanh, đứng trước trụ sở ngân hàng MB với logo MB trên tòa nhà phía sau.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    336.8,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p128_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3721,
+  "output": 73
+ },
+ "seconds": 3.2
+}

@@ -1,0 +1,36 @@
+{
+ "printed_page": 251,
+ "pdf_page": 126,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Opening MB Tower",
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp tòa nhà MB Tower với biển hiệu sáng 'OPENING MB TOWER' và đài phun nước phía trước. Ảnh minh họa cho chương 6 về Quản trị công ty trong báo cáo thường niên 2025.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p251_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3212,
+  "output": 89
+ },
+ "seconds": 4.1
+}

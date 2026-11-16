@@ -1,0 +1,65 @@
+{
+ "printed_page": 15,
+ "pdf_page": 8,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Các giải thưởng và danh hiệu của MB năm 2025",
+   "bbox": [
+    200,
+    100,
+    800,
+    900
+   ],
+   "description": "Ảnh chụp tòa nhà MB với nền trời xanh, kèm các biểu tượng vòng nguyệt quế và danh sách các giải thưởng, danh hiệu MB nhận được năm 2025.",
+   "data": [
+    {
+     "label": "Best Banks Ranking 2025",
+     "value": "Top 10 Overall do Decision Lab trao tặng"
+    },
+    {
+     "label": "Sao Khuê",
+     "value": "Tự động hóa toàn trình sản phẩm tín chấp SME siêu nhỏ do Vinasa trao tặng"
+    },
+    {
+     "label": "Top 50 Công ty niêm yết tốt nhất",
+     "value": "do Forbes trao giải"
+    },
+    {
+     "label": "Vietnam Excellence 2025",
+     "value": "Hạng mục Văn hóa con người do Anphabe trao giải"
+    },
+    {
+     "label": "The Best FX Bank in Vietnam",
+     "value": "do The Asian Banker trao tặng"
+    },
+    {
+     "label": "Best Bank for ESG Vietnam 2025",
+     "value": "do Global Banking & Finance Review trao giải"
+    },
+    {
+     "label": "Top Doanh nghiệp có sản phẩm số thông minh và giải pháp công nghệ Công nghiệp 4.0",
+     "value": "Liên hiệp các hội Khoa học và Kỹ thuật VN (Bộ Công thương & Bộ KH&CN) trao giải"
+    }
+   ],
+   "bbox_pdf_pt": [
+    714.3,
+    84.2,
+    1071.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p015_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3399,
+  "output": 276
+ },
+ "seconds": 8.2
+}

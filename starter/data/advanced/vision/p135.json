@@ -1,0 +1,36 @@
+{
+ "printed_page": 135,
+ "pdf_page": 68,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Đại hội đồng cổ đông thường niên 2025 của Ngân hàng TMCP Quân đội",
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp sự kiện Đại hội đồng cổ đông thường niên 2025 của Ngân hàng TMCP Quân đội (MB) diễn ra tại Hà Nội ngày 26 tháng 04 năm 2025. Trên màn hình lớn phía sau có logo MB và tên sự kiện. Có 6 người ngồi tại bàn chủ tọa, một người đứng phát biểu.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p135_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3231,
+  "output": 130
+ },
+ "seconds": 4.3
+}

@@ -1,0 +1,53 @@
+{
+ "printed_page": 210,
+ "pdf_page": 106,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Kết quả hoạt động an ninh mạng MB",
+   "bbox": [
+    50,
+    200,
+    950,
+    900
+   ],
+   "description": "Các số liệu nổi bật về hoạt động an ninh mạng của MB năm 2025, gồm số cảnh báo, lượt kiểm thử, và các con số chặn kết nối độc hại, email độc hại, email quảng cáo và host bất thường.",
+   "data": [
+    {
+     "label": "Chặn trung bình kết nối độc hại ra internet/1h",
+     "value": "673.000"
+    },
+    {
+     "label": "Ngăn chặn email độc hại, lừa đảo, spam, chứa virus",
+     "value": "8 Triệu"
+    },
+    {
+     "label": "Chặn email quảng cáo/mạng xã hội/nghi ngờ không an toàn",
+     "value": "1,6 Triệu"
+    },
+    {
+     "label": "Chặn trung bình host có hành vi bất thường, tấn công vào dịch vụ của MB",
+     "value": "30 Triệu"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    168.4,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p210_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3593,
+  "output": 197
+ },
+ "seconds": 2.2
+}

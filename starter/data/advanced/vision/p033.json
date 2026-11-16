@@ -1,0 +1,55 @@
+{
+ "printed_page": 33,
+ "pdf_page": 17,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ông Đỗ Văn Tiến - Thành viên Ban kiểm soát",
+   "bbox": [
+    0,
+    0,
+    480,
+    460
+   ],
+   "description": "Ảnh chân dung ông Đỗ Văn Tiến, Thành viên Ban kiểm soát MB nhiệm kỳ 2024-2029, sinh năm 1970, có 34 năm kinh nghiệm trong ngành ngân hàng, gắn bó 19 năm với MB, từng giữ nhiều vị trí lãnh đạo quan trọng tại MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    881.0,
+    387.3
+   ],
+   "crop": "starter/data/advanced/crops/p033_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Bà Nguyễn Thị Nguyệt Hà - Thành viên Ban kiểm soát",
+   "bbox": [
+    0,
+    460,
+    480,
+    920
+   ],
+   "description": "Ảnh chân dung bà Nguyễn Thị Nguyệt Hà, Thành viên Ban kiểm soát MB nhiệm kỳ 2024-2029, sinh năm 1976, có 21 năm kinh nghiệm làm việc tại MB, từng giữ vị trí Trưởng Kiểm toán nội bộ giai đoạn 2019-2024.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    387.3,
+    881.0,
+    774.5
+   ],
+   "crop": "starter/data/advanced/crops/p033_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3755,
+  "output": 213
+ },
+ "seconds": 2.9
+}

@@ -1,0 +1,36 @@
+{
+ "printed_page": 205,
+ "pdf_page": 103,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh sự kiện thiện nguyện của MB",
+   "bbox": [
+    0,
+    500,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp nhóm người mặc áo đỏ sao vàng và áo xanh MB tham gia sự kiện thiện nguyện, cầm biểu ngữ về chạy bộ gây quỹ trồng cây xanh cho Trường Sa.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    420.9,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p205_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3629,
+  "output": 83
+ },
+ "seconds": 3.0
+}

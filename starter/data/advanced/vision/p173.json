@@ -1,0 +1,141 @@
+{
+ "printed_page": 173,
+ "pdf_page": 87,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "CHỈ SỐ CHẤT LƯỢNG DỊCH VỤ RIÊNG KÊNH MB247 NĂM 2025",
+   "bbox": [
+    100,
+    150,
+    900,
+    350
+   ],
+   "description": "Bảng chỉ số chất lượng dịch vụ riêng kênh MB247 năm 2024 và 2025, gồm các chỉ số CSAT, CES, NPS với giá trị và tỷ lệ tăng giảm phần trăm.",
+   "data": [
+    {
+     "label": "CSAT Năm 2024",
+     "value": "90,7"
+    },
+    {
+     "label": "CES Năm 2024",
+     "value": "75,2"
+    },
+    {
+     "label": "NPS Năm 2024",
+     "value": "57,7"
+    },
+    {
+     "label": "CSAT Năm 2025",
+     "value": "91,1"
+    },
+    {
+     "label": "CES Năm 2025",
+     "value": "84,3"
+    },
+    {
+     "label": "NPS Năm 2025",
+     "value": "65,8"
+    },
+    {
+     "label": "CSAT % Tăng/(Giảm)",
+     "value": "0,44%"
+    },
+    {
+     "label": "CES % Tăng/(Giảm)",
+     "value": "12,1%"
+    },
+    {
+     "label": "NPS % Tăng/(Giảm)",
+     "value": "14,4%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    126.3,
+    1131.0,
+    294.7
+   ],
+   "crop": "starter/data/advanced/crops/p173_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Tỷ lệ Khách hàng đánh giá hài lòng theo kênh MB247",
+   "bbox": [
+    100,
+    360,
+    900,
+    520
+   ],
+   "description": "Bảng tỷ lệ khách hàng đánh giá hài lòng theo các kênh Call (App to Call, AutoCall) và Chat (Bot, Agent) năm 2024 và 2025, cùng tỷ lệ tăng giảm phần trăm. App to Call triển khai từ tháng 10.2024.",
+   "data": [
+    {
+     "label": "App to Call Năm 2024",
+     "value": "-"
+    },
+    {
+     "label": "AutoCall Năm 2024",
+     "value": "80,2%"
+    },
+    {
+     "label": "Bot Năm 2024",
+     "value": "76,3%"
+    },
+    {
+     "label": "Agent Năm 2024",
+     "value": "82,04%"
+    },
+    {
+     "label": "App to Call Năm 2025",
+     "value": "85,4%"
+    },
+    {
+     "label": "AutoCall Năm 2025",
+     "value": "85,4%"
+    },
+    {
+     "label": "Bot Năm 2025",
+     "value": "79,3%"
+    },
+    {
+     "label": "Agent Năm 2025",
+     "value": "84,5%"
+    },
+    {
+     "label": "AutoCall % Tăng/(Giảm)",
+     "value": "6,5%"
+    },
+    {
+     "label": "Bot % Tăng/(Giảm)",
+     "value": "3,9%"
+    },
+    {
+     "label": "Agent % Tăng/(Giảm)",
+     "value": "3%"
+    },
+    {
+     "label": "App to Call % Tăng/(Giảm)",
+     "value": "-"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    303.1,
+    1131.0,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p173_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3728,
+  "output": 563
+ },
+ "seconds": 4.7
+}

@@ -1,0 +1,105 @@
+{
+ "printed_page": 41,
+ "pdf_page": 21,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Quy trình Quản lý rủi ro bao gồm các bước chính",
+   "bbox": [
+    50,
+    50,
+    950,
+    900
+   ],
+   "description": "Sơ đồ quy trình quản lý rủi ro gồm 5 bước chính: Thiệp lập bối cảnh (1), Nhận dạng (2.1), Đo lường (2.2), Theo dõi (2.3), Xử lý, kiểm soát rủi ro (3), với các luồng thông tin báo cáo, tư vấn (5) và giám sát, rà soát (4) kết nối các bước. Các bước được thực hiện bởi các đơn vị độc lập, đảm bảo khách quan, minh bạch.",
+   "data": [
+    {
+     "label": "Thiệp lập bối cảnh",
+     "value": "(1)"
+    },
+    {
+     "label": "Nhận dạng",
+     "value": "(2.1)"
+    },
+    {
+     "label": "Đo lường",
+     "value": "(2.2)"
+    },
+    {
+     "label": "Theo dõi",
+     "value": "(2.3)"
+    },
+    {
+     "label": "Xử lý, kiểm soát rủi ro",
+     "value": "(3)"
+    },
+    {
+     "label": "Thông tin, báo cáo, tư vấn",
+     "value": "(5)"
+    },
+    {
+     "label": "Giám sát và rà soát",
+     "value": "(4)"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    42.1,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p041_v0.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Cơ cấu tổ chức quản lý rủi ro tại MB",
+   "bbox": [
+    50,
+    600,
+    950,
+    980
+   ],
+   "description": "Sơ đồ tổ chức gồm các cấp: Hội đồng quản trị với các ủy ban quản lý rủi ro, nhân sự, và các ủy ban khác; Ban kiểm soát; Tổng giám đốc với các hội đồng rủi ro, ALCO, quản lý vốn, hội đồng khác; Các vòng bảo vệ thứ nhất, thứ hai, thứ ba với các bộ phận tương ứng như bộ phận tạo ra doanh thu, bộ phận tuân thủ, bộ phận kiểm toán nội bộ, bộ phận quản trị rủi ro, bộ phận thực hiện phân bổ hạn mức rủi ro theo từng hoạt động kinh doanh, nghiệp vụ cụ thể.",
+   "data": [
+    {
+     "label": "Cấp HĐQT/BKS",
+     "value": "Ủy ban quản lý rủi ro, Ủy ban nhân sự, Ủy ban hoặc Hội đồng khác thuộc HĐQT"
+    },
+    {
+     "label": "Cấp Ban điều hành",
+     "value": "Hội đồng rủi ro, Hội đồng ALCO, Hội đồng quản lý vốn, Hội đồng khác"
+    },
+    {
+     "label": "Vòng bảo vệ thứ nhất",
+     "value": "Bộ phận tạo ra doanh thu, thực hiện các quyết định có rủi ro; Các bộ phận tạo ra rủi ro khác; Bộ phận thực hiện phân bổ hạn mức rủi ro theo từng hoạt động kinh doanh, nghiệp vụ cụ thể"
+    },
+    {
+     "label": "Vòng bảo vệ thứ hai",
+     "value": "Bộ phận tuân thủ; Bộ phận quản trị rủi ro"
+    },
+    {
+     "label": "Vòng bảo vệ thứ ba",
+     "value": "Bộ phận kiểm toán nội bộ"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    505.1,
+    1160.8,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p041_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4048,
+  "output": 643
+ },
+ "seconds": 5.3
+}

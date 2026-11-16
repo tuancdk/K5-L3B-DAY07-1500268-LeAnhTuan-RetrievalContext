@@ -1,0 +1,193 @@
+{
+ "printed_page": 184,
+ "pdf_page": 93,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Quản lý nguyên vật liệu - Tổng lượng nguyên vật liệu được sử dụng và tỷ lệ nguyên vật liệu tái chế",
+   "bbox": [
+    50,
+    50,
+    950,
+    450
+   ],
+   "description": "Bảng số liệu về tổng lượng nguyên vật liệu được sử dụng tại Hội sở 18 Lê Văn Lương và toàn hàng (HO, CN/PGD) năm 2024 và 2025, cùng tỷ lệ tăng/giảm. Các loại nguyên vật liệu gồm Giấy, Mực in, Túi Nylon, Ấn phẩm, Túi vải tái chế. Cường độ sử dụng riêng Hội sở gồm nhân sự làm việc, giấy và mực in theo kg/người hoặc g/người.",
+   "data": [
+    {
+     "label": "Giấy (kg) Hội sở 2024",
+     "value": "21.641"
+    },
+    {
+     "label": "Giấy (kg) Hội sở 2025",
+     "value": "19.511"
+    },
+    {
+     "label": "Giấy (kg) Toàn hàng 2024",
+     "value": "-"
+    },
+    {
+     "label": "Giấy (kg) Toàn hàng 2025",
+     "value": "-"
+    },
+    {
+     "label": "Giấy (kg) % Tăng/Giảm",
+     "value": "(9,8%)"
+    },
+    {
+     "label": "Mực in (kg) Hội sở 2024",
+     "value": "247,9"
+    },
+    {
+     "label": "Mực in (kg) Hội sở 2025",
+     "value": "245,5"
+    },
+    {
+     "label": "Mực in (kg) Toàn hàng 2024",
+     "value": "-"
+    },
+    {
+     "label": "Mực in (kg) Toàn hàng 2025",
+     "value": "-"
+    },
+    {
+     "label": "Mực in (kg) % Tăng/Giảm",
+     "value": "(1%)"
+    },
+    {
+     "label": "Túi Nylon (kg) Hội sở 2024",
+     "value": "-"
+    },
+    {
+     "label": "Túi Nylon (kg) Hội sở 2025",
+     "value": "-"
+    },
+    {
+     "label": "Túi Nylon (kg) Toàn hàng 2024",
+     "value": "25.960"
+    },
+    {
+     "label": "Túi Nylon (kg) Toàn hàng 2025",
+     "value": "22.781"
+    },
+    {
+     "label": "Túi Nylon (kg) % Tăng/Giảm",
+     "value": "(12,2%)"
+    },
+    {
+     "label": "Ấn phẩm (kg) Hội sở 2024",
+     "value": "-"
+    },
+    {
+     "label": "Ấn phẩm (kg) Hội sở 2025",
+     "value": "-"
+    },
+    {
+     "label": "Ấn phẩm (kg) Toàn hàng 2024",
+     "value": "51.703"
+    },
+    {
+     "label": "Ấn phẩm (kg) Toàn hàng 2025",
+     "value": "66.606"
+    },
+    {
+     "label": "Ấn phẩm (kg) % Tăng/Giảm",
+     "value": "28,8%"
+    },
+    {
+     "label": "Túi vải tái chế (kg) Toàn hàng 2024",
+     "value": "17.995"
+    },
+    {
+     "label": "Túi vải tái chế (kg) Toàn hàng 2025",
+     "value": "34.033"
+    },
+    {
+     "label": "Túi vải tái chế (kg) % Tăng/Giảm",
+     "value": "89,1%"
+    },
+    {
+     "label": "Nhân sự làm việc tại Hội sở 2024",
+     "value": "3.300"
+    },
+    {
+     "label": "Nhân sự làm việc tại Hội sở 2025",
+     "value": "3.100"
+    },
+    {
+     "label": "Giấy (kg/người) Hội sở 2024",
+     "value": "6,56"
+    },
+    {
+     "label": "Giấy (kg/người) Hội sở 2025",
+     "value": "6,29"
+    },
+    {
+     "label": "Giấy (kg/người) % Tăng/Giảm",
+     "value": "(4%)"
+    },
+    {
+     "label": "Mực in (g/người) Hội sở 2024",
+     "value": "75,1"
+    },
+    {
+     "label": "Mực in (g/người) Hội sở 2025",
+     "value": "79,2"
+    },
+    {
+     "label": "Mực in (g/người) % Tăng/Giảm",
+     "value": "5,4%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    565.5,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p184_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Các sáng kiến và biện pháp giảm lượng nguyên vật liệu được sử dụng",
+   "bbox": [
+    50,
+    460,
+    950,
+    900
+   ],
+   "description": "Các sáng kiến gồm trang bị 100% máy lọc nước tại HO, CN/PGD thay thế chai nhựa, bình nhựa; cân đối nhu cầu giấy in sát thực tế; sử dụng danh thiếp điện tử; mua sắm xanh ưu tiên sản phẩm thân thiện môi trường; tăng tỷ lệ túi thân thiện môi trường và tăng cường sử dụng taxi điện.",
+   "data": [
+    {
+     "label": "Tỷ lệ túi thân thiện môi trường năm 2025",
+     "value": "61% /tổng số túi trang bị"
+    },
+    {
+     "label": "Tỷ lệ chi phí taxi điện năm 2025",
+     "value": "65,9% /tổng chi phí sử dụng taxi"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "22,9%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    387.3,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p184_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3755,
+  "output": 1010
+ },
+ "seconds": 7.5
+}

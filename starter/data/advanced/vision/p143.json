@@ -1,0 +1,89 @@
+{
+ "printed_page": 143,
+ "pdf_page": 72,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Khách hàng",
+   "bbox": [
+    50,
+    50,
+    950,
+    950
+   ],
+   "description": "Các chỉ số về khách hàng và tín dụng xanh của ngân hàng MB năm 2025, gồm quy mô tín dụng xanh, dư nợ cho SME, dư nợ được quản lý rủi ro môi trường xã hội (MTXH), vốn xanh quốc tế, số lượng khoản vay xanh, số lượng dự án được đánh giá rủi ro MTXH, tỷ trọng dư nợ được quản lý rủi ro MTXH.",
+   "data": [
+    {
+     "label": "Quy mô tín dụng xanh",
+     "value": "68.501 TỶ ĐỒNG"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "5,3%"
+    },
+    {
+     "label": "Dư nợ cho SME",
+     "value": "315.365 TỶ ĐỒNG"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "38,5%"
+    },
+    {
+     "label": "Dư nợ được quản lý rủi ro MTXH",
+     "value": "126.361 TỶ ĐỒNG"
+    },
+    {
+     "label": "Theo TT17/2022/TT-NHNN",
+     "value": ""
+    },
+    {
+     "label": "Vốn xanh quốc tế",
+     "value": "500 triệu USD"
+    },
+    {
+     "label": "Số lượng khoản vay xanh",
+     "value": "5.148 khoản vay"
+    },
+    {
+     "label": "Theo Công văn số 9050/2017/NHNN-TD",
+     "value": ""
+    },
+    {
+     "label": "Số lượng dự án được đánh giá rủi ro MTXH",
+     "value": "100% dự án"
+    },
+    {
+     "label": "Theo TT17/2022/TT-NHNN",
+     "value": ""
+    },
+    {
+     "label": "Tỷ trọng dư nợ được quản lý rủi ro MTXH",
+     "value": "12,1%"
+    },
+    {
+     "label": "Theo TT17/2022/TT-NHNN",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    42.1,
+    1160.8,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p143_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3443,
+  "output": 391
+ },
+ "seconds": 4.5
+}

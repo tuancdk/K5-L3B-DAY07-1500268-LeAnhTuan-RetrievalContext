@@ -1,0 +1,126 @@
+{
+ "printed_page": 169,
+ "pdf_page": 85,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "",
+   "bbox": [
+    523,
+    186,
+    767,
+    370
+   ],
+   "description": "Sơ đồ 4 thành phần cốt lõi của Khung Tín dụng xanh MB, gồm 4 khối chữ nhật: 'Mục đích sử dụng vốn', 'Quản lý sử dụng vốn vay', 'Quy trình đánh giá và lựa chọn dự án', 'Báo cáo tác động'. Các khối này được trình bày thành 2 hàng, mỗi hàng 2 khối, không có mũi tên chỉ quan hệ giữa các khối.",
+   "data": [
+    {
+     "label": "Mục đích sử dụng vốn",
+     "value": ""
+    },
+    {
+     "label": "Quản lý sử dụng vốn vay",
+     "value": ""
+    },
+    {
+     "label": "Quy trình đánh giá và lựa chọn dự án",
+     "value": ""
+    },
+    {
+     "label": "Báo cáo tác động",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    906.6,
+    156.6,
+    1051.9,
+    311.5
+   ],
+   "crop": "starter/data/advanced/crops/p169_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "",
+   "bbox": [
+    523,
+    410,
+    767,
+    540
+   ],
+   "description": "Hai ô số liệu nổi bật về kết quả triển khai tín dụng xanh năm 2025: 'Huy động thành công 500 triệu USD vốn xanh quốc tế' và 'Quy mô dư nợ tín dụng xanh N2025 đạt 68.501 tỷ đồng cho 5.148 khoản vay/dự án xanh'. Các số liệu này được trình bày nổi bật với font lớn, màu xanh.",
+   "data": [
+    {
+     "label": "Huy động thành công vốn xanh quốc tế",
+     "value": "500 triệu USD"
+    },
+    {
+     "label": "Quy mô dư nợ tín dụng xanh N2025",
+     "value": "68.501 tỷ đồng"
+    },
+    {
+     "label": "Số khoản vay/dự án xanh",
+     "value": "5.148"
+    }
+   ],
+   "bbox_pdf_pt": [
+    906.6,
+    345.2,
+    1051.9,
+    454.6
+   ],
+   "crop": "starter/data/advanced/crops/p169_v1.png"
+  },
+  {
+   "kind": "pie_chart",
+   "title": "Cơ cấu dư nợ xanh",
+   "bbox": [
+    60,
+    570,
+    510,
+    1060
+   ],
+   "description": "Biểu đồ tròn thể hiện tỷ trọng các lĩnh vực trong cơ cấu dư nợ xanh năm 2025. Có 5 phần với màu sắc khác nhau, kèm nhãn và tỷ lệ phần trăm. Các lĩnh vực gồm: Lĩnh vực năng lượng tái tạo và năng lượng sạch (62%), Lĩnh vực nông, lâm nghiệp xanh bền vững (22%), Lĩnh vực công nghiệp xanh (9%), Lĩnh vực giao thông xanh (7%), Lĩnh vực xanh khác (~1%). Nhãn tỷ lệ nằm cạnh từng phần tương ứng.",
+   "data": [
+    {
+     "label": "Lĩnh vực năng lượng tái tạo và năng lượng sạch",
+     "value": "62%"
+    },
+    {
+     "label": "Lĩnh vực nông, lâm nghiệp xanh bền vững",
+     "value": "22%"
+    },
+    {
+     "label": "Lĩnh vực công nghiệp xanh",
+     "value": "9%"
+    },
+    {
+     "label": "Lĩnh vực giao thông xanh",
+     "value": "7%"
+    },
+    {
+     "label": "Lĩnh vực xanh khác",
+     "value": "~1%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    631.0,
+    479.9,
+    898.9,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p169_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 2379,
+  "output": 587
+ },
+ "seconds": 4.8
+}

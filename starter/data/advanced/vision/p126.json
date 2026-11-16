@@ -1,0 +1,76 @@
+{
+ "printed_page": 126,
+ "pdf_page": 64,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Tình hình hoạt động của Ngân hàng",
+   "bbox": [
+    520,
+    120,
+    980,
+    460
+   ],
+   "description": "Ảnh chụp tòa nhà trụ sở ngân hàng MB với nền trời xanh, thể hiện hình ảnh đại diện cho hoạt động ngân hàng.",
+   "data": [],
+   "bbox_pdf_pt": [
+    309.5,
+    101.0,
+    583.4,
+    387.3
+   ],
+   "crop": "starter/data/advanced/crops/p126_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Cạnh tranh trong ngành tiếp tục gia tăng, tập trung vào",
+   "bbox": [
+    40,
+    740,
+    960,
+    900
+   ],
+   "description": "Các ô số liệu nổi bật thể hiện các lĩnh vực cạnh tranh chính trong ngành ngân hàng năm 2025: chuyển đổi số và trải nghiệm khách hàng; quản trị rủi ro và an toàn hệ thống; an ninh mạng và an toàn dữ liệu; tối ưu cấu trúc nguồn vốn; phát triển bền vững (ESG).",
+   "data": [
+    {
+     "label": "Chuyển đổi số và trải nghiệm khách hàng",
+     "value": "Các ngân hàng đẩy mạnh số hóa quy trình, phát triển hệ sinh thái số và cá nhân hóa dịch vụ."
+    },
+    {
+     "label": "Quản trị rủi ro và an toàn hệ thống",
+     "value": "Chú trọng chất lượng tài sản, trích lập dự phòng chủ động, tuân thủ chuẩn mực vốn và thanh khoản."
+    },
+    {
+     "label": "An ninh mạng và an toàn dữ liệu",
+     "value": "Đầu tư cho bảo mật, đáp ứng yêu cầu tuân thủ và tiêu chuẩn quốc tế trong bối cảnh giao dịch số tăng trưởng nhanh."
+    },
+    {
+     "label": "Tối ưu cấu trúc nguồn vốn",
+     "value": "Tiếp tục nỗ lực nâng cao tỷ lệ tiền gửi không kỳ hạn (CASA), đa dạng hóa kênh huy động, quản trị chi phí vốn hiệu quả."
+    },
+    {
+     "label": "Phát triển bền vững (ESG)",
+     "value": "Tích hợp các tiêu chí ESG vào chiến lược, sản phẩm và quy trình tín dụng; mở rộng tín dụng xanh, tăng cường công bố thông tin theo thông lệ tốt."
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    623.0,
+    571.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p126_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3958,
+  "output": 413
+ },
+ "seconds": 4.4
+}

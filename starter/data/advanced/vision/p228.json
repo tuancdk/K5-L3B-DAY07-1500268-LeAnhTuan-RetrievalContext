@@ -1,0 +1,64 @@
+{
+ "printed_page": 228,
+ "pdf_page": 115,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Họp Hội đồng Quản trị và các Ủy ban định kỳ/đột xuất",
+   "bbox": [
+    0,
+    0,
+    1000,
+    700
+   ],
+   "description": "Ảnh chụp một cuộc họp Hội đồng Quản trị với nhiều thành viên ngồi quanh bàn họp, sử dụng laptop và ghi chú. Ảnh minh họa cho hoạt động quản trị công ty của MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    595.3,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p228_v0.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Quy trình quản trị công ty tại MB",
+   "bbox": [
+    50,
+    700,
+    950,
+    1000
+   ],
+   "description": "Hai khối nội dung chính: 1) Tổ chức họp HĐQT hàng quý, họp các Ủy ban định kỳ/đột xuất để nghe báo cáo Ban Điều hành về tình hình hoạt động và chỉ đạo kế hoạch hàng tuần, hàng tháng, duy trì giám sát theo phân cấp thẩm quyền. 2) Chỉ đạo kiểm tra, rà soát, đánh giá định kỳ/đột xuất hoạt động các đơn vị trong MB và các công ty thành viên (CTTV) làm cơ sở đánh giá Ban Điều hành và Người đại diện tại CTTV. Phối hợp Ban Kiểm soát chỉ đạo kiểm toán nội bộ tổ chức kiểm tra định kỳ và đột xuất. Chỉ đạo triển khai các biện pháp khắc phục/chỉnh sửa/báo cáo theo kết luận các đoàn kiểm tra khác (Kiểm soát nội bộ, Thanh tra, Kiểm toán) nhằm theo dõi, định hướng, có ý kiến chỉ đạo.",
+   "data": [
+    {
+     "label": "Tổ chức họp HĐQT hàng quý, họp các Ủy ban định kỳ/đột xuất",
+     "value": "Nghe báo cáo Ban Điều hành về tình hình hoạt động và chỉ đạo kế hoạch hàng tuần, hàng tháng, duy trì giám sát theo phân cấp thẩm quyền"
+    },
+    {
+     "label": "Chỉ đạo kiểm tra, rà soát, đánh giá định kỳ/đột xuất hoạt động các đơn vị trong MB và CTTV",
+     "value": "Phối hợp Ban Kiểm soát chỉ đạo kiểm toán nội bộ tổ chức kiểm tra định kỳ và đột xuất; chỉ đạo triển khai biện pháp khắc phục/chỉnh sửa/báo cáo theo kết luận các đoàn kiểm tra khác"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    589.3,
+    565.5,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p228_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3439,
+  "output": 482
+ },
+ "seconds": 5.9
+}

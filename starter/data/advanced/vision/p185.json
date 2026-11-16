@@ -1,0 +1,117 @@
+{
+ "printed_page": 185,
+ "pdf_page": 93,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Quản lý nước tiêu thụ",
+   "bbox": [
+    20,
+    40,
+    980,
+    320
+   ],
+   "description": "Bảng số liệu quản lý nước tiêu thụ năm 2024 và 2025, gồm các chỉ tiêu: Nhân sự làm việc tại Hội sở, Tổng lượng nước sử dụng, Nguồn nước từ các cơ sở cấp nước đô thị hoặc công cộng hoặc tư nhân khác, Cường độ sử dụng nước (m3/người), Nguồn nước mặt, Nguồn nước ngầm, Nước tái chế (tổng lượng và tỷ lệ phần trăm), Nước tái sử dụng (tổng lượng và tỷ lệ phần trăm). Có cột % Tăng/(Giảm) so sánh giữa năm 2024 và 2025.",
+   "data": [
+    {
+     "label": "Nhân sự làm việc tại Hội sở Năm 2024",
+     "value": "3.300"
+    },
+    {
+     "label": "Nhân sự làm việc tại Hội sở Năm 2025",
+     "value": "3.100"
+    },
+    {
+     "label": "Tổng lượng nước sử dụng Năm 2024",
+     "value": "29.711"
+    },
+    {
+     "label": "Tổng lượng nước sử dụng Năm 2025",
+     "value": "28.664"
+    },
+    {
+     "label": "Nguồn từ các cơ sở cấp nước đô thị hoặc công cộng hoặc tư nhân khác Năm 2024",
+     "value": "29.711"
+    },
+    {
+     "label": "Nguồn từ các cơ sở cấp nước đô thị hoặc công cộng hoặc tư nhân khác Năm 2025",
+     "value": "28.664"
+    },
+    {
+     "label": "Cường độ sử dụng nước (m3/người) Năm 2024",
+     "value": "9"
+    },
+    {
+     "label": "Cường độ sử dụng nước (m3/người) Năm 2025",
+     "value": "9,25"
+    },
+    {
+     "label": "Nguồn nước mặt Năm 2024",
+     "value": "Không sử dụng"
+    },
+    {
+     "label": "Nguồn nước mặt Năm 2025",
+     "value": "Không sử dụng"
+    },
+    {
+     "label": "Nguồn nước ngầm Năm 2024",
+     "value": "Không sử dụng"
+    },
+    {
+     "label": "Nguồn nước ngầm Năm 2025",
+     "value": "Không sử dụng"
+    },
+    {
+     "label": "Tổng lượng nước tái chế Năm 2024",
+     "value": "Không sử dụng"
+    },
+    {
+     "label": "Tổng lượng nước tái chế Năm 2025",
+     "value": "Không sử dụng"
+    },
+    {
+     "label": "Tỷ lệ phần trăm nước tái chế trên tổng lượng nước sử dụng Năm 2024",
+     "value": "-"
+    },
+    {
+     "label": "Tỷ lệ phần trăm nước tái chế trên tổng lượng nước sử dụng Năm 2025",
+     "value": "-"
+    },
+    {
+     "label": "Tổng lượng nước tái sử dụng Năm 2024",
+     "value": "Không sử dụng"
+    },
+    {
+     "label": "Tổng lượng nước tái sử dụng Năm 2025",
+     "value": "Không sử dụng"
+    },
+    {
+     "label": "Tỷ lệ phần trăm nước tái sử dụng trên tổng lượng nước sử dụng Năm 2024",
+     "value": "-"
+    },
+    {
+     "label": "Tỷ lệ phần trăm nước tái sử dụng trên tổng lượng nước sử dụng Năm 2025",
+     "value": "-"
+    }
+   ],
+   "bbox_pdf_pt": [
+    607.2,
+    33.7,
+    1178.6,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p185_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4138,
+  "output": 647
+ },
+ "seconds": 7.0
+}

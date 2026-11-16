@@ -1,0 +1,97 @@
+{
+ "printed_page": 234,
+ "pdf_page": 118,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Thành viên, cơ cấu và hoạt động Ủy ban Công nghệ và chuyển đổi số",
+   "bbox": [
+    50,
+    100,
+    950,
+    700
+   ],
+   "description": "Danh sách thành viên Ủy ban Công nghệ và chuyển đổi số với tên và chức vụ tương ứng. Nhiệm vụ chính của Ủy ban là xem xét định hướng hoạt động của Ngân hàng, đánh giá và rà soát các dự án công nghệ. Trong năm 2025, Ủy ban tổ chức 2 cuộc họp, xem xét các dự án công nghệ trọng điểm. Các thành viên tham gia họp trực tiếp hoặc ủy quyền, đảm bảo đủ số lượng.",
+   "data": [
+    {
+     "label": "Vũ Thành Trung",
+     "value": "Chủ nhiệm Ủy ban"
+    },
+    {
+     "label": "Vũ Thị Hải Phượng",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Phạm Như Ánh",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Phạm Doãn Cương",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Vũ Xuân Nam",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Phạm Thị Trung Hà",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Nguyễn Xuân Học",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Phạm Thị Quỳnh",
+     "value": "Thành viên không có quyền biểu quyết"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    84.2,
+    565.5,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p234_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Các cuộc họp của Ủy ban Công nghệ và Chuyển đổi số trong năm 2025",
+   "bbox": [
+    50,
+    720,
+    950,
+    980
+   ],
+   "description": "Bảng liệt kê 2 cuộc họp của Ủy ban Công nghệ và Chuyển đổi số năm 2025 với các thông tin: STT, ngày họp, nội dung chính và kết quả. Cả 2 cuộc họp đều được thông qua.",
+   "data": [
+    {
+     "label": "1 - Quý II/2025",
+     "value": "Xem xét các định hướng hoạt động của Ngân hàng, thực hiện đánh giá và rà soát các dự án công nghệ đang triển khai - Được thông qua"
+    },
+    {
+     "label": "2 - Quý IV/2025",
+     "value": "Xem xét các định hướng hoạt động của Ngân hàng, thực hiện đánh giá và rà soát các dự án công nghệ đang triển khai và định hướng kế hoạch các dự án trọng điểm năm 2026 - Được thông qua"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    606.2,
+    565.5,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p234_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3697,
+  "output": 520
+ },
+ "seconds": 4.5
+}

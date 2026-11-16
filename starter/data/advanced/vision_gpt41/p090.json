@@ -1,0 +1,138 @@
+{
+ "printed_page": 90,
+ "pdf_page": 46,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Huy động (nghìn tỷ đồng)",
+   "bbox": [
+    520,
+    320,
+    1000,
+    570
+   ],
+   "description": "Biểu đồ cột thể hiện tổng huy động của MB qua các năm 2023, 2024, 2025, chia thành 3 thành phần: Chứng chỉ tiền gửi, KHDN, KHCN. Trục tung: giá trị huy động (nghìn tỷ đồng). Trục hoành: năm (2023, 2024, 2025). Có nhãn phần trăm trên từng thành phần cột. Nhãn '+26%' đặt phía trên cột 2025. Chú giải màu: Chứng chỉ tiền gửi, KHDN, KHCN. Nguồn: BCTC hợp nhất.",
+   "data": [
+    {
+     "label": "2023 - Tổng huy động",
+     "value": "671"
+    },
+    {
+     "label": "2023 - Chứng chỉ tiền gửi (%)",
+     "value": "15%"
+    },
+    {
+     "label": "2023 - KHDN (%)",
+     "value": "36%"
+    },
+    {
+     "label": "2023 - KHCN (%)",
+     "value": "49%"
+    },
+    {
+     "label": "2024 - Tổng huy động",
+     "value": "806"
+    },
+    {
+     "label": "2024 - Chứng chỉ tiền gửi (%)",
+     "value": "11%"
+    },
+    {
+     "label": "2024 - KHDN (%)",
+     "value": "36%"
+    },
+    {
+     "label": "2024 - KHCN (%)",
+     "value": "53%"
+    },
+    {
+     "label": "2025 - Tổng huy động",
+     "value": "1.062"
+    },
+    {
+     "label": "2025 - Chứng chỉ tiền gửi (%)",
+     "value": "13%"
+    },
+    {
+     "label": "2025 - KHDN (%)",
+     "value": "38%"
+    },
+    {
+     "label": "2025 - KHCN (%)",
+     "value": "49%"
+    },
+    {
+     "label": "Nhãn tăng trưởng trên cột 2025",
+     "value": "+26%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    309.5,
+    269.4,
+    595.3,
+    479.9
+   ],
+   "crop": "starter/data/advanced/crops/p090_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Huy động (nghìn tỷ đồng) CASA (%)",
+   "bbox": [
+    0,
+    650,
+    480,
+    1000
+   ],
+   "description": "Biểu đồ cột kết hợp đường thể hiện số dư CASA (nghìn tỷ đồng) và tỷ lệ CASA (%) qua các năm 2023, 2024, 2025. Trục tung trái: CASA (nghìn tỷ đồng). Trục tung phải: CASA (%). Trục hoành: năm (2023, 2024, 2025). Nhãn '+23%' đặt phía trên cột 2025. Chú giải màu: CASA (%), Nghìn tỷ. Nguồn: BCTC hợp nhất.",
+   "data": [
+    {
+     "label": "2023 - CASA (nghìn tỷ đồng)",
+     "value": "228"
+    },
+    {
+     "label": "2023 - CASA (%)",
+     "value": "40"
+    },
+    {
+     "label": "2024 - CASA (nghìn tỷ đồng)",
+     "value": "281"
+    },
+    {
+     "label": "2024 - CASA (%)",
+     "value": "39"
+    },
+    {
+     "label": "2025 - CASA (nghìn tỷ đồng)",
+     "value": "348"
+    },
+    {
+     "label": "2025 - CASA (%)",
+     "value": "38"
+    },
+    {
+     "label": "Nhãn tăng trưởng trên cột 2025",
+     "value": "+23%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    547.2,
+    285.7,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p090_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2377,
+  "output": 641
+ },
+ "seconds": 11.4
+}

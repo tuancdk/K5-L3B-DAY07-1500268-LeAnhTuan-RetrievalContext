@@ -1,0 +1,64 @@
+{
+ "printed_page": 192,
+ "pdf_page": 97,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Đội ngũ MB được khuyến khích tinh thần",
+   "bbox": [
+    0,
+    0,
+    350,
+    400
+   ],
+   "description": "Nội dung thể hiện tinh thần khuyến khích nhân sự MB với câu khẩu hiệu \"dám nghĩ dám làm\" và số lượng nhân sự tham gia chương trình là khoảng 2.400, tăng 1,5 lần so với lần đầu tổ chức năm 2023.",
+   "data": [
+    {
+     "label": "Số nhân sự tham gia",
+     "value": "~2.400"
+    },
+    {
+     "label": "Tăng so với năm 2023",
+     "value": "1,5 lần"
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    208.3,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p192_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh nhóm nhân sự MB",
+   "bbox": [
+    0,
+    400,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp nhóm nhân sự MB mặc đồng phục, tạo hình đội hình thể hiện sự đoàn kết và tinh thần làm việc nhóm.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    336.8,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p192_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3747,
+  "output": 196
+ },
+ "seconds": 2.9
+}

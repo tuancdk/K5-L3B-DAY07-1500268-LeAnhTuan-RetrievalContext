@@ -1,0 +1,89 @@
+{
+ "printed_page": 46,
+ "pdf_page": 24,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Mục tiêu của QLRRHĐ trong ngân hàng",
+   "bbox": [
+    40,
+    120,
+    280,
+    320
+   ],
+   "description": "Mục tiêu quản lý rủi ro hoạt động trong ngân hàng gồm 5 điểm chính: (i) Giảm thiểu tổn thất rủi ro hoạt động để bảo vệ ngân hàng, cổ đông và khách hàng; (ii) Kiểm soát RRHĐ nằm trong các ngưỡng giới hạn RRHĐ được BLĐ NH phê duyệt; (iii) Nhận diện sớm các RRHĐ tiềm ẩn, đưa ra các biện pháp kiểm soát phù hợp, hiệu quả, giúp phòng ngừa rủi ro phát sinh; (iv) Phát hiện kịp thời các RRHĐ phát sinh, triển khai nhanh, hiệu quả các biện pháp xử lý, kế hoạch hành động nhằm hạn chế tối đa tổn thất tài chính, phi tài chính cho ngân hàng; (v) Đảm bảo nhận diện, đo lường, giám sát, kiểm soát đầy đủ các loại sự kiện rủi ro hoạt động.",
+   "data": [
+    {
+     "label": "(i)",
+     "value": "Giảm thiểu tổn thất rủi ro hoạt động để bảo vệ ngân hàng, cổ đông và khách hàng"
+    },
+    {
+     "label": "(ii)",
+     "value": "Kiểm soát RRHĐ nằm trong các ngưỡng giới hạn RRHĐ được BLĐ NH phê duyệt"
+    },
+    {
+     "label": "(iii)",
+     "value": "Nhận diện sớm các RRHĐ tiềm ẩn, đưa ra các biện pháp kiểm soát phù hợp, hiệu quả, giúp phòng ngừa rủi ro phát sinh"
+    },
+    {
+     "label": "(iv)",
+     "value": "Phát hiện kịp thời các RRHĐ phát sinh, triển khai nhanh, hiệu quả các biện pháp xử lý, kế hoạch hành động nhằm hạn chế tối đa tổn thất tài chính, phi tài chính cho ngân hàng"
+    },
+    {
+     "label": "(v)",
+     "value": "Đảm bảo nhận diện, đo lường, giám sát, kiểm soát đầy đủ các loại sự kiện rủi ro hoạt động"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    101.0,
+    166.7,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p046_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "MB đã thực hiện các công tác QLRRHĐ bài bản theo thông lệ quốc tế",
+   "bbox": [
+    40,
+    340,
+    280,
+    520
+   ],
+   "description": "Các công tác quản lý rủi ro hoạt động của MB theo thông lệ quốc tế gồm: ban hành hệ thống văn bản chính sách đầy đủ; cơ cấu tổ chức quản lý rủi ro hoạt động theo mô hình 3 vòng (vòng 1: nhóm chức năng kinh doanh/vận hành/hỗ trợ; vòng 2: nhóm chức năng quản lý rủi ro, tuân thủ, thanh tra, tài chính; vòng 3: hoạt động kiểm toán nội bộ); triển khai công cụ QLRRHĐ gồm thu thập dữ liệu tổn thất, đánh giá rủi ro, xây dựng và theo dõi chỉ số rủi ro chính, phân tích phát hiện trong thanh tra kiểm tra.",
+   "data": [
+    {
+     "label": "Hệ thống văn bản chính sách",
+     "value": "Ban hành đầy đủ, áp dụng cho rủi ro hoạt động theo yêu cầu Ngân hàng nhà nước"
+    },
+    {
+     "label": "Cơ cấu tổ chức quản lý rủi ro hoạt động",
+     "value": "Tổ chức và phân định chức năng theo mô hình 3 vòng bảo vệ đảm bảo tính phù hợp, hiệu quả và không phát sinh xung đột lợi ích"
+    },
+    {
+     "label": "Công cụ QLRRHĐ",
+     "value": "Thu thập dữ liệu tổn thất (LDC), đánh giá rủi ro (RCSA), xây dựng và theo dõi chỉ số rủi ro chính (KRIs), phân tích phát hiện trong thanh tra kiểm tra"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    286.2,
+    166.7,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p046_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4243,
+  "output": 801
+ },
+ "seconds": 7.3
+}

@@ -1,0 +1,72 @@
+{
+ "printed_page": 48,
+ "pdf_page": 25,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Minh họa Rủi ro công nghệ và Kinh doanh liên tục (KDLT)",
+   "bbox": [
+    40,
+    120,
+    180,
+    280
+   ],
+   "description": "Ảnh minh họa biểu tượng công nghệ với các đường mạch điện tử kết nối vào một bánh răng, tượng trưng cho quản lý rủi ro công nghệ thông tin.",
+   "data": [],
+   "bbox_pdf_pt": [
+    23.8,
+    101.0,
+    107.1,
+    235.7
+   ],
+   "crop": "starter/data/advanced/crops/p048_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Mục tiêu quản lý rủi ro mô hình",
+   "bbox": [
+    40,
+    700,
+    960,
+    900
+   ],
+   "description": "Bốn ô số liệu nổi bật thể hiện mục tiêu quản lý rủi ro mô hình của ngân hàng MB, mỗi ô có biểu tượng bánh răng và nội dung cụ thể: 1) Đảm bảo tính chính xác, ổn định và phù hợp của mô hình trong toàn bộ vòng đời; 2) Nâng cao tính minh bạch và khả năng giải trình của các quyết định dựa trên mô hình; 3) Tối ưu hóa hiệu quả kinh doanh gắn với khẩu vị rủi ro đã được phê duyệt; 4) Đáp ứng đầy đủ các yêu cầu của Basel III và IFRS9 cũng như các chuẩn mực quản trị quốc tế.",
+   "data": [
+    {
+     "label": "Đảm bảo tính chính xác, ổn định và phù hợp của mô hình trong toàn bộ vòng đời",
+     "value": ""
+    },
+    {
+     "label": "Nâng cao tính minh bạch và khả năng giải trình của các quyết định dựa trên mô hình",
+     "value": ""
+    },
+    {
+     "label": "Tối ưu hóa hiệu quả kinh doanh gắn với khẩu vị rủi ro đã được phê duyệt",
+     "value": ""
+    },
+    {
+     "label": "Đáp ứng đầy đủ các yêu cầu của Basel III và IFRS9 cũng như các chuẩn mực quản trị quốc tế",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    589.3,
+    571.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p048_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4221,
+  "output": 385
+ },
+ "seconds": 3.5
+}

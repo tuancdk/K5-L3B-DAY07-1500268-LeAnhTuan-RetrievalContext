@@ -1,0 +1,53 @@
+{
+ "printed_page": 182,
+ "pdf_page": 92,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Kết quả hoạt động năm 2025 - Trụ cột Môi trường",
+   "bbox": [
+    50,
+    150,
+    950,
+    850
+   ],
+   "description": "Sơ đồ thể hiện 4 định hướng trọng tâm trong trụ cột Môi trường của MB năm 2025, mỗi định hướng được mô tả kèm biểu tượng riêng biệt theo thứ tự từ trên xuống dưới. Các định hướng gồm: 1. Giảm tác động môi trường và đồng hành với nền kinh tế trong quá trình chuyển đổi xanh thông qua tài chính bền vững, tài chính xanh. 2. Tích hợp rủi ro khí hậu và các rủi ro môi trường - xã hội vào hệ thống quản trị rủi ro tổng thể, bao gồm stress-test khí hậu và đánh giá rủi ro ESG trong danh mục tín dụng. 3. Triển khai các giải pháp tiết kiệm năng lượng, giảm phát thải - trung hòa carbon trong hoạt động vận hành, sử dụng năng lượng tái tạo và hướng tới Net Zero. 4. Mở rộng quản lý tác động môi trường chuỗi cung ứng, khuyến khích và yêu cầu các nhà cung cấp giảm phát thải, tối ưu nguồn lực, giảm thiểu ô nhiễm và tham gia vào các sáng kiến xanh phù hợp.",
+   "data": [
+    {
+     "label": "Định hướng 1",
+     "value": "Giảm tác động môi trường và đồng hành với nền kinh tế trong quá trình chuyển đổi xanh thông qua tài chính bền vững, tài chính xanh."
+    },
+    {
+     "label": "Định hướng 2",
+     "value": "Tích hợp rủi ro khí hậu và các rủi ro môi trường – xã hội vào hệ thống quản trị rủi ro tổng thể, bao gồm stress-test khí hậu và đánh giá rủi ro ESG trong danh mục tín dụng."
+    },
+    {
+     "label": "Định hướng 3",
+     "value": "Triển khai các giải pháp tiết kiệm năng lượng, giảm phát thải – trung hòa carbon trong hoạt động vận hành, sử dụng năng lượng tái tạo và hướng tới Net Zero."
+    },
+    {
+     "label": "Định hướng 4",
+     "value": "Mở rộng quản lý tác động môi trường chuỗi cung ứng, khuyến khích và yêu cầu các nhà cung cấp giảm phát thải, tối ưu nguồn lực, giảm thiểu ô nhiễm và tham gia vào các sáng kiến xanh phù hợp."
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    126.3,
+    565.5,
+    715.6
+   ],
+   "crop": "starter/data/advanced/crops/p182_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3530,
+  "output": 506
+ },
+ "seconds": 4.2
+}

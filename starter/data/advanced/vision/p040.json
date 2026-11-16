@@ -1,0 +1,81 @@
+{
+ "printed_page": 40,
+ "pdf_page": 21,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Cơ cấu tổ chức Quản lý rủi ro",
+   "bbox": [
+    50,
+    600,
+    950,
+    980
+   ],
+   "description": "Mô hình 03 vòng (tuyến) bảo vệ trong quản lý rủi ro của MB, gồm 3 vòng chức năng: Vòng (tuyến) 01 nhận dạng, thực hiện các biện pháp kiểm soát, theo dõi, giảm thiểu rủi ro; Vòng (tuyến) 02 xây dựng chính sách quản lý rủi ro, quy định nội bộ, đo lường, theo dõi, kiểm soát rủi ro toàn ngân hàng và tuân thủ quy định pháp luật; Vòng (tuyến) 03 chức năng kiểm toán nội bộ. Mô hình có mũi tên nối giữa các vòng thể hiện sự liên kết tuần hoàn.",
+   "data": [
+    {
+     "label": "Vòng (tuyến) 01",
+     "value": "Có chức năng nhận dạng, thực hiện các biện pháp kiểm soát, theo dõi, giảm thiểu rủi ro"
+    },
+    {
+     "label": "Vòng (tuyến) 02",
+     "value": "Có chức năng xây dựng chính sách quản lý rủi ro, quy định nội bộ về quản lý rủi ro; đo lường, theo dõi, kiểm soát rủi ro toàn ngân hàng và tuân thủ quy định của pháp luật"
+    },
+    {
+     "label": "Vòng (tuyến) 03",
+     "value": "Có chức năng kiểm toán nội bộ"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    505.1,
+    565.5,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p040_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Vai trò của các bộ phận trong quản lý rủi ro",
+   "bbox": [
+    50,
+    400,
+    950,
+    590
+   ],
+   "description": "Ba khối thông tin mô tả vai trò của Hội đồng quản trị (HĐQT), Ban Kiểm soát (BKS) và Tổng Giám đốc (TGĐ) trong quản lý rủi ro. HĐQT chịu trách nhiệm tổng thể về chiến lược kinh doanh, rủi ro, cơ cấu tổ chức, quản trị, kiểm soát nội bộ, xây dựng văn hóa quản lý rủi ro. BKS giám sát hoạt động quản lý rủi ro theo quy định pháp luật, giám sát kiểm toán nội bộ. TGĐ tổ chức triển khai chiến lược, chính sách, quy định, xây dựng hệ thống xếp hạng tín dụng nội bộ, nhận diện, đo lường rủi ro, cảnh báo sớm, triển khai văn hóa quản lý rủi ro.",
+   "data": [
+    {
+     "label": "Hội đồng quản trị (HĐQT)",
+     "value": "Chịu trách nhiệm tổng thể về chiến lược kinh doanh, rủi ro cũng như cơ cấu tổ chức, quản trị của ngân hàng; chỉ đạo kiểm tra, giám sát TGĐ; xây dựng văn hóa QLRR."
+    },
+    {
+     "label": "Ban Kiểm soát (BKS)",
+     "value": "Thực hiện chức năng, nhiệm vụ theo quy định pháp luật và MB: giám sát theo quy định và kế hoạch hoạt động của Ban Kiểm soát về hoạt động Quản lý rủi ro; giám sát bộ phận kiểm toán nội bộ."
+    },
+    {
+     "label": "Tổng Giám đốc (TGĐ)",
+     "value": "Tổ chức triển khai chiến lược, chính sách, quy định của HĐQT về QLRR; xây dựng, giám sát hạn mức rủi ro; xây dựng, kiểm định hệ thống xếp hạng tín dụng nội bộ; nhận diện, đo lường rủi ro, cảnh báo sớm; triển khai văn hóa QLRR."
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    336.8,
+    565.5,
+    496.7
+   ],
+   "crop": "starter/data/advanced/crops/p040_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4321,
+  "output": 760
+ },
+ "seconds": 6.2
+}

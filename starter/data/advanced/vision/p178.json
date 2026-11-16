@@ -1,0 +1,85 @@
+{
+ "printed_page": 178,
+ "pdf_page": 90,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Bảng thông tin về Năng lượng tiêu thụ",
+   "bbox": [
+    50,
+    120,
+    950,
+    320
+   ],
+   "description": "Bảng thông tin năng lượng tiêu thụ tại Hội sở 18 Lê Văn Lương và toàn hàng (HO, CN/PGD) năm 2024 và 2025, gồm năng lượng tiêu thụ trực tiếp (xăng dầu) và gián tiếp (điện) tính bằng kWh, cùng tỷ lệ % tăng/giảm giữa hai năm.",
+   "data": [
+    {
+     "label": "Năng lượng tiêu thụ trực tiếp (xăng dầu) - kWh năm 2024 Hội sở",
+     "value": "17.180"
+    },
+    {
+     "label": "Năng lượng tiêu thụ trực tiếp (xăng dầu) - kWh năm 2025 Hội sở",
+     "value": "8.364"
+    },
+    {
+     "label": "% Tăng/(Giảm) năng lượng tiêu thụ trực tiếp (xăng dầu) Hội sở",
+     "value": "(51,3%)"
+    },
+    {
+     "label": "Năng lượng tiêu thụ trực tiếp (xăng dầu) - kWh toàn hàng năm 2024",
+     "value": "13.681.800"
+    },
+    {
+     "label": "Năng lượng tiêu thụ gián tiếp (điện) - kWh năm 2024 Hội sở",
+     "value": "4.948.100"
+    },
+    {
+     "label": "Năng lượng tiêu thụ gián tiếp (điện) - kWh năm 2025 Hội sở",
+     "value": "4.784.300"
+    },
+    {
+     "label": "% Tăng/(Giảm) năng lượng tiêu thụ gián tiếp (điện) Hội sở",
+     "value": "(3,3%)"
+    },
+    {
+     "label": "Năng lượng tiêu thụ gián tiếp (điện) - kWh toàn hàng năm 2024",
+     "value": "30.741.347"
+    },
+    {
+     "label": "Tổng lượng năng lượng tiêu thụ năm 2024 Hội sở",
+     "value": "4.965.280"
+    },
+    {
+     "label": "Tổng lượng năng lượng tiêu thụ năm 2025 Hội sở",
+     "value": "4.792.664"
+    },
+    {
+     "label": "% Tăng/(Giảm) tổng lượng năng lượng tiêu thụ Hội sở",
+     "value": "(3,5%)"
+    },
+    {
+     "label": "Tổng lượng năng lượng tiêu thụ toàn hàng năm 2024",
+     "value": "44.423.147"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    101.0,
+    565.5,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p178_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3779,
+  "output": 484
+ },
+ "seconds": 4.7
+}

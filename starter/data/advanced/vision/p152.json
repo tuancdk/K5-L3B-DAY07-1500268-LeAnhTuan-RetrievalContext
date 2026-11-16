@@ -1,0 +1,85 @@
+{
+ "printed_page": 152,
+ "pdf_page": 77,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Quy trình xác định các chủ đề trọng yếu tại MB",
+   "bbox": [
+    50,
+    150,
+    950,
+    900
+   ],
+   "description": "Sơ đồ quy trình gồm 4 bước xác định chủ đề trọng yếu ESG tại MB. Bước 1: Phân tích bối cảnh và xác định danh mục các chủ đề trọng yếu, bao gồm đánh giá bối cảnh kinh tế, cam kết phát triển bền vững, ghi nhận cơ hội và thách thức, xác định danh mục chủ đề môi trường, xã hội, kinh tế, quản trị. Bước 2: Xác định các bên liên quan trọng yếu trong nội bộ và bên ngoài MB tham gia vào quá trình đánh giá trọng yếu. Bước 3: Đánh giá tác động về môi trường, xã hội và kinh tế của các chủ đề, xác định tác động đáng kể, đánh giá mức độ tác động tích cực và tiêu cực, tham vấn các bên liên quan. Bước 4: Xác định các chủ đề trọng yếu thông qua Ma trận trọng yếu, Ban Lãnh đạo xem xét tính phù hợp với hoạt động kinh doanh, chiến lược và cam kết phát triển bền vững của MB.",
+   "data": [
+    {
+     "label": "Bước 1",
+     "value": "Phân tích bối cảnh và xác định danh mục các chủ đề trọng yếu"
+    },
+    {
+     "label": "Bước 2",
+     "value": "Xác định các bên liên quan trọng yếu trong nội bộ và bên ngoài MB tham gia vào quá trình đánh giá trọng yếu"
+    },
+    {
+     "label": "Bước 3",
+     "value": "Đánh giá tác động về môi trường, xã hội và kinh tế của các chủ đề"
+    },
+    {
+     "label": "Bước 4",
+     "value": "Xác định các chủ đề trọng yếu thông qua Ma trận trọng yếu"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    126.3,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p152_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Ba nguyên tắc lựa chọn chủ đề trọng yếu của MB",
+   "bbox": [
+    200,
+    350,
+    800,
+    520
+   ],
+   "description": "Ba nguyên tắc chính để lựa chọn các chủ đề trọng yếu ESG tại MB: 1. Đảm bảo sự cân đối giữa ba trụ cột E – S – G, phản ánh đầy đủ tác động môi trường, xã hội và quản trị. 2. Kế thừa, bám sát Chiến lược MB, đặc biệt là định hướng phát triển bền vững và các mục tiêu dài hạn. 3. Tiếp tục phát huy những lĩnh vực MB đã triển khai hiệu quả, duy trì sự nhất quán và nâng cao giá trị tạo ra cho các bên liên quan.",
+   "data": [
+    {
+     "label": "Nguyên tắc 1",
+     "value": "Đảm bảo sự cân đối giữa ba trụ cột E – S – G, phản ánh đầy đủ tác động môi trường, xã hội và quản trị."
+    },
+    {
+     "label": "Nguyên tắc 2",
+     "value": "Kế thừa, bám sát Chiến lược MB, đặc biệt là định hướng phát triển bền vững và các mục tiêu dài hạn."
+    },
+    {
+     "label": "Nguyên tắc 3",
+     "value": "Tiếp tục phát huy những lĩnh vực MB đã triển khai hiệu quả, duy trì sự nhất quán và nâng cao giá trị tạo ra cho các bên liên quan."
+    }
+   ],
+   "bbox_pdf_pt": [
+    119.1,
+    294.7,
+    476.2,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p152_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3924,
+  "output": 670
+ },
+ "seconds": 5.3
+}

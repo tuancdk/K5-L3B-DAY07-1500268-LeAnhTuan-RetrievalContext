@@ -1,0 +1,89 @@
+{
+ "printed_page": 264,
+ "pdf_page": 133,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Bảng đánh giá mức độ đáp ứng các tiêu chí quản trị công ty tại MB",
+   "bbox": [
+    50,
+    50,
+    950,
+    900
+   ],
+   "description": "Bảng liệt kê các tiêu chí quản trị công ty theo mã số, tiêu chí, mức độ đáp ứng tại MB (V hoặc X), và ghi chú/dẫn chứng chi tiết cho từng tiêu chí. Các tiêu chí bao gồm quy trình xem xét chiến lược, Bộ Quy tắc Đạo đức, cơ cấu hội đồng quản trị, ủy ban nhân sự, và các quy định liên quan đến thành viên HĐQT độc lập, nhiệm kỳ, số vị trí giữ đồng thời, và hoạt động của Ủy ban Nhân sự.",
+   "data": [
+    {
+     "label": "D.1.6",
+     "value": "V"
+    },
+    {
+     "label": "D.2.1",
+     "value": "V"
+    },
+    {
+     "label": "D.2.2",
+     "value": "V"
+    },
+    {
+     "label": "D.2.3",
+     "value": "V"
+    },
+    {
+     "label": "D.2.4",
+     "value": "X"
+    },
+    {
+     "label": "D.2.5",
+     "value": "V"
+    },
+    {
+     "label": "D.2.6",
+     "value": "V"
+    },
+    {
+     "label": "D.2.7",
+     "value": "V"
+    },
+    {
+     "label": "D.2.8",
+     "value": "V"
+    },
+    {
+     "label": "D.2.9",
+     "value": "X"
+    },
+    {
+     "label": "D.2.10",
+     "value": "X"
+    },
+    {
+     "label": "D.2.11",
+     "value": "V"
+    },
+    {
+     "label": "D.2.12",
+     "value": "V"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p264_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4363,
+  "output": 318
+ },
+ "seconds": 3.6
+}

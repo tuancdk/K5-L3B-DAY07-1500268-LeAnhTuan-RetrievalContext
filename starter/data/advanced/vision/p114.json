@@ -1,0 +1,45 @@
+{
+ "printed_page": 114,
+ "pdf_page": 58,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Các tiến bộ MB đã đạt được trong năm 2025",
+   "bbox": [
+    500,
+    100,
+    980,
+    900
+   ],
+   "description": "Hai vòng tròn lớn thể hiện các chỉ tiêu tài chính chính của MB năm 2025. Vòng tròn lớn trên cùng thể hiện Tổng tài sản với giá trị 1.615.764. Vòng tròn lớn phía dưới thể hiện Tín dụng (Dư nợ + TP TCKT + M) với giá trị 1.109.89. Màu sắc vòng tròn là xanh dương nhạt tượng trưng cho năm 2025.",
+   "data": [
+    {
+     "label": "Tổng tài sản",
+     "value": "1.615.764"
+    },
+    {
+     "label": "Tín dụng (Dư nợ + TP TCKT + M)",
+     "value": "1.109.89"
+    }
+   ],
+   "bbox_pdf_pt": [
+    297.6,
+    84.2,
+    583.4,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p114_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3904,
+  "output": 183
+ },
+ "seconds": 2.3
+}

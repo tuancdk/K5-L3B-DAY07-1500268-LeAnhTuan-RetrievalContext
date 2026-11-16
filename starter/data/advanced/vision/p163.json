@@ -1,0 +1,45 @@
+{
+ "printed_page": 163,
+ "pdf_page": 82,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Hệ thống kênh thông tin dành cho cổ đông",
+   "bbox": [
+    100,
+    700,
+    600,
+    900
+   ],
+   "description": "Sơ đồ gồm hai khối chính kết nối với nhau thể hiện các kênh thông tin dành cho cổ đông của MB. Khối trên là 'Cổng thông tin nhà đầu tư' với chú thích 'Tại website: www.mbbank.com.vn, mục Nhà đầu tư'. Khối dưới là 'Thông tin liên hệ trực tiếp' với chú thích địa chỉ và số điện thoại: 'Phòng Quản lý cổ đông – Văn phòng HĐQT, Số 18 Lê Văn Lương, Phường Yên Hòa, TP. Hà Nội, Việt Nam, Điện thoại: 024.6266.1088, Máy lẻ 3687, 3688'. Mục đích là đa dạng hóa kênh thông tin để mang lại trải nghiệm tiếp cận thuận tiện nhất cho cổ đông.",
+   "data": [
+    {
+     "label": "Cổng thông tin nhà đầu tư",
+     "value": "Tại website: www.mbbank.com.vn, mục Nhà đầu tư"
+    },
+    {
+     "label": "Thông tin liên hệ trực tiếp",
+     "value": "Phòng Quản lý cổ đông – Văn phòng HĐQT, Số 18 Lê Văn Lương, Phường Yên Hòa, TP. Hà Nội, Việt Nam, Điện thoại: 024.6266.1088, Máy lẻ 3687, 3688"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    589.3,
+    952.4,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p163_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3777,
+  "output": 317
+ },
+ "seconds": 2.9
+}

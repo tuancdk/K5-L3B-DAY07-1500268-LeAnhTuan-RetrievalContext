@@ -1,0 +1,87 @@
+{
+ "printed_page": 200,
+ "pdf_page": 101,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Giải thưởng Vietnam HR Excellence 2025",
+   "bbox": [
+    300,
+    400,
+    700,
+    600
+   ],
+   "description": "Ảnh chụp ba nhân viên MB mặc đồng phục vest xanh, một người cầm tài liệu màu xanh, thể hiện môi trường làm việc chuyên nghiệp và thân thiện.",
+   "data": [],
+   "bbox_pdf_pt": [
+    178.6,
+    336.8,
+    416.7,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p200_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Logo giải thưởng Vietnam HR Excellence 2025",
+   "bbox": [
+    400,
+    300,
+    600,
+    370
+   ],
+   "description": "Logo giải thưởng Vietnam HR Excellence 2025 với hình ngôi sao và chữ HR lớn màu xanh, kèm theo dòng chữ 'Employee Choice Award anphabe'. Hai nhánh lá nguyệt quế màu xanh hai bên logo.",
+   "data": [],
+   "bbox_pdf_pt": [
+    238.1,
+    252.6,
+    357.2,
+    311.5
+   ],
+   "crop": "starter/data/advanced/crops/p200_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Thông tin giải thưởng Vietnam HR Excellence 2025",
+   "bbox": [
+    350,
+    270,
+    650,
+    320
+   ],
+   "description": "Thông tin giải thưởng Vietnam HR Excellence 2025, hạng mục Văn hóa Doanh nghiệp, do Anphabe chứng nhận và trao tặng.",
+   "data": [
+    {
+     "label": "Giải thưởng",
+     "value": "Vietnam HR Excellence 2025"
+    },
+    {
+     "label": "Hạng mục",
+     "value": "Văn hóa Doanh nghiệp"
+    },
+    {
+     "label": "Đơn vị trao tặng",
+     "value": "Anphabe"
+    }
+   ],
+   "bbox_pdf_pt": [
+    208.3,
+    227.3,
+    386.9,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p200_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 3463,
+  "output": 262
+ },
+ "seconds": 3.2
+}

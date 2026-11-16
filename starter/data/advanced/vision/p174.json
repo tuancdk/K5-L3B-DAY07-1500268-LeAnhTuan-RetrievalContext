@@ -1,0 +1,61 @@
+{
+ "printed_page": 174,
+ "pdf_page": 88,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Các biện pháp đã và đang triển khai liên quan đến việc phát triển các kênh phân phối hiện đại dựa trên ứng dụng công nghệ số",
+   "bbox": [
+    50,
+    150,
+    950,
+    850
+   ],
+   "description": "Sơ đồ gồm 6 ô chính, mỗi ô có tiêu đề và mô tả chi tiết về biện pháp công nghệ số và phát triển bền vững của MB. Các ô được sắp xếp theo chiều dọc, mỗi ô có tiêu đề màu xanh và mô tả chi tiết bên phải.",
+   "data": [
+    {
+     "label": "Cá nhân hóa trải nghiệm khách hàng",
+     "value": "Sử dụng trí tuệ nhân tạo (AI) phân tích hành vi của khách hàng dựa trên dữ liệu thu thập được từ đó đưa ra trải nghiệm phù hợp cho từng khách hàng"
+    },
+    {
+     "label": "Chatbots và trợ lý ảo",
+     "value": "Chatbots sử dụng AI để giao tiếp với khách hàng, trả lời các câu hỏi và xử lý yêu cầu cơ bản của khách hàng. Chatbots hoạt động 24/7, không cần sự can thiệp của con người nên có thể hỗ trợ khách hàng liên tục, giảm thời gian chờ đợi, nâng cao trải nghiệm khách hàng"
+    },
+    {
+     "label": "Cung cấp trải nghiệm đơn giản, thuận tiện",
+     "value": "Phát triển nền tảng số cho phép khách hàng có thể thực hiện các giao dịch đơn giản, thuận tiện, có thể sử dụng mọi lúc, mọi nơi qua ứng dụng di động"
+    },
+    {
+     "label": "Trải nghiệm nhanh, tăng khả năng truy cập",
+     "value": "Cung cấp dịch vụ trên điện toán đám mây (Cloud Computing) đảm bảo hiệu năng và tính ổn định của dịch vụ cung cấp cho khách hàng"
+    },
+    {
+     "label": "Đẩy mạnh chuyển đổi số",
+     "value": "Giúp giảm giấy tờ từ đó giảm rác thải ra môi trường"
+    },
+    {
+     "label": "Phát hành thẻ MB Mastercard Hi Green",
+     "value": "Là dòng thẻ ngân hàng đầu tiên tại Việt Nam được thiết kế để khuyến khích lối sống xanh và phát triển bền vững. Chiếc thẻ này không chỉ là công cụ thanh toán mà còn là sự cam kết bảo vệ môi trường khi được làm hoàn toàn từ nhựa tái chế"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    126.3,
+    565.5,
+    715.6
+   ],
+   "crop": "starter/data/advanced/crops/p174_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3787,
+  "output": 472
+ },
+ "seconds": 4.1
+}

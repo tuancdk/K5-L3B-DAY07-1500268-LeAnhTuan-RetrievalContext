@@ -1,0 +1,109 @@
+{
+ "printed_page": 157,
+ "pdf_page": 79,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Phương pháp tiếp cận và hành động triển khai với các bên liên quan (STT 6-8)",
+   "bbox": [
+    50,
+    100,
+    950,
+    700
+   ],
+   "description": "Bảng liệt kê các bên liên quan, phương pháp tiếp cận, tần suất tiếp cận, các mối quan tâm chính và hành động triển khai của MB trong phát triển bền vững. Các bên liên quan gồm Cộng đồng, Nhà cung cấp, Báo chí truyền thông. Phương pháp tiếp cận và tần suất tiếp cận được mô tả chi tiết. Các mối quan tâm chính và hành động triển khai cụ thể cho từng bên liên quan.",
+   "data": [
+    {
+     "label": "STT",
+     "value": "6"
+    },
+    {
+     "label": "Bên liên quan",
+     "value": "Cộng đồng"
+    },
+    {
+     "label": "Phương pháp tiếp cận",
+     "value": "Phối hợp với chính quyền địa phương trong các công tác an sinh xã hội, truyền thông về tài chính; Phối hợp với các trường đại học triển khai các diễn đàn, chương trình thực tập và tuyển dụng sớm"
+    },
+    {
+     "label": "Tần suất tiếp cận",
+     "value": "Hàng năm; Hàng quý"
+    },
+    {
+     "label": "Các mối quan tâm chính",
+     "value": "Đóng góp vào sự phát triển của cộng đồng địa phương nơi MB hoạt động"
+    },
+    {
+     "label": "Hành động triển khai",
+     "value": "Tổ chức các chương trình thực tập, tuyển dụng tại các CN/PGD, Hội sở MB cho sinh viên các trường đại học trên cả nước có cơ hội trải nghiệm, học tập và định hướng việc làm ngay tại nơi sinh sống; Đóng góp và phối hợp với chính quyền địa phương trong các hoạt động vì cộng đồng như đền ơn đáp nghĩa, từ thiện, hiếu học ...; Phát triển mạng lưới CN/PGD và đại lý ngân hàng rộng khắp các tỉnh thành nhằm tạo điều kiện cho mọi người dân có cơ hội tiếp cận với dịch vụ tài chính cơ bản, dễ sử dụng"
+    },
+    {
+     "label": "STT",
+     "value": "7"
+    },
+    {
+     "label": "Bên liên quan",
+     "value": "Nhà cung cấp"
+    },
+    {
+     "label": "Phương pháp tiếp cận",
+     "value": "Gặp gỡ, trao đổi trực tiếp thông qua hoạt động đấu thầu, lựa chọn theo tiêu chí với từng dịch vụ; Đánh giá định kỳ chất lượng, dịch vụ nhà cung cấp"
+    },
+    {
+     "label": "Tần suất tiếp cận",
+     "value": "Khi phát sinh; Hàng năm"
+    },
+    {
+     "label": "Các mối quan tâm chính",
+     "value": "Cơ hội bình đẳng, công bằng giữa các nhà cung cấp; Hợp tác cùng phát triển, tăng trưởng bền vững"
+    },
+    {
+     "label": "Hành động triển khai",
+     "value": "Ban hành Chính sách ESG: bổ sung cam kết về Môi trường – Xã hội với Nhà cung cấp; Thực hiện đánh giá, lựa chọn nhà cung cấp theo quy chế, quy trình MB phù hợp quy định pháp luật đảm bảo công bằng, minh bạch"
+    },
+    {
+     "label": "STT",
+     "value": "8"
+    },
+    {
+     "label": "Bên liên quan",
+     "value": "Báo chí, truyền thông"
+    },
+    {
+     "label": "Phương pháp tiếp cận",
+     "value": "Gặp gỡ và trả lời phỏng vấn báo chí; Thực hiện thông cáo báo chí, tổ chức Cập nhật thường xuyên các tin tức, sự kiện quan trọng tại website"
+    },
+    {
+     "label": "Tần suất tiếp cận",
+     "value": "Khi phát sinh"
+    },
+    {
+     "label": "Các mối quan tâm chính",
+     "value": "Định hướng phát triển, chiến lược kinh doanh và kết quả hoạt động của MB được cung cấp minh bạch, chính xác, kịp thời; Các thông tin liên quan đến thị trường tài chính – ngân hàng và sản phẩm dịch vụ của MB"
+    },
+    {
+     "label": "Hành động triển khai",
+     "value": "Phát hành thông cáo báo chí về các sự kiện quan trọng của MB (ĐHCĐ, công bố kết quả kinh doanh, Hội nghị nhà đầu tư, sự kiện lớn…); tổ chức gặp gỡ báo chí để cung cấp/chia sẻ thông tin chính thống; Chủ động cung cấp thông tin chính thống liên quan đến hoạt động của MB cho báo chí"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    1160.8,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p157_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3944,
+  "output": 868
+ },
+ "seconds": 10.4
+}

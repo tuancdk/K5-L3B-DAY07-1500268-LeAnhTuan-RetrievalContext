@@ -1,0 +1,121 @@
+{
+ "printed_page": 109,
+ "pdf_page": 55,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Thu nhập phí thuần (NFI)",
+   "bbox": [
+    50,
+    400,
+    950,
+    700
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện Thu nhập phí thuần (NFI) của các ngân hàng năm 2025 với đơn vị nghìn tỷ và tốc độ tăng trưởng phần trăm so với năm 2024. Trục tung trái là NFI (nghìn tỷ), trục tung phải là tốc độ tăng trưởng (%) (svck). Các ngân hàng được liệt kê theo thứ tự: TCB, VPB, BID, MBB, CTG, VCB, ACB, STB. MBB có NFI 6,6 nghìn tỷ với tốc độ tăng trưởng 51%, đứng thứ 4 về quy mô và có mức tăng trưởng cao nhất trong nhóm. Các giá trị NFI và tốc độ tăng trưởng cụ thể như sau.",
+   "data": [
+    {
+     "label": "TCB",
+     "value": "8,8 nghìn tỷ, 9%"
+    },
+    {
+     "label": "VPB",
+     "value": "7,4 nghìn tỷ, 20%"
+    },
+    {
+     "label": "BID",
+     "value": "6,9 nghìn tỷ, -2%"
+    },
+    {
+     "label": "MBB",
+     "value": "6,6 nghìn tỷ, 51%"
+    },
+    {
+     "label": "CTG",
+     "value": "6,3 nghìn tỷ, -5%"
+    },
+    {
+     "label": "VCB",
+     "value": "3,5 nghìn tỷ, -32%"
+    },
+    {
+     "label": "ACB",
+     "value": "3,1 nghìn tỷ, -3%"
+    },
+    {
+     "label": "STB",
+     "value": "3,1 nghìn tỷ, 3%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    336.8,
+    1160.8,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p109_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Lợi nhuận trước thuế",
+   "bbox": [
+    50,
+    720,
+    950,
+    1000
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện Lợi nhuận trước thuế của các ngân hàng năm 2025 với đơn vị nghìn tỷ và tốc độ tăng trưởng phần trăm so với năm 2024. Trục tung trái là lợi nhuận trước thuế (nghìn tỷ), trục tung phải là tốc độ tăng trưởng (%) (svck). Các ngân hàng được liệt kê theo thứ tự: VCB, CTG, BID, MBB, TCB, VPB, ACB, STB. MBB có lợi nhuận trước thuế 34,3 nghìn tỷ, tăng trưởng 18,9%, đứng thứ 4 về quy mô lợi nhuận trước thuế. Các giá trị lợi nhuận và tốc độ tăng trưởng cụ thể như sau.",
+   "data": [
+    {
+     "label": "VCB",
+     "value": "44,0 nghìn tỷ, 4%"
+    },
+    {
+     "label": "CTG",
+     "value": "43,4 nghìn tỷ, 37%"
+    },
+    {
+     "label": "BID",
+     "value": "37,9 nghìn tỷ, 18%"
+    },
+    {
+     "label": "MBB",
+     "value": "34,3 nghìn tỷ, 19%"
+    },
+    {
+     "label": "TCB",
+     "value": "32,5 nghìn tỷ, 18%"
+    },
+    {
+     "label": "VPB",
+     "value": "30,6 nghìn tỷ, 53%"
+    },
+    {
+     "label": "ACB",
+     "value": "19,5 nghìn tỷ, -7%"
+    },
+    {
+     "label": "STB",
+     "value": "7,6 nghìn tỷ, -40%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    606.2,
+    1160.8,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p109_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3843,
+  "output": 688
+ },
+ "seconds": 5.2
+}

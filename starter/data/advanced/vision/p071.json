@@ -1,0 +1,55 @@
+{
+ "printed_page": 71,
+ "pdf_page": 36,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ông TRẦN MINH ĐẠT - Phó Tổng Giám đốc",
+   "bbox": [
+    0,
+    0,
+    500,
+    480
+   ],
+   "description": "Ảnh chân dung ông Trần Minh Đạt, Phó Tổng Giám đốc MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    892.9,
+    404.1
+   ],
+   "crop": "starter/data/advanced/crops/p071_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ông HÀ TRỌNG KHIÊM - Phó Tổng Giám đốc",
+   "bbox": [
+    500,
+    480,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chân dung ông Hà Trọng Khiêm, Phó Tổng Giám đốc MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    892.9,
+    404.1,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p071_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3753,
+  "output": 129
+ },
+ "seconds": 1.9
+}

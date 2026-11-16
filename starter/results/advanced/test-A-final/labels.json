@@ -1,0 +1,226 @@
+[
+ {
+  "query_id": "at01",
+  "group": "bang",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at02",
+  "group": "bang",
+  "pass": true,
+  "reason": "Cite p094:visual0 (mô tả hình của cùng bảng, bbox phủ 100% bảng 'sở hữu từ 1%'), chứa tên, 791.523.642 và 9,83%.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at03",
+  "group": "bang",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at04",
+  "group": "bang",
+  "pass": true,
+  "reason": "39,4 triệu, tăng 5,3% (và +2 triệu) đúng bảng tr.188.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at05",
+  "group": "bang",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at06",
+  "group": "bang",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at07",
+  "group": "anh_so_do",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at08",
+  "group": "anh_so_do",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at09",
+  "group": "anh_so_do",
+  "pass": true,
+  "reason": "Kiểm toán nội bộ; ý thêm 'trực thuộc, báo cáo trực tiếp Ban Kiểm soát' có nguyên văn tr.242 (đã cite).",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at10",
+  "group": "anh_so_do",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at11",
+  "group": "anh_so_do",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at12",
+  "group": "anh_so_do",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at13",
+  "group": "bieu_do",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at14",
+  "group": "bieu_do",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at15",
+  "group": "bieu_do",
+  "pass": false,
+  "reason": "SAI: ghi CIR hợp nhất 26,0% và riêng lẻ 29,1% — đảo nhãn (biểu đồ tr.93: hợp nhất 29,1, riêng lẻ 26,0). Chênh 3,1 đúng nhưng có khẳng định sai.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at16",
+  "group": "bieu_do",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at17",
+  "group": "bieu_do",
+  "pass": true,
+  "reason": "39.500 và CAGR 14,8%; ý thêm đơn vị tỷ đồng đúng (LNTT 34.268 tỷ ở các đoạn cùng chủ đề).",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at18",
+  "group": "bieu_do",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at19",
+  "group": "multi_hop",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at20",
+  "group": "multi_hop",
+  "pass": true,
+  "reason": "80.550, hai đợt 15%/32%, 7.959 + 19.527 = 27.486 tỷ (làm tròn từ 27.486.759 triệu) đúng. Citation: p096:visual0 (bbox phủ 100% bảng tr.96) chứa 53.063.241 → 61.022.727 → 80.550.000 và số huy động; nhóm evidence 1 (tr.85/57) không được cite nhưng p096 tự chứa vốn điều lệ trước/sau → đạt theo làm rõ (2). Nếu chỉ chấp nhận trang trong danh sách: không đạt.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at21",
+  "group": "multi_hop",
+  "pass": true,
+  "reason": "0,632 tỷ đồng/người/năm = 632 triệu (≈631,8 làm tròn); cite đủ tr.203 và tr.188.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at22",
+  "group": "multi_hop",
+  "pass": true,
+  "reason": "Đại Dương, 17/10/2024, 20.674 − 18.836 = 1.838; cite tr.292/84 và p188:visual0 (bbox phủ 100% bảng nhân lực). '(không ghi đơn vị)' không làm sai ý số lao động.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at23",
+  "group": "text",
+  "pass": true,
+  "reason": "362 nghìn tỷ, 127 nghìn tỷ, 54% đúng tr.60; câu 'nguồn không ghi đơn vị cụ thể' là nhận xét thừa, không thay đổi số liệu.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at24",
+  "group": "text",
+  "pass": false,
+  "reason": "88.868 và 50% đúng nhưng bỏ đơn vị và khẳng định sai '(không ghi đơn vị)' trong khi tr.62 ghi '88.868 tỷ'. Hệ quả của bộ tự kiểm tra (tìm 'tỷ đồng', nguồn viết 'tỷ').",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at25",
+  "group": "text",
+  "pass": true,
+  "reason": "Đúng và đủ mọi ý bắt buộc; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "at26",
+  "group": "text",
+  "pass": true,
+  "reason": "2%/năm cho dự án xanh, kinh tế tuần hoàn, ESG; các ý thêm (0,5–1,5%/năm; loại dự án ưu tiên) có trong p170:text:01/03 đã cite.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "atn1",
+  "group": "thieu_bang_chung",
+  "pass": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm số liệu.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "atn2",
+  "group": "thieu_bang_chung",
+  "pass": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm số liệu.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "atn3",
+  "group": "thieu_bang_chung",
+  "pass": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm số liệu.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "atn4",
+  "group": "thieu_bang_chung",
+  "pass": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm số liệu.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "atn5",
+  "group": "thieu_bang_chung",
+  "pass": true,
+  "reason": "Từ chối; chỉ nêu giá cuối năm 25.300 (đúng, có cite), không suy đoán giá cao nhất.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ },
+ {
+  "query_id": "atn6",
+  "group": "thieu_bang_chung",
+  "pass": true,
+  "reason": "Từ chối, nói rõ không đủ bằng chứng, không thêm số liệu.",
+  "reviewer": "Claude Code đọc câu trả lời, nội dung chunk được cite và bbox; đối chiếu đáp án đã kiểm tra trên ảnh trang gốc; chờ học viên xác nhận"
+ }
+]

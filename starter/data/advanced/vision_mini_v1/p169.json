@@ -1,0 +1,125 @@
+{
+ "printed_page": 169,
+ "pdf_page": 85,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Khung tín dụng xanh MB tuân thủ 04 thành phần cốt lõi",
+   "bbox": [
+    350,
+    180,
+    650,
+    320
+   ],
+   "description": "Sơ đồ gồm 4 khối thành phần cốt lõi của Khung tín dụng xanh MB: Mục đích sử dụng vốn, Quản lý sử dụng vốn vay, Quy trình đánh giá và lựa chọn dự án, Báo cáo tác động.",
+   "data": [
+    {
+     "label": "Mục đích sử dụng vốn",
+     "value": ""
+    },
+    {
+     "label": "Quản lý sử dụng vốn vay",
+     "value": ""
+    },
+    {
+     "label": "Quy trình đánh giá và lựa chọn dự án",
+     "value": ""
+    },
+    {
+     "label": "Báo cáo tác động",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    803.6,
+    151.5,
+    982.2,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p169_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Kết quả triển khai tín dụng xanh năm 2025",
+   "bbox": [
+    50,
+    350,
+    950,
+    460
+   ],
+   "description": "Thông tin huy động vốn xanh quốc tế và quy mô dư nợ tín dụng xanh năm 2025. Huy động thành công 500 triệu USD vốn xanh quốc tế. Quy mô dư nợ tín dụng xanh năm 2025 đạt 68.501 tỷ đồng cho 5.148 khoản vay/dự án xanh.",
+   "data": [
+    {
+     "label": "Huy động vốn xanh quốc tế",
+     "value": "500 triệu USD"
+    },
+    {
+     "label": "Quy mô dư nợ tín dụng xanh N2025",
+     "value": "68.501 tỷ đồng"
+    },
+    {
+     "label": "Số khoản vay/dự án xanh",
+     "value": "5.148"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    294.7,
+    1160.8,
+    387.3
+   ],
+   "crop": "starter/data/advanced/crops/p169_v1.png"
+  },
+  {
+   "kind": "pie_chart",
+   "title": "Cơ cấu dư nợ tín dụng xanh năm 2025",
+   "bbox": [
+    50,
+    470,
+    950,
+    900
+   ],
+   "description": "Biểu đồ tròn thể hiện cơ cấu dư nợ tín dụng xanh theo lĩnh vực năm 2025 với các tỷ lệ phần trăm và lĩnh vực tương ứng: 62% năng lượng tái tạo và năng lượng sạch, 22% nông, lâm nghiệp xanh bền vững, 9% công nghiệp xanh, 7% giao thông xanh, ~1% lĩnh vực xanh khác.",
+   "data": [
+    {
+     "label": "Lĩnh vực năng lượng tái tạo và năng lượng sạch",
+     "value": "62%"
+    },
+    {
+     "label": "Lĩnh vực nông, lâm nghiệp xanh bền vững",
+     "value": "22%"
+    },
+    {
+     "label": "Lĩnh vực công nghiệp xanh",
+     "value": "9%"
+    },
+    {
+     "label": "Lĩnh vực giao thông xanh",
+     "value": "7%"
+    },
+    {
+     "label": "Lĩnh vực xanh khác",
+     "value": "~1%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    395.7,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p169_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 3794,
+  "output": 524
+ },
+ "seconds": 4.7
+}

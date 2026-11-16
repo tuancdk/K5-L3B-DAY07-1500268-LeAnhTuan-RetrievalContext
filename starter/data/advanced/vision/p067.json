@@ -1,0 +1,105 @@
+{
+ "printed_page": 67,
+ "pdf_page": 34,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Các thành tựu, đặc điểm nổi bật của khối trong năm 2025",
+   "bbox": [
+    20,
+    50,
+    250,
+    350
+   ],
+   "description": "Infographic nổi bật các chỉ số và thành tựu của Khối Ngân hàng số năm 2025, gồm: Mạng lưới Đại lý thanh toán trên toàn quốc 1.800 điểm; Doanh số huy động trên kênh số đạt trung bình 1.400 tỷ đồng/ngày; Tỷ lệ bảo vệ khách hàng đạt 95%.",
+   "data": [
+    {
+     "label": "Mạng lưới Đại lý thanh toán trên toàn quốc",
+     "value": "1.800 ĐIỂM"
+    },
+    {
+     "label": "Doanh số huy động trên kênh số đạt trung bình",
+     "value": "1.400 Tỷ đồng/ngày"
+    },
+    {
+     "label": "Tỷ lệ bảo vệ khách hàng đạt",
+     "value": "95 %"
+    }
+   ],
+   "bbox_pdf_pt": [
+    607.2,
+    42.1,
+    744.1,
+    294.7
+   ],
+   "crop": "starter/data/advanced/crops/p067_v0.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Giải pháp App Protection với ba lớp bảo vệ toàn diện",
+   "bbox": [
+    400,
+    150,
+    980,
+    450
+   ],
+   "description": "Sơ đồ mô tả các tính năng của giải pháp App Protection gồm 6 khối: Kích hoạt nhanh chóng chỉ trong 5 bước trên App MBBank; Thanh toán bảo mật bằng Face ID hoặc vân tay; Không cần đăng nhập lại ứng dụng; Không phụ thuộc kết nối mạng di động khi thanh toán; Áp dụng trong và ngoài nước tại các điểm chấp nhận contactless; Phát hiện và cảnh báo phần mềm độc hại trên thiết bị khách hàng; Ngăn chặn nguy cơ chiếm quyền kiểm soát tài khoản; Giám sát hành vi bất thường ngay sau khi đăng nhập; Chủ động tạm dừng giao dịch nghi ngờ trước khi hoàn tất.",
+   "data": [
+    {
+     "label": "Kích hoạt nhanh chóng chỉ trong 5 bước trên App MBBank",
+     "value": ""
+    },
+    {
+     "label": "Thanh toán bảo mật bằng Face ID hoặc vân tay",
+     "value": ""
+    },
+    {
+     "label": "Không cần đăng nhập lại ứng dụng",
+     "value": ""
+    },
+    {
+     "label": "Không phụ thuộc kết nối mạng di động khi thanh toán",
+     "value": ""
+    },
+    {
+     "label": "Áp dụng trong và ngoài nước tại các điểm chấp nhận contactless",
+     "value": ""
+    },
+    {
+     "label": "Phát hiện và cảnh báo phần mềm độc hại trên thiết bị khách hàng",
+     "value": ""
+    },
+    {
+     "label": "Ngăn chặn nguy cơ chiếm quyền kiểm soát tài khoản",
+     "value": ""
+    },
+    {
+     "label": "Giám sát hành vi bất thường ngay sau khi đăng nhập",
+     "value": ""
+    },
+    {
+     "label": "Chủ động tạm dừng giao dịch nghi ngờ trước khi hoàn tất",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    833.4,
+    126.3,
+    1178.6,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p067_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4039,
+  "output": 553
+ },
+ "seconds": 4.4
+}

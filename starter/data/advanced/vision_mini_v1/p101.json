@@ -1,0 +1,113 @@
+{
+ "printed_page": 101,
+ "pdf_page": 51,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "FDI Việt Nam (tỷ USD)",
+   "bbox": [
+    100,
+    400,
+    450,
+    700
+   ],
+   "description": "Biểu đồ cột thể hiện FDI thực hiện (tỷ USD) và tăng trưởng (%) của Việt Nam từ năm 2020 đến dự báo 2026F. Trục hoành là các năm 2020, 2021, 2022, 2023, 2024, 2025, 2026F. Trục tung thể hiện giá trị FDI thực hiện (tỷ USD) và tỷ lệ tăng trưởng (%). Màu xanh đậm biểu thị FDI thực hiện, màu xanh nhạt biểu thị tăng trưởng (%).",
+   "data": [
+    {
+     "label": "2020",
+     "value": "20,0 tỷ USD, tăng trưởng -2%"
+    },
+    {
+     "label": "2021",
+     "value": "19,7 tỷ USD, tăng trưởng -1%"
+    },
+    {
+     "label": "2022",
+     "value": "22,4 tỷ USD, tăng trưởng 13%"
+    },
+    {
+     "label": "2023",
+     "value": "23,2 tỷ USD, tăng trưởng 4%"
+    },
+    {
+     "label": "2024",
+     "value": "25,4 tỷ USD, tăng trưởng 9%"
+    },
+    {
+     "label": "2025",
+     "value": "27,6 tỷ USD, tăng trưởng 9%"
+    },
+    {
+     "label": "2026F",
+     "value": "30,1 tỷ USD, tăng trưởng 9%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    336.8,
+    863.1,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p101_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Kim ngạch xuất nhập khẩu Việt Nam (tỷ USD)",
+   "bbox": [
+    500,
+    400,
+    900,
+    700
+   ],
+   "description": "Biểu đồ cột thể hiện kim ngạch xuất khẩu (XK), nhập khẩu (NK) và cán cân thương mại (CCTM) của Việt Nam từ năm 2020 đến dự báo 2026F. Trục hoành là các năm 2020, 2021, 2022, 2023, 2024, 2025, 2026F. Trục tung thể hiện giá trị kim ngạch (tỷ USD). Màu xanh đậm biểu thị xuất khẩu (XK), màu xanh nhạt biểu thị nhập khẩu (NK), và số liệu cán cân thương mại (CCTM) được ghi chú bằng số âm hoặc dương. Dữ liệu cụ thể:",
+   "data": [
+    {
+     "label": "2020",
+     "value": "XK 283, NK -263, CCTM 20"
+    },
+    {
+     "label": "2021",
+     "value": "XK 336, NK -332, CCTM 4"
+    },
+    {
+     "label": "2022",
+     "value": "XK 371, NK -359, CCTM 12"
+    },
+    {
+     "label": "2023",
+     "value": "XK 355, NK -326, CCTM 28"
+    },
+    {
+     "label": "2024",
+     "value": "XK 406, NK -381, CCTM 25"
+    },
+    {
+     "label": "2025",
+     "value": "XK 475, NK -455, CCTM 20"
+    },
+    {
+     "label": "2026F",
+     "value": "XK 556, NK -532, CCTM 24"
+    }
+   ],
+   "bbox_pdf_pt": [
+    892.9,
+    336.8,
+    1131.0,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p101_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3897,
+  "output": 637
+ },
+ "seconds": 5.0
+}

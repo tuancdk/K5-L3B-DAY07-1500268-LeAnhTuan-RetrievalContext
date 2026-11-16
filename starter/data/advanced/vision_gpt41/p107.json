@@ -1,0 +1,186 @@
+{
+ "printed_page": 107,
+ "pdf_page": 54,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tín dụng (nghìn tỷ)",
+   "bbox": [
+    70,
+    340,
+    700,
+    540
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện quy mô tín dụng (nghìn tỷ) và tốc độ tăng trưởng svck (%) năm 2025 của các ngân hàng: BID, CTG, VCB, MBB, VPB, TCB, ACB, STB. Trục tung trái là giá trị tín dụng (nghìn tỷ), trục tung phải là svck (%). Đường màu xanh lam biểu diễn svck (%), cột màu xanh nhạt biểu diễn giá trị tín dụng, riêng cột MBB màu xanh đậm. Chú giải: svck (%) và Tín dụng. Nguồn: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "BID - Tín dụng",
+     "value": "2.377"
+    },
+    {
+     "label": "BID - svck (%)",
+     "value": "15"
+    },
+    {
+     "label": "CTG - Tín dụng",
+     "value": "1.995"
+    },
+    {
+     "label": "CTG - svck (%)",
+     "value": "16"
+    },
+    {
+     "label": "VCB - Tín dụng",
+     "value": "1.681"
+    },
+    {
+     "label": "VCB - svck (%)",
+     "value": "15"
+    },
+    {
+     "label": "MBB - Tín dụng",
+     "value": "1.110"
+    },
+    {
+     "label": "MBB - svck (%)",
+     "value": "37"
+    },
+    {
+     "label": "VPB - Tín dụng",
+     "value": "961"
+    },
+    {
+     "label": "VPB - svck (%)",
+     "value": "35"
+    },
+    {
+     "label": "TCB - Tín dụng",
+     "value": "824"
+    },
+    {
+     "label": "TCB - svck (%)",
+     "value": "21"
+    },
+    {
+     "label": "ACB - Tín dụng",
+     "value": "689"
+    },
+    {
+     "label": "ACB - svck (%)",
+     "value": "19"
+    },
+    {
+     "label": "STB - Tín dụng",
+     "value": "636"
+    },
+    {
+     "label": "STB - svck (%)",
+     "value": "18"
+    }
+   ],
+   "bbox_pdf_pt": [
+    636.9,
+    286.2,
+    1012.0,
+    454.6
+   ],
+   "crop": "starter/data/advanced/crops/p107_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Huy động (nghìn tỷ)",
+   "bbox": [
+    70,
+    670,
+    700,
+    870
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện quy mô huy động (nghìn tỷ) và tốc độ tăng trưởng svck (%) năm 2025 của các ngân hàng: BID, CTG, VCB, MBB, TCB, VPB, ACB, STB. Trục tung trái là giá trị huy động (nghìn tỷ), trục tung phải là svck (%). Đường màu xanh lam biểu diễn svck (%), cột màu xanh nhạt biểu diễn giá trị huy động, riêng cột MBB màu xanh đậm. Chú giải: svck (%) và Huy động. Nguồn: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "BID - Huy động",
+     "value": "2.449"
+    },
+    {
+     "label": "BID - svck (%)",
+     "value": "14"
+    },
+    {
+     "label": "CTG - Huy động",
+     "value": "1.968"
+    },
+    {
+     "label": "CTG - svck (%)",
+     "value": "12"
+    },
+    {
+     "label": "VCB - Huy động",
+     "value": "1.700"
+    },
+    {
+     "label": "VCB - svck (%)",
+     "value": "10"
+    },
+    {
+     "label": "MBB - Huy động",
+     "value": "1.109"
+    },
+    {
+     "label": "MBB - svck (%)",
+     "value": "31"
+    },
+    {
+     "label": "TCB - Huy động",
+     "value": "834"
+    },
+    {
+     "label": "TCB - svck (%)",
+     "value": "24"
+    },
+    {
+     "label": "VPB - Huy động",
+     "value": "735"
+    },
+    {
+     "label": "VPB - svck (%)",
+     "value": "33"
+    },
+    {
+     "label": "ACB - Huy động",
+     "value": "718"
+    },
+    {
+     "label": "ACB - svck (%)",
+     "value": "9"
+    },
+    {
+     "label": "STB - Huy động",
+     "value": "658"
+    },
+    {
+     "label": "STB - svck (%)",
+     "value": "9"
+    }
+   ],
+   "bbox_pdf_pt": [
+    636.9,
+    564.1,
+    1012.0,
+    732.4
+   ],
+   "crop": "starter/data/advanced/crops/p107_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2377,
+  "output": 793
+ },
+ "seconds": 6.1
+}

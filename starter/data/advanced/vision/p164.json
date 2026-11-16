@@ -1,0 +1,53 @@
+{
+ "printed_page": 164,
+ "pdf_page": 83,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Thực hành kinh doanh có đạo đức",
+   "bbox": [
+    50,
+    200,
+    400,
+    900
+   ],
+   "description": "Sơ đồ thể hiện các nhóm đối tượng liên quan đến thực hành kinh doanh có đạo đức của MB gồm: Nội bộ MB, Cổ đông đối tác, Khách hàng, Thế hệ đi trước. Mỗi nhóm có các điểm chính về đạo đức và cam kết cụ thể như giao tiếp cởi mở, trung thực, bảo vệ lợi ích cổ đông, minh bạch thông tin, hợp tác bền vững, hiểu rõ khách hàng, tôn trọng truyền thống và chăm lo đời sống CBNV nghỉ hưu.",
+   "data": [
+    {
+     "label": "Nội bộ MB",
+     "value": "Chân thành, cởi mở, hợp tác; Trung thực, tôn trọng, quan tâm lẫn nhau; Khuyến khích học tập và sáng tạo; Giao việc và định hướng rõ ràng."
+    },
+    {
+     "label": "Cổ đông, đối tác",
+     "value": "Bảo vệ lợi ích cổ đông; Minh bạch và lắng nghe; Hợp tác bền vững."
+    },
+    {
+     "label": "Khách hàng",
+     "value": "Hiểu rõ và nắm vững khách hàng; Mối quan hệ lâu dài; Tôn trọng và học hỏi; Cam kết thực hiện; Hài hòa lợi ích."
+    },
+    {
+     "label": "Thế hệ đi trước",
+     "value": "Trân trọng truyền thống; Chăm lo đời sống CBNV nghỉ hưu."
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    168.4,
+    238.1,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p164_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4032,
+  "output": 314
+ },
+ "seconds": 3.1
+}

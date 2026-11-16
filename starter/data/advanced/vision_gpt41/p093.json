@@ -1,0 +1,110 @@
+{
+ "printed_page": 93,
+ "pdf_page": 47,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "line_chart",
+   "title": "CIR (%)",
+   "bbox": [
+    520,
+    60,
+    970,
+    320
+   ],
+   "description": "Biểu đồ đường thể hiện tỷ lệ chi phí hoạt động trên tổng thu nhập hoạt động (CIR) của MB qua các năm 2023, 2024, 2025. Có hai đường: 'Riêng lẻ' (màu xanh nhạt) và 'Hợp nhất' (màu xanh đậm). Trục hoành là năm (2023, 2024, 2025), trục tung là tỷ lệ CIR (%). Các điểm dữ liệu có nhãn giá trị trên từng điểm. Chú giải: CIR (%), Riêng lẻ, Hợp nhất. Nguồn: BCTC hợp nhất.",
+   "data": [
+    {
+     "label": "2023 - Riêng lẻ",
+     "value": "29,2"
+    },
+    {
+     "label": "2023 - Hợp nhất",
+     "value": "31,5"
+    },
+    {
+     "label": "2024 - Riêng lẻ",
+     "value": "27,8"
+    },
+    {
+     "label": "2024 - Hợp nhất",
+     "value": "30,7"
+    },
+    {
+     "label": "2025 - Riêng lẻ",
+     "value": "26,0"
+    },
+    {
+     "label": "2025 - Hợp nhất",
+     "value": "29,1"
+    }
+   ],
+   "bbox_pdf_pt": [
+    904.8,
+    50.5,
+    1172.7,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p093_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Vốn chủ sở hữu (nghìn tỷ đồng)",
+   "bbox": [
+    520,
+    340,
+    970,
+    570
+   ],
+   "description": "Biểu đồ cột thể hiện vốn chủ sở hữu và vốn điều lệ của MB trong các năm 2023, 2024, 2025. Mỗi năm gồm hai phần: cột dưới (màu xanh đậm) là vốn điều lệ, cột trên (màu xanh nhạt) là phần còn lại của vốn chủ sở hữu. Trục hoành là năm (2023, 2024, 2025), trục tung là giá trị (nghìn tỷ đồng). Có mũi tên và nhãn '+21%' nối từ đỉnh cột 2023 đến đỉnh cột 2025. Chú giải: Vốn điều lệ, Vốn chủ sở hữu. Nguồn: BCTC hợp nhất.",
+   "data": [
+    {
+     "label": "2023 - Vốn điều lệ",
+     "value": "52"
+    },
+    {
+     "label": "2023 - Vốn chủ sở hữu",
+     "value": "97"
+    },
+    {
+     "label": "2024 - Vốn điều lệ",
+     "value": "53"
+    },
+    {
+     "label": "2024 - Vốn chủ sở hữu",
+     "value": "117"
+    },
+    {
+     "label": "2025 - Vốn điều lệ",
+     "value": "81"
+    },
+    {
+     "label": "2025 - Vốn chủ sở hữu",
+     "value": "142"
+    },
+    {
+     "label": "Mũi tên +21%",
+     "value": "nối từ đỉnh cột 2023 đến đỉnh cột 2025"
+    }
+   ],
+   "bbox_pdf_pt": [
+    904.8,
+    286.2,
+    1172.7,
+    479.9
+   ],
+   "crop": "starter/data/advanced/crops/p093_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2467,
+  "output": 579
+ },
+ "seconds": 7.8
+}

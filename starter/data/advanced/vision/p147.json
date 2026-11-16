@@ -1,0 +1,162 @@
+{
+ "printed_page": 147,
+ "pdf_page": 74,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Tỷ lệ nữ giới",
+   "bbox": [
+    40,
+    40,
+    460,
+    280
+   ],
+   "description": "Ảnh nhóm nữ nhân viên MB đang vẫy tay chào, minh họa cho tỷ lệ nữ giới trong lực lượng CBNV MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    619.1,
+    33.7,
+    869.1,
+    235.7
+   ],
+   "crop": "starter/data/advanced/crops/p147_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Tỷ lệ nữ giới",
+   "bbox": [
+    470,
+    40,
+    980,
+    280
+   ],
+   "description": "Tỷ lệ nữ giới trong lực lượng CBNV (tính riêng MB) là 61%, tăng 17,2% so với năm 2024.",
+   "data": [
+    {
+     "label": "Tỷ lệ nữ giới trong lực lượng CBNV",
+     "value": "61%"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "17,2 %"
+    }
+   ],
+   "bbox_pdf_pt": [
+    875.1,
+    33.7,
+    1178.6,
+    235.7
+   ],
+   "crop": "starter/data/advanced/crops/p147_v1.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Mạng lưới",
+   "bbox": [
+    40,
+    290,
+    460,
+    530
+   ],
+   "description": "Ảnh khu vực máy nộp và rút tiền tự động ATM/CRM của MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    619.1,
+    244.1,
+    869.1,
+    446.2
+   ],
+   "crop": "starter/data/advanced/crops/p147_v2.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Mạng lưới",
+   "bbox": [
+    470,
+    290,
+    980,
+    530
+   ],
+   "description": "Mạng lưới gồm 1.134 điểm giao dịch ATM/CRM, tăng 7,5% so với năm 2024. Có 327 điểm giao dịch trên cả nước, tăng 2,5% so với năm 2024.",
+   "data": [
+    {
+     "label": "Điểm giao dịch ATM/CRM",
+     "value": "1.134"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "7,5 %"
+    },
+    {
+     "label": "Điểm giao dịch trên cả nước",
+     "value": "327"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "2,5 %"
+    }
+   ],
+   "bbox_pdf_pt": [
+    875.1,
+    244.1,
+    1178.6,
+    446.2
+   ],
+   "crop": "starter/data/advanced/crops/p147_v3.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Dự án HiGreen – Trường Sa",
+   "bbox": [
+    40,
+    540,
+    460,
+    980
+   ],
+   "description": "Ảnh nhóm nhân viên MB tham gia dự án HiGreen tại Trường Sa, cầm biểu ngữ dự án.",
+   "data": [],
+   "bbox_pdf_pt": [
+    619.1,
+    454.6,
+    869.1,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p147_v4.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Dự án HiGreen – Trường Sa",
+   "bbox": [
+    470,
+    540,
+    980,
+    980
+   ],
+   "description": "Dự án HiGreen – Trường Sa với tổng giá trị 160 tỷ đồng.",
+   "data": [
+    {
+     "label": "Giá trị dự án",
+     "value": "160 TỶ ĐỒNG"
+    }
+   ],
+   "bbox_pdf_pt": [
+    875.1,
+    454.6,
+    1178.6,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p147_v5.png"
+  }
+ ],
+ "usage": {
+  "input": 3323,
+  "output": 486
+ },
+ "seconds": 6.3
+}

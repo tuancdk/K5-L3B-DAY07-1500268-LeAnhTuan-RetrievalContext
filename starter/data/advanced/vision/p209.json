@@ -1,0 +1,55 @@
+{
+ "printed_page": 209,
+ "pdf_page": 105,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Hình ảnh họp trực tuyến tại Ngân hàng",
+   "bbox": [
+    200,
+    100,
+    800,
+    450
+   ],
+   "description": "Ảnh chụp một nhóm nhân viên ngân hàng đang họp trực tuyến, một người đang trình bày trên màn hình lớn với nội dung 'HƯỚNG TỚI Xây dựng các trải nghiệm xuất sắc'.",
+   "data": [],
+   "bbox_pdf_pt": [
+    714.3,
+    84.2,
+    1071.5,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p209_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa công nghệ và an ninh mạng",
+   "bbox": [
+    0,
+    500,
+    300,
+    900
+   ],
+   "description": "Ảnh minh họa liên quan đến công nghệ thông tin và an ninh mạng với màn hình hiển thị dữ liệu và logo SSI.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    420.9,
+    773.9,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p209_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3863,
+  "output": 150
+ },
+ "seconds": 2.7
+}

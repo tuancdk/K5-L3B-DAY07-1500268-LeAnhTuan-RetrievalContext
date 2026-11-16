@@ -1,0 +1,118 @@
+{
+ "printed_page": 134,
+ "pdf_page": 68,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Kế hoạch và định hướng của HĐQT",
+   "bbox": [
+    20,
+    540,
+    745,
+    1060
+   ],
+   "description": "Infographic gồm các chỉ tiêu kế hoạch trọng yếu năm 2026 của MB, trình bày dưới dạng các ô số liệu nổi bật và biểu tượng. Các chỉ tiêu gồm: Tín dụng (Dư nợ + TPDN + Mua nợ) tăng ~30%; Huy động tăng ~30%; Lợi nhuận trước thuế tăng ~15%, phấn đấu 20%; %NPL ≤1,5%; CIR, ROE, ROA đều Top đầu ngành NH; %CASA Top 1; Năng suất lao động tăng ~20%; Quản trị an toàn vốn theo thông lệ quốc tế; Đẩy mạnh hợp lực tập đoàn, nâng cao hiệu quả CTTV; % Doanh thu kênh số >50%.",
+   "data": [
+    {
+     "label": "TÍN DỤNG (Dư nợ + TPDN + Mua nợ)",
+     "value": "~30%"
+    },
+    {
+     "label": "HUY ĐỘNG",
+     "value": "~30%"
+    },
+    {
+     "label": "LỢI NHUẬN TRƯỚC THUẾ",
+     "value": "~15% Phấn đấu 20%"
+    },
+    {
+     "label": "%NPL",
+     "value": "≤1,5%"
+    },
+    {
+     "label": "CIR",
+     "value": "Top đầu ngành NH"
+    },
+    {
+     "label": "ROE",
+     "value": "Top đầu ngành NH"
+    },
+    {
+     "label": "ROA",
+     "value": "Top đầu ngành NH"
+    },
+    {
+     "label": "%CASA",
+     "value": "Top 1"
+    },
+    {
+     "label": "Năng suất lao động",
+     "value": "~20%"
+    },
+    {
+     "label": "Quản trị an toàn vốn theo thông lệ quốc tế",
+     "value": ""
+    },
+    {
+     "label": "Đẩy mạnh hợp lực tập đoàn, nâng cao hiệu quả CTTV",
+     "value": ""
+    },
+    {
+     "label": "% Doanh thu kênh số",
+     "value": ">50%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    454.6,
+    443.5,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p134_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Khách hàng (triệu KH)",
+   "bbox": [
+    390,
+    650,
+    570,
+    770
+   ],
+   "description": "Biểu đồ cột thể hiện số lượng khách hàng (triệu KH) qua các năm 2024, 2025, 2026. Trục hoành là năm, trục tung là số lượng khách hàng (triệu). Ba cột với chiều cao tăng dần từ trái sang phải.",
+   "data": [
+    {
+     "label": "2024",
+     "value": "30"
+    },
+    {
+     "label": "2025",
+     "value": "35"
+    },
+    {
+     "label": "2026",
+     "value": "40"
+    }
+   ],
+   "bbox_pdf_pt": [
+    232.2,
+    547.2,
+    339.3,
+    648.3
+   ],
+   "crop": "starter/data/advanced/crops/p134_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2401,
+  "output": 529
+ },
+ "seconds": 4.8
+}

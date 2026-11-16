@@ -1,0 +1,101 @@
+{
+ "printed_page": 231,
+ "pdf_page": 116,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Thành viên Ủy ban Quản trị Cấp cao",
+   "bbox": [
+    100,
+    150,
+    600,
+    400
+   ],
+   "description": "Danh sách thành viên Ủy ban Quản trị cấp cao gồm 7 người với tên và chức vụ tương ứng: Lưu Trung Thái (Chủ nhiệm Ủy ban), Vũ Thành Trung (Thành viên Ủy ban), Vũ Thị Hải Phượng (Thành viên Ủy ban), Nguyễn Thị Hải Lý (Thành viên Ủy ban), Phạm Như Ánh (Thành viên Ủy ban), Lê Viết Hải (Thành viên Ủy ban), Vũ Thái Huyền (Thành viên Ủy ban).",
+   "data": [
+    {
+     "label": "Lưu Trung Thái",
+     "value": "Chủ nhiệm Ủy ban"
+    },
+    {
+     "label": "Vũ Thành Trung",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Vũ Thị Hải Phượng",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Nguyễn Thị Hải Lý",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Phạm Như Ánh",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Lê Viết Hải",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Vũ Thái Huyền",
+     "value": "Thành viên Ủy ban"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    126.3,
+    952.4,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p231_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Số cuộc họp của Ủy ban Quản trị cấp cao trong năm 2025",
+   "bbox": [
+    100,
+    600,
+    900,
+    900
+   ],
+   "description": "Bảng liệt kê 4 cuộc họp của Ủy ban Quản trị cấp cao trong năm 2025 theo từng quý, nội dung chính và kết quả. Các cuộc họp đều được thông qua.",
+   "data": [
+    {
+     "label": "Quý I/2025",
+     "value": "Họp tham mưu cho HĐQT/CT HĐQT các nội dung về công tác tổ chức ĐHĐCĐ thường niên 2025 - Được thông qua"
+    },
+    {
+     "label": "Quý II/2025",
+     "value": "Thảo luận/cho ý kiến để tham vấn cho HĐQT/CT HĐQT đối với 10 phương án đầu tư công nghệ và mua sắm khác theo quy định - Được thông qua"
+    },
+    {
+     "label": "Quý III/2025",
+     "value": "Thảo luận/cho ý kiến để tham vấn cho HĐQT/CT HĐQT đối với 7 phương án đầu tư công nghệ và mua sắm khác theo quy định - Được thông qua"
+    },
+    {
+     "label": "Quý IV/2025",
+     "value": "Họp tham mưu về định hướng KH 2026; thảo luận cho ý kiến đối với 6 phương án đầu tư công nghệ và mua sắm khác theo quy định - Được thông qua"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    505.1,
+    1131.0,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p231_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3871,
+  "output": 608
+ },
+ "seconds": 5.3
+}

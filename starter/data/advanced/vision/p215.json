@@ -1,0 +1,57 @@
+{
+ "printed_page": 215,
+ "pdf_page": 108,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Hoạt động của HĐQT",
+   "bbox": [
+    40,
+    150,
+    960,
+    900
+   ],
+   "description": "Bảng liệt kê các cuộc họp của Hội đồng Quản trị MB năm 2025, gồm các cột: STT, Ngày họp, Phương pháp tiếp cận Tính chất (Định kỳ/Bất thường), Tỷ lệ thành viên tham dự, Nội dung chính, Kết quả. Tất cả các cuộc họp đều là định kỳ, tỷ lệ thành viên tham dự 100%, kết quả đều là Nghị quyết được thông qua. Nội dung chính chi tiết từng cuộc họp quý I đến quý IV năm 2025.",
+   "data": [
+    {
+     "label": "1 - Quý I/2025",
+     "value": "Định kỳ, 100%, Tổng kết đánh giá tình hình thực hiện nghị quyết trong kỳ; Báo cáo tình hình hoạt động của ngân hàng trong kỳ và định hướng kế hoạch quý tiếp theo; Xem xét công tác tổ chức Đại hội đồng cổ đông thường niên của MB; Kiểm tra/rà soát số liệu, tài liệu gửi báo cáo cơ quan quản lý nhà nước; Nghị quyết được thông qua"
+    },
+    {
+     "label": "2 - Quý II/2025",
+     "value": "Định kỳ, 100%, Báo cáo tình hình hoạt động của Ngân hàng trong kỳ và định hướng kế hoạch của Quý III và 6 tháng tiếp theo; Thông qua các quy chế: Quy chế tổ chức & hoạt động của HĐQT; Quy chế quản trị nội bộ, Điều lệ…; Nghị quyết được thông qua"
+    },
+    {
+     "label": "3 - Quý III/2025",
+     "value": "Định kỳ, 100%, Tổng kết đánh giá tình hình thực hiện nghị quyết trong kỳ; Báo cáo tình hình hoạt động của ngân hàng trong kỳ và định hướng kế hoạch Quý tiếp theo; Định hướng xây dựng kế hoạch năm 2025 của ngân hàng và các công ty thành viên; Nghị quyết được thông qua"
+    },
+    {
+     "label": "4 - Quý IV/2025",
+     "value": "Định kỳ, 100%, Tổng kết đánh giá tình hình thực hiện nghị quyết trong kỳ; Báo cáo tình hình hoạt động của ngân hàng trong kỳ; Nghị quyết được thông qua"
+    },
+    {
+     "label": "5 - Quý IV/2025",
+     "value": "Định kỳ, 100%, Phê duyệt định hướng kế hoạch năm 2025 của ngân hàng và các thông tin thành viên; Nghị quyết được thông qua"
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    126.3,
+    1166.7,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p215_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3881,
+  "output": 527
+ },
+ "seconds": 4.4
+}

@@ -1,0 +1,129 @@
+{
+ "printed_page": 155,
+ "pdf_page": 78,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Quy trình nhận diện và đánh giá mối quan tâm của các bên liên quan",
+   "bbox": [
+    150,
+    200,
+    850,
+    600
+   ],
+   "description": "Sơ đồ vòng tròn gồm 6 bước: 01 - Xác định các bên liên quan chính; 02 - Triển khai các hoạt động gắn kết để tìm hiểu các mối quan tâm của từng bên liên quan; 03 - Xếp hạng ưu tiên các mối quan tâm của các bên liên quan; 04 - Xây dựng kế hoạch hành động; 05 - Tương tác và truyền đạt về hành động; 06 - Giám sát và đánh giá. Trung tâm là vòng tròn ghi tên quy trình.",
+   "data": [
+    {
+     "label": "01",
+     "value": "Xác định các bên liên quan chính"
+    },
+    {
+     "label": "02",
+     "value": "Triển khai các hoạt động gắn kết để tìm hiểu các mối quan tâm của từng bên liên quan"
+    },
+    {
+     "label": "03",
+     "value": "Xếp hạng ưu tiên các mối quan tâm của các bên liên quan"
+    },
+    {
+     "label": "04",
+     "value": "Xây dựng kế hoạch hành động"
+    },
+    {
+     "label": "05",
+     "value": "Tương tác và truyền đạt về hành động"
+    },
+    {
+     "label": "06",
+     "value": "Giám sát và đánh giá"
+    }
+   ],
+   "bbox_pdf_pt": [
+    684.6,
+    168.4,
+    1101.3,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p155_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Bảng tiếp cận và hành động với các bên liên quan",
+   "bbox": [
+    50,
+    620,
+    950,
+    980
+   ],
+   "description": "Bảng gồm các cột: STT, Bên liên quan, Phương pháp tiếp cận, Tần suất tiếp cận, Các mối quan tâm chính, Hành động triển khai. Liệt kê 2 bên liên quan chính: 1. Cơ quan quản lý; 2. Cổ đông/NĐT. Mỗi bên có phương pháp tiếp cận, tần suất tiếp cận, các mối quan tâm chính và hành động triển khai chi tiết.",
+   "data": [
+    {
+     "label": "1 - Bên liên quan",
+     "value": "Cơ quan quản lý"
+    },
+    {
+     "label": "Phương pháp tiếp cận",
+     "value": "Thực hiện các báo cáo theo quy định pháp luật, yêu cầu của cơ quan nhà nước, NHNN và các Bộ/Ban/Ngành"
+    },
+    {
+     "label": "Tần suất tiếp cận",
+     "value": "Khi phát sinh"
+    },
+    {
+     "label": "Các mối quan tâm chính",
+     "value": "Triển khai và ủng hộ chủ trương, chính sách của Chính phủ, NHNN, các bộ/ban/ngành"
+    },
+    {
+     "label": "Hành động triển khai",
+     "value": "Tuân thủ nghiêm ngặt các quy định pháp luật về tổ chức tín dụng, thuế, bảo vệ môi trường, an toàn lao động, bảo mật thông tin và dữ liệu; Tích cực, chủ động phối hợp cơ quan đoàn thể Hội Chữ thập đỏ, UB Mặt trận tổ quốc và Chính quyền địa phương trong các nhiệm vụ chính trị, công tác đền ơn đáp nghĩa, đóng góp vào NSNN; Đưa ra đề xuất điều chỉnh phù hợp đối với dự thảo chính sách trước khi đi vào triển khai"
+    },
+    {
+     "label": "1 - Bên liên quan (thêm)",
+     "value": "Tham gia làm thành viên tổ chuyên trách, đóng góp ý kiến xây dựng các văn bản, dự thảo luật, chính sách; Phối hợp các Cơ quan Nhà nước triển khai các hoạt động về tập huấn, đào tạo; Tham gia các tổ chức, hiệp hội, diễn đàn như Hiệp hội Ngân hàng Việt Nam, VIRA"
+    },
+    {
+     "label": "Tần suất tiếp cận (thêm)",
+     "value": "Khi phát sinh"
+    },
+    {
+     "label": "2 - Bên liên quan",
+     "value": "Cổ đông/NĐT"
+    },
+    {
+     "label": "Phương pháp tiếp cận",
+     "value": "Tổ chức họp ĐHĐCĐ; Tiếp nhận qua email, fax, điện thoại, website; Tổ chức Hội nghị nhà đầu tư; Công bố thông tin trên website; Tham gia diễn đàn, hội thảo nhà đầu tư"
+    },
+    {
+     "label": "Tần suất tiếp cận",
+     "value": "Thường niên/Bất thường; Khi phát sinh; Hàng quý; Hàng năm"
+    },
+    {
+     "label": "Các mối quan tâm chính",
+     "value": "Đảm bảo hiệu quả sử dụng vốn đầu tư; Đảm bảo thông tin công khai, minh bạch và được cung cấp kịp thời; Ổn định và gia tăng giá trị doanh nghiệp; Đối xử bình đẳng, đảm bảo quyền cổ đông, nhà đầu tư; Nâng cao năng lực quản trị doanh nghiệp"
+    },
+    {
+     "label": "Hành động triển khai",
+     "value": "Tổ chức thành công ĐHĐCĐ thường niên năm 2025 vào ngày 26/04/2025; Tổ chức 70 Hội nghị Nhà đầu tư nhằm kết nối, duy trì mối quan hệ với các cổ đông lâu năm và phát triển các nhà đầu tư tiềm năng trong tương lai; Thực hiện đầy đủ các thủ tục công bố thông tin theo quy định của Bộ Tài chính; Cập nhật và công bố kịp thời thay đổi về Quy chế Quản trị Công ty theo quy định pháp luật hiện hành đảm bảo quyền lợi và cơ hội tiếp cận công bằng cho mọi cổ đông, nhà đầu tư; Công bố các báo cáo hoạt động quý, báo cáo đánh giá của các chuyên gia phân tích"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    522.0,
+    1160.8,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p155_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4182,
+  "output": 1119
+ },
+ "seconds": 8.1
+}

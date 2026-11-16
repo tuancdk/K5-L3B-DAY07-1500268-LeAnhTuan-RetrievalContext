@@ -1,0 +1,98 @@
+{
+ "printed_page": 92,
+ "pdf_page": 47,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "pie_chart",
+   "title": "Cơ cấu doanh thu phí",
+   "bbox": [
+    60,
+    90,
+    590,
+    520
+   ],
+   "description": "Biểu đồ tròn thể hiện tỷ trọng các nguồn doanh thu phí năm 2025. Các phần được phân biệt bằng màu sắc và có nhãn phần trăm cùng tên loại phí ở bên ngoài biểu đồ. Các thành phần gồm: Bảo hiểm, Thanh toán và ngân quỹ, Khác, Dịch vụ tư vấn, Môi giới chứng khoán, Thu từ xử lý nợ.",
+   "data": [
+    {
+     "label": "Bảo hiểm",
+     "value": "52%"
+    },
+    {
+     "label": "Thanh toán và ngân quỹ",
+     "value": "25%"
+    },
+    {
+     "label": "Khác",
+     "value": "10%"
+    },
+    {
+     "label": "Dịch vụ tư vấn",
+     "value": "6%"
+    },
+    {
+     "label": "Môi giới chứng khoán",
+     "value": "5%"
+    },
+    {
+     "label": "Thu từ xử lý nợ",
+     "value": "2%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    35.7,
+    75.8,
+    351.2,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p092_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Lợi nhuận trước thuế",
+   "bbox": [
+    600,
+    700,
+    1000,
+    1000
+   ],
+   "description": "Biểu đồ cột thể hiện lợi nhuận trước thuế của MB qua các năm 2023, 2024, 2025. Trục hoành là các năm, trục tung là giá trị lợi nhuận (nghìn tỷ đồng). Trên cột 2024 có nhãn '+14%' đặt phía trên, thể hiện tốc độ tăng trưởng bình quân (CAGR) ba năm. Các giá trị cụ thể được ghi trên đầu mỗi cột.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "26,3"
+    },
+    {
+     "label": "2024",
+     "value": "28,8"
+    },
+    {
+     "label": "2025",
+     "value": "34,3"
+    },
+    {
+     "label": "+14% (trên cột 2024)",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    589.3,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p092_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2093,
+  "output": 379
+ },
+ "seconds": 7.4
+}

@@ -1,0 +1,101 @@
+{
+ "printed_page": 69,
+ "pdf_page": 35,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Thư tín dụng nhập khẩu Online – Số hóa toàn bộ chuỗi giá trị L/C",
+   "bbox": [
+    50,
+    150,
+    600,
+    350
+   ],
+   "description": "Sơ đồ thể hiện toàn bộ hành trình khách hàng thực hiện trực tuyến sản phẩm Thư tín dụng nhập khẩu online với các bước: Kiểm tra hợp đồng ngoại thương và soạn draft L/C, Đề nghị phát hành L/C, Nhận thông báo bộ chứng từ, Đề nghị thanh toán, Theo dõi vòng đời giao dịch.",
+   "data": [
+    {
+     "label": "Kiểm tra hợp đồng ngoại thương và soạn draft L/C",
+     "value": ""
+    },
+    {
+     "label": "Đề nghị phát hành L/C",
+     "value": ""
+    },
+    {
+     "label": "Nhận thông báo bộ chứng từ",
+     "value": ""
+    },
+    {
+     "label": "Đề nghị thanh toán",
+     "value": ""
+    },
+    {
+     "label": "Theo dõi vòng đời giao dịch",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    126.3,
+    952.4,
+    294.7
+   ],
+   "crop": "starter/data/advanced/crops/p069_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Đầu tư hạ tầng – Xây nền cho ngân hàng công nghệ",
+   "bbox": [
+    50,
+    400,
+    600,
+    700
+   ],
+   "description": "Các ô số liệu nổi bật thể hiện tổng mức đầu tư cho hạ tầng công nghệ giai đoạn 2015-2025 đạt 16.800 tỷ đồng, bao gồm các chỉ tiêu: Phần mềm ứng dụng 121, Cơ sở dữ liệu 574, Hạ tầng lưu trữ 23.700 TB, Services public cloud 162, Server vật lý và ảo hóa 7.602, Private cloud 1.300 VM.",
+   "data": [
+    {
+     "label": "Phần mềm ứng dụng",
+     "value": "121"
+    },
+    {
+     "label": "Cơ sở dữ liệu",
+     "value": "574"
+    },
+    {
+     "label": "Hạ tầng lưu trữ",
+     "value": "23.700 TB"
+    },
+    {
+     "label": "Services public cloud",
+     "value": "162"
+    },
+    {
+     "label": "Server vật lý và ảo hóa",
+     "value": "7.602"
+    },
+    {
+     "label": "Private cloud",
+     "value": "1.300 VM"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    336.8,
+    952.4,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p069_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3730,
+  "output": 406
+ },
+ "seconds": 3.6
+}

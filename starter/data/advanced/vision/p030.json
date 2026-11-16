@@ -1,0 +1,74 @@
+{
+ "printed_page": 30,
+ "pdf_page": 16,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ông LÊ VIẾT HẢI - Thành viên HĐQT",
+   "bbox": [
+    600,
+    50,
+    980,
+    320
+   ],
+   "description": "Ảnh chân dung ông Lê Viết Hải, Thành viên không điều hành Hội đồng Quản trị MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    357.2,
+    42.1,
+    583.4,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p030_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Bà VŨ THÁI HUYỀN - Thành viên HĐQT",
+   "bbox": [
+    50,
+    320,
+    480,
+    620
+   ],
+   "description": "Ảnh chân dung bà Vũ Thái Huyền, Thành viên không điều hành Hội đồng Quản trị MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    29.8,
+    269.4,
+    285.7,
+    522.0
+   ],
+   "crop": "starter/data/advanced/crops/p030_v1.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ông PHẠM DOÃN CƯƠNG - Thành viên HĐQT",
+   "bbox": [
+    600,
+    620,
+    980,
+    900
+   ],
+   "description": "Ảnh chân dung ông Phạm Doãn Cương, Thành viên không điều hành Hội đồng Quản trị MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    357.2,
+    522.0,
+    583.4,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p030_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 4229,
+  "output": 195
+ },
+ "seconds": 2.4
+}

@@ -1,0 +1,125 @@
+{
+ "printed_page": 5,
+ "pdf_page": 3,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Mục lục các phần báo cáo chính",
+   "bbox": [
+    50,
+    50,
+    950,
+    900
+   ],
+   "description": "Danh sách các phần chính trong báo cáo thường niên 2025 của MB, gồm các phần: Báo cáo phát triển bền vững, Quản trị công ty, Báo cáo tài chính hợp nhất đã kiểm toán, với các mục nhỏ kèm số trang tương ứng.",
+   "data": [
+    {
+     "label": "Thông tin báo cáo phát triển bền vững",
+     "value": "138"
+    },
+    {
+     "label": "Thông điệp phát triển bền vững của MB",
+     "value": "139"
+    },
+    {
+     "label": "Thành tựu nổi bật về phát triển bền vững",
+     "value": "142"
+    },
+    {
+     "label": "Báo cáo của Ban Điều hành về trách nhiệm Môi trường – Xã hội",
+     "value": "151"
+    },
+    {
+     "label": "Quy trình xác định các chủ đề trọng yếu",
+     "value": "152"
+    },
+    {
+     "label": "Các trụ cột chiến lược Quản trị Phát triển bền vững",
+     "value": "158"
+    },
+    {
+     "label": "Khách hàng là trung tâm",
+     "value": "168"
+    },
+    {
+     "label": "Bảo vệ Môi trường",
+     "value": "177"
+    },
+    {
+     "label": "Cộng đồng và Xã hội thịnh vượng",
+     "value": "186"
+    },
+    {
+     "label": "Các chủ đề nền tảng Số hóa",
+     "value": "208"
+    },
+    {
+     "label": "Tổng quan về hoạt động quản trị doanh nghiệp trong năm 2025",
+     "value": "214"
+    },
+    {
+     "label": "Hội đồng quản trị",
+     "value": "215"
+    },
+    {
+     "label": "Ban Kiểm soát",
+     "value": "237"
+    },
+    {
+     "label": "Các giao dịch, thù lao và các khoản lợi ích",
+     "value": "244"
+    },
+    {
+     "label": "Đánh giá việc thực hiện các quy định về quản trị công ty",
+     "value": "252"
+    },
+    {
+     "label": "Thông tin chung",
+     "value": "278"
+    },
+    {
+     "label": "Báo cáo của Ban Điều hành",
+     "value": "280"
+    },
+    {
+     "label": "Báo cáo kiểm toán độc lập",
+     "value": "281"
+    },
+    {
+     "label": "Báo cáo tình hình tài chính hợp nhất",
+     "value": "282"
+    },
+    {
+     "label": "Báo cáo kết quả hoạt động hợp nhất",
+     "value": "286"
+    },
+    {
+     "label": "Báo cáo lưu chuyển tiền tệ hợp nhất",
+     "value": "288"
+    },
+    {
+     "label": "Thuyết minh báo cáo tài chính hợp nhất",
+     "value": "291"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    42.1,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p005_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3533,
+  "output": 475
+ },
+ "seconds": 6.2
+}

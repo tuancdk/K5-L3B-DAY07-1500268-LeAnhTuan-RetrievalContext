@@ -1,0 +1,217 @@
+{
+ "printed_page": 244,
+ "pdf_page": 123,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Thay đổi về số lượng cổ phiếu của Người nội bộ và Người liên quan trong năm 2025",
+   "bbox": [
+    50,
+    250,
+    950,
+    900
+   ],
+   "description": "Bảng liệt kê số lượng cổ phiếu đầu kỳ (31/12/2024) và cuối kỳ (31/12/2025) của các thành viên Hội đồng quản trị, Ban kiểm soát và người liên quan, cùng lý do tăng/giảm cổ phiếu như nhận cổ tức bằng cổ phiếu hoặc giao dịch cổ phiếu. Có các cột: STT, Họ và tên, Chức vụ tại MB/Quan hệ với người nội bộ, Số lượng cổ phiếu đầu kỳ, Tỷ lệ/VĐL (%), Số lượng cổ phiếu cuối kỳ, Tỷ lệ/VĐL (%), Lý do tăng/giảm (mua, bán, chuyển đổi, trả cổ tức, thưởng, ...).",
+   "data": [
+    {
+     "label": "Lưu Trung Thái - Số lượng cổ phiếu đầu kỳ",
+     "value": "7.021.308"
+    },
+    {
+     "label": "Lưu Trung Thái - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,13"
+    },
+    {
+     "label": "Lưu Trung Thái - Số lượng cổ phiếu cuối kỳ",
+     "value": "10.658.345"
+    },
+    {
+     "label": "Lưu Trung Thái - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,13"
+    },
+    {
+     "label": "Lưu Trung Thái - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Lưu Thiều Thu - Số lượng cổ phiếu đầu kỳ",
+     "value": "31.891"
+    },
+    {
+     "label": "Lưu Thiều Thu - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Lưu Thiều Thu - Số lượng cổ phiếu cuối kỳ",
+     "value": "48.409"
+    },
+    {
+     "label": "Lưu Thiều Thu - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Lưu Thiều Thu - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Phạm Văn Lởi - Số lượng cổ phiếu đầu kỳ",
+     "value": "6"
+    },
+    {
+     "label": "Phạm Văn Lởi - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Phạm Văn Lởi - Số lượng cổ phiếu cuối kỳ",
+     "value": "7"
+    },
+    {
+     "label": "Phạm Văn Lởi - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Phạm Văn Lởi - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Lưu Thị Thúy - Số lượng cổ phiếu đầu kỳ",
+     "value": "0"
+    },
+    {
+     "label": "Lưu Thị Thúy - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Lưu Thị Thúy - Số lượng cổ phiếu cuối kỳ",
+     "value": "7.000"
+    },
+    {
+     "label": "Lưu Thị Thúy - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Lưu Thị Thúy - Lý do tăng/giảm",
+     "value": "Giao dịch cổ phiếu"
+    },
+    {
+     "label": "Tống Anh Văn - Số lượng cổ phiếu đầu kỳ",
+     "value": "155.256"
+    },
+    {
+     "label": "Tống Anh Văn - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Tống Anh Văn - Số lượng cổ phiếu cuối kỳ",
+     "value": "235.678"
+    },
+    {
+     "label": "Tống Anh Văn - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Tống Anh Văn - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Vũ Thị Hải Phượng - Số lượng cổ phiếu đầu kỳ",
+     "value": "3.762.897"
+    },
+    {
+     "label": "Vũ Thị Hải Phượng - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,07"
+    },
+    {
+     "label": "Vũ Thị Hải Phượng - Số lượng cổ phiếu cuối kỳ",
+     "value": "5.712.076"
+    },
+    {
+     "label": "Vũ Thị Hải Phượng - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,07"
+    },
+    {
+     "label": "Vũ Thị Hải Phượng - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Trần Minh Tuấn - Số lượng cổ phiếu đầu kỳ",
+     "value": "43.562"
+    },
+    {
+     "label": "Trần Minh Tuấn - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Trần Minh Tuấn - Số lượng cổ phiếu cuối kỳ",
+     "value": "66.126"
+    },
+    {
+     "label": "Trần Minh Tuấn - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Trần Minh Tuấn - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Trần Vũ Hà Duy - Số lượng cổ phiếu đầu kỳ",
+     "value": "18.696"
+    },
+    {
+     "label": "Trần Vũ Hà Duy - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Trần Vũ Hà Duy - Số lượng cổ phiếu cuối kỳ",
+     "value": "28.380"
+    },
+    {
+     "label": "Trần Vũ Hà Duy - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Trần Vũ Hà Duy - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Trần Hà Linh - Số lượng cổ phiếu đầu kỳ",
+     "value": "25.000"
+    },
+    {
+     "label": "Trần Hà Linh - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Trần Hà Linh - Số lượng cổ phiếu cuối kỳ",
+     "value": "5.022"
+    },
+    {
+     "label": "Trần Hà Linh - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Trần Hà Linh - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu; Giao dịch cổ phiếu"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    210.5,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p244_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4155,
+  "output": 1332
+ },
+ "seconds": 9.5
+}

@@ -1,0 +1,81 @@
+{
+ "printed_page": 44,
+ "pdf_page": 23,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "RỦI RO THỊ TRƯỜNG",
+   "bbox": [
+    50,
+    150,
+    450,
+    350
+   ],
+   "description": "Sơ đồ thể hiện các thành phần của rủi ro thị trường gồm Rủi ro lãi suất, Rủi ro ngoại hối, Rủi ro giá cổ phiếu, Rủi ro giá hàng hóa. Các thành phần này được kết nối với nhau trong một vòng tròn trung tâm ghi RỦI RO THỊ TRƯỜNG.",
+   "data": [
+    {
+     "label": "Rủi ro lãi suất",
+     "value": ""
+    },
+    {
+     "label": "Rủi ro ngoại hối",
+     "value": ""
+    },
+    {
+     "label": "Rủi ro giá cổ phiếu",
+     "value": ""
+    },
+    {
+     "label": "Rủi ro giá hàng hóa",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    126.3,
+    267.9,
+    294.7
+   ],
+   "crop": "starter/data/advanced/crops/p044_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Rủi ro thanh khoản là rủi ro do",
+   "bbox": [
+    50,
+    700,
+    450,
+    850
+   ],
+   "description": "Hai ô số liệu nổi bật mô tả các tình huống rủi ro thanh khoản: 1) Ngân hàng không có khả năng thực hiện nghĩa vụ tài chính khi đến hạn; 2) Ngân hàng có khả năng thực hiện nghĩa vụ tài chính khi đến hạn nhưng phải trả chi phí cao hơn mức chi phí bình quân của thị trường theo quy định nội bộ của ngân hàng.",
+   "data": [
+    {
+     "label": "Ngân hàng không có khả năng thực hiện nghĩa vụ tài chính khi đến hạn",
+     "value": ""
+    },
+    {
+     "label": "Ngân hàng có khả năng thực hiện nghĩa vụ tài chính khi đến hạn nhưng phải trả chi phí cao hơn mức chi phí bình quân của thị trường theo quy định nội bộ của ngân hàng",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    589.3,
+    267.9,
+    715.6
+   ],
+   "crop": "starter/data/advanced/crops/p044_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4300,
+  "output": 359
+ },
+ "seconds": 3.5
+}

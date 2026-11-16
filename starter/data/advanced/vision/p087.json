@@ -1,0 +1,68 @@
+{
+ "printed_page": 87,
+ "pdf_page": 44,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Đánh giá về tình hình tài chính của MB năm 2025",
+   "bbox": [
+    0,
+    0,
+    400,
+    450
+   ],
+   "description": "Biểu đồ số liệu nổi bật về tăng trưởng các chỉ tiêu tài chính chính của MB năm 2025 so với kế hoạch và năm trước. Bao gồm tổng tài sản tăng 43%, vốn chủ sở hữu tăng 21%, tỷ lệ an toàn vốn (CAR) đạt 11,0%.",
+   "data": [
+    {
+     "label": "Tổng tài sản",
+     "value": "43%"
+    },
+    {
+     "label": "Vốn chủ sở hữu",
+     "value": "21%"
+    },
+    {
+     "label": "Tỷ lệ an toàn vốn (CAR) đạt",
+     "value": "11,0%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    833.4,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p087_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Sự kiện Kỷ niệm 31 năm Thành lập MB",
+   "bbox": [
+    0,
+    450,
+    1000,
+    1000
+   ],
+   "description": "Ảnh tập thể nhân viên MB chụp tại sự kiện kỷ niệm 31 năm thành lập MB với banner lớn phía sau có dòng chữ 'KHÁM PHÁ HẢI TRÌNH TỚI TỌA ĐỘ' và logo MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    378.9,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p087_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4354,
+  "output": 246
+ },
+ "seconds": 4.0
+}

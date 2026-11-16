@@ -1,0 +1,36 @@
+{
+ "printed_page": 211,
+ "pdf_page": 106,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh tòa nhà ngân hàng MB về đêm",
+   "bbox": [
+    0,
+    200,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp tòa nhà ngân hàng MB vào ban đêm với ánh sáng đèn nổi bật, không có chú thích sự kiện hay giải thưởng.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    168.4,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p211_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3379,
+  "output": 74
+ },
+ "seconds": 3.2
+}

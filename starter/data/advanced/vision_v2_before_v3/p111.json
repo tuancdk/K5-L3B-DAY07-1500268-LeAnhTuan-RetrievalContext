@@ -1,0 +1,122 @@
+{
+ "printed_page": 111,
+ "pdf_page": 56,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Biên lãi ròng (NIM)",
+   "bbox": [
+    50,
+    150,
+    950,
+    450
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện NIM (%) và svck (%) của các ngân hàng năm 2025. Trục tung trái là NIM (%) với các cột màu xanh dương nhạt, trục tung phải là svck (%) với đường màu xanh đậm. Các ngân hàng so sánh: VPB, MBB, TCB, STB, ACB, VCB, CTG, BID. NIM cao nhất là VPB 5,6%, MBB đứng thứ 2 với 3,9%. svck (%) là các giá trị âm hoặc dương đi kèm trên đường nối các điểm tương ứng từng ngân hàng.",
+   "data": [
+    {
+     "label": "VPB",
+     "value": "NIM 5,6%; svck -6%"
+    },
+    {
+     "label": "MBB",
+     "value": "NIM 3,9%; svck -5%"
+    },
+    {
+     "label": "TCB",
+     "value": "NIM 3,8%; svck -11%"
+    },
+    {
+     "label": "STB",
+     "value": "NIM 3,3%; svck -10%"
+    },
+    {
+     "label": "ACB",
+     "value": "NIM 2,9%; svck -19%"
+    },
+    {
+     "label": "VCB",
+     "value": "NIM 2,7%; svck -8%"
+    },
+    {
+     "label": "CTG",
+     "value": "NIM 2,7%; svck -9%"
+    },
+    {
+     "label": "BID",
+     "value": "NIM 2,1%; svck -9%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    126.3,
+    1160.8,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p111_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Tỷ lệ chi phí trên thu nhập (CIR)",
+   "bbox": [
+    50,
+    500,
+    950,
+    800
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện CIR (%) và svck (%) của các ngân hàng năm 2025. Trục tung trái là CIR (%) với các cột màu xanh dương nhạt, trục tung phải là svck (%) với đường màu xanh đậm. Các ngân hàng so sánh: VPB, MBB, CTG, TCB, ACB, BID, VCB, STB. CIR thấp nhất là VPB 25,0%, MBB đứng thứ 2 với 29,1%. svck (%) là các giá trị âm hoặc dương đi kèm trên đường nối các điểm tương ứng từng ngân hàng.",
+   "data": [
+    {
+     "label": "VPB",
+     "value": "CIR 25,0%; svck 8%"
+    },
+    {
+     "label": "MBB",
+     "value": "CIR 29,1%; svck -5%"
+    },
+    {
+     "label": "CTG",
+     "value": "CIR 30,4%; svck 10%"
+    },
+    {
+     "label": "TCB",
+     "value": "CIR 30,8%; svck -6%"
+    },
+    {
+     "label": "ACB",
+     "value": "CIR 32,3%; svck -1%"
+    },
+    {
+     "label": "BID",
+     "value": "CIR 33,4%; svck -3%"
+    },
+    {
+     "label": "VCB",
+     "value": "CIR 34,8%; svck 4%"
+    },
+    {
+     "label": "STB",
+     "value": "CIR 40,7%; svck -17%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    420.9,
+    1160.8,
+    673.5
+   ],
+   "crop": "starter/data/advanced/crops/p111_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3729,
+  "output": 674
+ },
+ "seconds": 5.1
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "run_at": "2026-11-16T11:36:58+00:00",
+    "split": "test",
+    "tag": "A-final",
+    "model": "gpt-4.1",
+    "retriever": "bm25",
+    "top_k": 5,
+    "max_searches": 5,
+    "budget_chars": 12000,
+    "neighbors": false,
+    "prompt": "ar2",
+    "verify": true,
+    "warmup_seconds": 0.7,
+    "rerun_errors": []
+  },
+  "summary": {
+    "draft_pass": "28/32",
+    "by_group": {
+      "bang": "5/6",
+      "anh_so_do": "6/6",
+      "bieu_do": "6/6",
+      "multi_hop": "1/4",
+      "text": "4/4",
+      "thieu_bang_chung": "6/6"
+    },
+    "errors": [],
+    "searches": {
+      "1": 5,
+      "2": 8,
+      "3": 5,
+      "4": 6,
+      "5": 8
+    },
+    "median_ms": 5082.8,
+    "mean_context_chars": 7654.3,
+    "cost_usd": {
+      "agent": 0.9367,
+      "rerank": 0.0,
+      "total": 0.9367
+    }
+  }
+}

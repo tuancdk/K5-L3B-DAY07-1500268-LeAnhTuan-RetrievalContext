@@ -1,0 +1,53 @@
+{
+ "printed_page": 162,
+ "pdf_page": 82,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Các quy định liên quan đến giao dịch với cổ đông lớn, thành viên HĐQT, BKS, Ban Điều hành và người có liên quan",
+   "bbox": [
+    100,
+    460,
+    900,
+    600
+   ],
+   "description": "Bốn ô chính thể hiện các quy định cho các loại giao dịch khác nhau: 1) Giao dịch có giá trị trên 20% vốn điều lệ, 2) Giao dịch có giá trị bằng hoặc dưới 20% vốn điều lệ, 3) Thành viên HĐQT, BKS, Tổng Giám đốc và người điều hành, 4) Giao dịch với Phó Tổng Giám đốc và người quản lý khác hoặc người có liên quan. Mỗi ô có nội dung quy định cụ thể về phê duyệt và biểu quyết.",
+   "data": [
+    {
+     "label": "Đối với giao dịch có giá trị trên 20% vốn điều lệ",
+     "value": "Phải được Đại hội đồng Cổ đông thông qua; cổ đông là bên liên quan không được tham gia biểu quyết."
+    },
+    {
+     "label": "Đối với giao dịch có giá trị bằng hoặc dưới 20% vốn điều lệ",
+     "value": "Phải được HĐQT phê duyệt; thành viên HĐQT có liên quan không tham gia biểu quyết."
+    },
+    {
+     "label": "Thành viên HĐQT, BKS, Tổng Giám đốc và người điều hành",
+     "value": "Không được phép giao dịch cổ phiếu của MB hoặc công ty con khi sở hữu thông tin nội bộ chưa công bố ra thị trường."
+    },
+    {
+     "label": "Giao dịch với Phó Tổng Giám đốc và người quản lý khác, hoặc người có liên quan của họ",
+     "value": "Chỉ được thực hiện khi có chấp thuận của HĐQT theo đúng quy định."
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    387.3,
+    535.7,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p162_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4047,
+  "output": 374
+ },
+ "seconds": 3.3
+}

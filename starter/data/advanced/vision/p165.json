@@ -1,0 +1,61 @@
+{
+ "printed_page": 165,
+ "pdf_page": 83,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Cơ quan quản lý nhà nước và Cộng đồng",
+   "bbox": [
+    50,
+    50,
+    450,
+    350
+   ],
+   "description": "Hai vòng tròn lớn biểu thị hai nhóm đối tượng: 'Cơ quan quản lý nhà nước' và 'Cộng đồng'. Mỗi nhóm có các điểm mô tả cam kết và trách nhiệm của MB với từng nhóm. Với Cơ quan quản lý nhà nước: tuân thủ pháp luật nghiêm ngặt, hợp tác trong kiểm toán và giám sát. Với Cộng đồng: gắn bó chặt chẽ, hướng đến lợi ích chung, chia sẻ và hỗ trợ, bảo vệ môi trường.",
+   "data": [
+    {
+     "label": "Cơ quan quản lý nhà nước - Tuân thủ pháp luật",
+     "value": "MB tuân thủ nghiêm ngặt các quy định của các cơ quan quản lý nhà nước như Ngân hàng Nhà nước, Kiểm toán Nhà nước."
+    },
+    {
+     "label": "Cơ quan quản lý nhà nước - Hợp tác kiểm toán và giám sát",
+     "value": "MB hợp tác toàn diện trong các quá trình kiểm toán, kiểm tra và khắc phục các kiến nghị của các cơ quan quản lý và giám sát."
+    },
+    {
+     "label": "Cộng đồng - Gắn bó",
+     "value": "MB hiểu rõ và gắn bó chặt chẽ với cộng đồng."
+    },
+    {
+     "label": "Cộng đồng - Vì lợi ích chung",
+     "value": "MB luôn hướng đến sự phát triển vì lợi ích chung của cộng đồng."
+    },
+    {
+     "label": "Cộng đồng - Chia sẻ và hỗ trợ",
+     "value": "MB sẵn sàng chia sẻ thuận lợi và gánh vác khó khăn cùng cộng đồng."
+    },
+    {
+     "label": "Cộng đồng - Bảo vệ môi trường",
+     "value": "MB luôn giữ gìn và bảo vệ môi trường như một mái nhà chung cho toàn xã hội."
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    42.1,
+    863.1,
+    294.7
+   ],
+   "crop": "starter/data/advanced/crops/p165_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4186,
+  "output": 380
+ },
+ "seconds": 3.6
+}

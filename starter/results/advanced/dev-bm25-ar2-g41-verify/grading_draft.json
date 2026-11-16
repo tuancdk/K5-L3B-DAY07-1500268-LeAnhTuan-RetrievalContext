@@ -1,0 +1,477 @@
+[
+ {
+  "query_id": "ad01",
+  "group": "bang",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p059:visual1",
+    "page": 59,
+    "kind": "diagram"
+   },
+   {
+    "id": "mb-ar-2025:p059:table0:0",
+    "page": 59,
+    "kind": "table"
+   }
+  ]
+ },
+ {
+  "query_id": "ad02",
+  "group": "bang",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p097:table1:0",
+    "page": 97,
+    "kind": "table"
+   }
+  ]
+ },
+ {
+  "query_id": "ad03",
+  "group": "bang",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p185:table1:0",
+    "page": 185,
+    "kind": "table"
+   },
+   {
+    "id": "mb-ar-2025:p185:visual0",
+    "page": 185,
+    "kind": "infographic"
+   }
+  ]
+ },
+ {
+  "query_id": "ad04",
+  "group": "bang",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p292:table0:0",
+    "page": 292,
+    "kind": "table"
+   },
+   {
+    "id": "mb-ar-2025:p080:table0:0",
+    "page": 80,
+    "kind": "table"
+   }
+  ]
+ },
+ {
+  "query_id": "ad05",
+  "group": "anh_so_do",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p019:visual0",
+    "page": 19,
+    "kind": "diagram"
+   },
+   {
+    "id": "mb-ar-2025:p019:text:00",
+    "page": 19,
+    "kind": "text"
+   }
+  ]
+ },
+ {
+  "query_id": "ad06",
+  "group": "anh_so_do",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p021:visual1",
+    "page": 21,
+    "kind": "diagram"
+   },
+   {
+    "id": "mb-ar-2025:p021:text:01",
+    "page": 21,
+    "kind": "text"
+   },
+   {
+    "id": "mb-ar-2025:p241:text:04",
+    "page": 241,
+    "kind": "text"
+   }
+  ]
+ },
+ {
+  "query_id": "ad07",
+  "group": "anh_so_do",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p041:visual0",
+    "page": 41,
+    "kind": "diagram"
+   },
+   {
+    "id": "mb-ar-2025:p041:text:00",
+    "page": 41,
+    "kind": "text"
+   }
+  ]
+ },
+ {
+  "query_id": "ad08",
+  "group": "bieu_do",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p064:visual0",
+    "page": 64,
+    "kind": "bar_chart"
+   }
+  ]
+ },
+ {
+  "query_id": "ad09",
+  "group": "bieu_do",
+  "draft_pass": false,
+  "facts_ok": false,
+  "missing_facts": [
+   "6%"
+  ],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p077:visual0",
+    "page": 77,
+    "kind": "bar_chart"
+   },
+   {
+    "id": "mb-ar-2025:p188:table0:0",
+    "page": 188,
+    "kind": "table"
+   },
+   {
+    "id": "mb-ar-2025:p188:visual0",
+    "page": 188,
+    "kind": "infographic"
+   },
+   {
+    "id": "mb-ar-2025:p077:text:00",
+    "page": 77,
+    "kind": "text"
+   }
+  ]
+ },
+ {
+  "query_id": "ad10",
+  "group": "bieu_do",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p102:visual0",
+    "page": 102,
+    "kind": "bar_chart"
+   }
+  ]
+ },
+ {
+  "query_id": "ad11",
+  "group": "bieu_do",
+  "draft_pass": false,
+  "facts_ok": false,
+  "missing_facts": [
+   "thứ 1"
+  ],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p108:visual0",
+    "page": 108,
+    "kind": "combo_chart"
+   },
+   {
+    "id": "mb-ar-2025:p108:text:00",
+    "page": 108,
+    "kind": "text"
+   }
+  ]
+ },
+ {
+  "query_id": "ad12",
+  "group": "multi_hop",
+  "draft_pass": false,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [
+   "group0: same page, other region ['mb-ar-2025:p059:visual1']"
+  ],
+  "cites_ok": false,
+  "evidence_groups_cited": [
+   false,
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p059:visual1",
+    "page": 59,
+    "kind": "diagram"
+   },
+   {
+    "id": "mb-ar-2025:p093:visual0",
+    "page": 93,
+    "kind": "line_chart"
+   },
+   {
+    "id": "mb-ar-2025:p111:visual1",
+    "page": 111,
+    "kind": "combo_chart"
+   },
+   {
+    "id": "mb-ar-2025:p111:text:00",
+    "page": 111,
+    "kind": "text"
+   }
+  ]
+ },
+ {
+  "query_id": "ad13",
+  "group": "multi_hop",
+  "draft_pass": false,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [
+   "group0: unlisted page(s) ['mb-ar-2025:p097:table1:0']"
+  ],
+  "cites_ok": false,
+  "evidence_groups_cited": [
+   false,
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p097:table1:0",
+    "page": 97,
+    "kind": "table"
+   }
+  ]
+ },
+ {
+  "query_id": "ad14",
+  "group": "multi_hop",
+  "draft_pass": false,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [
+   "group0: same page, other region ['mb-ar-2025:p120:visual1', 'mb-ar-2025:p059:visual1', 'mb-ar-2025:p120:visual0', 'mb-ar-2025:p120:text:00']"
+  ],
+  "cites_ok": false,
+  "evidence_groups_cited": [
+   false,
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p120:visual1",
+    "page": 120,
+    "kind": "photo"
+   },
+   {
+    "id": "mb-ar-2025:p056:visual1",
+    "page": 56,
+    "kind": "infographic"
+   },
+   {
+    "id": "mb-ar-2025:p059:visual1",
+    "page": 59,
+    "kind": "diagram"
+   },
+   {
+    "id": "mb-ar-2025:p120:visual0",
+    "page": 120,
+    "kind": "infographic"
+   },
+   {
+    "id": "mb-ar-2025:p120:text:00",
+    "page": 120,
+    "kind": "text"
+   },
+   {
+    "id": "mb-ar-2025:p134:visual0",
+    "page": 134,
+    "kind": "bar_chart"
+   }
+  ]
+ },
+ {
+  "query_id": "ad15",
+  "group": "text",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p191:visual0",
+    "page": 191,
+    "kind": "infographic"
+   },
+   {
+    "id": "mb-ar-2025:p191:text:00",
+    "page": 191,
+    "kind": "text"
+   },
+   {
+    "id": "mb-ar-2025:p077:text:00",
+    "page": 77,
+    "kind": "text"
+   }
+  ]
+ },
+ {
+  "query_id": "ad16",
+  "group": "text",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p200:text:00",
+    "page": 200,
+    "kind": "text"
+   },
+   {
+    "id": "mb-ar-2025:p200:visual2",
+    "page": 200,
+    "kind": "infographic"
+   }
+  ]
+ },
+ {
+  "query_id": "ad17",
+  "group": "text",
+  "draft_pass": true,
+  "facts_ok": true,
+  "missing_facts": [],
+  "review_flags": [],
+  "cites_ok": true,
+  "evidence_groups_cited": [
+   true
+  ],
+  "cited": [
+   {
+    "id": "mb-ar-2025:p072:visual0",
+    "page": 72,
+    "kind": "photo"
+   },
+   {
+    "id": "mb-ar-2025:p072:text:00",
+    "page": 72,
+    "kind": "text"
+   }
+  ]
+ },
+ {
+  "query_id": "adn1",
+  "group": "thieu_bang_chung",
+  "draft_pass": false,
+  "reason": "status=answered"
+ },
+ {
+  "query_id": "adn2",
+  "group": "thieu_bang_chung",
+  "draft_pass": true,
+  "reason": "status=abstain"
+ },
+ {
+  "query_id": "adn3",
+  "group": "thieu_bang_chung",
+  "draft_pass": true,
+  "reason": "status=abstain"
+ },
+ {
+  "query_id": "adn4",
+  "group": "thieu_bang_chung",
+  "draft_pass": true,
+  "reason": "status=abstain"
+ }
+]

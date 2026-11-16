@@ -1,0 +1,122 @@
+{
+ "printed_page": 109,
+ "pdf_page": 55,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Thu nhập phí thuần (NFI)",
+   "bbox": [
+    50,
+    350,
+    950,
+    650
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện Thu nhập phí thuần (NFI) năm 2025 của các ngân hàng. Trục tung bên trái là NFI (nghìn tỷ), trục tung bên phải là tốc độ tăng trưởng svck (%). Các ngân hàng trên trục hoành gồm TCB, VPB, BID, MBB, CTG, VCB, ACB, STB. Cột màu xanh dương nhạt biểu thị giá trị NFI, cột màu xanh dương đậm biểu thị MBB với giá trị 6,6 nghìn tỷ. Đường màu xanh dương biểu thị tốc độ tăng trưởng svck (%). Giá trị NFI lần lượt: TCB 8,8; VPB 7,4; BID 6,9; MBB 6,6; CTG 6,3; VCB 3,5; ACB 3,1; STB 3,1. Tốc độ tăng trưởng svck (%) lần lượt: TCB 9; VPB 20; BID -2; MBB 51 (nhãn +51% trên cột MBB); CTG -5; VCB -32; ACB -3; STB 3.",
+   "data": [
+    {
+     "label": "TCB",
+     "value": "NFI 8,8; svck 9%"
+    },
+    {
+     "label": "VPB",
+     "value": "NFI 7,4; svck 20%"
+    },
+    {
+     "label": "BID",
+     "value": "NFI 6,9; svck -2%"
+    },
+    {
+     "label": "MBB",
+     "value": "NFI 6,6; svck 51%"
+    },
+    {
+     "label": "CTG",
+     "value": "NFI 6,3; svck -5%"
+    },
+    {
+     "label": "VCB",
+     "value": "NFI 3,5; svck -32%"
+    },
+    {
+     "label": "ACB",
+     "value": "NFI 3,1; svck -3%"
+    },
+    {
+     "label": "STB",
+     "value": "NFI 3,1; svck 3%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    294.7,
+    1160.8,
+    547.2
+   ],
+   "crop": "starter/data/advanced/crops/p109_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Lợi nhuận trước thuế",
+   "bbox": [
+    50,
+    700,
+    950,
+    1000
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện Lợi nhuận trước thuế năm 2025 của các ngân hàng. Trục tung bên trái là LNTT (nghìn tỷ), trục tung bên phải là tốc độ tăng trưởng svck (%). Các ngân hàng trên trục hoành gồm VCB, CTG, BID, MBB, TCB, VPB, ACB, STB. Cột màu xanh dương nhạt biểu thị giá trị LNTT, cột màu xanh dương đậm biểu thị MBB với giá trị 34,3 nghìn tỷ. Đường màu xanh dương biểu thị tốc độ tăng trưởng svck (%). Giá trị LNTT lần lượt: VCB 44,0; CTG 43,4; BID 37,9; MBB 34,3; TCB 32,5; VPB 30,6; ACB 19,5; STB 7,6. Tốc độ tăng trưởng svck (%) lần lượt: VCB 4; CTG 37; BID 18; MBB 19; TCB 18; VPB 53 (nhãn +53% trên cột VPB); ACB -7; STB -40.",
+   "data": [
+    {
+     "label": "VCB",
+     "value": "LNTT 44,0; svck 4%"
+    },
+    {
+     "label": "CTG",
+     "value": "LNTT 43,4; svck 37%"
+    },
+    {
+     "label": "BID",
+     "value": "LNTT 37,9; svck 18%"
+    },
+    {
+     "label": "MBB",
+     "value": "LNTT 34,3; svck 19%"
+    },
+    {
+     "label": "TCB",
+     "value": "LNTT 32,5; svck 18%"
+    },
+    {
+     "label": "VPB",
+     "value": "LNTT 30,6; svck 53%"
+    },
+    {
+     "label": "ACB",
+     "value": "LNTT 19,5; svck -7%"
+    },
+    {
+     "label": "STB",
+     "value": "LNTT 7,6; svck -40%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    589.3,
+    1160.8,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p109_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4031,
+  "output": 933
+ },
+ "seconds": 9.4
+}

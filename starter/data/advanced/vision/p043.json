@@ -1,0 +1,36 @@
+{
+ "printed_page": 43,
+ "pdf_page": 22,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Tiến bước vững vàng",
+   "bbox": [
+    0,
+    500,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp sự kiện tại hội trường lớn với sân khấu có màn hình LED lớn hiển thị chữ 'TIẾN BƯỚC VỮNG VÀNG' và các từ khóa 'BIG MOVE', 'AMBITION', 'GENERATION'. Có hai người đang đứng phát biểu trên sân khấu, phía dưới là khán giả ngồi xem.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    420.9,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p043_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3702,
+  "output": 114
+ },
+ "seconds": 2.7
+}

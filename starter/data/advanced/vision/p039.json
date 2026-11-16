@@ -1,0 +1,68 @@
+{
+ "printed_page": 39,
+ "pdf_page": 20,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Định hướng đến năm 2029",
+   "bbox": [
+    0,
+    0,
+    450,
+    450
+   ],
+   "description": "Các mục tiêu định hướng của MB đến năm 2029 gồm phục vụ 40 triệu khách hàng, tăng trưởng tổng tài sản bình quân khoảng 14%/năm, dư nợ và huy động tăng khoảng 15%. Mục tiêu lợi nhuận trước thuế tăng khoảng 12%, tỷ lệ nợ xấu ≤ 2%, các chỉ tiêu ROE, ROA, CIR trong Top đầu và tuân thủ quy định NHNN và pháp luật. MB hướng đến xây dựng tổ chức phát triển bền vững, thực hành ESG, hướng tới Net zero, phát triển ngân hàng xanh với tỷ trọng tín dụng xanh 8-10%/năm, hỗ trợ doanh nghiệp chuyển đổi số.",
+   "data": [
+    {
+     "label": "MB phấn đấu phục vụ",
+     "value": "40 TRIỆU khách hàng"
+    },
+    {
+     "label": "Mục tiêu tăng trưởng tổng tài sản bình quân khoảng",
+     "value": "14 %/năm"
+    },
+    {
+     "label": "Dư nợ và huy động khoảng",
+     "value": "15 %"
+    }
+   ],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    863.1,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p039_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh sự kiện MB",
+   "bbox": [
+    0,
+    450,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp sự kiện của MB với sân khấu có màn hình lớn hình con tàu, nhiều người tham dự, ánh sáng sân khấu rực rỡ, thể hiện sự kiện quan trọng của ngân hàng.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    378.9,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p039_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3611,
+  "output": 319
+ },
+ "seconds": 4.9
+}

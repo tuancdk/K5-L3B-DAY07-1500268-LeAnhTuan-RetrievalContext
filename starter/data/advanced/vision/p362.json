@@ -1,0 +1,36 @@
+{
+ "printed_page": 362,
+ "pdf_page": 182,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa liên quan đến rủi ro thanh khoản",
+   "bbox": [
+    0,
+    0,
+    1000,
+    700
+   ],
+   "description": "Ảnh chụp một thiết bị điện tử hiển thị biểu đồ tài chính với các đường biểu diễn màu xanh và đỏ, nền là màn hình giao dịch chứng khoán mờ.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    595.3,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p362_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3606,
+  "output": 82
+ },
+ "seconds": 2.7
+}

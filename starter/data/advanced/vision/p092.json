@@ -1,0 +1,94 @@
+{
+ "printed_page": 92,
+ "pdf_page": 47,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "pie_chart",
+   "title": "Cơ cấu doanh thu phí",
+   "bbox": [
+    50,
+    50,
+    550,
+    450
+   ],
+   "description": "Biểu đồ tròn thể hiện cơ cấu doanh thu phí của MB theo các loại hình dịch vụ. Các phần trăm được ghi rõ trên từng phần của biểu đồ với chú thích bên ngoài. Các loại hình gồm: Bảo hiểm 52%, Thanh toán và ngân quỹ 25%, Khác 10%, Dịch vụ tư vấn 6%, Môi giới chứng khoán 5%, Thu từ xử lý nợ 2%. Nguồn dữ liệu: BCTC hợp nhất.",
+   "data": [
+    {
+     "label": "Bảo hiểm",
+     "value": "52%"
+    },
+    {
+     "label": "Thanh toán và ngân quỹ",
+     "value": "25%"
+    },
+    {
+     "label": "Khác",
+     "value": "10%"
+    },
+    {
+     "label": "Dịch vụ tư vấn",
+     "value": "6%"
+    },
+    {
+     "label": "Môi giới chứng khoán",
+     "value": "5%"
+    },
+    {
+     "label": "Thu từ xử lý nợ",
+     "value": "2%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    327.4,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p092_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Lợi nhuận trước thuế (nghìn tỷ đồng)",
+   "bbox": [
+    600,
+    500,
+    950,
+    900
+   ],
+   "description": "Biểu đồ cột thể hiện lợi nhuận trước thuế của MB trong các năm 2023, 2024 và 2025. Trục tung không ghi đơn vị nhưng tiêu đề ghi rõ đơn vị là nghìn tỷ đồng. Giá trị lợi nhuận lần lượt là 26,3 (2023), 28,8 (2024), 34,3 (2025). Có chú thích tăng trưởng bình quân (CAGR) +14% đặt trên cột năm 2024. Mũi tên tăng trưởng nối từ 2023 đến 2025.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "26,3"
+    },
+    {
+     "label": "2024",
+     "value": "28,8"
+    },
+    {
+     "label": "2025",
+     "value": "34,3"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    420.9,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p092_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3696,
+  "output": 408
+ },
+ "seconds": 4.0
+}

@@ -1,0 +1,80 @@
+{
+ "printed_page": 148,
+ "pdf_page": 75,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Quản trị",
+   "bbox": [
+    50,
+    50,
+    950,
+    600
+   ],
+   "description": "Thông tin về đóng góp ngân sách nhà nước toàn Tập đoàn, an toàn và bảo mật thông tin, đa dạng giới trong HĐQT và cấp quản lý cao nhất. Đóng góp ngân sách nhà nước là 9.993 tỷ đồng, tăng 15,9% so với năm 2024. Không phát sinh vi phạm về an toàn và bảo mật thông tin. Đa dạng giới: 4/11 thành viên HĐQT là nữ, 7/13 thành viên Ban Điều hành là nữ, 4/5 thành viên Ban Kiểm soát là nữ.",
+   "data": [
+    {
+     "label": "Đóng góp ngân sách nhà nước toàn Tập đoàn",
+     "value": "9.993 TỶ ĐỒNG"
+    },
+    {
+     "label": "Tăng so với năm 2024",
+     "value": "15,9%"
+    },
+    {
+     "label": "Phát sinh vi phạm an toàn và bảo mật thông tin",
+     "value": "KHÔNG"
+    },
+    {
+     "label": "Thành viên HĐQT là nữ",
+     "value": "4/11"
+    },
+    {
+     "label": "Thành viên Ban Điều hành là nữ",
+     "value": "7/13"
+    },
+    {
+     "label": "Thành viên Ban Kiểm soát là nữ",
+     "value": "4/5"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    565.5,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p148_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa giao dịch tại MB",
+   "bbox": [
+    0,
+    600,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp hai nhân viên ngân hàng MB đang giao tiếp trong môi trường làm việc, phía sau có logo MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    505.1,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p148_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3341,
+  "output": 333
+ },
+ "seconds": 3.8
+}

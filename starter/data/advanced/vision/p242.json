@@ -1,0 +1,36 @@
+{
+ "printed_page": 242,
+ "pdf_page": 122,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Vị trí, chức năng của Kiểm toán nội bộ",
+   "bbox": [
+    50,
+    600,
+    350,
+    900
+   ],
+   "description": "Hai vòng tròn chứa nội dung về vị trí, chức năng và nguyên tắc hoạt động của Kiểm toán nội bộ tại MB. Vị trí, chức năng: Cơ quan Kiểm toán nội bộ là đơn vị ngang Khối tại Hội sở, trực thuộc Ban Kiểm soát, thực hiện chế độ báo cáo trực tiếp lên Ban Kiểm soát, thực hiện rà soát và đánh giá độc lập, khách quan về tính thích hợp và mức độ tuân thủ các cơ chế, chính sách, quy trình và quy định nội bộ; đưa ra kiến nghị và khuyến nghị tư vấn nhằm nâng cao hiệu lực, hiệu quả của hệ thống quản trị, quy trình và quy định, góp phần bảo đảm MB hoạt động an toàn, hiệu quả và đúng pháp luật. Ngoài ra còn thực hiện chức năng tham mưu và giúp việc cho Ban Kiểm soát, hỗ trợ công tác quản lý kiểm toán nội bộ trong phạm vi Tập đoàn theo quy định. Nguyên tắc hoạt động: Kiểm toán nội bộ tuân thủ nguyên tắc độc lập, khách quan, chuyên nghiệp và kiểm soát xung đột lợi ích theo quy định pháp luật; bảo đảm tính độc lập trong tổ chức và hoạt động; không chịu sự can thiệp, chi phối trong quá trình thực hiện nhiệm vụ, đánh giá và lập báo cáo kiểm toán; kiểm toán viên không đồng thời đảm nhận công việc thuộc tuyến bảo vệ thứ nhất hoặc thứ hai để phòng ngừa xung đột lợi ích; mọi kết luận dựa trên dữ liệu và thông tin thu thập được, đảm bảo trung thực, khách quan và có cơ sở; kiểm toán viên phải đáp ứng tiêu chuẩn chuyên môn và chuẩn mực đạo đức nghề nghiệp, tuân thủ pháp luật và quy định nội bộ MB, chịu trách nhiệm trước pháp luật về kết quả nhiệm vụ.",
+   "data": [],
+   "bbox_pdf_pt": [
+    29.8,
+    505.1,
+    208.3,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p242_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4214,
+  "output": 424
+ },
+ "seconds": 3.6
+}

@@ -1,0 +1,69 @@
+{
+ "printed_page": 166,
+ "pdf_page": 84,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Cơ cấu tổ chức triển khai công tác Phòng, chống tham nhũng tại MB",
+   "bbox": [
+    50,
+    600,
+    950,
+    980
+   ],
+   "description": "Sơ đồ tổ chức Ban Chỉ đạo phòng, chống tham nhũng, tiêu cực và tội phạm tại Hội sở và Tiểu Ban Chỉ đạo phòng, chống tham nhũng, tiêu cực và tội phạm tại Chi nhánh. Ban Chỉ đạo tại Hội sở gồm Trưởng Ban chỉ đạo (Bí thư Đảng ủy, Chủ tịch Hội đồng Quản trị MB), Phó Trưởng ban Chỉ đạo thường trực (Phó Bí thư Đảng ủy, Tổng Giám đốc, Thành viên Ban Điều hành), Thành viên Ban Chỉ đạo (Lãnh đạo các Đơn vị Hội sở). Tiểu Ban Chỉ đạo tại Chi nhánh gồm Trưởng Tiểu Ban Chỉ đạo (Giám đốc Chi nhánh), Phó Trưởng Tiểu Ban Chỉ đạo (Phó Giám đốc/Giám đốc Dịch vụ Chi nhánh), Thành viên Ban Chỉ đạo (Lãnh đạo các Phòng tại Chi nhánh).",
+   "data": [
+    {
+     "label": "Ban Chỉ đạo phòng, chống tham nhũng, tiêu cực và tội phạm (tại Hội sở)",
+     "value": ""
+    },
+    {
+     "label": "Trưởng Ban chỉ đạo",
+     "value": "Bí thư Đảng ủy, Chủ tịch Hội đồng Quản trị MB"
+    },
+    {
+     "label": "Phó Trưởng ban Chỉ đạo thường trực",
+     "value": "Phó Bí thư Đảng ủy, Tổng Giám đốc, Thành viên Ban Điều hành"
+    },
+    {
+     "label": "Thành viên Ban Chỉ đạo",
+     "value": "Lãnh đạo các Đơn vị Hội sở"
+    },
+    {
+     "label": "Tiểu Ban Chỉ đạo phòng, chống tham nhũng, tiêu cực và tội phạm (tại Chi nhánh)",
+     "value": ""
+    },
+    {
+     "label": "Trưởng Tiểu Ban Chỉ đạo",
+     "value": "Giám đốc Chi nhánh"
+    },
+    {
+     "label": "Phó Trưởng Tiểu Ban Chỉ đạo",
+     "value": "Phó Giám đốc/Giám đốc Dịch vụ Chi nhánh"
+    },
+    {
+     "label": "Thành viên Ban Chỉ đạo",
+     "value": "Lãnh đạo các Phòng tại Chi nhánh"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    505.1,
+    565.5,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p166_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3868,
+  "output": 484
+ },
+ "seconds": 3.7
+}

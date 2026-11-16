@@ -1,0 +1,49 @@
+{
+ "printed_page": 99,
+ "pdf_page": 50,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Báo cáo và đánh giá của Ban Điều hành",
+   "bbox": [
+    0,
+    0,
+    500,
+    1000
+   ],
+   "description": "Ảnh chụp sự kiện có người cầm cờ MB, nền chữ MB lớn màu trắng trên nền xanh dương. Bên trái ảnh là khung màu xanh dương với logo MB và tiêu đề 'Báo cáo và đánh giá của Ban Điều hành'. Có các mục lục nhỏ: Tình hình hoạt động kinh doanh (trang 100), Tình hình tài chính (trang 120), Trách nhiệm về môi trường và xã hội (trang 122).",
+   "data": [
+    {
+     "label": "Tình hình hoạt động kinh doanh",
+     "value": "100"
+    },
+    {
+     "label": "Tình hình tài chính",
+     "value": "120"
+    },
+    {
+     "label": "Trách nhiệm về môi trường và xã hội",
+     "value": "122"
+    }
+   ],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    892.9,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p099_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3219,
+  "output": 187
+ },
+ "seconds": 3.4
+}

@@ -1,0 +1,77 @@
+{
+ "printed_page": 190,
+ "pdf_page": 96,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "line_chart",
+   "title": "",
+   "bbox": [
+    60,
+    40,
+    950,
+    320
+   ],
+   "description": "Biểu đồ đường thể hiện số lượng nhân sự qua các năm từ 2021 đến 2025. Trục hoành là năm (2021, 2022, 2023, 2024, 2025), trục tung là số lượng nhân sự. Các điểm dữ liệu được đánh số trực tiếp trên biểu đồ. Đường nối các điểm thể hiện xu hướng tăng liên tục qua các năm.",
+   "data": [
+    {
+     "label": "2021",
+     "value": "9.600"
+    },
+    {
+     "label": "2022",
+     "value": "9.986"
+    },
+    {
+     "label": "2023",
+     "value": "10.481"
+    },
+    {
+     "label": "2024",
+     "value": "12.155"
+    },
+    {
+     "label": "2025",
+     "value": "13.047"
+    }
+   ],
+   "bbox_pdf_pt": [
+    35.7,
+    33.7,
+    565.5,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p190_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "",
+   "bbox": [
+    0,
+    330,
+    1000,
+    1000
+   ],
+   "description": "Ảnh hai người mặc vest xanh đang xem một tài liệu, phía dưới biểu đồ số lượng nhân sự. Không có chú thích sự kiện, giải thưởng hoặc tên người trong ảnh.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    277.8,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p190_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 1849,
+  "output": 231
+ },
+ "seconds": 5.1
+}

@@ -1,0 +1,36 @@
+{
+ "printed_page": 138,
+ "pdf_page": 70,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh tập thể nhân viên MB tham gia Thử thách chạy bộ #HiGreen vì Trường Sa xanh",
+   "bbox": [
+    0,
+    450,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp tập thể nhân viên MB mặc áo xanh, cầm biểu ngữ Thử thách chạy bộ #HiGreen vì Trường Sa xanh, thể hiện sự tham gia hoạt động phát triển bền vững của ngân hàng.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    378.9,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p138_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3578,
+  "output": 104
+ },
+ "seconds": 2.8
+}

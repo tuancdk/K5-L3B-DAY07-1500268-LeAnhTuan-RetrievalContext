@@ -1,0 +1,36 @@
+{
+ "printed_page": 98,
+ "pdf_page": 50,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh sự kiện MB",
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp một sự kiện của Ngân hàng MB với nhiều người đang giơ cờ MB, không có chú thích cụ thể trên trang.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p098_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3178,
+  "output": 67
+ },
+ "seconds": 3.5
+}

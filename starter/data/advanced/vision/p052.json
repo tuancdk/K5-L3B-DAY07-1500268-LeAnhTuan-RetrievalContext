@@ -1,0 +1,72 @@
+{
+ "printed_page": 52,
+ "pdf_page": 27,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Minh họa Quản lý rủi ro môi trường và xã hội",
+   "bbox": [
+    50,
+    150,
+    250,
+    350
+   ],
+   "description": "Ảnh minh họa với biểu tượng con người và hình trái đất, tượng trưng cho quản lý rủi ro môi trường và xã hội.",
+   "data": [],
+   "bbox_pdf_pt": [
+    29.8,
+    126.3,
+    148.8,
+    294.7
+   ],
+   "crop": "starter/data/advanced/crops/p052_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Cơ cấu dư nợ tín dụng xanh tại MB năm 2025",
+   "bbox": [
+    600,
+    400,
+    950,
+    550
+   ],
+   "description": "Thông tin về cơ cấu dư nợ tín dụng xanh tại MB tính đến tháng 12/2025, tổng dư nợ đạt trên 68 nghìn tỷ đồng, trong đó 80% dư nợ xanh đến từ ngành năng lượng tái tạo, năng lượng sạch; 11% từ các ngành nông lâm nghiệp xanh bền vững; 2% từ ngành quản lý nước bền vững.",
+   "data": [
+    {
+     "label": "Tổng dư nợ tín dụng xanh",
+     "value": "trên 68 nghìn tỷ đồng"
+    },
+    {
+     "label": "Năng lượng tái tạo, năng lượng sạch",
+     "value": "80%"
+    },
+    {
+     "label": "Nông lâm nghiệp xanh bền vững",
+     "value": "11%"
+    },
+    {
+     "label": "Quản lý nước bền vững",
+     "value": "2%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    336.8,
+    565.5,
+    463.0
+   ],
+   "crop": "starter/data/advanced/crops/p052_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4206,
+  "output": 275
+ },
+ "seconds": 3.0
+}

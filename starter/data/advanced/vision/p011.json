@@ -1,0 +1,36 @@
+{
+ "printed_page": 11,
+ "pdf_page": 6,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Thông điệp từ Tổng Giám đốc",
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chân dung Tổng Giám đốc trong trang báo cáo thường niên 2025 với nền xanh và dòng chữ \"KHÁT VỌNG VƯƠN TẦM KIẾN TẠO VỊ THẾ DOANH NGHIỆP SỐ DẪN ĐẦU\".",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p011_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3255,
+  "output": 105
+ },
+ "seconds": 6.7
+}

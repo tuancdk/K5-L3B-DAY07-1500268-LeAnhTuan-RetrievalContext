@@ -1,0 +1,65 @@
+{
+ "printed_page": 277,
+ "pdf_page": 139,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Mục lục Báo cáo tài chính hợp nhất đã kiểm toán",
+   "bbox": [
+    50,
+    150,
+    450,
+    900
+   ],
+   "description": "Danh sách các phần trong báo cáo tài chính hợp nhất đã kiểm toán của Ngân hàng MB với số trang tương ứng: Thông tin chung (trang 278), Báo cáo của Ban Điều hành (trang 280), Báo cáo kiểm toán độc lập (trang 281), Báo cáo tình hình tài chính hợp nhất (trang 282), Báo cáo kết quả hoạt động hợp nhất (trang 286), Báo cáo lưu chuyển tiền tệ hợp nhất (trang 288), Thuyết minh báo cáo tài chính hợp nhất (trang 291).",
+   "data": [
+    {
+     "label": "Thông tin chung",
+     "value": "278"
+    },
+    {
+     "label": "Báo cáo của Ban Điều hành",
+     "value": "280"
+    },
+    {
+     "label": "Báo cáo kiểm toán độc lập",
+     "value": "281"
+    },
+    {
+     "label": "Báo cáo tình hình tài chính hợp nhất",
+     "value": "282"
+    },
+    {
+     "label": "Báo cáo kết quả hoạt động hợp nhất",
+     "value": "286"
+    },
+    {
+     "label": "Báo cáo lưu chuyển tiền tệ hợp nhất",
+     "value": "288"
+    },
+    {
+     "label": "Thuyết minh báo cáo tài chính hợp nhất",
+     "value": "291"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    126.3,
+    863.1,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p277_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3271,
+  "output": 277
+ },
+ "seconds": 3.0
+}

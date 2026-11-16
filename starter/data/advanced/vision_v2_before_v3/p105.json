@@ -1,0 +1,78 @@
+{
+ "printed_page": 105,
+ "pdf_page": 53,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "line_chart",
+   "title": "Tăng trưởng giá trị cổ phiếu các ngân hàng và VNINDEX giai đoạn 2023-2026",
+   "bbox": [
+    200,
+    200,
+    800,
+    900
+   ],
+   "description": "Biểu đồ đường thể hiện mức tăng trưởng phần trăm giá trị cổ phiếu của các ngân hàng MBB, STB, ACB, BID, CTG, VCB, VPB, HDB, TCB và chỉ số VNINDEX từ năm 2023 đến 2026. Trục tung là phần trăm tăng trưởng từ -150% đến 1050%. Trục hoành là các năm 2023, 2024, 2025, 2026. Mỗi đường có màu sắc khác nhau và nhãn cuối đường thể hiện phần trăm tăng trưởng cụ thể năm 2026.",
+   "data": [
+    {
+     "label": "MBB",
+     "value": "+910,13%"
+    },
+    {
+     "label": "STB",
+     "value": "+668,79%"
+    },
+    {
+     "label": "ACB",
+     "value": "+566,24%"
+    },
+    {
+     "label": "BID",
+     "value": "+431,86%"
+    },
+    {
+     "label": "CTG",
+     "value": "+416,46%"
+    },
+    {
+     "label": "VCB",
+     "value": "+300,02%"
+    },
+    {
+     "label": "VPB",
+     "value": "+266,57%"
+    },
+    {
+     "label": "HDB",
+     "value": "+251,27%"
+    },
+    {
+     "label": "VNINDEX",
+     "value": "+174,41%"
+    },
+    {
+     "label": "TCB",
+     "value": "+103,13%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    714.3,
+    168.4,
+    1071.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p105_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3668,
+  "output": 302
+ },
+ "seconds": 2.7
+}

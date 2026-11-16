@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "run_at": "2026-11-16T11:14:30+00:00",
+    "split": "dev",
+    "tag": "bm25-k5-ar2",
+    "model": "gpt-4.1-mini",
+    "retriever": "bm25",
+    "top_k": 5,
+    "max_searches": 5,
+    "budget_chars": 12000,
+    "neighbors": false,
+    "prompt": "ar2",
+    "warmup_seconds": 0.8,
+    "rerun_errors": []
+  },
+  "summary": {
+    "draft_pass": "14/21",
+    "by_group": {
+      "bang": "3/4",
+      "anh_so_do": "3/3",
+      "bieu_do": "3/4",
+      "multi_hop": "0/3",
+      "text": "2/3",
+      "thieu_bang_chung": "3/4"
+    },
+    "errors": [],
+    "searches": {
+      "1": 17,
+      "2": 4
+    },
+    "median_ms": 4004.6,
+    "mean_context_chars": 4148.3,
+    "cost_usd": {
+      "agent": 0.0522,
+      "rerank": 0.0,
+      "total": 0.0522
+    }
+  }
+}

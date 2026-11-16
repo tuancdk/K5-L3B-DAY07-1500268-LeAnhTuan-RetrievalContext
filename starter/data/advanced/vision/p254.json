@@ -1,0 +1,45 @@
+{
+ "printed_page": 254,
+ "pdf_page": 128,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Áp dụng các nguyên tắc và thông lệ quản trị công ty tiên tiến",
+   "bbox": [
+    20,
+    20,
+    980,
+    980
+   ],
+   "description": "Sơ đồ thể hiện 2 nhóm tiêu chí trọng tâm trong hệ thống Quản trị Công ty của MB theo Thẻ điểm Quản trị Công ty ASEAN: 'Quyền của cổ đông' và 'Tính bền vững và khả năng phục hồi'. Mỗi nhóm tiêu chí được mô tả chi tiết trong các khối văn bản bên cạnh.",
+   "data": [
+    {
+     "label": "Quyền của cổ đông",
+     "value": "MB tuân thủ nguyên tắc bảo đảm quyền và lợi ích hợp pháp của cổ đông qua hệ thống quy định trong Điều lệ Ngân hàng và các văn bản quản trị liên quan. Cổ đông được tiếp cận kịp thời, đầy đủ các quyền cơ bản như quyền tham dự và biểu quyết tại ĐHĐCĐ, quyền tiếp nhận thông tin minh bạch, quyền giám sát giao dịch người nội bộ và giao dịch liên quan đến thành viên HĐQT, Ban Điều hành. MB chú trọng bảo vệ quyền lợi cổ đông thiểu số qua công bố rõ ràng các giao dịch bên liên quan và thông tin quản trị quan trọng."
+    },
+    {
+     "label": "Tính bền vững và khả năng phục hồi",
+     "value": "MB duy trì công bố đầy đủ các nội dung liên quan đến phát triển bền vững và khả năng phục hồi trong Báo cáo tích hợp hàng năm, có chương riêng cho Báo cáo Phát triển bền vững (PTBV). Thông tin được cập nhật, lưu trữ và công bố trên website, phản ánh định hướng chiến lược PTBV, cấu trúc bộ máy quản trị và cơ chế vận hành gắn với mục tiêu phát triển bền vững. MB chủ động thúc đẩy quản trị rủi ro ESG, nhận diện rủi ro và cơ hội liên quan đến PTBV, đặc biệt trong bối cảnh chuyển đổi khí hậu và tài chính xanh. Kết quả đánh giá tích hợp vào hệ thống giám sát và khung quản trị, nâng cao chất lượng quản trị rủi ro, tuân thủ thông lệ quản trị tốt và tăng cường hiệu lực kiểm soát nội bộ."
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    16.8,
+    583.4,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p254_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4024,
+  "output": 480
+ },
+ "seconds": 4.4
+}

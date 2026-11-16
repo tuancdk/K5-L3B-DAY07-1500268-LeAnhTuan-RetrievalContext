@@ -1,0 +1,53 @@
+{
+ "printed_page": 35,
+ "pdf_page": 18,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Mục tiêu chiến lược giai đoạn 2022-2026",
+   "bbox": [
+    50,
+    100,
+    950,
+    900
+   ],
+   "description": "Infographic trình bày mục tiêu chiến lược của MB giai đoạn 2022-2026 với các chỉ tiêu chính và các yếu tố chiến lược. Bao gồm số lượng khách hàng mục tiêu 40 triệu, lợi nhuận trước thuế tăng trưởng bình quân 23% với hiệu quả hoạt động ROE đạt khoảng 20-23%, doanh thu kênh số chiếm 50% doanh thu tạo ra từ các nền tảng số. Chiến lược tập trung vào trải nghiệm khách hàng, sáng tạo giá trị mới, tăng tốc an toàn, hấp dẫn khách hàng và hiệp lực tập đoàn.",
+   "data": [
+    {
+     "label": "Số lượng khách hàng",
+     "value": "40 triệu"
+    },
+    {
+     "label": "Lợi nhuận trước thuế tăng trưởng bình quân",
+     "value": "23%"
+    },
+    {
+     "label": "Hiệu quả hoạt động ROE",
+     "value": "~20 – 23%"
+    },
+    {
+     "label": "Doanh thu kênh số",
+     "value": "50% được tạo ra từ các nền tảng số"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p035_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3494,
+  "output": 249
+ },
+ "seconds": 3.1
+}

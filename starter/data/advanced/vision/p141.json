@@ -1,0 +1,53 @@
+{
+ "printed_page": 141,
+ "pdf_page": 71,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Chiến lược Phát triển bền vững của MB",
+   "bbox": [
+    50,
+    250,
+    950,
+    850
+   ],
+   "description": "Mô hình chiến lược phát triển bền vững của MB với trung tâm là mục tiêu 'Hướng tới NET ZERO - Nền tảng Số hóa'. Bao quanh là 4 trụ cột chính: Quản trị, Khách hàng, Môi trường, Xã hội. Mỗi trụ cột có các chủ đề trọng yếu và biểu tượng liên quan. Các trụ cột kết nối với nhau qua các yếu tố: Quản trị dữ liệu, An ninh mạng, Chuyển đổi số.",
+   "data": [
+    {
+     "label": "Trụ cột Quản trị",
+     "value": "Củng cố nền tảng quản trị vững mạnh, tiên tiến, bền vững và hội nhập theo xu hướng toàn cầu; Tuân thủ quy định; Đạo đức kinh doanh"
+    },
+    {
+     "label": "Trụ cột Khách hàng",
+     "value": "Tích cực đồng hành cùng khách hàng trong hành trình chuyển đổi ESG thông qua hoạt động tài trợ có trách nhiệm và trải nghiệm tài chính vượt trội; Tài chính xanh; Trải nghiệm khách hàng; Tài chính toàn diện"
+    },
+    {
+     "label": "Trụ cột Môi trường",
+     "value": "Chủ động tích cực giảm phát thải trong vận hành và trong danh mục, tăng cường quản lý rủi ro khí hậu; Giảm phát thải; Quản lý rủi ro liên quan đến khí hậu"
+    },
+    {
+     "label": "Trụ cột Xã hội",
+     "value": "Đẩy mạnh đào tạo, nâng cao kỹ năng đội ngũ nhân sự, tăng cường cam kết trách nhiệm xã hội và đóng góp cho cộng đồng; Giáo dục & Đào tạo; Đóng góp cho cộng đồng địa phương"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    210.5,
+    1160.8,
+    715.6
+   ],
+   "crop": "starter/data/advanced/crops/p141_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3880,
+  "output": 389
+ },
+ "seconds": 3.6
+}

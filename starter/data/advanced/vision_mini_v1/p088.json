@@ -1,0 +1,177 @@
+{
+ "printed_page": 88,
+ "pdf_page": 45,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Tổng Tài sản (nghìn tỷ đồng)",
+   "bbox": [
+    600,
+    300,
+    900,
+    700
+   ],
+   "description": "Biểu đồ cột thể hiện tổng tài sản của MB trong các năm 2023, 2024, 2025 với các thành phần: Cho vay khách hàng, Trái phiếu doanh nghiệp, Trái phiếu chính phủ, Khác. Đơn vị nghìn tỷ đồng. Tổng tài sản tăng từ 945 năm 2023 lên 1.129 năm 2024 và 1.616 năm 2025, tăng trưởng 31% giai đoạn ba năm. Tỷ trọng cho vay khách hàng tăng từ 63% năm 2023 lên 66% năm 2025. Tỷ trọng trái phiếu doanh nghiệp giảm từ 6% xuống 4%. Tỷ trọng trái phiếu chính phủ giảm từ 4% xuống 2%. Tỷ trọng khác tăng từ 26% lên 28%.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "945"
+    },
+    {
+     "label": "Cho vay khách hàng 63%",
+     "value": "-"
+    },
+    {
+     "label": "Trái phiếu doanh nghiệp 6%",
+     "value": "-"
+    },
+    {
+     "label": "Trái phiếu chính phủ 4%",
+     "value": "-"
+    },
+    {
+     "label": "Khác 26%",
+     "value": "-"
+    },
+    {
+     "label": "2024",
+     "value": "1.129"
+    },
+    {
+     "label": "Cho vay khách hàng 68%",
+     "value": "-"
+    },
+    {
+     "label": "Trái phiếu doanh nghiệp 6%",
+     "value": "-"
+    },
+    {
+     "label": "Trái phiếu chính phủ 3%",
+     "value": "-"
+    },
+    {
+     "label": "Khác 23%",
+     "value": "-"
+    },
+    {
+     "label": "2025",
+     "value": "1.616"
+    },
+    {
+     "label": "Cho vay khách hàng 66%",
+     "value": "-"
+    },
+    {
+     "label": "Trái phiếu doanh nghiệp 4%",
+     "value": "-"
+    },
+    {
+     "label": "Trái phiếu chính phủ 2%",
+     "value": "-"
+    },
+    {
+     "label": "Khác 28%",
+     "value": "-"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    252.6,
+    535.7,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p088_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Nguồn vốn (nghìn tỷ đồng)",
+   "bbox": [
+    600,
+    720,
+    900,
+    1000
+   ],
+   "description": "Biểu đồ cột thể hiện nguồn vốn của MB trong các năm 2023, 2024, 2025 với các thành phần: Huy động khách hàng, Giấy tờ có giá, Huy động từ các tổ chức, Khác. Đơn vị nghìn tỷ đồng. Tổng nguồn vốn tăng từ 848 năm 2023 lên 1.012 năm 2024 và 1.474 năm 2025, tăng trưởng 32% giai đoạn ba năm. Tỷ trọng huy động khách hàng giảm từ 67% năm 2023 xuống 62% năm 2025. Tỷ trọng giấy tờ có giá tăng từ 15% lên 13%. Tỷ trọng huy động từ các tổ chức tăng từ 12% lên 17%. Tỷ trọng khác tăng từ 6% lên 8%.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "848"
+    },
+    {
+     "label": "Huy động khách hàng 67%",
+     "value": "-"
+    },
+    {
+     "label": "Giấy tờ có giá 15%",
+     "value": "-"
+    },
+    {
+     "label": "Huy động từ các tổ chức 12%",
+     "value": "-"
+    },
+    {
+     "label": "Khác 6%",
+     "value": "-"
+    },
+    {
+     "label": "2024",
+     "value": "1.012"
+    },
+    {
+     "label": "Huy động khách hàng 71%",
+     "value": "-"
+    },
+    {
+     "label": "Giấy tờ có giá 13%",
+     "value": "-"
+    },
+    {
+     "label": "Huy động từ các tổ chức 11%",
+     "value": "-"
+    },
+    {
+     "label": "Khác 6%",
+     "value": "-"
+    },
+    {
+     "label": "2025",
+     "value": "1.474"
+    },
+    {
+     "label": "Huy động khách hàng 62%",
+     "value": "-"
+    },
+    {
+     "label": "Giấy tờ có giá 13%",
+     "value": "-"
+    },
+    {
+     "label": "Huy động từ các tổ chức 17%",
+     "value": "-"
+    },
+    {
+     "label": "Khác 8%",
+     "value": "-"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    606.2,
+    535.7,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p088_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3930,
+  "output": 846
+ },
+ "seconds": 6.2
+}

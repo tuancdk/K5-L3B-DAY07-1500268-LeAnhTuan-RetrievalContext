@@ -1,0 +1,53 @@
+{
+ "printed_page": 51,
+ "pdf_page": 26,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Định hướng phát triển và cải tiến trong quản lý rủi ro mô hình",
+   "bbox": [
+    100,
+    150,
+    900,
+    450
+   ],
+   "description": "Sơ đồ hình tròn trung tâm với tiêu đề chính và bốn hướng phát triển xung quanh gồm: Tăng cường ứng dụng phân tích dữ liệu và học máy có kiểm soát nhằm nâng cao độ chính xác của mô hình; Hoàn thiện khung quản trị mô hình theo thông lệ quốc tế tiên tiến; Tích hợp quản lý rủi ro mô hình vào chiến lược chuyển đổi số toàn diện, bảo đảm cân bằng giữa tăng trưởng, an toàn và tuân thủ; Phát triển năng lực giám sát hiệu năng theo thời gian gần thực.",
+   "data": [
+    {
+     "label": "Tăng cường ứng dụng phân tích dữ liệu và học máy có kiểm soát nhằm nâng cao độ chính xác của mô hình",
+     "value": ""
+    },
+    {
+     "label": "Hoàn thiện khung quản trị mô hình theo thông lệ quốc tế tiên tiến",
+     "value": ""
+    },
+    {
+     "label": "Tích hợp quản lý rủi ro mô hình vào chiến lược chuyển đổi số toàn diện, bảo đảm cân bằng giữa tăng trưởng, an toàn và tuân thủ",
+     "value": ""
+    },
+    {
+     "label": "Phát triển năng lực giám sát hiệu năng theo thời gian gần thực",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    126.3,
+    1131.0,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p051_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4259,
+  "output": 285
+ },
+ "seconds": 2.9
+}

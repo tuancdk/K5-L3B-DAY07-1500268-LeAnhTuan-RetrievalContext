@@ -1,0 +1,109 @@
+{
+ "printed_page": 66,
+ "pdf_page": 34,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Liên ngân hàng",
+   "bbox": [
+    600,
+    120,
+    900,
+    350
+   ],
+   "description": "Biểu đồ cột thể hiện số liệu nhận tiền gửi và vay liên ngân hàng (màu tím nhạt) và gửi và cho vay liên ngân hàng (màu xanh đậm) trong các năm 2023, 2024, 2025. Đơn vị tính không ghi rõ, có thể là tỷ đồng. Năm 2023: Nhận tiền gửi và vay liên ngân hàng 99.810, Gửi và cho vay liên ngân hàng 46.343. Năm 2024: Nhận tiền gửi và vay liên ngân hàng 110.169, Gửi và cho vay liên ngân hàng 76.785. Năm 2025: Nhận tiền gửi và vay liên ngân hàng 248.017, Gửi và cho vay liên ngân hàng 182.924.",
+   "data": [
+    {
+     "label": "2023 - Nhận tiền gửi và vay liên ngân hàng",
+     "value": "99.810"
+    },
+    {
+     "label": "2023 - Gửi và cho vay liên ngân hàng",
+     "value": "46.343"
+    },
+    {
+     "label": "2024 - Nhận tiền gửi và vay liên ngân hàng",
+     "value": "110.169"
+    },
+    {
+     "label": "2024 - Gửi và cho vay liên ngân hàng",
+     "value": "76.785"
+    },
+    {
+     "label": "2025 - Nhận tiền gửi và vay liên ngân hàng",
+     "value": "248.017"
+    },
+    {
+     "label": "2025 - Gửi và cho vay liên ngân hàng",
+     "value": "182.924"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    101.0,
+    535.7,
+    294.7
+   ],
+   "crop": "starter/data/advanced/crops/p066_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Các thành tựu, đặc điểm nổi bật của khối trong năm báo cáo",
+   "bbox": [
+    50,
+    370,
+    950,
+    900
+   ],
+   "description": "Các điểm nổi bật của Khối Nguồn vốn và kinh doanh tiền tệ năm 2025 gồm: Tận dụng cơ hội thị trường với hoạt động kinh doanh trái phiếu tăng trưởng mạnh, dẫn đầu thị trường về doanh số giao dịch Trái phiếu Chính phủ và Trái phiếu tổ chức tín dụng. MB Treasury nhận giải thưởng Best FX Bank in Vietnam - Ngân hàng Ngoại hối tốt nhất Việt Nam. Giữ vững xếp hạng tín nhiệm BB với triển vọng ổn định của Fitch và Ba3 với triển vọng ổn định của Moody’s. Số dư huy động vốn ngoại tệ đạt 47.889,9 tỷ đồng, tăng 6,4 lần so với cuối năm 2024. Huy động 500 triệu USD từ khoản vay hợp vốn xanh quốc tế, quy mô đăng ký vượt hơn 200% dự kiến. Mục tiêu năm 2026 gồm tận dụng cơ hội thị trường, nâng cao tỷ suất sinh lời, nâng cao quản lý nguồn và thanh khoản theo chuẩn quốc tế, huy động vốn ngoại tệ phục vụ tăng trưởng tín dụng, xây dựng uy tín tín dụng duy trì xếp hạng cao với Moody’s và S&P.",
+   "data": [
+    {
+     "label": "Giải thưởng",
+     "value": "Best FX Bank in Vietnam - Ngân hàng Ngoại hối tốt nhất Việt Nam"
+    },
+    {
+     "label": "Xếp hạng Fitch",
+     "value": "BB với triển vọng ổn định, VR bb- duy trì"
+    },
+    {
+     "label": "Xếp hạng Moody’s",
+     "value": "Ba3 với triển vọng ổn định"
+    },
+    {
+     "label": "Số dư huy động vốn ngoại tệ cuối 2025",
+     "value": "47.889,9 tỷ đồng"
+    },
+    {
+     "label": "Tăng trưởng so với cuối 2024",
+     "value": "6,4 lần"
+    },
+    {
+     "label": "Huy động vốn xanh quốc tế",
+     "value": "500 triệu USD"
+    },
+    {
+     "label": "Quy mô đăng ký tham gia",
+     "value": "vượt hơn 200% dự kiến"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    311.5,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p066_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4095,
+  "output": 770
+ },
+ "seconds": 6.3
+}

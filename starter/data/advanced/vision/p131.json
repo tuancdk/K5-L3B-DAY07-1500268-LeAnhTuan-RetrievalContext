@@ -1,0 +1,49 @@
+{
+ "printed_page": 131,
+ "pdf_page": 66,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Các chỉ số nổi bật về nhân sự và an sinh xã hội của MB",
+   "bbox": [
+    0,
+    0,
+    300,
+    400
+   ],
+   "description": "Ba chỉ số nổi bật được trình bày bằng biểu tượng và số liệu lớn: Đội ngũ có 61% là nữ giới; MB triển khai 137 chương trình an sinh xã hội; App Thiện nguyện với 3,7 triệu lượt ủng hộ.",
+   "data": [
+    {
+     "label": "Đội ngũ có là nữ giới",
+     "value": "61%"
+    },
+    {
+     "label": "MB triển khai chương trình an sinh xã hội",
+     "value": "137"
+    },
+    {
+     "label": "App Thiện nguyện với triệu lượt ủng hộ",
+     "value": "3,7"
+    }
+   ],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    773.9,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p131_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3892,
+  "output": 156
+ },
+ "seconds": 3.0
+}

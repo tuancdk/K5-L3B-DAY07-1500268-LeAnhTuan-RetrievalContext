@@ -1,0 +1,49 @@
+{
+ "printed_page": 168,
+ "pdf_page": 85,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Khách hàng là trung tâm",
+   "bbox": [
+    50,
+    50,
+    950,
+    950
+   ],
+   "description": "Sơ đồ trung tâm thể hiện cam kết của MB với nội dung 'Tạo tác động tích cực thông qua các sản phẩm xanh, bền vững' ở vòng tròn trung tâm màu xanh đậm. Ba vòng tròn nhỏ xung quanh thể hiện các cam kết chính: 1) An toàn – bảo mật trong môi trường số: Không ngừng đổi mới và chuyển đổi số nhằm đơn giản hóa quy trình, nâng cao hiệu quả phục vụ, đảm bảo an toàn – bảo mật trong môi trường số và tăng cường tiếp cận tài chính, dịch vụ ngân hàng cho khách hàng. 2) Trải nghiệm xuất sắc: Cam kết mang lại trải nghiệm xuất sắc cho khách hàng, nâng cao chất lượng sản phẩm – dịch vụ, đảm bảo minh bạch, an toàn và ứng dụng mạnh mẽ công nghệ số. 3) Sản phẩm tài chính bền vững: Mở rộng tín dụng xanh, sản phẩm tài chính bền vững tài trợ thân thiện môi trường góp phần hỗ trợ doanh nghiệp và cộng đồng trong quá trình chuyển đổi xanh.",
+   "data": [
+    {
+     "label": "An toàn – bảo mật trong môi trường số",
+     "value": "Không ngừng đổi mới và chuyển đổi số nhằm đơn giản hóa quy trình, nâng cao hiệu quả phục vụ, đảm bảo an toàn – bảo mật trong môi trường số và tăng cường tiếp cận tài chính, dịch vụ ngân hàng cho khách hàng"
+    },
+    {
+     "label": "Trải nghiệm xuất sắc",
+     "value": "Cam kết mang lại trải nghiệm xuất sắc cho khách hàng, nâng cao chất lượng sản phẩm – dịch vụ, đảm bảo minh bạch, an toàn và ứng dụng mạnh mẽ công nghệ số."
+    },
+    {
+     "label": "Sản phẩm tài chính bền vững",
+     "value": "Mở rộng tín dụng xanh, sản phẩm tài chính bền vững tài trợ thân thiện môi trường góp phần hỗ trợ doanh nghiệp và cộng đồng trong quá trình chuyển đổi xanh."
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    565.5,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p168_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3452,
+  "output": 427
+ },
+ "seconds": 3.9
+}

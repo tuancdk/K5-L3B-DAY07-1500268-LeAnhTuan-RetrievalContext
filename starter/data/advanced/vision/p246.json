@@ -1,0 +1,297 @@
+{
+ "printed_page": 246,
+ "pdf_page": 124,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Danh sách cổ đông nội bộ và người liên quan tại MB năm 2025",
+   "bbox": [
+    50,
+    50,
+    950,
+    900
+   ],
+   "description": "Bảng liệt kê cổ đông nội bộ và người liên quan, gồm các cột: STT, Họ và tên, Chức vụ tại MB/Quan hệ với người nội bộ, Số lượng cổ phiếu đầu kỳ (31/12/2024), Tỷ lệ/VĐL (%), Số lượng cổ phiếu cuối kỳ (31/12/2025), Tỷ lệ/VĐL (%), Lý do tăng/giảm (mua, bán, chuyển đổi, trả cổ tức, thưởng, …). Dữ liệu thể hiện số lượng cổ phiếu và tỷ lệ vốn điều lệ của từng cá nhân/tổ chức, cùng lý do thay đổi cổ phiếu trong kỳ.",
+   "data": [
+    {
+     "label": "Công ty TNHH Một thành viên Tổng Công ty Tân Cảng Sài Gòn - Số lượng cổ phiếu đầu kỳ",
+     "value": "375.973.254"
+    },
+    {
+     "label": "Công ty TNHH Một thành viên Tổng Công ty Tân Cảng Sài Gòn - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "7,09"
+    },
+    {
+     "label": "Công ty TNHH Một thành viên Tổng Công ty Tân Cảng Sài Gòn - Số lượng cổ phiếu cuối kỳ",
+     "value": "570.727.399"
+    },
+    {
+     "label": "Công ty TNHH Một thành viên Tổng Công ty Tân Cảng Sài Gòn - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "7,09"
+    },
+    {
+     "label": "Công ty TNHH Một thành viên Tổng Công ty Tân Cảng Sài Gòn - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Vũ Thái Huyền - Số lượng cổ phiếu đầu kỳ",
+     "value": "532.210"
+    },
+    {
+     "label": "Vũ Thái Huyền - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,01"
+    },
+    {
+     "label": "Vũ Thái Huyền - Số lượng cổ phiếu cuối kỳ",
+     "value": "807.894"
+    },
+    {
+     "label": "Vũ Thái Huyền - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,01"
+    },
+    {
+     "label": "Vũ Thái Huyền - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Phạm Việt Quân - Số lượng cổ phiếu đầu kỳ",
+     "value": "0"
+    },
+    {
+     "label": "Phạm Việt Quân - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Phạm Việt Quân - Số lượng cổ phiếu cuối kỳ",
+     "value": "9.500"
+    },
+    {
+     "label": "Phạm Việt Quân - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Phạm Việt Quân - Lý do tăng/giảm",
+     "value": "Giao dịch cổ phiếu"
+    },
+    {
+     "label": "Đào Thu Trang - Số lượng cổ phiếu đầu kỳ",
+     "value": "15.176"
+    },
+    {
+     "label": "Đào Thu Trang - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Đào Thu Trang - Số lượng cổ phiếu cuối kỳ",
+     "value": "14.375"
+    },
+    {
+     "label": "Đào Thu Trang - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Đào Thu Trang - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu; Giao dịch cổ phiếu"
+    },
+    {
+     "label": "Tổng công ty đầu tư và kinh doanh vốn Nhà nước- Công ty TNHH (SCIC) - Số lượng cổ phiếu đầu kỳ",
+     "value": "521.425.325"
+    },
+    {
+     "label": "Tổng công ty đầu tư và kinh doanh vốn Nhà nước- Công ty TNHH (SCIC) - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "9,83"
+    },
+    {
+     "label": "Tổng công ty đầu tư và kinh doanh vốn Nhà nước- Công ty TNHH (SCIC) - Số lượng cổ phiếu cuối kỳ",
+     "value": "791.523.642"
+    },
+    {
+     "label": "Tổng công ty đầu tư và kinh doanh vốn Nhà nước- Công ty TNHH (SCIC) - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "9,83"
+    },
+    {
+     "label": "Tổng công ty đầu tư và kinh doanh vốn Nhà nước- Công ty TNHH (SCIC) - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Tổng công ty trực thăng Việt Nam- Công ty TNHH - Số lượng cổ phiếu đầu kỳ",
+     "value": "427.159.650"
+    },
+    {
+     "label": "Tổng công ty trực thăng Việt Nam- Công ty TNHH - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "8,05"
+    },
+    {
+     "label": "Tổng công ty trực thăng Việt Nam- Công ty TNHH - Số lượng cổ phiếu cuối kỳ",
+     "value": "648.428.348"
+    },
+    {
+     "label": "Tổng công ty trực thăng Việt Nam- Công ty TNHH - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "8,05"
+    },
+    {
+     "label": "Tổng công ty trực thăng Việt Nam- Công ty TNHH - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Chi nhánh Tổng công ty Trực thăng Việt nam-Công ty TNHH-Cty Trực thăng Miền Nam - Số lượng cổ phiếu đầu kỳ",
+     "value": "20.188.769"
+    },
+    {
+     "label": "Chi nhánh Tổng công ty Trực thăng Việt nam-Công ty TNHH-Cty Trực thăng Miền Nam - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,38"
+    },
+    {
+     "label": "Chi nhánh Tổng công ty Trực thăng Việt nam-Công ty TNHH-Cty Trực thăng Miền Nam - Số lượng cổ phiếu cuối kỳ",
+     "value": "30.646.550"
+    },
+    {
+     "label": "Chi nhánh Tổng công ty Trực thăng Việt nam-Công ty TNHH-Cty Trực thăng Miền Nam - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,38"
+    },
+    {
+     "label": "Chi nhánh Tổng công ty Trực thăng Việt nam-Công ty TNHH-Cty Trực thăng Miền Nam - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Nguyễn Lan Thái - Số lượng cổ phiếu đầu kỳ",
+     "value": "1"
+    },
+    {
+     "label": "Nguyễn Lan Thái - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Nguyễn Lan Thái - Số lượng cổ phiếu cuối kỳ",
+     "value": "1"
+    },
+    {
+     "label": "Nguyễn Lan Thái - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Nguyễn Lan Thái - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Lê Thị Lợi - Số lượng cổ phiếu đầu kỳ",
+     "value": "2.930.517"
+    },
+    {
+     "label": "Lê Thị Lợi - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,06"
+    },
+    {
+     "label": "Lê Thị Lợi - Số lượng cổ phiếu cuối kỳ",
+     "value": "4.448.524"
+    },
+    {
+     "label": "Lê Thị Lợi - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,06"
+    },
+    {
+     "label": "Lê Thị Lợi - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu"
+    },
+    {
+     "label": "Hoàng Hà My - Số lượng cổ phiếu đầu kỳ",
+     "value": "2.000"
+    },
+    {
+     "label": "Hoàng Hà My - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Hoàng Hà My - Số lượng cổ phiếu cuối kỳ",
+     "value": "6.000"
+    },
+    {
+     "label": "Hoàng Hà My - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Hoàng Hà My - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu; Giao dịch cổ phiếu"
+    },
+    {
+     "label": "Hoàng Lê Minh - Số lượng cổ phiếu đầu kỳ",
+     "value": "2.500"
+    },
+    {
+     "label": "Hoàng Lê Minh - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Hoàng Lê Minh - Số lượng cổ phiếu cuối kỳ",
+     "value": "2.323"
+    },
+    {
+     "label": "Hoàng Lê Minh - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Hoàng Lê Minh - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu; Giao dịch cổ phiếu"
+    },
+    {
+     "label": "Lê Xuân Toàn - Số lượng cổ phiếu đầu kỳ",
+     "value": "0"
+    },
+    {
+     "label": "Lê Xuân Toàn - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Lê Xuân Toàn - Số lượng cổ phiếu cuối kỳ",
+     "value": "1.000"
+    },
+    {
+     "label": "Lê Xuân Toàn - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Lê Xuân Toàn - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu; Giao dịch cổ phiếu"
+    },
+    {
+     "label": "Lê Xuân Linh - Số lượng cổ phiếu đầu kỳ",
+     "value": "9.802"
+    },
+    {
+     "label": "Lê Xuân Linh - Tỷ lệ/VĐL đầu kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Lê Xuân Linh - Số lượng cổ phiếu cuối kỳ",
+     "value": "2"
+    },
+    {
+     "label": "Lê Xuân Linh - Tỷ lệ/VĐL cuối kỳ (%)",
+     "value": "0,00"
+    },
+    {
+     "label": "Lê Xuân Linh - Lý do tăng/giảm",
+     "value": "Nhận cổ tức bằng cổ phiếu; Giao dịch cổ phiếu"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p246_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4075,
+  "output": 2124
+ },
+ "seconds": 14.9
+}

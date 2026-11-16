@@ -1,0 +1,93 @@
+{
+ "printed_page": 92,
+ "pdf_page": 47,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "pie_chart",
+   "title": "Cơ cấu doanh thu phí",
+   "bbox": [
+    50,
+    50,
+    550,
+    450
+   ],
+   "description": "Biểu đồ tròn thể hiện cơ cấu doanh thu phí của MB theo các loại hình dịch vụ. Các phần trăm tương ứng với từng loại: Bảo hiểm 52%, Thanh toán và ngân quỹ 25%, Khác 10%, Dịch vụ tư vấn 6%, Môi giới chứng khoán 5%, Thu từ xử lý nợ 2%.",
+   "data": [
+    {
+     "label": "Bảo hiểm",
+     "value": "52%"
+    },
+    {
+     "label": "Thanh toán và ngân quỹ",
+     "value": "25%"
+    },
+    {
+     "label": "Khác",
+     "value": "10%"
+    },
+    {
+     "label": "Dịch vụ tư vấn",
+     "value": "6%"
+    },
+    {
+     "label": "Môi giới chứng khoán",
+     "value": "5%"
+    },
+    {
+     "label": "Thu từ xử lý nợ",
+     "value": "2%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    42.1,
+    327.4,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p092_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Lợi nhuận trước thuế (nghìn tỷ đồng)",
+   "bbox": [
+    550,
+    450,
+    950,
+    950
+   ],
+   "description": "Biểu đồ cột thể hiện lợi nhuận trước thuế của MB trong các năm 2023, 2024 và 2025. Giá trị lần lượt là 26,3 nghìn tỷ đồng năm 2023, 28,8 nghìn tỷ đồng năm 2024 và 34,3 nghìn tỷ đồng năm 2025. Tốc độ tăng trưởng bình quân (CAGR) giai đoạn ba năm là 14%. Năm 2025 lợi nhuận tăng trưởng 19%, vượt kế hoạch 10%.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "26,3"
+    },
+    {
+     "label": "2024",
+     "value": "28,8"
+    },
+    {
+     "label": "2025",
+     "value": "34,3"
+    }
+   ],
+   "bbox_pdf_pt": [
+    327.4,
+    378.9,
+    565.5,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p092_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3508,
+  "output": 376
+ },
+ "seconds": 3.3
+}

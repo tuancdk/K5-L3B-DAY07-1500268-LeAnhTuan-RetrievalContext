@@ -1,0 +1,60 @@
+{
+ "printed_page": 191,
+ "pdf_page": 96,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Số lượng nhân sự được tuyển mới trong năm 2025",
+   "bbox": [
+    20,
+    20,
+    200,
+    150
+   ],
+   "description": "Hiển thị số lượng nhân sự được tuyển mới trong năm 2025 của MB, đơn vị tính là CBNV.",
+   "data": [
+    {
+     "label": "Số lượng nhân sự được tuyển mới trong năm 2025",
+     "value": "2.856 CBNV"
+    }
+   ],
+   "bbox_pdf_pt": [
+    607.2,
+    16.8,
+    714.3,
+    126.3
+   ],
+   "crop": "starter/data/advanced/crops/p191_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh nhân sự MB đang xem tài liệu",
+   "bbox": [
+    0,
+    200,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp ba nhân viên MB mặc đồng phục xanh đang cùng xem một tài liệu màu xanh dương, thể hiện môi trường làm việc và phát triển con người tại MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    168.4,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p191_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3302,
+  "output": 166
+ },
+ "seconds": 3.2
+}

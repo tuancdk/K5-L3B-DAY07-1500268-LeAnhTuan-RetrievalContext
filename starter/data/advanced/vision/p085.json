@@ -1,0 +1,241 @@
+{
+ "printed_page": 85,
+ "pdf_page": 43,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Tình hình tài chính của MB trong năm 2025",
+   "bbox": [
+    50,
+    100,
+    950,
+    900
+   ],
+   "description": "Bảng tổng hợp các chỉ tiêu tài chính của MB năm 2025 so sánh với thực hiện năm 2024 và kế hoạch năm 2025. Các chỉ tiêu gồm Tổng Tài sản, Vốn điều lệ, Tổng thu nhập hoạt động, Huy động vốn (bao gồm CCTG), Dư nợ tín dụng (gồm Dư nợ & TPDN & Mua nợ), Lợi nhuận trước thuế, Chi phí thuế thu nhập doanh nghiệp, Lợi nhuận sau thuế, ROE (%), Tỷ lệ nợ xấu (%), Tỷ lệ CAR (%), Tỷ lệ đóng góp CTTV (%). Đơn vị tính là tỷ VND. Có đánh giá % tăng/giảm so với thực hiện 2024 và so với kế hoạch 2025, cùng nhận xét hoàn thành hoặc vượt kế hoạch.",
+   "data": [
+    {
+     "label": "Tổng Tài sản Thực hiện 2024",
+     "value": "1.128.801"
+    },
+    {
+     "label": "Tổng Tài sản Kế hoạch 2025",
+     "value": "Tăng ~20-22%"
+    },
+    {
+     "label": "Tổng Tài sản Thực hiện 2025",
+     "value": "1.615.764"
+    },
+    {
+     "label": "Tổng Tài sản % Tăng/(Giảm) so với thực hiện 2024",
+     "value": "43,1%"
+    },
+    {
+     "label": "Tổng Tài sản Đánh giá so với kế hoạch",
+     "value": "Vượt kế hoạch"
+    },
+    {
+     "label": "Vốn điều lệ Thực hiện 2024",
+     "value": "53.063"
+    },
+    {
+     "label": "Vốn điều lệ Kế hoạch 2025",
+     "value": "81.368"
+    },
+    {
+     "label": "Vốn điều lệ Thực hiện 2025",
+     "value": "80.550"
+    },
+    {
+     "label": "Vốn điều lệ % Tăng/(Giảm) so với thực hiện 2024",
+     "value": "51,8%"
+    },
+    {
+     "label": "Vốn điều lệ Đánh giá so với kế hoạch",
+     "value": "Thực hiện phù hợp theo các phương án được ĐHĐCĐ thông qua"
+    },
+    {
+     "label": "Tổng thu nhập hoạt động Thực hiện 2024",
+     "value": "55.413"
+    },
+    {
+     "label": "Tổng thu nhập hoạt động Kế hoạch 2025",
+     "value": ""
+    },
+    {
+     "label": "Tổng thu nhập hoạt động Thực hiện 2025",
+     "value": "67.693"
+    },
+    {
+     "label": "Tổng thu nhập hoạt động % Tăng/(Giảm) so với thực hiện 2024",
+     "value": "22,2%"
+    },
+    {
+     "label": "Huy động vốn Thực hiện 2024",
+     "value": "805.647"
+    },
+    {
+     "label": "Huy động vốn Kế hoạch 2025",
+     "value": "Tăng trưởng ~21,2%"
+    },
+    {
+     "label": "Huy động vốn Thực hiện 2025",
+     "value": "1.062.198"
+    },
+    {
+     "label": "Huy động vốn % Tăng/(Giảm) so với thực hiện 2024",
+     "value": "31,8%"
+    },
+    {
+     "label": "Huy động vốn Đánh giá so với kế hoạch",
+     "value": "Vượt kế hoạch"
+    },
+    {
+     "label": "Dư nợ tín dụng Thực hiện 2024",
+     "value": "811.142"
+    },
+    {
+     "label": "Dư nợ tín dụng Kế hoạch 2025",
+     "value": "Tăng trưởng ~23,7%"
+    },
+    {
+     "label": "Dư nợ tín dụng Thực hiện 2025",
+     "value": "1.109.895"
+    },
+    {
+     "label": "Dư nợ tín dụng % Tăng/(Giảm) so với thực hiện 2024",
+     "value": "36,8%"
+    },
+    {
+     "label": "Dư nợ tín dụng Đánh giá so với kế hoạch",
+     "value": "Vượt kế hoạch"
+    },
+    {
+     "label": "Lợi nhuận trước thuế Thực hiện 2024",
+     "value": "28.829"
+    },
+    {
+     "label": "Lợi nhuận trước thuế Kế hoạch 2025",
+     "value": "Tăng 10%"
+    },
+    {
+     "label": "Lợi nhuận trước thuế Thực hiện 2025",
+     "value": "34.268"
+    },
+    {
+     "label": "Lợi nhuận trước thuế % Tăng/(Giảm) so với thực hiện 2024",
+     "value": "18,9%"
+    },
+    {
+     "label": "Lợi nhuận trước thuế Đánh giá so với kế hoạch",
+     "value": "Vượt kế hoạch"
+    },
+    {
+     "label": "Chi phí thuế thu nhập doanh nghiệp Thực hiện 2024",
+     "value": "5.878"
+    },
+    {
+     "label": "Chi phí thuế thu nhập doanh nghiệp Kế hoạch 2025",
+     "value": ""
+    },
+    {
+     "label": "Chi phí thuế thu nhập doanh nghiệp Thực hiện 2025",
+     "value": "6.885"
+    },
+    {
+     "label": "Chi phí thuế thu nhập doanh nghiệp % Tăng/(Giảm) so với thực hiện 2024",
+     "value": "17,1%"
+    },
+    {
+     "label": "Lợi nhuận sau thuế Thực hiện 2024",
+     "value": "22.951"
+    },
+    {
+     "label": "Lợi nhuận sau thuế Kế hoạch 2025",
+     "value": ""
+    },
+    {
+     "label": "Lợi nhuận sau thuế Thực hiện 2025",
+     "value": "27.383"
+    },
+    {
+     "label": "Lợi nhuận sau thuế % Tăng/(Giảm) so với thực hiện 2024",
+     "value": "19,3%"
+    },
+    {
+     "label": "ROE (%) Thực hiện 2024",
+     "value": "21,5"
+    },
+    {
+     "label": "ROE (%) Kế hoạch 2025",
+     "value": "20-22"
+    },
+    {
+     "label": "ROE (%) Thực hiện 2025",
+     "value": "21,1"
+    },
+    {
+     "label": "ROE (%) Đánh giá so với kế hoạch",
+     "value": "Hoàn thành kế hoạch"
+    },
+    {
+     "label": "Tỷ lệ nợ xấu (%) Thực hiện 2024",
+     "value": "1,6"
+    },
+    {
+     "label": "Tỷ lệ nợ xấu (%) Kế hoạch 2025",
+     "value": "≤1,7"
+    },
+    {
+     "label": "Tỷ lệ nợ xấu (%) Thực hiện 2025",
+     "value": "1,3"
+    },
+    {
+     "label": "Tỷ lệ nợ xấu (%) Đánh giá so với kế hoạch",
+     "value": "Hoàn thành kế hoạch"
+    },
+    {
+     "label": "Tỷ lệ CAR (%) Thực hiện 2024",
+     "value": "11,8"
+    },
+    {
+     "label": "Tỷ lệ CAR (%) Kế hoạch 2025",
+     "value": "Tối thiểu 9% (tuân thủ Basel II)"
+    },
+    {
+     "label": "Tỷ lệ CAR (%) Thực hiện 2025",
+     "value": "11,0"
+    },
+    {
+     "label": "Tỷ lệ CAR (%) Đánh giá so với kế hoạch",
+     "value": "Hoàn thành kế hoạch"
+    },
+    {
+     "label": "Tỷ lệ đóng góp CTTV (%) Thực hiện 2024",
+     "value": "7,2"
+    },
+    {
+     "label": "Tỷ lệ đóng góp CTTV (%) Kế hoạch 2025",
+     "value": "9,2"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    84.2,
+    1160.8,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p085_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3690,
+  "output": 1418
+ },
+ "seconds": 10.7
+}

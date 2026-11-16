@@ -1,0 +1,36 @@
+{
+ "printed_page": 199,
+ "pdf_page": 100,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa nhân viên MB",
+   "bbox": [
+    0,
+    0,
+    280,
+    1000
+   ],
+   "description": "Ảnh chụp một nhân viên MB mặc áo xanh MB đang cười, đứng ngoài trời với cây xanh phía sau.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    762.0,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p199_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3844,
+  "output": 63
+ },
+ "seconds": 1.8
+}

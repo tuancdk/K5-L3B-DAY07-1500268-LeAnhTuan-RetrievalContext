@@ -1,0 +1,93 @@
+{
+ "printed_page": 97,
+ "pdf_page": 49,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Lịch sử trả cổ tức bằng tiền mặt",
+   "bbox": [
+    50,
+    50,
+    950,
+    600
+   ],
+   "description": "Bảng lịch sử trả cổ tức bằng tiền mặt của MB từ năm 2011 đến 2024, gồm các cột: Năm, Tỷ lệ cổ tức, Hình thức trả cổ tức, Ngày giao dịch không hưởng quyền, Ngày thanh toán. Tất cả cổ tức đều trả bằng tiền mặt. Tỷ lệ cổ tức dao động từ 2% đến 12%.",
+   "data": [
+    {
+     "label": "2011",
+     "value": "12%"
+    },
+    {
+     "label": "2011",
+     "value": "3%"
+    },
+    {
+     "label": "2012",
+     "value": "2%"
+    },
+    {
+     "label": "2012",
+     "value": "10%"
+    },
+    {
+     "label": "2012",
+     "value": "2%"
+    },
+    {
+     "label": "2013",
+     "value": "8%"
+    },
+    {
+     "label": "2014",
+     "value": "7%"
+    },
+    {
+     "label": "2015",
+     "value": "5%"
+    },
+    {
+     "label": "2016",
+     "value": "6%"
+    },
+    {
+     "label": "2017",
+     "value": "6%"
+    },
+    {
+     "label": "2018",
+     "value": "6%"
+    },
+    {
+     "label": "2022",
+     "value": "5%"
+    },
+    {
+     "label": "2023",
+     "value": "5%"
+    },
+    {
+     "label": "2024",
+     "value": "3%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    42.1,
+    1160.8,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p097_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3621,
+  "output": 262
+ },
+ "seconds": 5.0
+}

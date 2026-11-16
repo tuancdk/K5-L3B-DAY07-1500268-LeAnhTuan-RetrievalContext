@@ -1,0 +1,121 @@
+{
+ "printed_page": 107,
+ "pdf_page": 54,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tín dụng (nghìn tỷ)",
+   "bbox": [
+    200,
+    250,
+    800,
+    600
+   ],
+   "description": "Biểu đồ cột thể hiện giá trị tín dụng (nghìn tỷ) của các ngân hàng BID, CTG, VCB, MBB, VPB, TCB, ACB, STB năm 2025, kết hợp với đường thể hiện tỷ lệ svck (%) tương ứng. Đơn vị: nghìn tỷ đồng cho cột tín dụng, % cho đường svck. MBB có giá trị tín dụng 1.110 nghìn tỷ, tỷ lệ svck 37%, đứng thứ 4 về quy mô tín dụng. Các ngân hàng khác có giá trị và tỷ lệ svck như sau: BID 2.377 nghìn tỷ - 15%, CTG 1.995 nghìn tỷ - 16%, VCB 1.681 nghìn tỷ - 15%, VPB 961 nghìn tỷ - 35%, TCB 824 nghìn tỷ - 21%, ACB 689 nghìn tỷ - 19%, STB 636 nghìn tỷ - 18%.",
+   "data": [
+    {
+     "label": "BID",
+     "value": "2.377"
+    },
+    {
+     "label": "CTG",
+     "value": "1.995"
+    },
+    {
+     "label": "VCB",
+     "value": "1.681"
+    },
+    {
+     "label": "MBB",
+     "value": "1.110"
+    },
+    {
+     "label": "VPB",
+     "value": "961"
+    },
+    {
+     "label": "TCB",
+     "value": "824"
+    },
+    {
+     "label": "ACB",
+     "value": "689"
+    },
+    {
+     "label": "STB",
+     "value": "636"
+    }
+   ],
+   "bbox_pdf_pt": [
+    714.3,
+    210.5,
+    1071.5,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p107_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Huy động (nghìn tỷ)",
+   "bbox": [
+    200,
+    650,
+    800,
+    1000
+   ],
+   "description": "Biểu đồ cột thể hiện giá trị huy động (nghìn tỷ) của các ngân hàng BID, CTG, VCB, MBB, TCB, VPB, ACB, STB năm 2025, kết hợp với đường thể hiện tỷ lệ svck (%) tương ứng. Đơn vị: nghìn tỷ đồng cho cột huy động, % cho đường svck. MBB có giá trị huy động 1.109 nghìn tỷ, tỷ lệ svck 31%, đứng thứ 4 về quy mô huy động. Các ngân hàng khác có giá trị và tỷ lệ svck như sau: BID 2.449 nghìn tỷ - 14%, CTG 1.968 nghìn tỷ - 12%, VCB 1.700 nghìn tỷ - 10%, TCB 834 nghìn tỷ - 24%, VPB 735 nghìn tỷ - 33%, ACB 718 nghìn tỷ - 12%, STB 658 nghìn tỷ - 9%.",
+   "data": [
+    {
+     "label": "BID",
+     "value": "2.449"
+    },
+    {
+     "label": "CTG",
+     "value": "1.968"
+    },
+    {
+     "label": "VCB",
+     "value": "1.700"
+    },
+    {
+     "label": "MBB",
+     "value": "1.109"
+    },
+    {
+     "label": "TCB",
+     "value": "834"
+    },
+    {
+     "label": "VPB",
+     "value": "735"
+    },
+    {
+     "label": "ACB",
+     "value": "718"
+    },
+    {
+     "label": "STB",
+     "value": "658"
+    }
+   ],
+   "bbox_pdf_pt": [
+    714.3,
+    547.2,
+    1071.5,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p107_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3792,
+  "output": 658
+ },
+ "seconds": 5.0
+}

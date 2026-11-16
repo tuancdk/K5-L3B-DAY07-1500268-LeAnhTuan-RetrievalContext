@@ -1,0 +1,55 @@
+{
+ "printed_page": 75,
+ "pdf_page": 38,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Bà NGUYỄN THỊ THANH NGA - Giám đốc Tài chính",
+   "bbox": [
+    600,
+    50,
+    980,
+    430
+   ],
+   "description": "Ảnh chân dung bà Nguyễn Thị Thanh Nga, Giám đốc Tài chính MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    952.4,
+    42.1,
+    1178.6,
+    362.0
+   ],
+   "crop": "starter/data/advanced/crops/p075_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Bà ĐẶNG THÚY DUNG - Kế toán trưởng",
+   "bbox": [
+    40,
+    520,
+    420,
+    900
+   ],
+   "description": "Ảnh chân dung bà Đặng Thúy Dung, Kế toán trưởng MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    619.1,
+    437.8,
+    845.3,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p075_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3821,
+  "output": 124
+ },
+ "seconds": 2.0
+}

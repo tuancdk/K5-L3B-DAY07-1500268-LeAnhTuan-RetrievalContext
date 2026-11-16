@@ -1,0 +1,109 @@
+{
+ "printed_page": 4,
+ "pdf_page": 3,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Mục lục",
+   "bbox": [
+    20,
+    40,
+    980,
+    960
+   ],
+   "description": "Mục lục báo cáo thường niên 2025 của Ngân hàng MB, chia thành 4 phần chính với các mục con và số trang tương ứng. Phần 01: Tổng quan về MB năm 2025 gồm Thông tin chung (trang 14), Các con số nổi bật (16), Mô hình quản trị và tổ chức kinh doanh (26), Chiến lược và định hướng phát triển (34), Công tác quản lý rủi ro (40). Phần 02: Tình hình hoạt động của MB năm 2026 gồm Tình hình hoạt động kinh doanh (56), Tổ chức và nhân sự (70), Tình hình đầu tư và thực hiện các dự án (78), Tình hình tài chính của MB năm 2025 (85), Cơ cấu cổ đông và thay đổi vốn đầu tư của chủ sở hữu (94). Phần 03: Báo cáo và đánh giá của Ban Điều hành gồm Tình hình hoạt động kinh doanh (100), Tình hình tài chính (120), Trách nhiệm về môi trường và xã hội (122). Phần 04: Đánh giá của HĐQT về hoạt động của Ngân hàng gồm Tình hình hoạt động của Ngân hàng (126), Hoạt động của Ban Điều hành (132), Kế hoạch và định hướng của HĐQT (134).",
+   "data": [
+    {
+     "label": "Thông điệp của Chủ tịch HĐQT",
+     "value": "8"
+    },
+    {
+     "label": "Thông điệp của Tổng giám đốc",
+     "value": "10"
+    },
+    {
+     "label": "Thông tin chung",
+     "value": "14"
+    },
+    {
+     "label": "Các con số nổi bật",
+     "value": "16"
+    },
+    {
+     "label": "Mô hình quản trị và tổ chức kinh doanh",
+     "value": "26"
+    },
+    {
+     "label": "Chiến lược và định hướng phát triển",
+     "value": "34"
+    },
+    {
+     "label": "Công tác quản lý rủi ro",
+     "value": "40"
+    },
+    {
+     "label": "Tình hình hoạt động kinh doanh (2026)",
+     "value": "56"
+    },
+    {
+     "label": "Tổ chức và nhân sự",
+     "value": "70"
+    },
+    {
+     "label": "Tình hình đầu tư và thực hiện các dự án",
+     "value": "78"
+    },
+    {
+     "label": "Tình hình tài chính của MB năm 2025",
+     "value": "85"
+    },
+    {
+     "label": "Cơ cấu cổ đông và thay đổi vốn đầu tư của chủ sở hữu",
+     "value": "94"
+    },
+    {
+     "label": "Tình hình hoạt động kinh doanh (Ban Điều hành)",
+     "value": "100"
+    },
+    {
+     "label": "Tình hình tài chính (Ban Điều hành)",
+     "value": "120"
+    },
+    {
+     "label": "Trách nhiệm về môi trường và xã hội",
+     "value": "122"
+    },
+    {
+     "label": "Tình hình hoạt động của Ngân hàng",
+     "value": "126"
+    },
+    {
+     "label": "Hoạt động của Ban Điều hành",
+     "value": "132"
+    },
+    {
+     "label": "Kế hoạch và định hướng của HĐQT",
+     "value": "134"
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    33.7,
+    583.4,
+    808.2
+   ],
+   "crop": "starter/data/advanced/crops/p004_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3477,
+  "output": 612
+ },
+ "seconds": 6.6
+}

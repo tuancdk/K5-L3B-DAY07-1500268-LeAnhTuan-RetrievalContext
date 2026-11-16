@@ -1,0 +1,36 @@
+{
+ "printed_page": 198,
+ "pdf_page": 100,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh nhân viên MB mặc đồng phục xanh trò chuyện vui vẻ",
+   "bbox": [
+    0,
+    300,
+    1000,
+    1000
+   ],
+   "description": "Ảnh chụp ba nhân viên MB mặc đồng phục áo polo xanh, quần đen, đang trò chuyện vui vẻ ngoài trời, thể hiện môi trường làm việc thân thiện và gắn kết.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    252.6,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p198_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3574,
+  "output": 85
+ },
+ "seconds": 3.0
+}

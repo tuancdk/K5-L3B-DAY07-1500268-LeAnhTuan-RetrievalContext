@@ -1,0 +1,66 @@
+{
+ "printed_page": 91,
+ "pdf_page": 46,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Tổng thu nhập hoạt động (nghìn tỷ đồng)",
+   "bbox": [
+    390,
+    320,
+    730,
+    540
+   ],
+   "description": "Biểu đồ cột kết hợp thể hiện tổng thu nhập hoạt động và thu nhập phí thuần của ngân hàng MB trong các năm 2023, 2024, 2025. Có hai loại dữ liệu: cột màu xanh đậm là Tổng thu nhập hoạt động, cột màu xanh nhạt là Thu nhập phí thuần. Trục hoành là các năm 2023, 2024, 2025. Trục tung không ghi rõ giá trị nhưng các cột có nhãn số liệu trực tiếp trên đầu cột. Có chú thích '+20%' đặt trên cột năm 2024, nối từ đỉnh cột 2024 lên đỉnh cột 2025. Nguồn: BCTC hợp nhất.",
+   "data": [
+    {
+     "label": "2023 - Tổng thu nhập hoạt động",
+     "value": "47,3"
+    },
+    {
+     "label": "2023 - Thu nhập phí thuần",
+     "value": "4,4"
+    },
+    {
+     "label": "2024 - Tổng thu nhập hoạt động",
+     "value": "55,4"
+    },
+    {
+     "label": "2024 - Thu nhập phí thuần",
+     "value": "4,1"
+    },
+    {
+     "label": "2025 - Tổng thu nhập hoạt động",
+     "value": "67,7"
+    },
+    {
+     "label": "2025 - Thu nhập phí thuần",
+     "value": "6,6"
+    },
+    {
+     "label": "+20% (trên cột 2024, nối lên cột 2025)",
+     "value": "+20%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    827.4,
+    269.4,
+    1029.8,
+    454.6
+   ],
+   "crop": "starter/data/advanced/crops/p091_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 2405,
+  "output": 329
+ },
+ "seconds": 3.9
+}

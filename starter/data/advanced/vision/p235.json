@@ -1,0 +1,117 @@
+{
+ "printed_page": 235,
+ "pdf_page": 118,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Thành viên, cơ cấu và hoạt động của Hội đồng điều phối Tập đoàn (GCC)",
+   "bbox": [
+    40,
+    80,
+    960,
+    460
+   ],
+   "description": "Bảng liệt kê thành viên Hội đồng điều phối Tập đoàn (GCC) năm 2025 với tên và chức vụ cụ thể. Các thành viên gồm Chủ tịch Hội đồng, các thành viên Hội đồng là Tổng Giám đốc, Phó Chủ tịch HĐQT, Thành viên HĐQT, Phó Tổng Giám đốc, Giám đốc Tài chính và đại diện các công ty thành viên MB. Có ghi chú về các công ty thành viên MB và các cơ quan chuyên môn.",
+   "data": [
+    {
+     "label": "Lưu Trung Thái - CT HĐQT",
+     "value": "Chủ tịch Hội đồng"
+    },
+    {
+     "label": "Phạm Như Ánh - TV HĐQT, TGĐ",
+     "value": "Thành viên Hội đồng"
+    },
+    {
+     "label": "Vũ Thị Hải Phượng - Phó CT HĐQT",
+     "value": "Thành viên Hội đồng"
+    },
+    {
+     "label": "Vũ Thành Trung - Phó CT HĐQT",
+     "value": "Thành viên Hội đồng"
+    },
+    {
+     "label": "Lê Viết Hải - Thành viên HĐQT",
+     "value": "Thành viên Hội đồng"
+    },
+    {
+     "label": "Trần Minh Đạt - PTGĐ",
+     "value": "Thành viên Hội đồng"
+    },
+    {
+     "label": "Phạm Thị Trung Hà - PTGĐ",
+     "value": "Thành viên Hội đồng"
+    },
+    {
+     "label": "Nguyễn Xuân Học - PTGĐ",
+     "value": "Thành viên Hội đồng"
+    },
+    {
+     "label": "Nguyễn Thị Thanh Nga - GĐ Tài chính",
+     "value": "Thành viên Hội đồng"
+    },
+    {
+     "label": "Các Công ty thành viên MB: - Chủ tịch HĐQT/HĐTV các Công ty; - Tổng Giám đốc/Chủ tịch Ủy ban Điều hành Công ty",
+     "value": "Thành viên Hội đồng"
+    },
+    {
+     "label": "Các cơ quan chuyên môn",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    67.4,
+    1166.7,
+    387.3
+   ],
+   "crop": "starter/data/advanced/crops/p235_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Các cuộc họp của Hội đồng điều phối Tập đoàn trong năm 2025",
+   "bbox": [
+    40,
+    470,
+    960,
+    980
+   ],
+   "description": "Bảng liệt kê 4 cuộc họp định kỳ của Hội đồng điều phối Tập đoàn (GCC) trong năm 2025, gồm STT, ngày họp, nội dung chính và kết quả. Nội dung chính tập trung vào đánh giá kết quả hoạt động tập đoàn và các công ty thành viên theo từng quý, định hướng hoạt động quý tiếp theo, và tổ chức phiên họp quy mô nhỏ để xem xét kế hoạch năm 2026. Tất cả các cuộc họp đều được thông qua.",
+   "data": [
+    {
+     "label": "Quý I/2025",
+     "value": "Họp định kỳ 1 cuộc về kết quả hoạt động tập đoàn, các CTTV năm 2024, tháng 1.2025 – định hướng hoạt động quý I.2025 (tập trung thực hiện các giải pháp giải quyết các vấn đề phát hiện trong năm 2024 và tháng 1.2025) - Được thông qua"
+    },
+    {
+     "label": "Quý II/2025",
+     "value": "Họp định kỳ 2 cuộc về kết quả hoạt động tập đoàn, các CTTV quý I, II.2025 – định hướng hoạt động quý III.2025 (tập trung thực hiện các giải pháp giải quyết các vấn đề phát hiện trước đó) - Được thông qua"
+    },
+    {
+     "label": "Quý III/2025",
+     "value": "Họp định kỳ 2 cuộc về kết quả hoạt động tập đoàn, các CTTV 6 tháng và 9 tháng 2025 – định hướng hoạt động quý IV.2025 (tập trung thực hiện các giải pháp giải quyết các vấn đề phát hiện trước đó) - Được thông qua"
+    },
+    {
+     "label": "Quý IV/2025",
+     "value": "Tổ chức các phiên họp GCC quy mô nhỏ (Chủ tịch HĐQT, các Phó Chủ tịch HĐQT và TGĐ MB với Người đại diện đầu mối từng CTTV và Lãnh đạo các cơ quan quản lý tập đoàn MB) để xem xét, định hướng Kế hoạch 2026 của từng công ty - Được thông qua"
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    395.7,
+    1166.7,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p235_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3959,
+  "output": 896
+ },
+ "seconds": 8.5
+}

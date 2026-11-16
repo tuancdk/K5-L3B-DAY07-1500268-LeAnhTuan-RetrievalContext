@@ -1,0 +1,186 @@
+{
+ "printed_page": 111,
+ "pdf_page": 56,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "Biên lãi ròng (NIM)",
+   "bbox": [
+    40,
+    90,
+    670,
+    470
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện NIM (%) và svck (%) của các ngân hàng: VPB, MBB, TCB, STB, ACB, VCB, CTG, BID. Trục tung là giá trị %, trục hoành là tên ngân hàng. Cột màu xanh nhạt thể hiện NIM (%), đường màu xanh lam thể hiện svck (%), các nhãn giá trị nằm trên đầu cột và điểm đường. Chú giải: NIM (%), svck (%). Nguồn: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "VPB NIM (%)",
+     "value": "5,6"
+    },
+    {
+     "label": "MBB NIM (%)",
+     "value": "3,9"
+    },
+    {
+     "label": "TCB NIM (%)",
+     "value": "3,8"
+    },
+    {
+     "label": "STB NIM (%)",
+     "value": "3,3"
+    },
+    {
+     "label": "ACB NIM (%)",
+     "value": "2,9"
+    },
+    {
+     "label": "VCB NIM (%)",
+     "value": "2,7"
+    },
+    {
+     "label": "CTG NIM (%)",
+     "value": "2,7"
+    },
+    {
+     "label": "BID NIM (%)",
+     "value": "2,1"
+    },
+    {
+     "label": "VPB svck (%)",
+     "value": "-6"
+    },
+    {
+     "label": "MBB svck (%)",
+     "value": "-5"
+    },
+    {
+     "label": "TCB svck (%)",
+     "value": "-11"
+    },
+    {
+     "label": "STB svck (%)",
+     "value": "-10"
+    },
+    {
+     "label": "ACB svck (%)",
+     "value": "-19"
+    },
+    {
+     "label": "VCB svck (%)",
+     "value": "-9"
+    },
+    {
+     "label": "CTG svck (%)",
+     "value": "-9"
+    },
+    {
+     "label": "BID svck (%)",
+     "value": "-8"
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    75.8,
+    994.1,
+    395.7
+   ],
+   "crop": "starter/data/advanced/crops/p111_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Tỷ lệ chi phí trên thu nhập (CIR)",
+   "bbox": [
+    40,
+    540,
+    670,
+    950
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện CIR (%) và svck (%) của các ngân hàng: VPB, MBB, CTG, TCB, ACB, BID, VCB, STB. Trục tung là giá trị %, trục hoành là tên ngân hàng. Cột màu xanh nhạt thể hiện CIR (%), đường màu xanh lam thể hiện svck (%), các nhãn giá trị nằm trên đầu cột và điểm đường. Chú giải: CIR (%), svck (%). Nguồn: BCTC hợp nhất các ngân hàng.",
+   "data": [
+    {
+     "label": "VPB CIR (%)",
+     "value": "25,0"
+    },
+    {
+     "label": "MBB CIR (%)",
+     "value": "29,1"
+    },
+    {
+     "label": "CTG CIR (%)",
+     "value": "30,4"
+    },
+    {
+     "label": "TCB CIR (%)",
+     "value": "30,8"
+    },
+    {
+     "label": "ACB CIR (%)",
+     "value": "32,3"
+    },
+    {
+     "label": "BID CIR (%)",
+     "value": "33,4"
+    },
+    {
+     "label": "VCB CIR (%)",
+     "value": "34,8"
+    },
+    {
+     "label": "STB CIR (%)",
+     "value": "40,7"
+    },
+    {
+     "label": "VPB svck (%)",
+     "value": "8"
+    },
+    {
+     "label": "MBB svck (%)",
+     "value": "-5"
+    },
+    {
+     "label": "CTG svck (%)",
+     "value": "10"
+    },
+    {
+     "label": "TCB svck (%)",
+     "value": "-6"
+    },
+    {
+     "label": "ACB svck (%)",
+     "value": "4"
+    },
+    {
+     "label": "BID svck (%)",
+     "value": "-1"
+    },
+    {
+     "label": "VCB svck (%)",
+     "value": "-3"
+    },
+    {
+     "label": "STB svck (%)",
+     "value": "-17"
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    454.6,
+    994.1,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p111_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2191,
+  "output": 741
+ },
+ "seconds": 6.0
+}

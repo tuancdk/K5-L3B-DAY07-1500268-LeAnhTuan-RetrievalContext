@@ -1,0 +1,49 @@
+{
+ "printed_page": 175,
+ "pdf_page": 88,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Phát triển mô hình đại lý ngân hàng/đại lý thanh toán",
+   "bbox": [
+    50,
+    300,
+    950,
+    600
+   ],
+   "description": "Mô tả các nghiệp vụ của đại lý ngân hàng/đại lý thanh toán theo Thông tư số 07/2024/TT-NHNN gồm: nhận hồ sơ mở tài khoản thanh toán, phát hành thẻ ngân hàng, kiểm tra, xác minh thông tin nhận biết khách hàng để gửi cho ngân hàng và hướng dẫn khách hàng sử dụng tài khoản thanh toán, thẻ ngân hàng; các nghiệp vụ khác phù hợp theo quy định; tiếp nhận yêu cầu cung cấp dịch vụ thanh toán của khách hàng, lập, ký, kiểm soát, xử lý chứng từ giao dịch của khách hàng, chuyển thông tin giao dịch cho bên giao đại lý, nhận tiền mặt từ khách hàng hoặc trả tiền mặt cho khách hàng nhằm thực hiện các giao dịch như nộp/rút tiền mặt vào/từ tài khoản thanh toán của khách hàng mở tại bên giao đại lý; nộp/rút tiền mặt vào/từ thẻ ghi nợ, thẻ trả trước định danh của khách hàng do bên giao đại lý phát hành; nộp tiền mặt để thanh toán dư nợ thẻ tín dụng của khách hàng do bên giao đại lý phát hành; thực hiện dịch vụ thanh toán lệnh chi, ủy nhiệm chi, nhờ thu, ủy nhiệm thu, chuyển tiền, thu hộ, chi hộ.",
+   "data": [
+    {
+     "label": "Nhiệm vụ 1",
+     "value": "Nhận hồ sơ mở tài khoản thanh toán, phát hành thẻ ngân hàng, kiểm tra, xác minh thông tin nhận biết khách hàng để gửi cho ngân hàng và hướng dẫn khách hàng sử dụng tài khoản thanh toán, thẻ ngân hàng"
+    },
+    {
+     "label": "Nhiệm vụ 2",
+     "value": "Các nghiệp vụ khác phù hợp theo quy định tại Thông tư số 07/2024/TT-NHNN"
+    },
+    {
+     "label": "Nhiệm vụ 3",
+     "value": "Tiếp nhận yêu cầu cung cấp dịch vụ thanh toán của khách hàng, lập, ký, kiểm soát, xử lý chứng từ giao dịch của khách hàng, chuyển thông tin giao dịch cho bên giao đại lý, nhận tiền mặt từ khách hàng hoặc trả tiền mặt cho khách hàng nhằm thực hiện các giao dịch: nộp/rút tiền mặt vào/từ tài khoản thanh toán của khách hàng mở tại bên giao đại lý; nộp/rút tiền mặt vào/từ thẻ ghi nợ, thẻ trả trước định danh của khách hàng do bên giao đại lý phát hành; nộp tiền mặt để thanh toán dư nợ thẻ tín dụng của khách hàng do bên giao đại lý phát hành; thực hiện dịch vụ thanh toán lệnh chi, ủy nhiệm chi, nhờ thu, ủy nhiệm thu, chuyển tiền, thu hộ, chi hộ"
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    252.6,
+    1160.8,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p175_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4183,
+  "output": 605
+ },
+ "seconds": 4.7
+}

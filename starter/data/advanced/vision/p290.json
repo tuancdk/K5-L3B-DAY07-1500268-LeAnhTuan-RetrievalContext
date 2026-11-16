@@ -1,0 +1,165 @@
+{
+ "printed_page": 290,
+ "pdf_page": 146,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Báo cáo lưu chuyển tiền tệ hợp nhất",
+   "bbox": [
+    40,
+    40,
+    960,
+    900
+   ],
+   "description": "Bảng báo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc ngày 31 tháng 12 năm 2025, phương pháp trực tiếp - tiếp theo. Các mục chính gồm lưu chuyển tiền từ hoạt động đầu tư và lưu chuyển tiền từ hoạt động tài chính, với số liệu năm 2025 và năm 2024 (đơn vị triệu đồng). Có các khoản mục chi tiết như mua sắm tài sản cố định, tiền thu từ thanh lý tài sản cố định, mua sắm bất động sản đầu tư, tiền chi đầu tư góp vốn, tiền thu cổ tức, tăng vốn cổ phần, tiền thu và chi phát hành giấy tờ có giá dài hạn, cổ tức trả cho cổ đông, lưu chuyển tiền thuần sử dụng từ các hoạt động, lưu chuyển tiền thuần trong năm, tiền và các khoản tương đương tiền đầu năm và cuối năm. Bảng có các số liệu cụ thể cho từng mục trong hai năm 2025 và 2024.",
+   "data": [
+    {
+     "label": "Mua sắm tài sản cố định 2025",
+     "value": "(1.780.261)"
+    },
+    {
+     "label": "Mua sắm tài sản cố định 2024",
+     "value": "(2.301.696)"
+    },
+    {
+     "label": "Tiền thu từ thanh lý, nhượng bán tài sản cố định 2025",
+     "value": "231.289"
+    },
+    {
+     "label": "Tiền thu từ thanh lý, nhượng bán tài sản cố định 2024",
+     "value": "6.927"
+    },
+    {
+     "label": "Mua sắm bất động sản đầu tư 2025",
+     "value": "(4.971)"
+    },
+    {
+     "label": "Mua sắm bất động sản đầu tư 2024",
+     "value": "-"
+    },
+    {
+     "label": "Tiền thu từ bán, thanh lý bất động sản đầu tư 2025",
+     "value": "12.251"
+    },
+    {
+     "label": "Tiền thu từ bán, thanh lý bất động sản đầu tư 2024",
+     "value": "-"
+    },
+    {
+     "label": "Tiền chi đầu tư, góp vốn vào các đơn vị khác 2025",
+     "value": "(22.024)"
+    },
+    {
+     "label": "Tiền chi đầu tư, góp vốn vào các đơn vị khác 2024",
+     "value": "(37.651)"
+    },
+    {
+     "label": "Tiền thu đầu tư, góp vốn vào các đơn vị khác thu bán, thanh lý công ty con, góp vốn liên doanh, các khoản đầu tư dài hạn khác 2025",
+     "value": "2.409.280"
+    },
+    {
+     "label": "Tiền thu đầu tư, góp vốn vào các đơn vị khác thu bán, thanh lý công ty con, góp vốn liên doanh, các khoản đầu tư dài hạn khác 2024",
+     "value": "41.568"
+    },
+    {
+     "label": "Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn 2025",
+     "value": "59.336"
+    },
+    {
+     "label": "Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn 2024",
+     "value": "52.643"
+    },
+    {
+     "label": "Lưu chuyển tiền thuần sử dụng từ hoạt động đầu tư 2025",
+     "value": "904.900"
+    },
+    {
+     "label": "Lưu chuyển tiền thuần sử dụng từ hoạt động đầu tư 2024",
+     "value": "(2.238.209)"
+    },
+    {
+     "label": "Tăng vốn cổ phần từ phát hành cổ phiếu 2025",
+     "value": "-"
+    },
+    {
+     "label": "Tăng vốn cổ phần từ phát hành cổ phiếu 2024",
+     "value": "2.160.445"
+    },
+    {
+     "label": "Tiền thu từ phát hành giấy tờ có giá dài hạn có đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác 2025",
+     "value": "12.173.563"
+    },
+    {
+     "label": "Tiền thu từ phát hành giấy tờ có giá dài hạn có đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác 2024",
+     "value": "9.405.554"
+    },
+    {
+     "label": "Tiền chi thanh toán giấy tờ có giá dài hạn đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác 2025",
+     "value": "(6.143.554)"
+    },
+    {
+     "label": "Tiền chi thanh toán giấy tờ có giá dài hạn đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác 2024",
+     "value": "-"
+    },
+    {
+     "label": "Cổ tức trả cho cổ đông 2025",
+     "value": "(2.072.592)"
+    },
+    {
+     "label": "Cổ tức trả cho cổ đông 2024",
+     "value": "(2.806.251)"
+    },
+    {
+     "label": "Lưu chuyển tiền thuần sử dụng từ hoạt động tài chính 2025",
+     "value": "3.957.417"
+    },
+    {
+     "label": "Lưu chuyển tiền thuần sử dụng từ hoạt động tài chính 2024",
+     "value": "8.759.748"
+    },
+    {
+     "label": "Lưu chuyển tiền thuần trong năm 2025",
+     "value": "142.219.716"
+    },
+    {
+     "label": "Lưu chuyển tiền thuần trong năm 2024",
+     "value": "(12.054.845)"
+    },
+    {
+     "label": "Tiền và các khoản tương đương tiền đầu năm 2025",
+     "value": "97.040.273"
+    },
+    {
+     "label": "Tiền và các khoản tương đương tiền đầu năm 2024",
+     "value": "109.095.118"
+    },
+    {
+     "label": "Tiền và các khoản tương đương tiền cuối năm 2025",
+     "value": "239.259.989"
+    },
+    {
+     "label": "Tiền và các khoản tương đương tiền cuối năm 2024",
+     "value": "97.040.273"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    33.7,
+    571.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p290_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3887,
+  "output": 1164
+ },
+ "seconds": 8.6
+}

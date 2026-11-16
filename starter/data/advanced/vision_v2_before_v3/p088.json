@@ -1,0 +1,178 @@
+{
+ "printed_page": 88,
+ "pdf_page": 45,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Tổng Tài sản (nghìn tỷ đồng)",
+   "bbox": [
+    550,
+    350,
+    900,
+    700
+   ],
+   "description": "Biểu đồ cột thể hiện tổng tài sản của MB trong các năm 2023, 2024, 2025 với các thành phần cấu thành gồm Khác, Trái phiếu chính phủ, Trái phiếu doanh nghiệp, Cho vay khách hàng. Trục tung là tỷ lệ phần trăm (%), trục hoành là năm. Có chú giải màu tương ứng với từng thành phần tài sản. Năm 2023 tổng tài sản là 945 nghìn tỷ đồng, năm 2024 là 1.129 nghìn tỷ đồng, năm 2025 là 1.616 nghìn tỷ đồng. Tỷ lệ phần trăm các thành phần tài sản năm 2023: Cho vay khách hàng 63%, Trái phiếu doanh nghiệp 4%, Trái phiếu chính phủ 6%, Khác 26%. Năm 2024: Cho vay khách hàng 68%, Trái phiếu doanh nghiệp 3%, Trái phiếu chính phủ 6%, Khác 23%. Năm 2025: Cho vay khách hàng 66%, Trái phiếu doanh nghiệp 2%, Trái phiếu chính phủ 4%, Khác 28%. Có nhãn phụ +31% trên cột năm 2024, mũi tên nối từ 2024 đến 2025.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "945"
+    },
+    {
+     "label": "2024",
+     "value": "1.129"
+    },
+    {
+     "label": "2025",
+     "value": "1.616"
+    },
+    {
+     "label": "Cho vay khách hàng 2023",
+     "value": "63%"
+    },
+    {
+     "label": "Trái phiếu doanh nghiệp 2023",
+     "value": "4%"
+    },
+    {
+     "label": "Trái phiếu chính phủ 2023",
+     "value": "6%"
+    },
+    {
+     "label": "Khác 2023",
+     "value": "26%"
+    },
+    {
+     "label": "Cho vay khách hàng 2024",
+     "value": "68%"
+    },
+    {
+     "label": "Trái phiếu doanh nghiệp 2024",
+     "value": "3%"
+    },
+    {
+     "label": "Trái phiếu chính phủ 2024",
+     "value": "6%"
+    },
+    {
+     "label": "Khác 2024",
+     "value": "23%"
+    },
+    {
+     "label": "Cho vay khách hàng 2025",
+     "value": "66%"
+    },
+    {
+     "label": "Trái phiếu doanh nghiệp 2025",
+     "value": "2%"
+    },
+    {
+     "label": "Trái phiếu chính phủ 2025",
+     "value": "4%"
+    },
+    {
+     "label": "Khác 2025",
+     "value": "28%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    327.4,
+    294.7,
+    535.7,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p088_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Nguồn vốn (nghìn tỷ đồng)",
+   "bbox": [
+    550,
+    720,
+    900,
+    1000
+   ],
+   "description": "Biểu đồ cột thể hiện nguồn vốn của MB trong các năm 2023, 2024, 2025 với các thành phần cấu thành gồm Khác, Huy động từ các tổ chức, Giấy tờ có giá, Huy động khách hàng. Trục tung là tỷ lệ phần trăm (%), trục hoành là năm. Có chú giải màu tương ứng với từng thành phần nguồn vốn. Năm 2023 tổng nguồn vốn là 848 nghìn tỷ đồng, năm 2024 là 1.012 nghìn tỷ đồng, năm 2025 là 1.474 nghìn tỷ đồng. Tỷ lệ phần trăm các thành phần nguồn vốn năm 2023: Huy động khách hàng 67%, Giấy tờ có giá 15%, Huy động từ các tổ chức 12%, Khác 6%. Năm 2024: Huy động khách hàng 71%, Giấy tờ có giá 13%, Huy động từ các tổ chức 11%, Khác 6%. Năm 2025: Huy động khách hàng 62%, Giấy tờ có giá 13%, Huy động từ các tổ chức 17%, Khác 8%. Có nhãn phụ +32% trên cột năm 2024, mũi tên nối từ 2024 đến 2025.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "848"
+    },
+    {
+     "label": "2024",
+     "value": "1.012"
+    },
+    {
+     "label": "2025",
+     "value": "1.474"
+    },
+    {
+     "label": "Huy động khách hàng 2023",
+     "value": "67%"
+    },
+    {
+     "label": "Giấy tờ có giá 2023",
+     "value": "15%"
+    },
+    {
+     "label": "Huy động từ các tổ chức 2023",
+     "value": "12%"
+    },
+    {
+     "label": "Khác 2023",
+     "value": "6%"
+    },
+    {
+     "label": "Huy động khách hàng 2024",
+     "value": "71%"
+    },
+    {
+     "label": "Giấy tờ có giá 2024",
+     "value": "13%"
+    },
+    {
+     "label": "Huy động từ các tổ chức 2024",
+     "value": "11%"
+    },
+    {
+     "label": "Khác 2024",
+     "value": "6%"
+    },
+    {
+     "label": "Huy động khách hàng 2025",
+     "value": "62%"
+    },
+    {
+     "label": "Giấy tờ có giá 2025",
+     "value": "13%"
+    },
+    {
+     "label": "Huy động từ các tổ chức 2025",
+     "value": "17%"
+    },
+    {
+     "label": "Khác 2025",
+     "value": "8%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    327.4,
+    606.2,
+    535.7,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p088_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4053,
+  "output": 1079
+ },
+ "seconds": 8.1
+}

@@ -1,0 +1,118 @@
+{
+ "printed_page": 104,
+ "pdf_page": 53,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "line_chart",
+   "title": "Giá cổ phiếu trong năm 2025",
+   "bbox": [
+    0,
+    400,
+    1000,
+    1000
+   ],
+   "description": "Biểu đồ đường thể hiện sự biến động giá cổ phiếu của các ngân hàng CTG, BID, VCB, MBB, ACB, STB, TCB, VPB, HDB từ năm 2017 đến năm 2022. Trục hoành là năm từ 2017 đến 2022, trục tung không ghi đơn vị. MBB có mức tăng trưởng cao nhất với 910,13%. Các ngân hàng khác có mức tăng tương ứng: BID 431,86%, CTG 416,46%, STB 668,79%, ACB 566,24%, VCB 300,86%, VPB 266,57%, HDB 251,27%, TCB 103,13%. Mỗi đường có màu sắc khác nhau tương ứng với từng ngân hàng.",
+   "data": [
+    {
+     "label": "CTG",
+     "value": "416,46%"
+    },
+    {
+     "label": "BID",
+     "value": "431,86%"
+    },
+    {
+     "label": "VCB",
+     "value": "300,86%"
+    },
+    {
+     "label": "MBB",
+     "value": "910,13%"
+    },
+    {
+     "label": "ACB",
+     "value": "566,24%"
+    },
+    {
+     "label": "STB",
+     "value": "668,79%"
+    },
+    {
+     "label": "TCB",
+     "value": "103,13%"
+    },
+    {
+     "label": "VPB",
+     "value": "266,57%"
+    },
+    {
+     "label": "HDB",
+     "value": "251,27%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    336.8,
+    595.3,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p104_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Chỉ số VNINDEX 1W",
+   "bbox": [
+    0,
+    300,
+    400,
+    400
+   ],
+   "description": "Thông tin chỉ số VNINDEX trong tuần: Giá mở cửa (O) 1.876,01, giá cao nhất (H) 1.885,14, giá thấp nhất (L) 1.802,85, giá đóng cửa (C) 1.827,33, giảm -52,95 điểm tương đương -2,82%. Khối lượng giao dịch 2,71 tỷ.",
+   "data": [
+    {
+     "label": "O",
+     "value": "1.876,01"
+    },
+    {
+     "label": "H",
+     "value": "1.885,14"
+    },
+    {
+     "label": "L",
+     "value": "1.802,85"
+    },
+    {
+     "label": "C",
+     "value": "1.827,33"
+    },
+    {
+     "label": "Thay đổi",
+     "value": "-52,95(-2,82%)"
+    },
+    {
+     "label": "Volume - Khối lượng",
+     "value": "2,71B"
+    }
+   ],
+   "bbox_pdf_pt": [
+    0.0,
+    252.6,
+    238.1,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p104_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3892,
+  "output": 520
+ },
+ "seconds": 5.5
+}

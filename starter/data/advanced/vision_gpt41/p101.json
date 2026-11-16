@@ -1,0 +1,198 @@
+{
+ "printed_page": 101,
+ "pdf_page": 51,
+ "model": "gpt-4.1",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "FDI Việt Nam (tỷ USD)",
+   "bbox": [
+    60,
+    340,
+    470,
+    570
+   ],
+   "description": "Biểu đồ kết hợp cột và đường thể hiện FDI thực hiện (cột màu xanh đậm) và tăng trưởng (%) (đường màu xanh nhạt) của Việt Nam giai đoạn 2020-2026F. Trục hoành là các năm 2020, 2021, 2022, 2023, 2024, 2025, 2026F. Trục tung bên trái là giá trị FDI (tỷ USD), trục tung bên phải là tăng trưởng (%). Nhãn tăng trưởng (%) đặt phía trên mỗi cột FDI.",
+   "data": [
+    {
+     "label": "2020 - FDI thực hiện (tỷ USD)",
+     "value": "20,0"
+    },
+    {
+     "label": "2020 - Tăng trưởng (%)",
+     "value": "-2"
+    },
+    {
+     "label": "2021 - FDI thực hiện (tỷ USD)",
+     "value": "19,7"
+    },
+    {
+     "label": "2021 - Tăng trưởng (%)",
+     "value": "-1"
+    },
+    {
+     "label": "2022 - FDI thực hiện (tỷ USD)",
+     "value": "22,4"
+    },
+    {
+     "label": "2022 - Tăng trưởng (%)",
+     "value": "13"
+    },
+    {
+     "label": "2023 - FDI thực hiện (tỷ USD)",
+     "value": "23,2"
+    },
+    {
+     "label": "2023 - Tăng trưởng (%)",
+     "value": "4"
+    },
+    {
+     "label": "2024 - FDI thực hiện (tỷ USD)",
+     "value": "25,4"
+    },
+    {
+     "label": "2024 - Tăng trưởng (%)",
+     "value": "9"
+    },
+    {
+     "label": "2025 - FDI thực hiện (tỷ USD)",
+     "value": "27,6"
+    },
+    {
+     "label": "2025 - Tăng trưởng (%)",
+     "value": "9"
+    },
+    {
+     "label": "2026F - FDI thực hiện (tỷ USD)",
+     "value": "30,1"
+    },
+    {
+     "label": "2026F - Tăng trưởng (%)",
+     "value": "9"
+    }
+   ],
+   "bbox_pdf_pt": [
+    631.0,
+    286.2,
+    875.1,
+    479.9
+   ],
+   "crop": "starter/data/advanced/crops/p101_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Kim ngạch xuất nhập khẩu Việt Nam (tỷ USD)",
+   "bbox": [
+    60,
+    600,
+    470,
+    900
+   ],
+   "description": "Biểu đồ kết hợp cột thể hiện kim ngạch xuất khẩu (XK, cột xanh đậm), nhập khẩu (NK, cột xanh nhạt) và cán cân thương mại (CCTM, tam giác nhỏ màu xanh nhạt phía trên hoặc dưới cột) của Việt Nam giai đoạn 2020-2026F. Trục hoành là các năm 2020, 2021, 2022, 2023, 2024, 2025, 2026F. Các giá trị XK, NK, CCTM được ghi trực tiếp trên từng phần của cột.",
+   "data": [
+    {
+     "label": "2020 - XK",
+     "value": "283"
+    },
+    {
+     "label": "2020 - NK",
+     "value": "263"
+    },
+    {
+     "label": "2020 - CCTM",
+     "value": "20"
+    },
+    {
+     "label": "2021 - XK",
+     "value": "336"
+    },
+    {
+     "label": "2021 - NK",
+     "value": "332"
+    },
+    {
+     "label": "2021 - CCTM",
+     "value": "4"
+    },
+    {
+     "label": "2022 - XK",
+     "value": "371"
+    },
+    {
+     "label": "2022 - NK",
+     "value": "359"
+    },
+    {
+     "label": "2022 - CCTM",
+     "value": "12"
+    },
+    {
+     "label": "2023 - XK",
+     "value": "355"
+    },
+    {
+     "label": "2023 - NK",
+     "value": "326"
+    },
+    {
+     "label": "2023 - CCTM",
+     "value": "28"
+    },
+    {
+     "label": "2024 - XK",
+     "value": "406"
+    },
+    {
+     "label": "2024 - NK",
+     "value": "381"
+    },
+    {
+     "label": "2024 - CCTM",
+     "value": "25"
+    },
+    {
+     "label": "2025 - XK",
+     "value": "475"
+    },
+    {
+     "label": "2025 - NK",
+     "value": "455"
+    },
+    {
+     "label": "2025 - CCTM",
+     "value": "20"
+    },
+    {
+     "label": "2026F - XK",
+     "value": "556"
+    },
+    {
+     "label": "2026F - NK",
+     "value": "532"
+    },
+    {
+     "label": "2026F - CCTM",
+     "value": "24"
+    }
+   ],
+   "bbox_pdf_pt": [
+    631.0,
+    505.1,
+    875.1,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p101_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 2482,
+  "output": 828
+ },
+ "seconds": 9.1
+}

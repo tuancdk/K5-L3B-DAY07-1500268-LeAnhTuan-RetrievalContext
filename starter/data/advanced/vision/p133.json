@@ -1,0 +1,64 @@
+{
+ "printed_page": 133,
+ "pdf_page": 67,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Top ngân hàng dẫn đầu về chuyển đổi số với 12,4 tỷ giao dịch, tỷ lệ chuyển đổi số ~98,9%",
+   "bbox": [
+    0,
+    700,
+    450,
+    1000
+   ],
+   "description": "Ô số liệu nổi bật thể hiện Top ngân hàng dẫn đầu về chuyển đổi số với 12,4 tỷ giao dịch tài chính, tỷ lệ chuyển đổi số khoảng 98,9%.",
+   "data": [
+    {
+     "label": "Tỷ giao dịch",
+     "value": "12,4"
+    },
+    {
+     "label": "Tỷ lệ chuyển đổi số",
+     "value": "~98,9%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    595.3,
+    589.3,
+    863.1,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p133_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa chuyển đổi số",
+   "bbox": [
+    450,
+    700,
+    1000,
+    1000
+   ],
+   "description": "Ảnh minh họa công nghệ số với điện thoại và biểu tượng MB, thể hiện chủ đề chuyển đổi số của ngân hàng.",
+   "data": [],
+   "bbox_pdf_pt": [
+    863.1,
+    589.3,
+    1190.6,
+    841.9
+   ],
+   "crop": "starter/data/advanced/crops/p133_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4232,
+  "output": 190
+ },
+ "seconds": 3.9
+}

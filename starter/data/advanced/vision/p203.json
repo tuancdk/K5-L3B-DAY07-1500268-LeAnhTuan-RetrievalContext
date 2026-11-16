@@ -1,0 +1,273 @@
+{
+ "printed_page": 203,
+ "pdf_page": 102,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Giá trị kinh tế trực tiếp được tạo ra và phân bổ toàn Tập đoàn",
+   "bbox": [
+    30,
+    80,
+    970,
+    400
+   ],
+   "description": "Bảng số liệu thể hiện các chỉ tiêu kinh tế của toàn Tập đoàn MB trong các năm 2024 và 2025, cùng với tỷ lệ tăng/giảm phần trăm. Đơn vị tính là tỷ đồng.",
+   "data": [
+    {
+     "label": "Tổng tài sản 2024",
+     "value": "1.128.801"
+    },
+    {
+     "label": "Tổng tài sản 2025",
+     "value": "1.615.764"
+    },
+    {
+     "label": "Tổng tài sản % Tăng/(Giảm)",
+     "value": "43%"
+    },
+    {
+     "label": "Tổng thu nhập hoạt động 2024",
+     "value": "55.413"
+    },
+    {
+     "label": "Tổng thu nhập hoạt động 2025",
+     "value": "67.693"
+    },
+    {
+     "label": "Tổng thu nhập hoạt động % Tăng/(Giảm)",
+     "value": "22%"
+    },
+    {
+     "label": "Thu nhập lãi thuần 2024",
+     "value": "41.152"
+    },
+    {
+     "label": "Thu nhập lãi thuần 2025",
+     "value": "51.610"
+    },
+    {
+     "label": "Thu nhập lãi thuần % Tăng/(Giảm)",
+     "value": "25%"
+    },
+    {
+     "label": "Thu thuần từ hoạt động dịch vụ 2024",
+     "value": "4.368"
+    },
+    {
+     "label": "Thu thuần từ hoạt động dịch vụ 2025",
+     "value": "6.579"
+    },
+    {
+     "label": "Thu thuần từ hoạt động dịch vụ % Tăng/(Giảm)",
+     "value": "51%"
+    },
+    {
+     "label": "Chi phí dự phòng 2024",
+     "value": "9.577"
+    },
+    {
+     "label": "Chi phí dự phòng 2025",
+     "value": "13.744"
+    },
+    {
+     "label": "Chi phí dự phòng % Tăng/(Giảm)",
+     "value": "44%"
+    },
+    {
+     "label": "Chi phí hoạt động 2024",
+     "value": "17.007"
+    },
+    {
+     "label": "Chi phí hoạt động 2025",
+     "value": "19.681"
+    },
+    {
+     "label": "Chi phí hoạt động % Tăng/(Giảm)",
+     "value": "16%"
+    },
+    {
+     "label": "Chi cho nhân viên 2024",
+     "value": "9.382"
+    },
+    {
+     "label": "Chi cho nhân viên 2025",
+     "value": "11.213"
+    },
+    {
+     "label": "Chi cho nhân viên % Tăng/(Giảm)",
+     "value": "20%"
+    },
+    {
+     "label": "LNTT 2024",
+     "value": "28.829"
+    },
+    {
+     "label": "LNTT 2025",
+     "value": "34.268"
+    },
+    {
+     "label": "LNTT % Tăng/(Giảm)",
+     "value": "19%"
+    },
+    {
+     "label": "Số tiền đã nộp vào Ngân sách Nhà nước 2024",
+     "value": "8.625"
+    },
+    {
+     "label": "Số tiền đã nộp vào Ngân sách Nhà nước 2025",
+     "value": "9.993"
+    },
+    {
+     "label": "Số tiền đã nộp vào Ngân sách Nhà nước % Tăng/(Giảm)",
+     "value": "16%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    613.1,
+    67.4,
+    1172.7,
+    336.8
+   ],
+   "crop": "starter/data/advanced/crops/p203_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Giá trị kinh tế trực tiếp được tạo ra và phân bổ riêng MB",
+   "bbox": [
+    30,
+    420,
+    970,
+    740
+   ],
+   "description": "Bảng số liệu thể hiện các chỉ tiêu kinh tế của riêng MB trong các năm 2024 và 2025, cùng với tỷ lệ tăng/giảm phần trăm. Đơn vị tính là tỷ đồng.",
+   "data": [
+    {
+     "label": "Tổng tài sản 2024",
+     "value": "1.067.158"
+    },
+    {
+     "label": "Tổng tài sản 2025",
+     "value": "1.528.579"
+    },
+    {
+     "label": "Tổng tài sản % Tăng/(Giảm)",
+     "value": "43%"
+    },
+    {
+     "label": "Tổng thu nhập hoạt động 2024",
+     "value": "47.295"
+    },
+    {
+     "label": "Tổng thu nhập hoạt động 2025",
+     "value": "58.765"
+    },
+    {
+     "label": "Tổng thu nhập hoạt động % Tăng/(Giảm)",
+     "value": "24%"
+    },
+    {
+     "label": "Thu nhập lãi thuần 2024",
+     "value": "34.302"
+    },
+    {
+     "label": "Thu nhập lãi thuần 2025",
+     "value": "42.779"
+    },
+    {
+     "label": "Thu nhập lãi thuần % Tăng/(Giảm)",
+     "value": "25%"
+    },
+    {
+     "label": "Thu thuần từ hoạt động dịch vụ 2024",
+     "value": "3.024"
+    },
+    {
+     "label": "Thu thuần từ hoạt động dịch vụ 2025",
+     "value": "4.852"
+    },
+    {
+     "label": "Thu thuần từ hoạt động dịch vụ % Tăng/(Giảm)",
+     "value": "60%"
+    },
+    {
+     "label": "Chi phí dự phòng 2024",
+     "value": "6.491"
+    },
+    {
+     "label": "Chi phí dự phòng 2025",
+     "value": "9.569"
+    },
+    {
+     "label": "Chi phí dự phòng % Tăng/(Giảm)",
+     "value": "47%"
+    },
+    {
+     "label": "Chi phí hoạt động 2024",
+     "value": "13.164"
+    },
+    {
+     "label": "Chi phí hoạt động 2025",
+     "value": "15.306"
+    },
+    {
+     "label": "Chi phí hoạt động % Tăng/(Giảm)",
+     "value": "16%"
+    },
+    {
+     "label": "Chi cho nhân viên 2024",
+     "value": "7.018"
+    },
+    {
+     "label": "Chi cho nhân viên 2025",
+     "value": "8.243"
+    },
+    {
+     "label": "Chi cho nhân viên % Tăng/(Giảm)",
+     "value": "17%"
+    },
+    {
+     "label": "LNTT 2024",
+     "value": "27.639"
+    },
+    {
+     "label": "LNTT 2025",
+     "value": "33.889"
+    },
+    {
+     "label": "LNTT % Tăng/(Giảm)",
+     "value": "23%"
+    },
+    {
+     "label": "Số tiền đã nộp vào Ngân sách Nhà nước 2024",
+     "value": "7.231"
+    },
+    {
+     "label": "Số tiền đã nộp vào Ngân sách Nhà nước 2025",
+     "value": "8.066"
+    },
+    {
+     "label": "Số tiền đã nộp vào Ngân sách Nhà nước % Tăng/(Giảm)",
+     "value": "12%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    613.1,
+    353.6,
+    1172.7,
+    623.0
+   ],
+   "crop": "starter/data/advanced/crops/p203_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3867,
+  "output": 1202
+ },
+ "seconds": 9.1
+}

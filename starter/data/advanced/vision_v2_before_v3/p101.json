@@ -1,0 +1,114 @@
+{
+ "printed_page": 101,
+ "pdf_page": 51,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "combo_chart",
+   "title": "FDI Việt Nam (tỷ USD)",
+   "bbox": [
+    100,
+    350,
+    450,
+    650
+   ],
+   "description": "Biểu đồ kết hợp thể hiện FDI thực hiện (tỷ USD) và Tăng trưởng (%) của FDI Việt Nam từ năm 2020 đến dự báo 2026F. Trục tung trái là giá trị FDI thực hiện (tỷ USD), trục tung phải là tỷ lệ tăng trưởng (%). Các năm trên trục hoành từ 2020 đến 2026F. FDI thực hiện được biểu diễn bằng cột màu xanh đậm, tăng trưởng bằng cột màu xanh nhạt phía trên. Giá trị FDI thực hiện và tăng trưởng được ghi trên mỗi cột.",
+   "data": [
+    {
+     "label": "2020",
+     "value": "20,0 tỷ USD, -2%"
+    },
+    {
+     "label": "2021",
+     "value": "19,7 tỷ USD, -1%"
+    },
+    {
+     "label": "2022",
+     "value": "22,4 tỷ USD, 13%"
+    },
+    {
+     "label": "2023",
+     "value": "23,2 tỷ USD, 4%"
+    },
+    {
+     "label": "2024",
+     "value": "25,4 tỷ USD, 9%"
+    },
+    {
+     "label": "2025",
+     "value": "27,6 tỷ USD, 9%"
+    },
+    {
+     "label": "2026F",
+     "value": "30,1 tỷ USD, 9%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    294.7,
+    863.1,
+    547.2
+   ],
+   "crop": "starter/data/advanced/crops/p101_v0.png"
+  },
+  {
+   "kind": "combo_chart",
+   "title": "Kim ngạch xuất nhập khẩu Việt Nam (tỷ USD)",
+   "bbox": [
+    500,
+    350,
+    900,
+    650
+   ],
+   "description": "Biểu đồ kết hợp thể hiện kim ngạch xuất khẩu (XK), nhập khẩu (NK) và CCTM (chỉ số tăng trưởng thương mại) của Việt Nam từ năm 2020 đến dự báo 2026F. Trục tung trái là giá trị kim ngạch (tỷ USD), trục tung phải là tỷ lệ tăng trưởng (%). XK được biểu diễn bằng cột màu xanh đậm, NK bằng cột màu xanh nhạt, CCTM bằng mũi tên tăng trưởng. Các năm trên trục hoành từ 2020 đến 2026F. Giá trị XK, NK và CCTM được ghi trên mỗi cột hoặc gần mũi tên.",
+   "data": [
+    {
+     "label": "2020",
+     "value": "XK 283 tỷ USD, NK -263 tỷ USD, CCTM 20%"
+    },
+    {
+     "label": "2021",
+     "value": "XK 336 tỷ USD, NK -332 tỷ USD, CCTM 4%"
+    },
+    {
+     "label": "2022",
+     "value": "XK 371 tỷ USD, NK -359 tỷ USD, CCTM 12%"
+    },
+    {
+     "label": "2023",
+     "value": "XK 355 tỷ USD, NK -326 tỷ USD, CCTM 28%"
+    },
+    {
+     "label": "2024",
+     "value": "XK 406 tỷ USD, NK -381 tỷ USD, CCTM 25%"
+    },
+    {
+     "label": "2025",
+     "value": "XK 475 tỷ USD, NK -455 tỷ USD, CCTM 20%"
+    },
+    {
+     "label": "2026F",
+     "value": "XK 556 tỷ USD, NK -532 tỷ USD, CCTM 24%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    892.9,
+    294.7,
+    1131.0,
+    547.2
+   ],
+   "crop": "starter/data/advanced/crops/p101_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4020,
+  "output": 660
+ },
+ "seconds": 5.1
+}

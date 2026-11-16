@@ -1,0 +1,101 @@
+{
+ "printed_page": 64,
+ "pdf_page": 33,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh nhân viên ngân hàng MB tại quầy giao dịch",
+   "bbox": [
+    0,
+    0,
+    1000,
+    450
+   ],
+   "description": "Ảnh chụp 4 nhân viên ngân hàng MB mặc vest xanh đứng sau quầy giao dịch, nền xanh có logo MB một phần bên phải.",
+   "data": [],
+   "bbox_pdf_pt": [
+    0.0,
+    0.0,
+    595.3,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p064_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Cho vay phân khúc KHCN",
+   "bbox": [
+    50,
+    460,
+    350,
+    700
+   ],
+   "description": "Biểu đồ cột thể hiện dư nợ cho vay phân khúc khách hàng cá nhân các năm 2023, 2024, 2025. Trục tung không ghi đơn vị. Các cột lần lượt từ trái sang phải: 277.720 (2023), 336.936 (2024), 444.841 (2025). Có nhãn phụ +27% nằm trên cột 2024, mũi tên nối từ cột 2024 đến cột 2025.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "277.720"
+    },
+    {
+     "label": "2024",
+     "value": "336.936"
+    },
+    {
+     "label": "2025",
+     "value": "444.841"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    387.3,
+    208.3,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p064_v1.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Tiền gửi phân khúc KHCN",
+   "bbox": [
+    400,
+    460,
+    700,
+    700
+   ],
+   "description": "Biểu đồ cột thể hiện quy mô tiền gửi phân khúc khách hàng cá nhân các năm 2023, 2024, 2025. Trục tung không ghi đơn vị. Các cột lần lượt từ trái sang phải: 328.719 (2023), 420.521 (2024), 518.971 (2025). Có nhãn phụ +26% nằm trên cột 2024, mũi tên nối từ cột 2024 đến cột 2025.",
+   "data": [
+    {
+     "label": "2023",
+     "value": "328.719"
+    },
+    {
+     "label": "2024",
+     "value": "420.521"
+    },
+    {
+     "label": "2025",
+     "value": "518.971"
+    }
+   ],
+   "bbox_pdf_pt": [
+    238.1,
+    387.3,
+    416.7,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p064_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 4121,
+  "output": 420
+ },
+ "seconds": 5.5
+}

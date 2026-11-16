@@ -1,0 +1,93 @@
+{
+ "printed_page": 94,
+ "pdf_page": 48,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Cơ cấu cổ đông và thay đổi vốn đầu tư của chủ sở hữu",
+   "bbox": [
+    20,
+    20,
+    980,
+    980
+   ],
+   "description": "Bảng thông tin về cổ phần và danh sách các tổ chức/cá nhân sở hữu từ 1% vốn cổ phần trở lên tại ngày 31/12/2025. Bảng gồm các chỉ tiêu về cổ phần và danh sách cổ đông lớn với số lượng cổ phần và tỷ lệ sở hữu tương ứng.",
+   "data": [
+    {
+     "label": "Tổng số cổ phiếu phổ thông",
+     "value": "8.054.999.909"
+    },
+    {
+     "label": "Tổng số cổ phần đang lưu hành (Đơn vị tính: cổ phần)",
+     "value": "8.054.999.909"
+    },
+    {
+     "label": "Giá cổ phiếu tại thời điểm cuối năm (Đơn vị tính: VND)",
+     "value": "25.300"
+    },
+    {
+     "label": "Tổng khối lượng giao dịch trong năm 2025",
+     "value": "6.439.445.100"
+    },
+    {
+     "label": "Giá trị vốn hóa thị trường (Đơn vị tính: VND)",
+     "value": "203.800.000.000.000"
+    },
+    {
+     "label": "Tập đoàn Công nghiệp - Viễn thông Quân đội",
+     "value": "1.184.249.466 cổ phần, 14,70%"
+    },
+    {
+     "label": "Tổng công ty đầu tư và kinh doanh vốn Nhà nước- Công ty TNHH",
+     "value": "791.523.642 cổ phần, 9,83%"
+    },
+    {
+     "label": "Tổng Công ty trực thăng Việt Nam - Công ty trách nhiệm hữu hạn",
+     "value": "679.074.898 cổ phần, 8,43%"
+    },
+    {
+     "label": "Công ty TNHH Một thành viên Tổng Công ty Tân Cảng Sài Gòn",
+     "value": "570.727.399 cổ phần, 7,09%"
+    },
+    {
+     "label": "Công ty TNHH nhà nước một thành viên Thương Mại và xuất nhập khẩu VIETTEL",
+     "value": "346.407.743 cổ phần, 4,30%"
+    },
+    {
+     "label": "Ngân hàng TMCP Ngoại thương Việt Nam",
+     "value": "344.586.062 cổ phần, 4,28%"
+    },
+    {
+     "label": "UBS AG LONDON BRANCH",
+     "value": "308.315.971 cổ phần, 3,83%"
+    },
+    {
+     "label": "PYN ELITE FUND (NON-UCITS)",
+     "value": "95.789.193 cổ phần, 1,19%"
+    },
+    {
+     "label": "Công ty TNHH Manulife (Việt Nam)",
+     "value": "85.656.000 cổ phần, 1,06%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    16.8,
+    583.4,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p094_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3662,
+  "output": 544
+ },
+ "seconds": 7.2
+}

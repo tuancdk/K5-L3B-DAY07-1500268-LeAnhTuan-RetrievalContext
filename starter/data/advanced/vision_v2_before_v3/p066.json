@@ -1,0 +1,122 @@
+{
+ "printed_page": 66,
+ "pdf_page": 34,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v2",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "bar_chart",
+   "title": "Liên ngân hàng",
+   "bbox": [
+    600,
+    120,
+    900,
+    320
+   ],
+   "description": "Biểu đồ cột thể hiện số liệu nhận tiền gửi và vay liên ngân hàng (màu tím nhạt) và gửi và cho vay liên ngân hàng (màu xanh đậm) trong các năm 2023, 2024, 2025. Trục hoành là năm, trục tung là giá trị (đơn vị không ghi rõ).",
+   "data": [
+    {
+     "label": "2023 - Nhận tiền gửi và vay liên ngân hàng",
+     "value": "99.810"
+    },
+    {
+     "label": "2023 - Gửi và cho vay liên ngân hàng",
+     "value": "46.343"
+    },
+    {
+     "label": "2024 - Nhận tiền gửi và vay liên ngân hàng",
+     "value": "110.169"
+    },
+    {
+     "label": "2024 - Gửi và cho vay liên ngân hàng",
+     "value": "76.785"
+    },
+    {
+     "label": "2025 - Nhận tiền gửi và vay liên ngân hàng",
+     "value": "248.017"
+    },
+    {
+     "label": "2025 - Gửi và cho vay liên ngân hàng",
+     "value": "182.924"
+    }
+   ],
+   "bbox_pdf_pt": [
+    357.2,
+    101.0,
+    535.7,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p066_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Các thành tựu, đặc điểm nổi bật của khối trong năm báo cáo",
+   "bbox": [
+    20,
+    350,
+    980,
+    900
+   ],
+   "description": "Các điểm nổi bật gồm: Tận dụng cơ hội thị trường với giải thưởng TOP 1 Nhà tạo lập thị trường trái phiếu TCTD do VBMA trao tặng và TOP 3 Nhà tạo lập thị trường TPCP do VBMA trao tặng; Kinh doanh ngoại hối trục dọc với giải thưởng Best FX Bank in Vietnam; Chủ trì triển khai làm việc với các tổ chức xếp hạng tín nhiệm quốc tế Fitch và Moody's duy trì xếp hạng tích cực; Huy động vốn ngoại tệ phục vụ mục tiêu tăng trưởng với số dư huy động vốn ngoại tệ đạt 47.889,9 tỷ đồng, tăng 6,4 lần so với cuối năm 2024, hoàn tất huy động 500 triệu USD khoản vay hợp vốn xanh quốc tế; Mục tiêu năm 2026 gồm tận dụng cơ hội thị trường, nâng cao tỷ suất sinh lời, nâng cao quản lý nguồn và thanh khoản theo chuẩn quốc tế, huy động vốn ngoại tệ xanh ESG, xây dựng uy tín tín dụng duy trì xếp hạng cao với Moody's và S&P.",
+   "data": [
+    {
+     "label": "Giải thưởng TOP 1",
+     "value": "Nhà tạo lập thị trường trái phiếu TCTD do VBMA trao tặng"
+    },
+    {
+     "label": "Giải thưởng TOP 3",
+     "value": "Nhà tạo lập thị trường TPCP do VBMA trao tặng"
+    },
+    {
+     "label": "Giải thưởng Best FX Bank in Vietnam",
+     "value": "Ngân hàng Ngoại hối tốt nhất Việt Nam"
+    },
+    {
+     "label": "Xếp hạng Fitch",
+     "value": "BB với triển vọng Ổn định, VR bb-"
+    },
+    {
+     "label": "Xếp hạng Moody's",
+     "value": "Ba3 với triển vọng Ổn định"
+    },
+    {
+     "label": "Số dư huy động vốn ngoại tệ cuối 2025",
+     "value": "47.889,9 tỷ đồng"
+    },
+    {
+     "label": "Tăng trưởng so với cuối 2024",
+     "value": "6,4 lần"
+    },
+    {
+     "label": "Huy động vốn xanh quốc tế 2025",
+     "value": "500 triệu USD"
+    },
+    {
+     "label": "Quy mô đăng ký tham gia vượt dự kiến",
+     "value": "Hơn 200%"
+    },
+    {
+     "label": "Mục tiêu 2026",
+     "value": "Tận dụng cơ hội thị trường, tối ưu danh mục kinh doanh và đầu tư, nâng cao tỷ suất sinh lời, nâng cao quản lý nguồn và thanh khoản theo chuẩn quốc tế, huy động vốn ngoại tệ xanh ESG, xây dựng uy tín tín dụng duy trì xếp hạng cao với Moody's và S&P"
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    294.7,
+    583.4,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p066_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4218,
+  "output": 796
+ },
+ "seconds": 7.8
+}

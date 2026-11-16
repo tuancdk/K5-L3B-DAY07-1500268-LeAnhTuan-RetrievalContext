@@ -1,0 +1,681 @@
+{
+ "printed_page": 96,
+ "pdf_page": 49,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Tình hình thay đổi vốn đầu tư của chủ sở hữu",
+   "bbox": [
+    20,
+    40,
+    980,
+    960
+   ],
+   "description": "Bảng thể hiện các đợt phát hành vốn đầu tư của chủ sở hữu từ năm 2012 đến 2025, gồm các cột: Ngày kết thúc đợt phát hành, Ngày giao dịch không hưởng quyền, Phương thức phát hành, Đối tượng mua, Vốn điều lệ trước khi phát hành (triệu đồng), Vốn huy động từ đợt phát hành (triệu đồng), Vốn điều lệ sau khi phát hành (triệu đồng). Các phương thức phát hành gồm chào bán ra công chúng, trả cổ tức bằng cổ phiếu với các tỷ lệ %, chào bán riêng lẻ, sáp nhập công ty, phát hành riêng lẻ theo chương trình lựa chọn cho người lao động. Đối tượng mua chủ yếu là cổ đông hiện hữu, cán bộ nhân viên, nhà đầu tư chứng khoán chuyên nghiệp và người lao động. Vốn điều lệ tăng dần qua các đợt phát hành, từ 7.300.000 triệu đồng năm 2012 lên đến 80.550.000 triệu đồng năm 2025.",
+   "data": [
+    {
+     "label": "15/02/2012",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "13/02/2012",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Chào bán ra công chúng",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "7.300.000",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "2.700.000",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "10.000.000",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "14/01/2013",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "14/12/2012",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Chào bán ra công chúng",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu và cán bộ nhân viên",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "10.000.000",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "625.000",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "10.625.000",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "18/10/2013",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "16/10/2013",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Chào bán ra công chúng",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu và cán bộ nhân viên",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "10.625.000",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "631.250",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "11.256.250",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "12/09/2014",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "10/09/2014",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu (3%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "11.256.250",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "337.688",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "11.593.938",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "19/08/2015",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "17/08/2015",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu (3%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "11.593.938",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "347.818",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "11.941.756",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "14/09/2015",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Chào bán riêng lẻ",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cán bộ nhân viên",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "11.941.756",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "152.182",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "12.093.938",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "18/09/2015",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Chào bán riêng lẻ",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "12.093.938",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "3.906.063",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "16.000.000",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "11/03/2016",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "10/03/2016",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Sáp nhập công ty",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "16.000.000",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "311.818",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "16.311.818",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "25/10/2016",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "24/10/2016",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu (5%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "16.311.818",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "815.591",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "17.127.409",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "02/10/2017",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "29/09/2017",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu (5%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "17.127.409",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "856.370",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "17.983.780",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "03/10/2017",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Chào bán riêng lẻ",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cán bộ nhân viên",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "17.983.780",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "171.274",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "18.155.054",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "09/07/2018",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "06/07/2018",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu (5%) và tăng vốn từ vốn chủ sở hữu (14%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "18.155.054",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "3.449.460",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "21.604.514",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "19/09/2019",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "18/09/2019",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu (8%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "21.604.514",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "1.690.719",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "23.295.233",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "14/10/2019",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Chào bán riêng lẻ",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cán bộ nhân viên",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "23.295.233",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "432.090",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "23.727.323",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "26/02/2020",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Chào bán riêng lẻ",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Nhà đầu tư chứng khoán chuyên nghiệp",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "23.727.323",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "643.106",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "24.370.429",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "06/10/2020",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "05/10/2020",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu (15%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "24.370.429",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "3.617.140",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "27.987.569",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "13/07/2021",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "12/07/2021",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu (35%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "27.987.569",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "9.795.649",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "37.783.218",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "23/08/2022",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "22/08/2022",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu (20%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "37.783.218",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "7.556.644",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "45.339.861",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "17/07/2023",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "14/07/2023",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu (15%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "45.339.861",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "6.800.979",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "52.140.841",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "14/03/2024",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Phát hành riêng lẻ",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Nhà đầu tư chứng khoán chuyên nghiệp",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "52.140.841",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "730.000",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "52.870.841",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "11/06/2024",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Phát hành riêng lẻ theo chương trình lựa chọn cho người lao động",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Người lao động",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "52.870.841",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "192.400",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "53.063.241",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "8/1/2025",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "7/1/2025",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu cho cổ đông hiện hữu (15%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "53.063.241",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "7.959.486",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "61.022.727",
+     "value": "Vốn điều lệ sau khi phát hành"
+    },
+    {
+     "label": "14/8/2025",
+     "value": "Ngày kết thúc đợt phát hành"
+    },
+    {
+     "label": "13/8/2025",
+     "value": "Ngày giao dịch không hưởng quyền"
+    },
+    {
+     "label": "Trả cổ tức bằng cổ phiếu cho cổ đông hiện hữu (32%)",
+     "value": "Phương thức phát hành"
+    },
+    {
+     "label": "Cổ đông hiện hữu",
+     "value": "Đối tượng mua"
+    },
+    {
+     "label": "61.022.727",
+     "value": "Vốn điều lệ trước khi phát hành"
+    },
+    {
+     "label": "19.527.273",
+     "value": "Vốn huy động từ đợt phát hành"
+    },
+    {
+     "label": "80.550.000",
+     "value": "Vốn điều lệ sau khi phát hành"
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    33.7,
+    583.4,
+    808.2
+   ],
+   "crop": "starter/data/advanced/crops/p096_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4394,
+  "output": 3256
+ },
+ "seconds": 22.5
+}

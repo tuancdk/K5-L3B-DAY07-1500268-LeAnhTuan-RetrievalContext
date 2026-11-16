@@ -1,0 +1,24 @@
+{
+ "source_id": "mb-ar-2025",
+ "source": "https://webcdn.mbbank.com.vn/public/media/786b2697-ad56-44c1-be57-496c7a0f2d34.pdf",
+ "chunks": 1540,
+ "by_kind": {
+  "text": 798,
+  "table": 371,
+  "infographic": 148,
+  "photo": 115,
+  "diagram": 67,
+  "map": 1,
+  "bar_chart": 13,
+  "combo_chart": 21,
+  "pie_chart": 2,
+  "line_chart": 4
+ },
+ "vision_errors": [],
+ "embedding": {
+  "model": "text-embedding-3-small",
+  "dims": 1536,
+  "tokens": 536083,
+  "cost_usd": 0.01072
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "printed_page": 79,
+ "pdf_page": 40,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Hạ tầng công nghệ và ứng dụng công nghệ số",
+   "bbox": [
+    150,
+    150,
+    850,
+    750
+   ],
+   "description": "Sơ đồ gồm 4 khối nội dung chính liên quan đến công nghệ và chuyển đổi số của MB năm 2025, mỗi khối có biểu tượng hình bánh răng hoặc công nghệ kèm theo nội dung chữ. Các khối nội dung gồm: 1) Hạ tầng công nghệ và ứng dụng công nghệ số; 2) Tiếp tục xây dựng công cụ tính toán các tiêu chuẩn theo Basel III như NSFR, LCR, công cụ tính vốn theo yêu cầu cho rủi ro thị trường; 3) Hoàn tất triển khai dự án tư vấn chuyển đổi hoạt động vận hành; 4) Dự án tư vấn xây dựng Khung Quản trị và Chính sách ESG.",
+   "data": [
+    {
+     "label": "Hạ tầng công nghệ và ứng dụng công nghệ số",
+     "value": ""
+    },
+    {
+     "label": "Tiếp tục xây dựng công cụ tính toán các tiêu chuẩn theo Basel III như NSFR, LCR, công cụ tính vốn theo yêu cầu cho rủi ro thị trường",
+     "value": ""
+    },
+    {
+     "label": "Hoàn tất triển khai dự án tư vấn chuyển đổi hoạt động vận hành",
+     "value": ""
+    },
+    {
+     "label": "Dự án tư vấn xây dựng Khung Quản trị và Chính sách ESG",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    684.6,
+    126.3,
+    1101.3,
+    631.4
+   ],
+   "crop": "starter/data/advanced/crops/p079_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3366,
+  "output": 294
+ },
+ "seconds": 3.7
+}

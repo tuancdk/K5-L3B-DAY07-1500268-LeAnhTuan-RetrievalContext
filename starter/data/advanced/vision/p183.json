@@ -1,0 +1,105 @@
+{
+ "printed_page": 183,
+ "pdf_page": 92,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Kế hoạch năm 2026",
+   "bbox": [
+    50,
+    120,
+    600,
+    520
+   ],
+   "description": "Mô tả các trọng tâm trong kế hoạch năm 2026 của MB về phát triển bền vững và ESG. Bao gồm các khối: Hoàn thiện thể chế, quy trình quản lý rủi ro môi trường - xã hội trong toàn hệ thống; Kiện toàn quy định, cam kết và tiêu chuẩn về môi trường đối với Nhà cung cấp và đối tác, mở rộng quản lý tác động môi trường trong chuỗi giá trị; Thúc đẩy các sáng kiến vận hành xanh, tối ưu hiệu quả sử dụng năng lượng, đảm bảo triển khai Chiến lược phát triển bền vững mang lại tác động tích cực, giá trị dài hạn cho Ngân hàng và nền kinh tế.",
+   "data": [
+    {
+     "label": "Hoàn thiện thể chế, quy trình quản lý rủi ro môi trường - xã hội trong toàn hệ thống",
+     "value": ""
+    },
+    {
+     "label": "Kiện toàn quy định, cam kết và tiêu chuẩn về môi trường đối với Nhà cung cấp và đối tác, mở rộng quản lý tác động môi trường trong chuỗi giá trị",
+     "value": ""
+    },
+    {
+     "label": "Thúc đẩy các sáng kiến vận hành xanh, tối ưu hiệu quả sử dụng năng lượng, đảm bảo triển khai Chiến lược phát triển bền vững mang lại tác động tích cực, giá trị dài hạn cho Ngân hàng và nền kinh tế",
+     "value": ""
+    }
+   ],
+   "bbox_pdf_pt": [
+    625.0,
+    101.0,
+    952.4,
+    437.8
+   ],
+   "crop": "starter/data/advanced/crops/p183_v0.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Hệ thống văn bản hướng dẫn và cơ chế quản trị đồng bộ về ESG",
+   "bbox": [
+    40,
+    40,
+    600,
+    180
+   ],
+   "description": "Hai khối chính: Với hoạt động vận hành và Với hoạt động tín dụng. Với hoạt động vận hành: MB ban hành Hướng dẫn Môi trường làm việc xanh và tiêu chuẩn vận hành định mức đối với các trang thiết bị nhằm nâng cao hiệu quả sử dụng năng lượng, tiết kiệm tài nguyên và giảm phát thải toàn hệ thống. Với hoạt động tín dụng: HĐQT định kỳ xem xét và ban hành Định hướng hoạt động tín dụng của MB, tích hợp tín dụng xanh và ESG, xác định ngành ưu tiên theo Chính phủ và NHNN, áp dụng tiêu chí môi trường kiểm soát tác động môi trường từ danh mục cấp tín dụng.",
+   "data": [
+    {
+     "label": "Với hoạt động vận hành",
+     "value": "Hướng dẫn Môi trường làm việc xanh và tiêu chuẩn vận hành định mức đối với các trang thiết bị"
+    },
+    {
+     "label": "Với hoạt động tín dụng",
+     "value": "Định hướng hoạt động tín dụng tích hợp tín dụng xanh và ESG, xác định ngành ưu tiên, áp dụng tiêu chí môi trường"
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    33.7,
+    952.4,
+    151.5
+   ],
+   "crop": "starter/data/advanced/crops/p183_v1.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Tuân thủ pháp luật về bảo vệ môi trường",
+   "bbox": [
+    40,
+    530,
+    600,
+    700
+   ],
+   "description": "Bảng chỉ tiêu tuân thủ pháp luật về bảo vệ môi trường năm 2024 và 2025, gồm số lần bị xử phạt vi phạm và tổng số tiền bị xử phạt do không tuân thủ luật pháp và các quy định về môi trường. Đơn vị tính: lần và VND. Kết quả: không có vi phạm và không có tiền phạt trong cả hai năm.",
+   "data": [
+    {
+     "label": "Số lần bị xử phạt vi phạm do không tuân thủ luật pháp và các quy định về môi trường (Đơn vị tính: lần)",
+     "value": "Năm 2024: Không có; Năm 2025: Không có"
+    },
+    {
+     "label": "Tổng số tiền do bị xử phạt vi phạm do không tuân thủ luật pháp và các quy định về môi trường (Đơn vị tính: VND)",
+     "value": "Năm 2024: 0; Năm 2025: 0"
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    446.2,
+    952.4,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p183_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 3780,
+  "output": 796
+ },
+ "seconds": 5.9
+}

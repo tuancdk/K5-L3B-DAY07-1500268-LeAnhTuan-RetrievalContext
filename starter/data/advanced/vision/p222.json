@@ -1,0 +1,77 @@
+{
+ "printed_page": 222,
+ "pdf_page": 112,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Danh sách Nghị quyết/Quyết định thành lập Phòng giao dịch mới",
+   "bbox": [
+    40,
+    120,
+    960,
+    900
+   ],
+   "description": "Bảng liệt kê các Nghị quyết/Quyết định của Hội đồng Quản trị ngày 22/8/2025 về việc thành lập các Phòng giao dịch thuộc các Chi nhánh khác nhau của Ngân hàng MB. Các cột gồm STT, Số Nghị quyết/Quyết định, Ngày, Nội dung, Ghi chú. Nội dung chủ yếu là việc thành lập Phòng giao dịch tại các địa điểm cụ thể thuộc các Chi nhánh Bắc Hồ Chí Minh, Tân Bình, Nam Tân Bình, Tây Hồ Chí Minh, Cách Mạng Tháng Tám, Đông Thủ Đức.",
+   "data": [
+    {
+     "label": "44",
+     "value": "57/NQ-MB-HĐQT - 22/8/2025 - Về việc thành lập Phòng giao dịch Tân Kỳ - Chi nhánh Bắc Hồ Chí Minh (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "45",
+     "value": "58/NQ-MB-HĐQT - 22/8/2025 - Về việc thành lập Phòng giao dịch Chợ Tân Bình - Chi nhánh Bắc Hồ Chí Minh (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "46",
+     "value": "59/NQ-MB-HĐQT - 22/8/2025 - Về việc thành lập Phòng giao dịch Chợ Phạm Văn Hai - Chi nhánh Tân Bình (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "47",
+     "value": "60/NQ-MB-HĐQT - 22/8/2025 - Về việc thành lập Phòng giao dịch Phan Văn Hớn - Chi nhánh Nam Tân Bình (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "48",
+     "value": "61/NQ-MB-HĐQT - 22/8/2025 - Về việc thành lập Phòng giao dịch Huỳnh Tấn Phát - Chi nhánh Tây Hồ Chí Minh (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "49",
+     "value": "62/NQ-MB-HĐQT - 22/8/2025 - Về việc thành lập Phòng giao dịch Tân Hưng - Chi nhánh Tây Hồ Chí Minh (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "50",
+     "value": "63/NQ-MB-HĐQT - 22/8/2025 - Về việc thành lập Phòng giao dịch Tây Hội – Chi nhánh Cách Mạng Tháng Tám (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "51",
+     "value": "64/NQ-MB-HĐQT - 22/8/2025 - Về việc thành lập Phòng giao dịch An Hội - Chi nhánh Cách Mạng Tháng Tám (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "52",
+     "value": "65/NQ-MB-HĐQT - 22/8/2025 - Về việc thành lập Phòng giao dịch An Phú - Chi nhánh Đông Thủ Đức (thực hiện thủ tục báo cáo CQQLNN)"
+    },
+    {
+     "label": "53",
+     "value": "66/NQ-MB-HĐQT - 22/8/2025 - Về việc thành lập Phòng giao dịch Bàu Bàng - Chi nhánh Đông Thủ Đức (thực hiện thủ tục báo cáo CQQLNN)"
+    }
+   ],
+   "bbox_pdf_pt": [
+    23.8,
+    101.0,
+    571.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p222_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3827,
+  "output": 768
+ },
+ "seconds": 6.6
+}

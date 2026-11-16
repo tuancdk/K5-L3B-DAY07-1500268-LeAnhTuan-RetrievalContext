@@ -1,0 +1,149 @@
+[
+ {
+  "query_id": "ad01",
+  "group": "bang",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad02",
+  "group": "bang",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad03",
+  "group": "bang",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad04",
+  "group": "bang",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad05",
+  "group": "anh_so_do",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad06",
+  "group": "anh_so_do",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad07",
+  "group": "anh_so_do",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad08",
+  "group": "bieu_do",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad09",
+  "group": "bieu_do",
+  "pass": true,
+  "reason": "Trả lời 'tăng 511' (= 9.182 - 8.671) thay vì 6%: mức tăng tuyệt đối đúng, kiểm chứng được -> đạt (làm rõ: 'tăng bao nhiêu' chấp nhận tuyệt đối hoặc %).",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad10",
+  "group": "bieu_do",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad11",
+  "group": "bieu_do",
+  "pass": true,
+  "reason": "'đứng thứ nhất' tương đương 'thứ 1' -> đạt.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad12",
+  "group": "multi_hop",
+  "pass": true,
+  "reason": "Vế kế hoạch cite vùng khác cùng tr.59 chứa ≤30% và 29,1%; VPB 25% = 25,0 -> đạt theo làm rõ.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad13",
+  "group": "multi_hop",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad14",
+  "group": "multi_hop",
+  "pass": true,
+  "reason": "Vế 35 triệu cite các vùng tr.59/120 chứa '35 triệu' -> đạt theo làm rõ.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad15",
+  "group": "text",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad16",
+  "group": "text",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "ad17",
+  "group": "text",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "adn1",
+  "group": "thieu_bang_chung",
+  "pass": false,
+  "reason": "Câu lỗi nhãn (benchmark_errata.json): agent trả khoảng lãi suất từ tr.316, đúng với tài liệu; loại khỏi tiêu chí chọn.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "adn2",
+  "group": "thieu_bang_chung",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "adn3",
+  "group": "thieu_bang_chung",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ },
+ {
+  "query_id": "adn4",
+  "group": "thieu_bang_chung",
+  "pass": true,
+  "reason": "Đúng và đủ; citation trên trang/vùng evidence hỗ trợ câu trả lời.",
+  "reviewer": "Claude Code chấm theo advanced/README.md §6 + làm rõ 2026-11-16 (đọc câu trả lời và nội dung chunk được cite); chờ học viên xác nhận"
+ }
+]

@@ -1,0 +1,106 @@
+{
+ "printed_page": 118,
+ "pdf_page": 60,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Một số chỉ tiêu kế hoạch tập đoàn chính",
+   "bbox": [
+    20,
+    120,
+    480,
+    320
+   ],
+   "description": "Bảng liệt kê các chỉ tiêu kế hoạch năm 2026 của tập đoàn MB gồm: Tổng tài sản tăng trưởng ~28%, Huy động vốn tăng trưởng ~30%, Tín dụng (Dư nợ + TP TCKT + Mua nợ) ~30% (Theo giới hạn NHNN), LNTT tăng trưởng ~15%, Tỷ lệ nợ xấu ≤1,5%, Tỷ lệ an toàn vốn CAR ≥9%, Các chỉ tiêu hiệu quả (ROE, ROA, CIR) ROE ~20-21%; ROA ~2%; CIR ≤28%.",
+   "data": [
+    {
+     "label": "Tổng tài sản",
+     "value": "Tăng trưởng ~28%"
+    },
+    {
+     "label": "Huy động vốn",
+     "value": "Tăng trưởng ~30%"
+    },
+    {
+     "label": "Tín dụng (Dư nợ + TP TCKT + Mua nợ)",
+     "value": "~30% (Theo giới hạn NHNN)"
+    },
+    {
+     "label": "LNTT",
+     "value": "Tăng trưởng ~15%"
+    },
+    {
+     "label": "Tỷ lệ nợ xấu",
+     "value": "≤1,5%"
+    },
+    {
+     "label": "Tỷ lệ an toàn vốn CAR",
+     "value": "≥ 9%"
+    },
+    {
+     "label": "Các chỉ tiêu hiệu quả (ROE, ROA, CIR)",
+     "value": "ROE ~20-21%; ROA ~2%; CIR ≤28%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    11.9,
+    101.0,
+    285.7,
+    269.4
+   ],
+   "crop": "starter/data/advanced/crops/p118_v0.png"
+  },
+  {
+   "kind": "bar_chart",
+   "title": "Tăng trưởng LNTT tập đoàn giai đoạn 2022 - 2026",
+   "bbox": [
+    520,
+    600,
+    980,
+    980
+   ],
+   "description": "Biểu đồ cột thể hiện tăng trưởng LNTT tập đoàn MB giai đoạn 2022-2026. Trục hoành là các năm 2022, 2023, 2024, 2025 và kế hoạch 2026. Trục tung không ghi đơn vị. Giá trị các cột lần lượt là: 22.729 (2022), 26.306 (2023), 28.829 (2024), 34.268 (2025), 39.500 (Kế hoạch 2026). Có nhãn phụ 'CAGR 14,8%' đặt trên cột năm 2024, mũi tên nối từ cột 2022 đến cột kế hoạch 2026.",
+   "data": [
+    {
+     "label": "2022",
+     "value": "22.729"
+    },
+    {
+     "label": "2023",
+     "value": "26.306"
+    },
+    {
+     "label": "2024",
+     "value": "28.829"
+    },
+    {
+     "label": "2025",
+     "value": "34.268"
+    },
+    {
+     "label": "Kế hoạch 2026",
+     "value": "39.500"
+    }
+   ],
+   "bbox_pdf_pt": [
+    309.5,
+    505.1,
+    583.4,
+    825.1
+   ],
+   "crop": "starter/data/advanced/crops/p118_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4051,
+  "output": 577
+ },
+ "seconds": 5.2
+}

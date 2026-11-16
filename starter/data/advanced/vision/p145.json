@@ -1,0 +1,53 @@
+{
+ "printed_page": 145,
+ "pdf_page": 73,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Chỉ số môi trường năm 2025",
+   "bbox": [
+    650,
+    150,
+    980,
+    700
+   ],
+   "description": "Các chỉ số về lượng giấy in, lượng mực in, rác sinh hoạt riêng Hội sở và tuân thủ pháp luật về môi trường. Đơn vị: kg/người, g/người, m3. So sánh với năm 2024 có tăng hoặc giảm phần trăm hoặc không thay đổi.",
+   "data": [
+    {
+     "label": "Lượng giấy in",
+     "value": "6,29 kg/người, giảm 4% so với năm 2024"
+    },
+    {
+     "label": "Lượng mực in",
+     "value": "79,2 g/người, tăng 5,4% so với năm 2024"
+    },
+    {
+     "label": "Rác sinh hoạt (riêng Hội sở)",
+     "value": "1.080 m3, không thay đổi so với năm 2024"
+    },
+    {
+     "label": "Tuân thủ pháp luật về môi trường",
+     "value": "KHÔNG ghi nhận vi phạm"
+    }
+   ],
+   "bbox_pdf_pt": [
+    982.2,
+    126.3,
+    1178.6,
+    589.3
+   ],
+   "crop": "starter/data/advanced/crops/p145_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3315,
+  "output": 213
+ },
+ "seconds": 3.5
+}

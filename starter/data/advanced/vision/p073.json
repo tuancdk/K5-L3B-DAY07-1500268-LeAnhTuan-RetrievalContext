@@ -1,0 +1,55 @@
+{
+ "printed_page": 73,
+ "pdf_page": 37,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ông NGUYỄN XUÂN HỌC • Phó Tổng Giám đốc",
+   "bbox": [
+    0,
+    0,
+    480,
+    480
+   ],
+   "description": "Ảnh chân dung ông Nguyễn Xuân Học, Phó Tổng Giám đốc MB, mặc vest xanh, nền trắng có hiệu ứng màu xanh dương.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    0.0,
+    881.0,
+    404.1
+   ],
+   "crop": "starter/data/advanced/crops/p073_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Bà NGUYỄN THỊ NGỌC • Thành viên ban điều hành",
+   "bbox": [
+    0,
+    480,
+    480,
+    960
+   ],
+   "description": "Ảnh chân dung bà Nguyễn Thị Ngọc, Thành viên ban điều hành MB, mặc vest xanh, nền trắng có hiệu ứng màu tím.",
+   "data": [],
+   "bbox_pdf_pt": [
+    595.3,
+    404.1,
+    881.0,
+    808.2
+   ],
+   "crop": "starter/data/advanced/crops/p073_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3758,
+  "output": 154
+ },
+ "seconds": 2.1
+}

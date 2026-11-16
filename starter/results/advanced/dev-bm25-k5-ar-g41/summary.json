@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "run_at": "2026-11-16T11:18:02+00:00",
+    "split": "dev",
+    "tag": "bm25-k5-ar-g41",
+    "model": "gpt-4.1",
+    "retriever": "bm25",
+    "top_k": 5,
+    "max_searches": 5,
+    "budget_chars": 12000,
+    "neighbors": false,
+    "prompt": "ar",
+    "warmup_seconds": 0.8,
+    "rerun_errors": []
+  },
+  "summary": {
+    "draft_pass": "16/21",
+    "by_group": {
+      "bang": "4/4",
+      "anh_so_do": "3/3",
+      "bieu_do": "3/4",
+      "multi_hop": "0/3",
+      "text": "3/3",
+      "thieu_bang_chung": "3/4"
+    },
+    "errors": [],
+    "searches": {
+      "1": 10,
+      "2": 4,
+      "3": 3,
+      "4": 1,
+      "5": 3
+    },
+    "median_ms": 3527.5,
+    "mean_context_chars": 5775.6,
+    "cost_usd": {
+      "agent": NaN,
+      "rerank": 0.0,
+      "total": NaN
+    }
+  }
+}

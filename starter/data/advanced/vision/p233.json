@@ -1,0 +1,105 @@
+{
+ "printed_page": 233,
+ "pdf_page": 117,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Thành viên Ủy ban Quản lý Rủi ro",
+   "bbox": [
+    400,
+    100,
+    900,
+    350
+   ],
+   "description": "Danh sách thành viên Ủy ban Quản lý rủi ro gồm 8 người với chức vụ Chủ nhiệm và Thành viên Ủy ban.",
+   "data": [
+    {
+     "label": "Vũ Thị Hải Phượng",
+     "value": "Chủ nhiệm Ủy ban"
+    },
+    {
+     "label": "Vũ Thành Trung",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Hoàng Văn Sâm",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Phạm Như Ánh",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Vũ Thái Huyền",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Phạm Doãn Cương",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Lê Viết Hải",
+     "value": "Thành viên Ủy ban"
+    },
+    {
+     "label": "Phạm Thị Trung Hà",
+     "value": "Thành viên Ủy ban"
+    }
+   ],
+   "bbox_pdf_pt": [
+    833.4,
+    84.2,
+    1131.0,
+    294.7
+   ],
+   "crop": "starter/data/advanced/crops/p233_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Các cuộc họp của Ủy ban Quản lý Rủi ro trong năm 2025",
+   "bbox": [
+    100,
+    500,
+    900,
+    950
+   ],
+   "description": "Bảng liệt kê 4 cuộc họp theo quý năm 2025, nội dung chính các báo cáo và kết quả đều được thông qua.",
+   "data": [
+    {
+     "label": "Quý I/2025",
+     "value": "Báo cáo định kỳ Hồ sơ rủi ro Quý IV/2024 & Kịch bản Stress test thanh khoản; Báo cáo rà soát Khẩu vị rủi ro và CS QLRR cấp HĐQT; Báo cáo Phương án can thiệp sớm theo Luật TCTD; Báo cáo về các văn bản cấp Hội đồng quản trị - Được thông qua"
+    },
+    {
+     "label": "Quý II/2025",
+     "value": "Báo cáo định kỳ Hồ sơ rủi ro Quý I/2025 & Kịch bản Stress test thanh khoản; Báo cáo Chuyên đề lộ trình triển khai Basel III; Báo cáo kết quả dự án ESG - Được thông qua"
+    },
+    {
+     "label": "Quý III/2025",
+     "value": "Báo cáo định kỳ Hồ sơ rủi ro Quý II/2025 & Kịch bản Stress test thanh khoản; Báo cáo Basel III; Báo cáo bộ chỉ tiêu CTTV - Được thông qua"
+    },
+    {
+     "label": "Quý IV/2025",
+     "value": "Báo cáo định kỳ Hồ sơ rủi ro Quý III/2025 & Kịch bản Stress test thanh khoản; Báo cáo rủi ro công nghệ liên quan đến bên thứ 3; Báo cáo Chuyên đề trái phiếu doanh nghiệp; Báo cáo kiểm toán ECL; Báo cáo quản lý rủi ro của MBV; Báo cáo kết quả kiểm toán nội bộ Chuyên đề chất lượng tín dụng KHCN và SME - Được thông qua"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    420.9,
+    1131.0,
+    799.8
+   ],
+   "crop": "starter/data/advanced/crops/p233_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4088,
+  "output": 639
+ },
+ "seconds": 5.1
+}

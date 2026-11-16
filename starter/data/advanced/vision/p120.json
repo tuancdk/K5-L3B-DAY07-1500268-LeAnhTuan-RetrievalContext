@@ -1,0 +1,109 @@
+{
+ "printed_page": 120,
+ "pdf_page": 61,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Chỉ tiêu quy mô và kết quả kinh doanh năm 2025 của MB",
+   "bbox": [
+    50,
+    150,
+    950,
+    850
+   ],
+   "description": "Bảng số liệu riêng Ngân hàng MB năm 2025 so với năm 2024, gồm các chỉ tiêu quy mô và thu nhập - chi phí. Quy mô gồm Tổng tài sản, Tín dụng, Huy động vốn, CASA, Tổng ĐGD đi vào hoạt động, SmartBank, Số lượng khách hàng. Thu nhập - chi phí gồm Doanh thu, Thu thuần lãi, Thu ngoài lãi, LNTT. Đơn vị tỷ đồng hoặc triệu khách hàng, phần trăm so với năm 2024 hoặc số lượng tăng thêm.",
+   "data": [
+    {
+     "label": "Tổng tài sản",
+     "value": "1.528.579 (143,2%)"
+    },
+    {
+     "label": "Tín dụng (Dư nợ + TP TCKT + Mua nợ)",
+     "value": "1.054.330 (137,6%)"
+    },
+    {
+     "label": "Huy động vốn",
+     "value": "1.049.871 (131,3%)"
+    },
+    {
+     "label": "CASA",
+     "value": "349.533 (123,9%)"
+    },
+    {
+     "label": "Tổng ĐGD đi vào hoạt động",
+     "value": "329 (+ 8 ĐGD)"
+    },
+    {
+     "label": "SmartBank",
+     "value": "120 (+ 20 SmartBank)"
+    },
+    {
+     "label": "Số lượng khách hàng",
+     "value": "35 triệu (so với 30,2 triệu năm 2024)"
+    },
+    {
+     "label": "Doanh thu",
+     "value": "58.765 (124,3%)"
+    },
+    {
+     "label": "Thu thuần lãi",
+     "value": "42.779 (124,7%)"
+    },
+    {
+     "label": "Thu ngoài lãi (*)",
+     "value": "15.985 (123,0%)"
+    },
+    {
+     "label": "LNTT",
+     "value": "33.889 (122,6%)"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    126.3,
+    565.5,
+    715.6
+   ],
+   "crop": "starter/data/advanced/crops/p120_v0.png"
+  },
+  {
+   "kind": "photo",
+   "title": "Số lượng khách hàng MB năm 2024 và 2025",
+   "bbox": [
+    100,
+    700,
+    900,
+    900
+   ],
+   "description": "Ảnh minh họa số lượng khách hàng MB tăng từ 30,2 triệu năm 2024 lên 35 triệu năm 2025, tương đương hơn 30% dân số Việt Nam, với biểu tượng người và số liệu lớn màu xanh dương.",
+   "data": [
+    {
+     "label": "Số lượng khách hàng 2024",
+     "value": "30,2 triệu"
+    },
+    {
+     "label": "Số lượng khách hàng 2025",
+     "value": "35 triệu"
+    }
+   ],
+   "bbox_pdf_pt": [
+    59.5,
+    589.3,
+    535.7,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p120_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 3720,
+  "output": 516
+ },
+ "seconds": 4.1
+}

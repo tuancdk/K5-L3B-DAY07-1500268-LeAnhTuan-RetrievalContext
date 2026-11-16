@@ -1,0 +1,121 @@
+{
+ "printed_page": 237,
+ "pdf_page": 119,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Hội đồng điều phối Tập đoàn (GCC)",
+   "bbox": [
+    20,
+    20,
+    320,
+    120
+   ],
+   "description": "Mô tả hoạt động của Hội đồng điều phối Tập đoàn (GCC) trong việc điều phối và thúc đẩy hoạt động quản trị tập đoàn, giám sát và thúc đẩy thực thi Chiến lược, Sáng kiến, Kế hoạch kinh doanh, đảm bảo phát triển nhanh và bền vững MB và các CTTV; phát hiện các vấn đề cần cải thiện và điều phối, thúc đẩy việc triển khai các giải pháp đối với Tập đoàn (MB, MB và các CTTV, giữa các CTTV) để giải quyết các vấn đề được phát hiện.",
+   "data": [
+    {
+     "label": "Nội dung",
+     "value": "Tiếp tục điều phối và thúc đẩy hoạt động quản trị tập đoàn, giám sát và thúc đẩy thực thi Chiến lược, Sáng kiến, Kế hoạch kinh doanh, đảm bảo phát triển nhanh và bền vững MB và các CTTV; phát hiện các vấn đề cần cải thiện và điều phối, thúc đẩy việc triển khai các giải pháp đối với Tập đoàn (MB, MB và các CTTV, giữa các CTTV) để giải quyết các vấn đề được phát hiện."
+    }
+   ],
+   "bbox_pdf_pt": [
+    607.2,
+    16.8,
+    785.8,
+    101.0
+   ],
+   "crop": "starter/data/advanced/crops/p237_v0.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Quyền và nghĩa vụ của Người phụ trách Quản trị công ty",
+   "bbox": [
+    20,
+    140,
+    960,
+    280
+   ],
+   "description": "Mô tả các quyền và nghĩa vụ của Người phụ trách Quản trị công ty theo quy định pháp luật và Quy định nội bộ của MB gồm 5 nhóm chính: Hỗ trợ HĐQT xây dựng quan hệ cổ đông và bảo vệ quyền lợi hợp pháp của cổ đông, việc tuân thủ nghĩa vụ cung cấp thông tin, công khai hóa thông tin và thủ tục hành chính; Hỗ trợ TV HĐQT trong việc thực hiện quyền và nghĩa vụ được giao; Hỗ trợ HĐQT trong áp dụng và thực hiện nguyên tắc quản trị công ty; Hỗ trợ tổ chức triệu tập họp Đại hội đồng cổ đông, HĐQT, ghi chép các biên bản họp; Quyền và nghĩa vụ khác theo quyết định của HĐQT từng thời kì.",
+   "data": [
+    {
+     "label": "Hỗ trợ HĐQT xây dựng quan hệ cổ đông và bảo vệ quyền lợi hợp pháp của cổ đông, việc tuân thủ nghĩa vụ cung cấp thông tin, công khai hóa thông tin và thủ tục hành chính",
+     "value": "Có"
+    },
+    {
+     "label": "Hỗ trợ TV HĐQT trong việc thực hiện quyền và nghĩa vụ được giao",
+     "value": "Có"
+    },
+    {
+     "label": "Hỗ trợ HĐQT trong áp dụng và thực hiện nguyên tắc quản trị công ty",
+     "value": "Có"
+    },
+    {
+     "label": "Hỗ trợ tổ chức triệu tập họp Đại hội đồng cổ đông, HĐQT, ghi chép các biên bản họp",
+     "value": "Có"
+    },
+    {
+     "label": "Quyền và nghĩa vụ khác theo quyết định của HĐQT từng thời kì",
+     "value": "Có"
+    }
+   ],
+   "bbox_pdf_pt": [
+    607.2,
+    117.9,
+    1166.7,
+    235.7
+   ],
+   "crop": "starter/data/advanced/crops/p237_v1.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Hoạt động của Người phụ trách Quản trị công ty trong năm 2025",
+   "bbox": [
+    20,
+    300,
+    960,
+    460
+   ],
+   "description": "Mô tả các hoạt động chính của Người phụ trách Quản trị công ty trong năm 2025 gồm: Chủ trì tổ chức hoạt động thư ký công ty, công tác trợ lý, tham mưu, giúp việc của văn phòng HĐQT; Chủ trì công tác chiến lược và hoạt động quan hệ nhà đầu tư, công bố thông tin, chủ trì thiết lập và giám sát triển khai thực hiện chế độ thông tin báo cáo/thực hiện nghị quyết với HĐQT, BKS; Chủ trì tổ chức truyền thông định hướng và chính sách, hoạt động của HĐQT/BKS trong và ngoài MB; Chủ trì giám sát công tác truyền thông tập đoàn và quan hệ công chúng theo đúng chủ trương chính sách, định hướng của HĐQT về tập đoàn; Chỉ đạo và quản lý luồng giải quyết các hồ sơ trình HĐQT.",
+   "data": [
+    {
+     "label": "Chủ trì tổ chức hoạt động thư ký công ty, công tác trợ lý, tham mưu, giúp việc của văn phòng HĐQT",
+     "value": "Có"
+    },
+    {
+     "label": "Chủ trì công tác chiến lược và hoạt động quan hệ nhà đầu tư, công bố thông tin, chủ trì thiết lập và giám sát triển khai thực hiện chế độ thông tin báo cáo/thực hiện nghị quyết với HĐQT, BKS",
+     "value": "Có"
+    },
+    {
+     "label": "Chủ trì tổ chức truyền thông định hướng và chính sách, hoạt động của HĐQT/BKS trong và ngoài MB",
+     "value": "Có"
+    },
+    {
+     "label": "Chủ trì giám sát công tác truyền thông tập đoàn và quan hệ công chúng theo đúng chủ trương chính sách, định hướng của HĐQT về tập đoàn",
+     "value": "Có"
+    },
+    {
+     "label": "Chỉ đạo và quản lý luồng giải quyết các hồ sơ trình HĐQT",
+     "value": "Có"
+    }
+   ],
+   "bbox_pdf_pt": [
+    607.2,
+    252.6,
+    1166.7,
+    387.3
+   ],
+   "crop": "starter/data/advanced/crops/p237_v2.png"
+  }
+ ],
+ "usage": {
+  "input": 3952,
+  "output": 1059
+ },
+ "seconds": 14.8
+}

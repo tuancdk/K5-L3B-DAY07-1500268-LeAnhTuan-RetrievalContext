@@ -1,0 +1,205 @@
+{
+ "printed_page": 188,
+ "pdf_page": 95,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Phát triển nguồn nhân lực",
+   "bbox": [
+    50,
+    150,
+    950,
+    900
+   ],
+   "description": "Bảng số liệu phát triển nguồn nhân lực năm 2024 và 2025 với các chỉ tiêu về số lượng lao động toàn tập đoàn, phân loại theo giới tính, cấp bậc, độ tuổi, trình độ, mức lương trung bình và số giờ đào tạo trung bình mỗi năm. Có cột % tăng/giảm so với năm trước.",
+   "data": [
+    {
+     "label": "Số lượng lao động - toàn tập đoàn (gồm MBV) năm 2024",
+     "value": "18.639 nhân sự"
+    },
+    {
+     "label": "Số lượng lao động - toàn tập đoàn (gồm MBV) năm 2025",
+     "value": "20.674 nhân sự"
+    },
+    {
+     "label": "% Tăng/Giảm toàn tập đoàn (gồm MBV)",
+     "value": "11%"
+    },
+    {
+     "label": "Số lượng lao động - toàn tập đoàn (không gồm MBV) năm 2024",
+     "value": "18.639 nhân sự"
+    },
+    {
+     "label": "Số lượng lao động - toàn tập đoàn (không gồm MBV) năm 2025",
+     "value": "18.836 nhân sự"
+    },
+    {
+     "label": "% Tăng/Giảm toàn tập đoàn (không gồm MBV)",
+     "value": "1%"
+    },
+    {
+     "label": "Số lượng lao động - tính riêng MB năm 2024",
+     "value": "12.155 nhân sự"
+    },
+    {
+     "label": "Số lượng lao động - tính riêng MB năm 2025",
+     "value": "13.047 nhân sự"
+    },
+    {
+     "label": "% Tăng/Giảm tính riêng MB",
+     "value": "7%"
+    },
+    {
+     "label": "Nam năm 2024",
+     "value": "4.848"
+    },
+    {
+     "label": "Nam năm 2025",
+     "value": "5.097"
+    },
+    {
+     "label": "% Tăng/Giảm Nam",
+     "value": "5%"
+    },
+    {
+     "label": "Nữ năm 2024",
+     "value": "7.307"
+    },
+    {
+     "label": "Nữ năm 2025",
+     "value": "7.950"
+    },
+    {
+     "label": "% Tăng/Giảm Nữ",
+     "value": "9%"
+    },
+    {
+     "label": "Cán bộ quản lý năm 2024",
+     "value": "1.550"
+    },
+    {
+     "label": "Cán bộ quản lý năm 2025",
+     "value": "1.628"
+    },
+    {
+     "label": "% Tăng/Giảm cán bộ quản lý",
+     "value": "5%"
+    },
+    {
+     "label": "Nhân viên năm 2024",
+     "value": "10.605"
+    },
+    {
+     "label": "Nhân viên năm 2025",
+     "value": "11.419"
+    },
+    {
+     "label": "% Tăng/Giảm nhân viên",
+     "value": "8%"
+    },
+    {
+     "label": "Dưới 35 tuổi năm 2024",
+     "value": "8.671"
+    },
+    {
+     "label": "Dưới 35 tuổi năm 2025",
+     "value": "9.182"
+    },
+    {
+     "label": "% Tăng/Giảm dưới 35 tuổi",
+     "value": "6%"
+    },
+    {
+     "label": "Từ 35 đến dưới 55 tuổi năm 2024",
+     "value": "3.463"
+    },
+    {
+     "label": "Từ 35 đến dưới 55 tuổi năm 2025",
+     "value": "3.828"
+    },
+    {
+     "label": "% Tăng/Giảm từ 35 đến dưới 55 tuổi",
+     "value": "11%"
+    },
+    {
+     "label": "Từ 55 tuổi trở lên năm 2024",
+     "value": "21"
+    },
+    {
+     "label": "Từ 55 tuổi trở lên năm 2025",
+     "value": "37"
+    },
+    {
+     "label": "% Tăng/Giảm từ 55 tuổi trở lên",
+     "value": "76%"
+    },
+    {
+     "label": "Từ Đại học trở lên năm 2024",
+     "value": "11.589"
+    },
+    {
+     "label": "Từ Đại học trở lên năm 2025",
+     "value": "12.528"
+    },
+    {
+     "label": "% Tăng/Giảm từ Đại học trở lên",
+     "value": "8%"
+    },
+    {
+     "label": "Dưới Đại học năm 2024",
+     "value": "566"
+    },
+    {
+     "label": "Dưới Đại học năm 2025",
+     "value": "519"
+    },
+    {
+     "label": "% Tăng/Giảm dưới Đại học",
+     "value": "(8%)"
+    },
+    {
+     "label": "Mức lương trung bình năm 2024",
+     "value": "37,4 triệu đồng/tháng"
+    },
+    {
+     "label": "Mức lương trung bình năm 2025",
+     "value": "39,4 triệu đồng/tháng"
+    },
+    {
+     "label": "% Tăng/Giảm mức lương trung bình",
+     "value": "5,3%"
+    },
+    {
+     "label": "Số giờ đào tạo trung bình mỗi năm năm 2024",
+     "value": "70,73 giờ"
+    },
+    {
+     "label": "Số giờ đào tạo trung bình mỗi năm năm 2025",
+     "value": "82,91 giờ"
+    },
+    {
+     "label": "% Tăng/Giảm số giờ đào tạo trung bình",
+     "value": "17%"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    126.3,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p188_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3610,
+  "output": 954
+ },
+ "seconds": 7.0
+}

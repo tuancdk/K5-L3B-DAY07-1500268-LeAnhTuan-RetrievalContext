@@ -1,0 +1,81 @@
+{
+ "printed_page": 255,
+ "pdf_page": 128,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Công bố thông tin và minh bạch",
+   "bbox": [
+    100,
+    200,
+    450,
+    450
+   ],
+   "description": "Mô tả cách MB công bố công khai, minh bạch và định kỳ các thông tin liên quan đến tài chính và quản trị công ty tại website và các kênh truyền thông khác. MB duy trì cách tiếp cận chủ động nhận diện và đánh giá các mối quan tâm của các bên liên quan, triển khai các hoạt động gắn kết trong năm 2024. Các hoạt động kết nối với cổ đông, nhà đầu tư, khách hàng, cán bộ nhân viên và cộng đồng, thiết kế theo nhu cầu từng nhóm, tăng cường sự gắn bó và tạo giá trị chung hướng đến phát triển bền vững.",
+   "data": [
+    {
+     "label": "Các nhóm đối tượng kết nối",
+     "value": "Cổ đông, nhà đầu tư, khách hàng, cán bộ nhân viên, cộng đồng"
+    },
+    {
+     "label": "Kênh giao tiếp",
+     "value": "Hội nghị, khảo sát, nền tảng số, tiếp xúc trực tiếp, chương trình đối thoại chuyên biệt"
+    },
+    {
+     "label": "Mục tiêu",
+     "value": "Tăng cường sự thấu hiểu, minh bạch, chia sẻ giá trị chung, phát triển bền vững"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    168.4,
+    863.1,
+    378.9
+   ],
+   "crop": "starter/data/advanced/crops/p255_v0.png"
+  },
+  {
+   "kind": "diagram",
+   "title": "Vai trò, trách nhiệm của HĐQT",
+   "bbox": [
+    100,
+    500,
+    450,
+    750
+   ],
+   "description": "Mô hình quản trị của MB theo mô hình công ty cổ phần, tuân thủ Luật Doanh nghiệp và Luật Các tổ chức tín dụng. Cơ cấu quản trị gồm 4 cấp chính: Đại hội đồng Cổ đông, Hội đồng Quản trị, Ban Kiểm soát và Tổng Giám đốc. MB thành lập các ủy ban chuyên trách hỗ trợ HĐQT gồm Ủy ban Quản lý rủi ro, Ủy ban Nhân sự, Ủy ban Công nghệ và Chuyển đổi số và các hội đồng, ban chức năng khác theo yêu cầu quản trị từng thời kỳ. Việc vận hành các ủy ban giúp tăng hiệu quả giám sát, đảm bảo quyết định quản trị được xem xét thấu đáo, phù hợp thông lệ quản trị ngân hàng. MB tiếp tục nghiên cứu, cập nhật thực hành quản trị công ty tiên tiến trong nước và quốc tế để nâng cao năng lực quản trị, đáp ứng mục tiêu phát triển bền vững.",
+   "data": [
+    {
+     "label": "Cơ cấu quản trị",
+     "value": "Đại hội đồng Cổ đông, Hội đồng Quản trị, Ban Kiểm soát, Tổng Giám đốc"
+    },
+    {
+     "label": "Ủy ban chuyên trách",
+     "value": "Ủy ban Quản lý rủi ro, Ủy ban Nhân sự, Ủy ban Công nghệ và Chuyển đổi số, các hội đồng và ban chức năng khác"
+    },
+    {
+     "label": "Mục tiêu vận hành ủy ban",
+     "value": "Tăng hiệu quả giám sát, đảm bảo quyết định quản trị thấu đáo, phù hợp thông lệ quản trị ngân hàng"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    420.9,
+    863.1,
+    631.4
+   ],
+   "crop": "starter/data/advanced/crops/p255_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4026,
+  "output": 642
+ },
+ "seconds": 6.3
+}

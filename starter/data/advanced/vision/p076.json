@@ -1,0 +1,101 @@
+{
+ "printed_page": 76,
+ "pdf_page": 39,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Số lượng cán bộ, nhân viên của Ngân hàng",
+   "bbox": [
+    30,
+    50,
+    970,
+    960
+   ],
+   "description": "Số lượng lao động toàn tập đoàn không gồm MBV và gồm MBV năm 2024 và 2025, phân loại theo giới tính, cấp bậc và trình độ. Đơn vị tính: người. So sánh tăng giảm % so với năm 2024.",
+   "data": [
+    {
+     "label": "Số lượng lao động - toàn tập đoàn không gồm MBV 2024",
+     "value": "18.639"
+    },
+    {
+     "label": "Số lượng lao động - toàn tập đoàn không gồm MBV 2025",
+     "value": "18.836 (tăng 1%)"
+    },
+    {
+     "label": "Số lượng lao động - riêng ngân hàng 2024",
+     "value": "12.155"
+    },
+    {
+     "label": "Số lượng lao động - riêng ngân hàng 2025",
+     "value": "13.047 (tăng 7%)"
+    },
+    {
+     "label": "Phân loại theo giới tính - Nam 2024",
+     "value": "4.848"
+    },
+    {
+     "label": "Phân loại theo giới tính - Nam 2025",
+     "value": "5.097 (tăng 5%)"
+    },
+    {
+     "label": "Phân loại theo giới tính - Nữ 2024",
+     "value": "7.307"
+    },
+    {
+     "label": "Phân loại theo giới tính - Nữ 2025",
+     "value": "7.950 (tăng 9%)"
+    },
+    {
+     "label": "Phân loại theo cấp bậc - Cán bộ quản lý 2024",
+     "value": "1.550"
+    },
+    {
+     "label": "Phân loại theo cấp bậc - Cán bộ quản lý 2025",
+     "value": "1.628 (tăng 5%)"
+    },
+    {
+     "label": "Phân loại theo cấp bậc - Nhân viên 2024",
+     "value": "10.605"
+    },
+    {
+     "label": "Phân loại theo cấp bậc - Nhân viên 2025",
+     "value": "11.419 (tăng 8%)"
+    },
+    {
+     "label": "Phân loại theo trình độ - Từ đại học trở lên 2024",
+     "value": "11.589"
+    },
+    {
+     "label": "Phân loại theo trình độ - Từ đại học trở lên 2025",
+     "value": "12.528 (tăng 8%)"
+    },
+    {
+     "label": "Phân loại theo trình độ - Dưới đại học 2024",
+     "value": "566"
+    },
+    {
+     "label": "Phân loại theo trình độ - Dưới đại học 2025",
+     "value": "519 (giảm 8%)"
+    }
+   ],
+   "bbox_pdf_pt": [
+    17.9,
+    42.1,
+    577.4,
+    808.2
+   ],
+   "crop": "starter/data/advanced/crops/p076_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3598,
+  "output": 517
+ },
+ "seconds": 4.4
+}

@@ -1,0 +1,114 @@
+{
+ "printed_page": 101,
+ "pdf_page": 51,
+ "model": "gpt-4.1-mini",
+ "prompt_version": "v3",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "FDI Việt Nam (tỷ USD)",
+   "bbox": [
+    100,
+    400,
+    900,
+    600
+   ],
+   "description": "Biểu đồ cột thể hiện FDI thực hiện (màu xanh đậm) và tăng trưởng (%) (màu xanh nhạt) của Việt Nam từ năm 2020 đến dự báo 2026F. Trục hoành là các năm 2020, 2021, 2022, 2023, 2024, 2025, 2026F. Trục tung không ghi đơn vị cụ thể. Giá trị FDI thực hiện lần lượt là 20,0 (2020), 19,7 (2021), 22,4 (2022), 23,2 (2023), 25,4 (2024), 27,6 (2025), 30,1 (2026F). Tăng trưởng (%) tương ứng là -2 (2020), -1 (2021), 13 (2022), 4 (2023), 9 (2024), 9 (2025), 9 (2026F). Nguồn: GSO và CQ KTT MB dự báo.",
+   "data": [
+    {
+     "label": "2020",
+     "value": "FDI thực hiện 20,0; Tăng trưởng -2"
+    },
+    {
+     "label": "2021",
+     "value": "FDI thực hiện 19,7; Tăng trưởng -1"
+    },
+    {
+     "label": "2022",
+     "value": "FDI thực hiện 22,4; Tăng trưởng 13"
+    },
+    {
+     "label": "2023",
+     "value": "FDI thực hiện 23,2; Tăng trưởng 4"
+    },
+    {
+     "label": "2024",
+     "value": "FDI thực hiện 25,4; Tăng trưởng 9"
+    },
+    {
+     "label": "2025",
+     "value": "FDI thực hiện 27,6; Tăng trưởng 9"
+    },
+    {
+     "label": "2026F",
+     "value": "FDI thực hiện 30,1; Tăng trưởng 9"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    336.8,
+    1131.0,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p101_v0.png"
+  },
+  {
+   "kind": "infographic",
+   "title": "Kim ngạch xuất nhập khẩu Việt Nam (tỷ USD)",
+   "bbox": [
+    100,
+    650,
+    900,
+    900
+   ],
+   "description": "Biểu đồ cột thể hiện kim ngạch xuất khẩu (XK, màu xanh đậm), nhập khẩu (NK, màu xanh nhạt) và cán cân thương mại (CCTM, mũi tên màu xanh) của Việt Nam từ năm 2020 đến dự báo 2026F. Trục hoành là các năm 2020, 2021, 2022, 2023, 2024, 2025, 2026F. Giá trị XK lần lượt là 283 (2020), 336 (2021), 371 (2022), 355 (2023), 406 (2024), 475 (2025), 556 (2026F). Giá trị NK lần lượt là -263 (2020), -332 (2021), -359 (2022), -326 (2023), -381 (2024), -455 (2025), -532 (2026F). CCTM lần lượt là 20 (2020), 4 (2021), 12 (2022), 28 (2023), 25 (2024), 20 (2025), 24 (2026F). Nguồn: GSO và CQ KTT MB dự báo.",
+   "data": [
+    {
+     "label": "2020",
+     "value": "XK 283; NK -263; CCTM 20"
+    },
+    {
+     "label": "2021",
+     "value": "XK 336; NK -332; CCTM 4"
+    },
+    {
+     "label": "2022",
+     "value": "XK 371; NK -359; CCTM 12"
+    },
+    {
+     "label": "2023",
+     "value": "XK 355; NK -326; CCTM 28"
+    },
+    {
+     "label": "2024",
+     "value": "XK 406; NK -381; CCTM 25"
+    },
+    {
+     "label": "2025",
+     "value": "XK 475; NK -455; CCTM 20"
+    },
+    {
+     "label": "2026F",
+     "value": "XK 556; NK -532; CCTM 24"
+    }
+   ],
+   "bbox_pdf_pt": [
+    654.8,
+    547.2,
+    1131.0,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p101_v1.png"
+  }
+ ],
+ "usage": {
+  "input": 4085,
+  "output": 871
+ },
+ "seconds": 8.4
+}

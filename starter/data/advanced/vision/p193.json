@@ -1,0 +1,36 @@
+{
+ "printed_page": 193,
+ "pdf_page": 97,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "photo",
+   "title": "Ảnh minh họa chương trình phát triển nhân tài MB",
+   "bbox": [
+    400,
+    550,
+    900,
+    850
+   ],
+   "description": "Ảnh chụp hai bạn trẻ cầm bảng hiệu có hashtag #AiYêuMiềnNam hơnMBers? và biểu tượng 'Vì sao' của MB, thể hiện tinh thần nhiệt huyết và khát vọng tiến bộ của nhân viên MB.",
+   "data": [],
+   "bbox_pdf_pt": [
+    833.4,
+    463.0,
+    1131.0,
+    715.6
+   ],
+   "crop": "starter/data/advanced/crops/p193_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 4015,
+  "output": 94
+ },
+ "seconds": 2.0
+}

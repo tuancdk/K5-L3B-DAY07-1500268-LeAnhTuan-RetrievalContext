@@ -1,0 +1,57 @@
+{
+ "printed_page": 150,
+ "pdf_page": 76,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Hành trình bền vững tại MB qua các năm",
+   "bbox": [
+    50,
+    100,
+    950,
+    900
+   ],
+   "description": "Sơ đồ hành trình phát triển bền vững của MB từ năm 2021 đến 2025, mỗi năm có các mốc sự kiện và chiến dịch cụ thể liên quan đến phát triển bền vững và tín dụng xanh.",
+   "data": [
+    {
+     "label": "2021",
+     "value": "Xây dựng Nền tảng Thiện nguyện"
+    },
+    {
+     "label": "2022",
+     "value": "Chuyển đổi số - Xanh hóa trong vận hành; Chiến dịch cùng MB phủ xanh Việt Nam"
+    },
+    {
+     "label": "2023",
+     "value": "Hướng dẫn môi trường làm việc xanh; Chiến dịch HiGreen – Bình Minh xanh"
+    },
+    {
+     "label": "2024",
+     "value": "Xây dựng Chiến lược Phát triển bền vững; Ban hành Khung Tín dụng xanh theo tiêu chuẩn quốc tế; Chiến dịch HiGreen – Vì Trường Sa xanh"
+    },
+    {
+     "label": "2025",
+     "value": "Ban hành Chính sách ESG; Huy động thành công 500 triệu USD vốn xanh quốc tế; Đạt chứng nhận thẩm định kiểm kê phát thải KNK phạm vi 1,2 năm 2024 bởi SGS; SPO Khung Tín dụng xanh, hoàn thành tích hợp tiêu chí phân loại xanh quốc gia theo Quyết định số 21/2025/QĐ-TTg vào Khung Tín dụng xanh MB; Chiến dịch HiGreen – Trường Sa"
+    }
+   ],
+   "bbox_pdf_pt": [
+    29.8,
+    84.2,
+    565.5,
+    757.7
+   ],
+   "crop": "starter/data/advanced/crops/p150_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3475,
+  "output": 321
+ },
+ "seconds": 3.1
+}

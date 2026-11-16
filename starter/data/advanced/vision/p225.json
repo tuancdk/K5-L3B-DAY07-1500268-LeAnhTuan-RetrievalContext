@@ -1,0 +1,57 @@
+{
+ "printed_page": 225,
+ "pdf_page": 113,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1076,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "diagram",
+   "title": "Hệ thống tiêu chí đánh giá",
+   "bbox": [
+    40,
+    70,
+    460,
+    460
+   ],
+   "description": "Hệ thống tiêu chí đánh giá công tác dựa trên bộ tiêu chí chuẩn hóa phản ánh năng lực, đạo đức và hiệu quả. Bao gồm 5 tiêu chí chính: Kết quả thực thi nhiệm vụ, Phẩm chất chính trị - đạo đức, Năng lực chuyên môn - tinh thần học hỏi, Kỹ năng quản trị - điều hành, Tinh thần đoàn kết - phối hợp. Mỗi tiêu chí có mô tả chi tiết về yêu cầu và nội dung đánh giá tương ứng.",
+   "data": [
+    {
+     "label": "Kết quả thực thi nhiệm vụ",
+     "value": "Mức độ hoàn thành mục tiêu, chất lượng và hiệu quả công việc; đóng góp vào sự phát triển của đơn vị phụ trách và của MB."
+    },
+    {
+     "label": "Phẩm chất chính trị - đạo đức",
+     "value": "Việc tuân thủ pháp luật, Điều lệ, quy chế MB; ý thức trách nhiệm và tinh thần gương mẫu trong công tác."
+    },
+    {
+     "label": "Năng lực chuyên môn - tinh thần học hỏi",
+     "value": "Khả năng cập nhật kiến thức, tính chủ động, tinh thần cầu thị và thái độ trong thực thi nhiệm vụ."
+    },
+    {
+     "label": "Kỹ năng quản trị - điều hành",
+     "value": "Phong cách lãnh đạo, phương pháp tổ chức công việc, tinh thần phòng chống tham nhũng, chống lãng phí và thực hành tiết kiệm."
+    },
+    {
+     "label": "Tinh thần đoàn kết - phối hợp",
+     "value": "Mức độ hợp tác với các đơn vị, khả năng gắn kết và tạo động lực cho đội ngũ, cũng như mức độ tín nhiệm từ cán bộ nhân viên."
+    }
+   ],
+   "bbox_pdf_pt": [
+    619.1,
+    58.9,
+    869.1,
+    387.3
+   ],
+   "crop": "starter/data/advanced/crops/p225_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3931,
+  "output": 365
+ },
+ "seconds": 3.8
+}

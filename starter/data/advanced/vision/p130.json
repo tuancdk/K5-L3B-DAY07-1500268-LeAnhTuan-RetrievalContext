@@ -1,0 +1,49 @@
+{
+ "printed_page": 130,
+ "pdf_page": 66,
+ "model": "gpt-4.1-mini",
+ "dpi": 130,
+ "image_px": [
+  1075,
+  1521
+ ],
+ "visuals": [
+  {
+   "kind": "infographic",
+   "title": "Giải thưởng quốc tế và trong nước liên quan đến phát triển bền vững năm 2025",
+   "bbox": [
+    200,
+    400,
+    800,
+    600
+   ],
+   "description": "Ba giải thưởng chính mà MB nhận được trong năm 2025 liên quan đến phát triển bền vững, minh chứng cho định hướng ESG nhất quán của ngân hàng.",
+   "data": [
+    {
+     "label": "Best Bank for ESG Vietnam 2025",
+     "value": "Global Banking & Finance Review (GBAF)"
+    },
+    {
+     "label": "Nền tảng Thiện nguyện chiến thắng tại World Summit Awards năm 2025 - WSA25 Winner",
+     "value": "hạng mục Government & Citizen Engagement"
+    },
+    {
+     "label": "Đạt chứng nhận Gold LEED cho Tòa nhà Hội sở MB, 18 Lê Văn Lương, Hà Nội",
+     "value": "Hội đồng Công trình Xanh Hoa Kỳ chứng nhận"
+    }
+   ],
+   "bbox_pdf_pt": [
+    119.1,
+    336.8,
+    476.2,
+    505.1
+   ],
+   "crop": "starter/data/advanced/crops/p130_v0.png"
+  }
+ ],
+ "usage": {
+  "input": 3546,
+  "output": 190
+ },
+ "seconds": 3.2
+}
